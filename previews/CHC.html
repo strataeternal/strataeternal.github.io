@@ -1,0 +1,1012 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="../sets/CHC-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
+	<title>CHC visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('../resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.close-btn {
+			background: url('../img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('../img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+			border-radius: 3.733% / 2.677%;
+		}
+		.flip-btn {
+			background: url('../img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('../img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/CHC-files/logo.png" />
+	<img class="preload-hidden" src="../sets/CHC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MYC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/SDH-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="../previews/CHC"><img src="../sets/CHC-files/icon.png">Chefs of Culdona Commander</a>
+	
+		<a class="set-bar inactive" href="../previews/MYC"><img src="../sets/MYC-files/icon.png">Mystvale Commander</a>
+	
+		<a class="set-bar inactive" href="../previews/SDH"><img src="../sets/SDH-files/icon.png">Strata Commander</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="../sets/CHC-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="sets\CHC-files\img\75.png" id="CHC_75" data-flag="@X" onclick="openSidebar('CHC_75',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\170.png" id="CHC_170" data-flag="@X" onclick="openSidebar('CHC_170',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\181.png" id="CHC_181" data-flag="@X" onclick="openSidebar('CHC_181',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\185.png" id="CHC_185" data-flag="@X" onclick="openSidebar('CHC_185',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\192.png" id="CHC_192" data-flag="@X" onclick="openSidebar('CHC_192',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\163.png" id="CHC_163" data-flag="@X" onclick="openSidebar('CHC_163',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\2.png" id="CHC_2" data-flag="@X" onclick="openSidebar('CHC_2',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\179.png" id="CHC_179" data-flag="@X" onclick="openSidebar('CHC_179',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\190.png" id="CHC_190" data-flag="@X" onclick="openSidebar('CHC_190',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\23.png" id="CHC_23" data-flag="@X" onclick="openSidebar('CHC_23',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\165.png" id="CHC_165" data-flag="@X" onclick="openSidebar('CHC_165',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\88.png" id="CHC_88" data-flag="@X" onclick="openSidebar('CHC_88',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\11.png" id="CHC_11" data-flag="@X" onclick="openSidebar('CHC_11',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\186.png" id="CHC_186" data-flag="@X" onclick="openSidebar('CHC_186',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\26.png" id="CHC_26" data-flag="@X" onclick="openSidebar('CHC_26',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\80.png" id="CHC_80" data-flag="@X" onclick="openSidebar('CHC_80',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\0.png" id="CHC_0" data-flag="@X" onclick="openSidebar('CHC_0',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\15.png" id="CHC_15" data-flag="@X" onclick="openSidebar('CHC_15',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\187.png" id="CHC_187" data-flag="@X" onclick="openSidebar('CHC_187',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\22.png" id="CHC_22" data-flag="@X" onclick="openSidebar('CHC_22',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\83.png" id="CHC_83" data-flag="@X" onclick="openSidebar('CHC_83',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\90.png" id="CHC_90" data-flag="@X" onclick="openSidebar('CHC_90',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\16.png" id="CHC_16" data-flag="@X" onclick="openSidebar('CHC_16',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\189.png" id="CHC_189" data-flag="@X" onclick="openSidebar('CHC_189',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\100.png" id="CHC_100" data-flag="@X" onclick="openSidebar('CHC_100',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\84.png" id="CHC_84" data-flag="@X" onclick="openSidebar('CHC_84',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\92.png" id="CHC_92" data-flag="@X" onclick="openSidebar('CHC_92',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\18.png" id="CHC_18" data-flag="@X" onclick="openSidebar('CHC_18',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\246.png" id="CHC_246" data-flag="@X" onclick="openSidebar('CHC_246',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\24.png" id="CHC_24" data-flag="@X" onclick="openSidebar('CHC_24',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\85.png" id="CHC_85" data-flag="@X" onclick="openSidebar('CHC_85',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\93.png" id="CHC_93" data-flag="@X" onclick="openSidebar('CHC_93',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\19.png" id="CHC_19" data-flag="@X" onclick="openSidebar('CHC_19',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\188.png" id="CHC_188" data-flag="@X" onclick="openSidebar('CHC_188',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\25.png" id="CHC_25" data-flag="@X" onclick="openSidebar('CHC_25',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\86.png" id="CHC_86" data-flag="@X" onclick="openSidebar('CHC_86',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\172.png" id="CHC_172" data-flag="@X" onclick="openSidebar('CHC_172',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\21.png" id="CHC_21" data-flag="@X" onclick="openSidebar('CHC_21',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\191.png" id="CHC_191" data-flag="@X" onclick="openSidebar('CHC_191',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\105.png" id="CHC_105" data-flag="@X" onclick="openSidebar('CHC_105',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\76.png" id="CHC_76" data-flag="@X" onclick="openSidebar('CHC_76',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\173.png" id="CHC_173" data-flag="@X" onclick="openSidebar('CHC_173',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\180.png" id="CHC_180" data-flag="@X" onclick="openSidebar('CHC_180',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\64.png" id="CHC_64" data-flag="@X" onclick="openSidebar('CHC_64',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\77.png" id="CHC_77" data-flag="@X" onclick="openSidebar('CHC_77',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\3.png" id="CHC_3" data-flag="@X" onclick="openSidebar('CHC_3',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\13.png" id="CHC_13" data-flag="@X" onclick="openSidebar('CHC_13',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\106.png" id="CHC_106" data-flag="@X" onclick="openSidebar('CHC_106',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\164.png" id="CHC_164" data-flag="@X" onclick="openSidebar('CHC_164',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\4.png" id="CHC_4" data-flag="@X" onclick="openSidebar('CHC_4',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\183.png" id="CHC_183" data-flag="@X" onclick="openSidebar('CHC_183',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\28.png" id="CHC_28" data-flag="@X" onclick="openSidebar('CHC_28',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\78.png" id="CHC_78" data-flag="@X" onclick="openSidebar('CHC_78',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\94.png" id="CHC_94" data-flag="@X" onclick="openSidebar('CHC_94',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\182.png" id="CHC_182" data-flag="@X" onclick="openSidebar('CHC_182',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\109.png" id="CHC_109" data-flag="@X" onclick="openSidebar('CHC_109',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\79.png" id="CHC_79" data-flag="@X" onclick="openSidebar('CHC_79',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\95.png" id="CHC_95" data-flag="@X" onclick="openSidebar('CHC_95',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\12.png" id="CHC_12" data-flag="@X" onclick="openSidebar('CHC_12',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\29.png" id="CHC_29" data-flag="@X" onclick="openSidebar('CHC_29',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\166.png" id="CHC_166" data-flag="@X" onclick="openSidebar('CHC_166',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\7.png" id="CHC_7" data-flag="@X" onclick="openSidebar('CHC_7',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\14.png" id="CHC_14" data-flag="@X" onclick="openSidebar('CHC_14',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\30.png" id="CHC_30" data-flag="@X" onclick="openSidebar('CHC_30',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\81.png" id="CHC_81" data-flag="@X" onclick="openSidebar('CHC_81',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\8.png" id="CHC_8" data-flag="@X" onclick="openSidebar('CHC_8',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\17.png" id="CHC_17" data-flag="@X" onclick="openSidebar('CHC_17',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\31.png" id="CHC_31" data-flag="@X" onclick="openSidebar('CHC_31',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\167.png" id="CHC_167" data-flag="@X" onclick="openSidebar('CHC_167',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\176.png" id="CHC_176" data-flag="@X" onclick="openSidebar('CHC_176',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\184.png" id="CHC_184" data-flag="@X" onclick="openSidebar('CHC_184',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\32.png" id="CHC_32" data-flag="@X" onclick="openSidebar('CHC_32',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\CHC-files\img\82_back.png" alt="sets\CHC-files\img\82_front.png" id="CHC_82" data-flag="@XD" onclick="openSidebar('CHC_82',false)"><button class="flip-btn" onclick="imgFlip('CHC_82')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\9.png" id="CHC_9" data-flag="@X" onclick="openSidebar('CHC_9',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\20.png" id="CHC_20" data-flag="@X" onclick="openSidebar('CHC_20',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\33.png" id="CHC_33" data-flag="@X" onclick="openSidebar('CHC_33',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\168.png" id="CHC_168" data-flag="@X" onclick="openSidebar('CHC_168',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\97.png" id="CHC_97" data-flag="@X" onclick="openSidebar('CHC_97',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\200.png" id="CHC_200" data-flag="@X" onclick="openSidebar('CHC_200',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\87.png" id="CHC_87" data-flag="@X" onclick="openSidebar('CHC_87',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\177.png" id="CHC_177" data-flag="@X" onclick="openSidebar('CHC_177',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\112.png" id="CHC_112" data-flag="@X" onclick="openSidebar('CHC_112',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\169.png" id="CHC_169" data-flag="@X" onclick="openSidebar('CHC_169',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\98.png" id="CHC_98" data-flag="@X" onclick="openSidebar('CHC_98',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\35.png" id="CHC_35" data-flag="@X" onclick="openSidebar('CHC_35',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\10.png" id="CHC_10" data-flag="@X" onclick="openSidebar('CHC_10',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\36.png" id="CHC_36" data-flag="@X" onclick="openSidebar('CHC_36',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\89.png" id="CHC_89" data-flag="@X" onclick="openSidebar('CHC_89',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\193.png" id="CHC_193" data-flag="@X" onclick="openSidebar('CHC_193',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\91.png" id="CHC_91" data-flag="@X" onclick="openSidebar('CHC_91',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\101.png" id="CHC_101" data-flag="@X" onclick="openSidebar('CHC_101',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\6.png" id="CHC_6" data-flag="@X" onclick="openSidebar('CHC_6',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\102.png" id="CHC_102" data-flag="@X" onclick="openSidebar('CHC_102',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\175.png" id="CHC_175" data-flag="@X" onclick="openSidebar('CHC_175',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\103.png" id="CHC_103" data-flag="@X" onclick="openSidebar('CHC_103',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\96.png" id="CHC_96" data-flag="@X" onclick="openSidebar('CHC_96',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\104.png" id="CHC_104" data-flag="@X" onclick="openSidebar('CHC_104',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\63.png" id="CHC_63" data-flag="@X" onclick="openSidebar('CHC_63',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\196.png" id="CHC_196" data-flag="@X" onclick="openSidebar('CHC_196',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\99.png" id="CHC_99" data-flag="@X" onclick="openSidebar('CHC_99',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\27.png" id="CHC_27" data-flag="@X" onclick="openSidebar('CHC_27',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\171.png" id="CHC_171" data-flag="@X" onclick="openSidebar('CHC_171',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\198.png" id="CHC_198" data-flag="@X" onclick="openSidebar('CHC_198',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\1.png" id="CHC_1" data-flag="@X" onclick="openSidebar('CHC_1',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\108.png" id="CHC_108" data-flag="@X" onclick="openSidebar('CHC_108',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\174.png" id="CHC_174" data-flag="@X" onclick="openSidebar('CHC_174',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\110.png" id="CHC_110" data-flag="@X" onclick="openSidebar('CHC_110',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\5.png" id="CHC_5" data-flag="@X" onclick="openSidebar('CHC_5',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\111.png" id="CHC_111" data-flag="@X" onclick="openSidebar('CHC_111',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\178.png" id="CHC_178" data-flag="@X" onclick="openSidebar('CHC_178',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\34.png" id="CHC_34" data-flag="@X" onclick="openSidebar('CHC_34',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\113.png" id="CHC_113" data-flag="@X" onclick="openSidebar('CHC_113',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\114.png" id="CHC_114" data-flag="@X" onclick="openSidebar('CHC_114',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\115.png" id="CHC_115" data-flag="@X" onclick="openSidebar('CHC_115',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\116.png" id="CHC_116" data-flag="@X" onclick="openSidebar('CHC_116',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\194.png" id="CHC_194" data-flag="@X" onclick="openSidebar('CHC_194',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\195.png" id="CHC_195" data-flag="@X" onclick="openSidebar('CHC_195',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\107.png" id="CHC_107" data-flag="@X" onclick="openSidebar('CHC_107',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\197.png" id="CHC_197" data-flag="@X" onclick="openSidebar('CHC_197',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\199.png" id="CHC_199" data-flag="@X" onclick="openSidebar('CHC_199',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\205.png" id="CHC_205" data-flag="@X" onclick="openSidebar('CHC_205',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\43.png" id="CHC_43" data-flag="@X" onclick="openSidebar('CHC_43',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\202.png" id="CHC_202" data-flag="@X" onclick="openSidebar('CHC_202',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\203.png" id="CHC_203" data-flag="@X" onclick="openSidebar('CHC_203',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\118.png" id="CHC_118" data-flag="@X" onclick="openSidebar('CHC_118',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\120.png" id="CHC_120" data-flag="@X" onclick="openSidebar('CHC_120',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\209.png" id="CHC_209" data-flag="@X" onclick="openSidebar('CHC_209',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\247.png" id="CHC_247" data-flag="@X" onclick="openSidebar('CHC_247',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\208.png" id="CHC_208" data-flag="@X" onclick="openSidebar('CHC_208',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\123.png" id="CHC_123" data-flag="@X" onclick="openSidebar('CHC_123',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\124.png" id="CHC_124" data-flag="@X" onclick="openSidebar('CHC_124',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\126.png" id="CHC_126" data-flag="@X" onclick="openSidebar('CHC_126',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\125.png" id="CHC_125" data-flag="@X" onclick="openSidebar('CHC_125',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\127.png" id="CHC_127" data-flag="@X" onclick="openSidebar('CHC_127',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\121.png" id="CHC_121" data-flag="@X" onclick="openSidebar('CHC_121',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\210.png" id="CHC_210" data-flag="@X" onclick="openSidebar('CHC_210',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\213.png" id="CHC_213" data-flag="@X" onclick="openSidebar('CHC_213',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\38.png" id="CHC_38" data-flag="@X" onclick="openSidebar('CHC_38',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\207.png" id="CHC_207" data-flag="@X" onclick="openSidebar('CHC_207',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\214.png" id="CHC_214" data-flag="@X" onclick="openSidebar('CHC_214',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\206.png" id="CHC_206" data-flag="@X" onclick="openSidebar('CHC_206',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\44.png" id="CHC_44" data-flag="@X" onclick="openSidebar('CHC_44',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\201.png" id="CHC_201" data-flag="@X" onclick="openSidebar('CHC_201',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\211.png" id="CHC_211" data-flag="@X" onclick="openSidebar('CHC_211',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\65.png" id="CHC_65" data-flag="@X" onclick="openSidebar('CHC_65',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\48.png" id="CHC_48" data-flag="@X" onclick="openSidebar('CHC_48',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\40.png" id="CHC_40" data-flag="@X" onclick="openSidebar('CHC_40',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\212.png" id="CHC_212" data-flag="@X" onclick="openSidebar('CHC_212',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\42.png" id="CHC_42" data-flag="@X" onclick="openSidebar('CHC_42',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\45.png" id="CHC_45" data-flag="@X" onclick="openSidebar('CHC_45',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\39.png" id="CHC_39" data-flag="@X" onclick="openSidebar('CHC_39',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\37.png" id="CHC_37" data-flag="@X" onclick="openSidebar('CHC_37',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\117.png" id="CHC_117" data-flag="@X" onclick="openSidebar('CHC_117',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\122.png" id="CHC_122" data-flag="@X" onclick="openSidebar('CHC_122',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\46.png" id="CHC_46" data-flag="@X" onclick="openSidebar('CHC_46',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\41.png" id="CHC_41" data-flag="@X" onclick="openSidebar('CHC_41',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\128.png" id="CHC_128" data-flag="@X" onclick="openSidebar('CHC_128',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\119.png" id="CHC_119" data-flag="@X" onclick="openSidebar('CHC_119',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\47.png" id="CHC_47" data-flag="@X" onclick="openSidebar('CHC_47',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\204.png" id="CHC_204" data-flag="@X" onclick="openSidebar('CHC_204',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\62.png" id="CHC_62" data-flag="@X" onclick="openSidebar('CHC_62',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\74.png" id="CHC_74" data-flag="@X" onclick="openSidebar('CHC_74',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\162.png" id="CHC_162" data-flag="@X" onclick="openSidebar('CHC_162',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\49.png" id="CHC_49" data-flag="@X" onclick="openSidebar('CHC_49',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\215.png" id="CHC_215" data-flag="@X" onclick="openSidebar('CHC_215',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\132.png" id="CHC_132" data-flag="@X" onclick="openSidebar('CHC_132',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\52.png" id="CHC_52" data-flag="@X" onclick="openSidebar('CHC_52',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\53.png" id="CHC_53" data-flag="@X" onclick="openSidebar('CHC_53',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\54.png" id="CHC_54" data-flag="@X" onclick="openSidebar('CHC_54',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\133.png" id="CHC_133" data-flag="@X" onclick="openSidebar('CHC_133',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\55.png" id="CHC_55" data-flag="@X" onclick="openSidebar('CHC_55',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\56.png" id="CHC_56" data-flag="@X" onclick="openSidebar('CHC_56',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\66.png" id="CHC_66" data-flag="@X" onclick="openSidebar('CHC_66',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\160.png" id="CHC_160" data-flag="@X" onclick="openSidebar('CHC_160',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\129.png" id="CHC_129" data-flag="@X" onclick="openSidebar('CHC_129',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\50.png" id="CHC_50" data-flag="@X" onclick="openSidebar('CHC_50',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\130.png" id="CHC_130" data-flag="@X" onclick="openSidebar('CHC_130',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\131.png" id="CHC_131" data-flag="@X" onclick="openSidebar('CHC_131',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\217.png" id="CHC_217" data-flag="@X" onclick="openSidebar('CHC_217',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\134.png" id="CHC_134" data-flag="@X" onclick="openSidebar('CHC_134',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\135.png" id="CHC_135" data-flag="@X" onclick="openSidebar('CHC_135',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\136.png" id="CHC_136" data-flag="@X" onclick="openSidebar('CHC_136',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\58.png" id="CHC_58" data-flag="@X" onclick="openSidebar('CHC_58',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\157.png" id="CHC_157" data-flag="@X" onclick="openSidebar('CHC_157',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\158.png" id="CHC_158" data-flag="@X" onclick="openSidebar('CHC_158',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\159.png" id="CHC_159" data-flag="@X" onclick="openSidebar('CHC_159',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\161.png" id="CHC_161" data-flag="@X" onclick="openSidebar('CHC_161',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\216.png" id="CHC_216" data-flag="@X" onclick="openSidebar('CHC_216',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\51.png" id="CHC_51" data-flag="@X" onclick="openSidebar('CHC_51',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\218.png" id="CHC_218" data-flag="@X" onclick="openSidebar('CHC_218',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\57.png" id="CHC_57" data-flag="@X" onclick="openSidebar('CHC_57',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\137.png" id="CHC_137" data-flag="@X" onclick="openSidebar('CHC_137',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div id="land" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\144.png" id="CHC_144" data-flag="@X" onclick="openSidebar('CHC_144',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\138.png" id="CHC_138" data-flag="@X" onclick="openSidebar('CHC_138',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\248.png" id="CHC_248" data-flag="@X" onclick="openSidebar('CHC_248',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\249.png" id="CHC_249" data-flag="@X" onclick="openSidebar('CHC_249',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\145.png" id="CHC_145" data-flag="@X" onclick="openSidebar('CHC_145',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\146.png" id="CHC_146" data-flag="@X" onclick="openSidebar('CHC_146',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\143.png" id="CHC_143" data-flag="@X" onclick="openSidebar('CHC_143',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\72.png" id="CHC_72" data-flag="@X" onclick="openSidebar('CHC_72',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\151.png" id="CHC_151" data-flag="@X" onclick="openSidebar('CHC_151',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\154.png" id="CHC_154" data-flag="@X" onclick="openSidebar('CHC_154',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\155.png" id="CHC_155" data-flag="@X" onclick="openSidebar('CHC_155',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\60.png" id="CHC_60" data-flag="@X" onclick="openSidebar('CHC_60',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\153.png" id="CHC_153" data-flag="@X" onclick="openSidebar('CHC_153',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\141.png" id="CHC_141" data-flag="@X" onclick="openSidebar('CHC_141',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\68.png" id="CHC_68" data-flag="@X" onclick="openSidebar('CHC_68',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\237.png" id="CHC_237" data-flag="@X" onclick="openSidebar('CHC_237',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\235.png" id="CHC_235" data-flag="@X" onclick="openSidebar('CHC_235',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\219.png" id="CHC_219" data-flag="@X" onclick="openSidebar('CHC_219',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\233.png" id="CHC_233" data-flag="@X" onclick="openSidebar('CHC_233',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\69.png" id="CHC_69" data-flag="@X" onclick="openSidebar('CHC_69',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\222.png" id="CHC_222" data-flag="@X" onclick="openSidebar('CHC_222',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\149.png" id="CHC_149" data-flag="@X" onclick="openSidebar('CHC_149',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\227.png" id="CHC_227" data-flag="@X" onclick="openSidebar('CHC_227',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\240.png" id="CHC_240" data-flag="@X" onclick="openSidebar('CHC_240',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\241.png" id="CHC_241" data-flag="@X" onclick="openSidebar('CHC_241',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\140.png" id="CHC_140" data-flag="@X" onclick="openSidebar('CHC_140',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\223.png" id="CHC_223" data-flag="@X" onclick="openSidebar('CHC_223',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\148.png" id="CHC_148" data-flag="@X" onclick="openSidebar('CHC_148',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\224.png" id="CHC_224" data-flag="@X" onclick="openSidebar('CHC_224',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\236.png" id="CHC_236" data-flag="@X" onclick="openSidebar('CHC_236',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\67.png" id="CHC_67" data-flag="@X" onclick="openSidebar('CHC_67',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\234.png" id="CHC_234" data-flag="@X" onclick="openSidebar('CHC_234',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\71.png" id="CHC_71" data-flag="@X" onclick="openSidebar('CHC_71',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\230.png" id="CHC_230" data-flag="@X" onclick="openSidebar('CHC_230',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\239.png" id="CHC_239" data-flag="@X" onclick="openSidebar('CHC_239',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\70.png" id="CHC_70" data-flag="@X" onclick="openSidebar('CHC_70',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\221.png" id="CHC_221" data-flag="@X" onclick="openSidebar('CHC_221',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\238.png" id="CHC_238" data-flag="@X" onclick="openSidebar('CHC_238',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\244.png" id="CHC_244" data-flag="@X" onclick="openSidebar('CHC_244',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\73.png" id="CHC_73" data-flag="@X" onclick="openSidebar('CHC_73',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\245.png" id="CHC_245" data-flag="@X" onclick="openSidebar('CHC_245',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\229.png" id="CHC_229" data-flag="@X" onclick="openSidebar('CHC_229',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CHC_e" data-flag="@E" onclick="openSidebar('CHC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\152.png" id="CHC_152" data-flag="@X" onclick="openSidebar('CHC_152',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\242.png" id="CHC_242" data-flag="@X" onclick="openSidebar('CHC_242',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\220.png" id="CHC_220" data-flag="@X" onclick="openSidebar('CHC_220',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\226.png" id="CHC_226" data-flag="@X" onclick="openSidebar('CHC_226',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\59.png" id="CHC_59" data-flag="@X" onclick="openSidebar('CHC_59',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\228.png" id="CHC_228" data-flag="@X" onclick="openSidebar('CHC_228',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\147.png" id="CHC_147" data-flag="@X" onclick="openSidebar('CHC_147',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\243.png" id="CHC_243" data-flag="@X" onclick="openSidebar('CHC_243',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\142.png" id="CHC_142" data-flag="@X" onclick="openSidebar('CHC_142',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\61.png" id="CHC_61" data-flag="@X" onclick="openSidebar('CHC_61',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\150.png" id="CHC_150" data-flag="@X" onclick="openSidebar('CHC_150',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\139.png" id="CHC_139" data-flag="@X" onclick="openSidebar('CHC_139',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\225.png" id="CHC_225" data-flag="@X" onclick="openSidebar('CHC_225',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\231.png" id="CHC_231" data-flag="@X" onclick="openSidebar('CHC_231',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\232.png" id="CHC_232" data-flag="@X" onclick="openSidebar('CHC_232',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CHC-files\img\156.png" id="CHC_156" data-flag="@X" onclick="openSidebar('CHC_156',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CHC_er" data-flag="@E" onclick="openSidebar('CHC_er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch(rootPath + '/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch(rootPath + '/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = rootPath + '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url.pathname + url.search;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url.pathname + url.search;
+			}
+	</script>
+</body>
+</html>

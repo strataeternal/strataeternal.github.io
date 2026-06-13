@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "CHC",
+            "set_name": "Chefs of Culdona Commander",
+            "formats": "stratacommander"
+        },
+        {
             "set_code": "MYC",
             "set_name": "Mystvale Commander",
             "formats": "stratacommander"

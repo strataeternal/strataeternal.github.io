@@ -1,0 +1,9 @@
+﻿{
+    "sets": [
+        {
+            "set_code": "SDH",
+            "set_name": "Strata Commander",
+            "formats": "stratacommander"
+        }
+    ]
+}

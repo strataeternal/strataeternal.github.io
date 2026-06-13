@@ -1,0 +1,2184 @@
+﻿[
+    {
+        "card_name": "Abscond Fate",
+        "number": 7,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "183"
+    },
+    {
+        "card_name": "Behold Creation",
+        "number": 53,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "184"
+    },
+    {
+        "card_name": "Culmination of Ambition",
+        "number": 95,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "227"
+    },
+    {
+        "card_name": "Culmination of Passion",
+        "number": 143,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "230"
+    },
+    {
+        "card_name": "Bramblebark, Worldweaver",
+        "number": 186,
+        "shape": "planeswalker",
+        "set": "WBR",
+        "rotated": false,
+        "position": "187"
+    },
+    {
+        "card_name": "Culmination of Virtue",
+        "number": 19,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "231"
+    },
+    {
+        "card_name": "Culmination of Aptitude",
+        "number": 57,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "229"
+    },
+    {
+        "card_name": "Paranoia Clutcher",
+        "number": 119,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "185"
+    },
+    {
+        "card_name": "Plunge into Eternity",
+        "number": 166,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "186"
+    },
+    {
+        "card_name": "Culmination of Abundance",
+        "number": 191,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "228"
+    },
+    {
+        "card_name": "Emanation of Angels",
+        "number": 22,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "194"
+    },
+    {
+        "card_name": "Ambitious Vision",
+        "number": 52,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "198"
+    },
+    {
+        "card_name": "Succumb to Oblivion",
+        "number": 131,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "238"
+    },
+    {
+        "card_name": "Durged, Troubled Dreamer",
+        "number": 146,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "206"
+    },
+    {
+        "card_name": "The Dewfather",
+        "number": 192,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "188"
+    },
+    {
+        "card_name": "Endless Horizons",
+        "number": 23,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "223"
+    },
+    {
+        "card_name": "Deciphering the Great Truth",
+        "number": 58,
+        "shape": "saga",
+        "set": "WBR",
+        "rotated": false,
+        "position": "234"
+    },
+    {
+        "card_name": "Crossing the Rubicon",
+        "number": 94,
+        "shape": "saga",
+        "set": "WBR",
+        "rotated": false,
+        "position": "235"
+    },
+    {
+        "card_name": "Emanation of Ire",
+        "number": 147,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "209"
+    },
+    {
+        "card_name": "Blessing of the Realm",
+        "number": 184,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "213"
+    },
+    {
+        "card_name": "Ephemeral Elk",
+        "number": 24,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "224"
+    },
+    {
+        "card_name": "Dreamspeak Augur",
+        "number": 59,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "196"
+    },
+    {
+        "card_name": "Cyclical Manifestation",
+        "number": 96,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "249"
+    },
+    {
+        "card_name": "Firemane Feline",
+        "number": 149,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "208"
+    },
+    {
+        "card_name": "Emanation of Evolution",
+        "number": 194,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "214"
+    },
+    {
+        "card_name": "Frosthollow Owl",
+        "number": 26,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "193"
+    },
+    {
+        "card_name": "Emanation of Replication",
+        "number": 61,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "246"
+    },
+    {
+        "card_name": "Direrot, Poisoned Oak",
+        "number": 101,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "201"
+    },
+    {
+        "card_name": "Habrim, the Redeemer",
+        "number": 153,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "205"
+    },
+    {
+        "card_name": "Galetop Greatwurm",
+        "number": 197,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "211"
+    },
+    {
+        "card_name": "Lilia, Muse of Virtue",
+        "number": 29,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "240"
+    },
+    {
+        "card_name": "Limitless Creativity",
+        "number": 73,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "199"
+    },
+    {
+        "card_name": "Dream Killer",
+        "number": 103,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "225"
+    },
+    {
+        "card_name": "Igniting the Aster",
+        "number": 155,
+        "shape": "saga",
+        "set": "WBR",
+        "rotated": false,
+        "position": "236"
+    },
+    {
+        "card_name": "Ralvus, Wild Vengeance",
+        "number": 210,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "239"
+    },
+    {
+        "card_name": "Patron of Rebirth",
+        "number": 33,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "247"
+    },
+    {
+        "card_name": "The Masked",
+        "number": 76,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "197"
+    },
+    {
+        "card_name": "Drown in Agony",
+        "number": 105,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "226"
+    },
+    {
+        "card_name": "Lightning Blade Paladin",
+        "number": 162,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "207"
+    },
+    {
+        "card_name": "Recollection of Abundance",
+        "number": 213,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "215"
+    },
+    {
+        "card_name": "Peacebringer",
+        "number": 34,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "222"
+    },
+    {
+        "card_name": "Recollection of Aptitude",
+        "number": 81,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "200"
+    },
+    {
+        "card_name": "Emanation of Torments",
+        "number": 106,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "203"
+    },
+    {
+        "card_name": "Recollection of Passion",
+        "number": 168,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "210"
+    },
+    {
+        "card_name": "Resillient Might",
+        "number": 214,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "251"
+    },
+    {
+        "card_name": "Recollection of Virtue",
+        "number": 36,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "195"
+    },
+    {
+        "card_name": "Recurring Reflection",
+        "number": 82,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "248"
+    },
+    {
+        "card_name": "Recollection of Ambition",
+        "number": 123,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "204"
+    },
+    {
+        "card_name": "Rekindling Fury",
+        "number": 169,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "250"
+    },
+    {
+        "card_name": "Ringword, Muse of Abundance",
+        "number": 216,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "244"
+    },
+    {
+        "card_name": "Shaping the Dawn Gates",
+        "number": 39,
+        "shape": "saga",
+        "set": "WBR",
+        "rotated": false,
+        "position": "233"
+    },
+    {
+        "card_name": "Vencent, Muse of Aptitude",
+        "number": 91,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "241"
+    },
+    {
+        "card_name": "Reculmination of Orthuz",
+        "number": 124,
+        "shape": "saga",
+        "set": "WBR",
+        "rotated": false,
+        "position": "202"
+    },
+    {
+        "card_name": "Triscan, Muse of Passion",
+        "number": 176,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "243"
+    },
+    {
+        "card_name": "Seeking the Sacred Glade",
+        "number": 219,
+        "shape": "saga",
+        "set": "WBR",
+        "rotated": false,
+        "position": "237"
+    },
+    {
+        "card_name": "Angel of Guiding Light",
+        "number": 9,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "150"
+    },
+    {
+        "card_name": "Aeon Drifter",
+        "number": 51,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "140"
+    },
+    {
+        "card_name": "Sachah, Muse of Ambition",
+        "number": 126,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "242"
+    },
+    {
+        "card_name": "Blaze of the Tyrant",
+        "number": 138,
+        "shape": "saga",
+        "set": "WBR",
+        "rotated": false,
+        "position": "173"
+    },
+    {
+        "card_name": "Shrubpelt Bane",
+        "number": 220,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "212"
+    },
+    {
+        "card_name": "Blank",
+        "number": 11,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "151"
+    },
+    {
+        "card_name": "Dreamwoven Arcana",
+        "number": 60,
+        "shape": "saga",
+        "set": "WBR",
+        "rotated": false,
+        "position": "147"
+    },
+    {
+        "card_name": "Cobaash, the Boggart Prince",
+        "number": 93,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "117"
+    },
+    {
+        "card_name": "Blazingplate Monitor",
+        "number": 139,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "167"
+    },
+    {
+        "card_name": "Abstract Arbor",
+        "number": 180,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "125"
+    },
+    {
+        "card_name": "Branchwefting",
+        "number": 12,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "162"
+    },
+    {
+        "card_name": "Fathom Encroacher",
+        "number": 64,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "137"
+    },
+    {
+        "card_name": "Gnarled Spawn",
+        "number": 109,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "111"
+    },
+    {
+        "card_name": "Brimskin Surlicant",
+        "number": 140,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "166"
+    },
+    {
+        "card_name": "Awakening of Bramblebark",
+        "number": 183,
+        "shape": "saga",
+        "set": "WBR",
+        "rotated": false,
+        "position": "133"
+    },
+    {
+        "card_name": "Breathe Life",
+        "number": 13,
+        "shape": "saga",
+        "set": "WBR",
+        "rotated": false,
+        "position": "154"
+    },
+    {
+        "card_name": "Haze of Lucidity",
+        "number": 67,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "148"
+    },
+    {
+        "card_name": "Grasp of the Nightking",
+        "number": 110,
+        "shape": "saga",
+        "set": "WBR",
+        "rotated": false,
+        "position": "118"
+    },
+    {
+        "card_name": "Crazed Curator",
+        "number": 142,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "165"
+    },
+    {
+        "card_name": "Bloomweft Behemoth",
+        "number": 185,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "130"
+    },
+    {
+        "card_name": "Chittering Burrower",
+        "number": 15,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "157"
+    },
+    {
+        "card_name": "Heretical Devotee",
+        "number": 68,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "139"
+    },
+    {
+        "card_name": "Impending End",
+        "number": 111,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "120"
+    },
+    {
+        "card_name": "Dreamers' Determination",
+        "number": 145,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "174"
+    },
+    {
+        "card_name": "Bright-Eyed Scout",
+        "number": 187,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "124"
+    },
+    {
+        "card_name": "Dauntless Banneret",
+        "number": 20,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "158"
+    },
+    {
+        "card_name": "Inner Self",
+        "number": 69,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "143"
+    },
+    {
+        "card_name": "Nightmarish Tutor",
+        "number": 115,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "123"
+    },
+    {
+        "card_name": "Fellowful Artisan",
+        "number": 148,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "164"
+    },
+    {
+        "card_name": "Chronognawer",
+        "number": 189,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "131"
+    },
+    {
+        "card_name": "Farwalker Herd",
+        "number": 25,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "152"
+    },
+    {
+        "card_name": "Lake Monstrosity",
+        "number": 71,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "141"
+    },
+    {
+        "card_name": "Nightveil Pathmaker",
+        "number": 117,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "112"
+    },
+    {
+        "card_name": "Incautious Benefactor",
+        "number": 159,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "163"
+    },
+    {
+        "card_name": "Friendly Fir",
+        "number": 196,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "126"
+    },
+    {
+        "card_name": "Light Overwhelming",
+        "number": 28,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "161"
+    },
+    {
+        "card_name": "Learn Through Repetition",
+        "number": 72,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "146"
+    },
+    {
+        "card_name": "Rakish Revival",
+        "number": 121,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "119"
+    },
+    {
+        "card_name": "Incredulous Revelation",
+        "number": 160,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "172"
+    },
+    {
+        "card_name": "Induce Serenity",
+        "number": 201,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "Loyal Realmguard",
+        "number": 30,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "153"
+    },
+    {
+        "card_name": "Living Inquiry",
+        "number": 74,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "149"
+    },
+    {
+        "card_name": "Rustbark Shell",
+        "number": 125,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "115"
+    },
+    {
+        "card_name": "Rise and Raze",
+        "number": 170,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "175"
+    },
+    {
+        "card_name": "Parading Bouquet",
+        "number": 208,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "127"
+    },
+    {
+        "card_name": "Mirror Trap",
+        "number": 32,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "156"
+    },
+    {
+        "card_name": "Lost Dreamseeker",
+        "number": 75,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "142"
+    },
+    {
+        "card_name": "Scourge of Knottridge",
+        "number": 127,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "116"
+    },
+    {
+        "card_name": "Splinterhorn Pugilist",
+        "number": 171,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "168"
+    },
+    {
+        "card_name": "Poisoned Dogma",
+        "number": 209,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "135"
+    },
+    {
+        "card_name": "Runaround Entangler",
+        "number": 38,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "159"
+    },
+    {
+        "card_name": "Minstrel of Bemusement",
+        "number": 77,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "138"
+    },
+    {
+        "card_name": "Spiteful Countenance",
+        "number": 128,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "122"
+    },
+    {
+        "card_name": "Static Strangle",
+        "number": 172,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "170"
+    },
+    {
+        "card_name": "Ramhead Crasher",
+        "number": 211,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "129"
+    },
+    {
+        "card_name": "Uplift",
+        "number": 45,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "160"
+    },
+    {
+        "card_name": "Snap Awake",
+        "number": 84,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "145"
+    },
+    {
+        "card_name": "Tainted Simian",
+        "number": 132,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "114"
+    },
+    {
+        "card_name": "Unfathomable Stoke",
+        "number": 177,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "171"
+    },
+    {
+        "card_name": "Rebloom",
+        "number": 212,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "136"
+    },
+    {
+        "card_name": "Wooly Hermit",
+        "number": 49,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "155"
+    },
+    {
+        "card_name": "Stolen Knowledge",
+        "number": 90,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "144"
+    },
+    {
+        "card_name": "Unnerving Mutation",
+        "number": 134,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "121"
+    },
+    {
+        "card_name": "Voltaic Manifestation",
+        "number": 178,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "169"
+    },
+    {
+        "card_name": "Rockbreaker Rhino",
+        "number": 217,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "128"
+    },
+    {
+        "card_name": "Ancestral Strix",
+        "number": 8,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "Accumulating Flaws",
+        "number": 50,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "79"
+    },
+    {
+        "card_name": "Winding Recluse",
+        "number": 136,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "113"
+    },
+    {
+        "card_name": "Aberrant Ogre",
+        "number": 137,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "Strength From the Heart",
+        "number": 221,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "134"
+    },
+    {
+        "card_name": "Barkclad Hunter",
+        "number": 10,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "Canine Accomplice",
+        "number": 54,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "74"
+    },
+    {
+        "card_name": "Dead Weight",
+        "number": 97,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "102"
+    },
+    {
+        "card_name": "Coalwing Snapper",
+        "number": 141,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "182"
+    },
+    {
+        "card_name": "Adventurous Spirit",
+        "number": 181,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "Canopy Griff",
+        "number": 14,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "Cloud Curtain",
+        "number": 55,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "Deathsower Treefolk",
+        "number": 98,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "100"
+    },
+    {
+        "card_name": "Dreamdust Sage",
+        "number": 144,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "Arbor Strike",
+        "number": 182,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "Cloak of Reprise",
+        "number": 16,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "Contemplate",
+        "number": 56,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "Delusions of Power",
+        "number": 99,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "105"
+    },
+    {
+        "card_name": "Furcated Fury",
+        "number": 150,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "66"
+    },
+    {
+        "card_name": "Bushwhack",
+        "number": 188,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "132"
+    },
+    {
+        "card_name": "Conjure Safety",
+        "number": 17,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "Explosive Winter",
+        "number": 62,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "Demuse",
+        "number": 100,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "104"
+    },
+    {
+        "card_name": "Grim Stalker",
+        "number": 151,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "Colossal Greatwoods",
+        "number": 190,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Creation's Favor",
+        "number": 18,
+        "shape": "saga",
+        "set": "WBR",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "Farlands Breezecaller",
+        "number": 63,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "Dreadfeeder Vulture",
+        "number": 102,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "94"
+    },
+    {
+        "card_name": "Growing Following",
+        "number": 152,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "Dreamlight Druid",
+        "number": 193,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "Dreamcatcher Mage",
+        "number": 21,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "Flying Mantis",
+        "number": 65,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "Dreamrobber Boggart",
+        "number": 104,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "96"
+    },
+    {
+        "card_name": "Hazardous Blast",
+        "number": 154,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "68"
+    },
+    {
+        "card_name": "Flufftail Guide",
+        "number": 195,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "Intrepid Hare",
+        "number": 27,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "Frost Manifest",
+        "number": 66,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "Feardrinker",
+        "number": 107,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "92"
+    },
+    {
+        "card_name": "Imminent Storm",
+        "number": 156,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "Grazing Beetlebeast",
+        "number": 198,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "Luminous Familiar",
+        "number": 31,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "Knowledge from Beyond",
+        "number": 70,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "Festering Wildroach",
+        "number": 108,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "97"
+    },
+    {
+        "card_name": "Inaugural Migration",
+        "number": 157,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "Growth Mindset",
+        "number": 199,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Quest for Acorns",
+        "number": 35,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "Negate",
+        "number": 78,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "80"
+    },
+    {
+        "card_name": "Jarred Awake",
+        "number": 112,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "101"
+    },
+    {
+        "card_name": "Incanted Bombardment",
+        "number": 158,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "Imaginary Snake",
+        "number": 200,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "Rend the Lucid",
+        "number": 37,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "Parasomnia",
+        "number": 79,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "75"
+    },
+    {
+        "card_name": "Malevolent Imperial",
+        "number": 113,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "98"
+    },
+    {
+        "card_name": "Ire Razer",
+        "number": 161,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "Inner Strength",
+        "number": 202,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "Shattering Declaration",
+        "number": 40,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "Plagued Thoughtbuilder",
+        "number": 80,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "Nightmarish Culling",
+        "number": 114,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "103"
+    },
+    {
+        "card_name": "Novel Divining",
+        "number": 163,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "65"
+    },
+    {
+        "card_name": "Lifesower Treefolk",
+        "number": 203,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "Soul Searching",
+        "number": 41,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "Reimagine",
+        "number": 83,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "Nightmarish Vigor",
+        "number": 116,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "108"
+    },
+    {
+        "card_name": "Orcish Javelineer",
+        "number": 164,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "Lucid Dreamwalker",
+        "number": 204,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "Students of Dreamcraft",
+        "number": 42,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "Spirit Wings",
+        "number": 85,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "Obliviate Identity",
+        "number": 118,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "107"
+    },
+    {
+        "card_name": "Panicked State",
+        "number": 165,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "Maker's Contemplation",
+        "number": 205,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Tap into Transience",
+        "number": 43,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "Star Capture",
+        "number": 86,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "78"
+    },
+    {
+        "card_name": "Raise Dread",
+        "number": 120,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "106"
+    },
+    {
+        "card_name": "Readied Blademaster",
+        "number": 167,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "Mossy Stoneguard",
+        "number": 206,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "Tragic Slumber",
+        "number": 44,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "Star Seeker",
+        "number": 87,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "73"
+    },
+    {
+        "card_name": "Reaping Gorgon",
+        "number": 122,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "93"
+    },
+    {
+        "card_name": "Surge of Glory",
+        "number": 173,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "67"
+    },
+    {
+        "card_name": "Nascent Sapling",
+        "number": 207,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "Venerated Chimera",
+        "number": 46,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "Starbog Bullfrog",
+        "number": 88,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "76"
+    },
+    {
+        "card_name": "Stubborn Lumberkin",
+        "number": 129,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "99"
+    },
+    {
+        "card_name": "Take the Offensive",
+        "number": 174,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "Return to Fantasy",
+        "number": 215,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "Vigil Hawkwarden",
+        "number": 47,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "Starlight Navigator",
+        "number": 89,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "72"
+    },
+    {
+        "card_name": "Subtle Strike",
+        "number": 130,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "109"
+    },
+    {
+        "card_name": "Terrorized Terrorizer",
+        "number": 175,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "Runepelt Bear",
+        "number": 218,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "Willing Cordoneer",
+        "number": 48,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Warped Reflection",
+        "number": 92,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "77"
+    },
+    {
+        "card_name": "Trauma Seeder",
+        "number": 133,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "95"
+    },
+    {
+        "card_name": "Wall of Roses",
+        "number": 179,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "69"
+    },
+    {
+        "card_name": "Tower Over Treetops",
+        "number": 222,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Unwilling Ingredient",
+        "number": 135,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "91"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Whisperer of the Woods",
+        "number": 223,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Dolla, Reflective Overseer",
+        "number": 228,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "217"
+    },
+    {
+        "card_name": "Corelia, Trinket Sleuth",
+        "number": 225,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "216"
+    },
+    {
+        "card_name": "Thought Ravager",
+        "number": 238,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "84"
+    },
+    {
+        "card_name": "Wrathwood Hellkite",
+        "number": 242,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "191"
+    },
+    {
+        "card_name": "Silvertail, Veteran Oakguard",
+        "number": 236,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "218"
+    },
+    {
+        "card_name": "Decorated Starshell",
+        "number": 227,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "82"
+    },
+    {
+        "card_name": "Eternity Watcher",
+        "number": 229,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "83"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Tulvish, Idol of Abundance",
+        "number": 240,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "221"
+    },
+    {
+        "card_name": "Cultivator of Bounty",
+        "number": 226,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "85"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Horizon Elemental",
+        "number": 232,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "181"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Orthuz, the Dreamcleaver",
+        "number": 235,
+        "shape": "planeswalker",
+        "set": "WBR",
+        "rotated": false,
+        "position": "189"
+    },
+    {
+        "card_name": "Kulos, Bard of The Skids",
+        "number": 234,
+        "shape": "planeswalker",
+        "set": "WBR",
+        "rotated": false,
+        "position": "190"
+    },
+    {
+        "card_name": "Ancient Lumberknot",
+        "number": 224,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "88"
+    },
+    {
+        "card_name": "Timescape Tactician",
+        "number": 239,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "89"
+    },
+    {
+        "card_name": "Turroy, the Companioneer",
+        "number": 241,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "220"
+    },
+    {
+        "card_name": "Herald of Glory",
+        "number": 231,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "86"
+    },
+    {
+        "card_name": "Sphinx of the Unending",
+        "number": 237,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "219"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Keeper of Legacy",
+        "number": 233,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "90"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Hellion Catalyzer",
+        "number": 230,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "87"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "HAL, Impartial Observer",
+        "number": 3,
+        "shape": "planeswalker",
+        "set": "WBR",
+        "rotated": false,
+        "position": "192"
+    },
+    {
+        "card_name": "Dream Servant",
+        "number": 1,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "177"
+    },
+    {
+        "card_name": "Dreamwoven Druid",
+        "number": 2,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "176"
+    },
+    {
+        "card_name": "Hueheft Giant",
+        "number": 4,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "178"
+    },
+    {
+        "card_name": "Nightsnare",
+        "number": 5,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "179"
+    },
+    {
+        "card_name": "Rebloom Apex",
+        "number": 6,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "Homage to Majesty",
+        "number": 247,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "Homage to Antiquity",
+        "number": 244,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "232"
+    },
+    {
+        "card_name": "Homage to Mystery",
+        "number": 248,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "110"
+    },
+    {
+        "card_name": "Homage to Indulgence",
+        "number": 245,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "70"
+    },
+    {
+        "card_name": "Homage to Life",
+        "number": 246,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Birthpoint, the Sacred Glade",
+        "number": 243,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "245"
+    },
+    {
+        "card_name": "Nostalgic Vista",
+        "number": 249,
+        "shape": "normal",
+        "set": "WBR",
+        "rotated": false,
+        "position": "180"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Reflection",
+        "number": 1,
+        "shape": "token",
+        "set": "WBR",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "Squirrel",
+        "number": 2,
+        "shape": "token",
+        "set": "WBR",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "Nightmare",
+        "number": 3,
+        "shape": "token",
+        "set": "WBR",
+        "rotated": false,
+        "position": "81"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

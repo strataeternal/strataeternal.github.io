@@ -1,0 +1,4427 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>DWE</name>
+			<longname></longname>
+			<settype>Custom</settype>
+			<releasedate>2026-06-13</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Charitable Patron</name>
+			<text>When this creature enters, create a 2/2 white Peasant creature token, a 1/1 blue Bird creature token with flying, and a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)
+Creature tokens you control have skulk. (They can&apos;t be blocked by creatures with greater power.)
+Abilities of noncreature tokens you activate cost {1} less to activate.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/0.png" num="214">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Corrupted Gilleon</name>
+			<text>Whenever this creature deals combat damage to a player, draw a card, then discard a card.
+Whenever you draw your second card each turn, each opponent loses 1 life and you create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/1.png" num="215">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spawn of Cruelty</name>
+			<text>At the beginning of your upkeep, this creature deals 1 damage to each player.
+As long as your life total is less than or equal to half your starting life total, this creature gets +2/+1 and has menace.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/2.png" num="228">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Devil</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Released Hellraiser</name>
+			<text>Whenever you expend 5, put a +1/+1 counter on this creature. (You expend 5 as you spend your fifth total mana to cast spells during a turn.)
+Whenever you expend 8, this creature deals damage equal to its power to any target.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/3.png" num="225">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Devil Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Resourceful Officer</name>
+			<text>This creature can&apos;t be blocked by creatures with power 3 or greater.
+Whenever one or more creatures you control deal combat damage to a player or planeswalker, draw a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/4.png" num="226">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reformed Mercenary</name>
+			<text>Spells you cast that target a creature cost {1} less to cast.
+Stalwart — Whenever you cast a spell that targets one or more Allies you control, this creature gains deathtouch and lifelink until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/5.png" num="224">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mercenary Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Weeping Spring</name>
+			<text>This enchantment enters with three charge counters on it.
+Remove a charge counter from this enchantment: Add one mana of any color. Activate only once each turn.
+Whenever you expend 5, target player mills four cards. (You expend 5 as you spend your fifth total mana to cast spells during a turn.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/6.png" num="229">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Catalytic Vial</name>
+			<text>When this artifact enters, exile the top card of your library and up to one noncreature card from your graveyard. Until the end of your next turn, you may play those cards.
+Spells you cast from anywhere other than your hand cost {1} less to cast.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/7.png" num="213">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Friends // Lovers</name>
+			<text>Create two 1/1 white Ally creature tokens.
+
+---
+
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+Put a +1/+1 counter on each of up to two target creatures. Those creatures gain first strike, vigilance, lifelink, and haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/8.png" num="236">DWE</set>
+			<prop>
+				<layout>aftermath</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R/W // 2RW</manacost>
+				<cmc>7</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sower of Sorrows</name>
+			<text>Whenever a creature card leaves your graveyard for the first time each turn, create a 0/1 green Plant creature token.
+Whenever a noncreature card leaves your graveyard for the first time each turn, put a +1/+1 counter on a creature you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/9.png" num="227">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inspired Footman</name>
+			<text>Stalwart — Whenever you cast a spell that targets one or more Allies you control, this creature gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/10.png" num="21">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hardened Scrounger</name>
+			<text>Whenever one or more creatures you control deal combat damage to a player or planeswalker, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/11.png" num="18">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hushing Spirit</name>
+			<text>When this creature enters, exile up to one target card from a graveyard.
+{2}, Sacrifice this creature: Destroy target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/12.png" num="20">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lone Guardsman</name>
+			<text>Lifelink
+When this creature dies, draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/13.png" num="24">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Weary Inspiration</name>
+			<text>Create three 2/2 white Peasant creature tokens with vigilance. Scry 3.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/14.png" num="43">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Noble Outrider</name>
+			<text>Whenever one or more tokens you control enter, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/15.png" num="29">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bounty Hunter</name>
+			<text>Flying
+Whenever one or more creatures you control deal combat damage to a player or planeswalker, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/16.png" num="5">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Provisions Specialist</name>
+			<text>As long as you control a token, this creature gets +2/+1.
+Cache {2} ({2}, Exile this card from your hand: Draw a card. You can cast this later by also discarding a card.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/17.png" num="33">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Peasant Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rodent Ruination</name>
+			<text>Create a 1/1 white Mouse creature token, then create an additional one of those tokens for each Calamity card in your graveyard.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/18.png" num="36">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Calamity</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Acolyte of Amplification</name>
+			<text>Vigilance
+Whenever you expend 5, this creature gets +3/+0 until end of turn. (You expend 5 as you spend your fifth total mana to cast spells during a turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/19.png" num="3">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skybound Savior</name>
+			<text>Flying
+Whenever this creature enters, return target creature or enchantment card with mana value 3 or less from your graveyard to your hand.
+Cache {2} ({2}, Exile this card from your hand: Draw a card. You can cast this later by also discarding a card.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/20.png" num="39">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Outreach Captain</name>
+			<text>When this creature enters, create a 1/1 white Ally creature token.
+Stalwart — Whenever you cast a spell that targets one or more Allies you control, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/21.png" num="30">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Soldier Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sinking Prison</name>
+			<text>Exile target nonland permanent with X plus 1 doom counters on it, where X is the number of Calamity cards in your graveyard. Its controller may cast it for as long as it remains exiled, and it costs {1} more to cast for each doom counter on it.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/22.png" num="38">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant — Calamity</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hand of Conquest</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t be blocked as long as it has power 2 or less. Otherwise, it can&apos;t attack or block.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/23.png" num="17">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Luminous Rebuke</name>
+			<text>This spell costs {3} less to cast if it targets a tapped creature.
+Destroy target creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/24.png" num="25">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shield Charge</name>
+			<text>Prevent all combat damage that would be dealt to target creature or planeswalker this turn. If that permanent is a creature, it gets +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/25.png" num="37">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Conviction</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+3.
+{W}: Return this Aura to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/26.png" num="8">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Conquer Adversity</name>
+			<text>Creatures you control get +1/+1 until end of turn.
+Flashback {3}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/27.png" num="6">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Join the Cause</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+2, has first strike, and is an Ally in addition to its other types.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/28.png" num="22">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Curio Inspector</name>
+			<text>When this creature enters, create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/29.png" num="47">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Floodrange Scavengers</name>
+			<text>When this creature enters and whenever you expend 5, target player mills three cards. (You expend 5 as you spend your fifth total mana to cast spells during a turn.)
+{T}: Add {U}. Spend this mana only to cast instant or sorcery spells.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/30.png" num="55">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rimereader Oracle</name>
+			<text>Flying
+Whenever you cast a spell from anywhere other than your hand, this creature gets +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/31.png" num="70">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Privileged Escort</name>
+			<text>Whenever a token you control enters, this creature can&apos;t be blocked this turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/32.png" num="68">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seaborn Supporter</name>
+			<text>Stalwart — Whenever you cast a spell that targets one or more Allies you control, draw a card, then discard a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/33.png" num="75">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forewarning Figure</name>
+			<text>Whenever you draw your second card each turn, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/34.png" num="56">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Studious Exemplar</name>
+			<text>Flying
+Whenever you expend 5, put a +1/+1 counter on this creature. (You expend 5 as you spend your fifth total mana to cast spells during a turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/35.png" num="77">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Succumbed Gilleon</name>
+			<text>When this creature enters, return up to one target creature to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/36.png" num="78">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Merfolk Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spined Megalodon</name>
+			<text>Hexproof
+Whenever this creature attacks, scry 1.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/37.png" num="76">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shark</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scourge of the Floodrange</name>
+			<text>This creature can&apos;t attack unless a player has eight or more cards in their graveyard.
+Cache {2} ({2}, Exile this card from your hand: Draw a card. You can cast this later by also discarding a card.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/38.png" num="74">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>7/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thought Collapse</name>
+			<text>Counter target spell. Its controller mills three cards.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/39.png" num="80">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Famine&apos;s Gaze</name>
+			<text>Counter target spell unless its controller pays {X}. If that spell is countered this way, exile it instead of putting it into its owner&apos;s graveyard.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/40.png" num="53">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XU</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Iced In</name>
+			<text>Tap target creature and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/41.png" num="60">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hoard Knowledge</name>
+			<text>Draw a card. Create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/42.png" num="59">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Memory Torrent</name>
+			<text>Target player draws three cards.
+Cache {U} ({U}, Exile this card from your hand: Draw a card. You can cast this later by also discarding a card.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/43.png" num="62">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vanish from Sight</name>
+			<text>Target nonland permanent&apos;s owner puts it on their choice of the top or bottom of their library. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/44.png" num="83">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Driftcloak</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1 and has flying.
+Cache {2} ({2}, Exile this card from your hand: Draw a card. You can cast this later by also discarding a card.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/45.png" num="50">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rookie Mistake</name>
+			<text>Until end of turn, target creature gets +0/+2 and another target creature gets -2/-0.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/46.png" num="72">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Consuming Flood</name>
+			<text>Target player mills three cards. Then that player mills an additional two cards for each Calamity card in your graveyard.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/47.png" num="46">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Calamity</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Preying Mantis</name>
+			<text>Whenever you expend 5, this creature gets +3/+2 and gains trample until end of turn. (You expend 5 as you spend your fifth total mana to cast spells during a turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/48.png" num="191">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ruin Rummagers</name>
+			<text>Vigilance
+When this creature enters, draw a card if a creature you control dealt combat damage to a player or planeswalker this turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/49.png" num="196">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spikemaw Mercenary</name>
+			<text>Deathtouch
+{G}, Exile this card from your graveyard: Target creature gains deathtouch until end of turn. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/50.png" num="201">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gardener of Abandon</name>
+			<text>{T}: Add one mana of any color. Each player mills a card.
+{5}{G}, {T}, Sacrifice this creature: Return target permanent card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/51.png" num="181">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flora Fender</name>
+			<text>Reach
+When this creature enters, exile up to one target card from a graveyard. 
+Whenever one or more cards leave your graveyard, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/52.png" num="179">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Harried Hunter</name>
+			<text>This creature can&apos;t be blocked by creatures with power 2 or less.
+Whenever one or more creatures you control deal combat damage to a player or planeswalker, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/53.png" num="184">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Satyr Scout Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Titanic Emergence</name>
+			<text>Create a 3/3 green Beast creature token. Put a +1/+1 counter on it for each Calamity card in your graveyard.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/54.png" num="206">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Calamity</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Snarlskin Packleader</name>
+			<text>Whenever you expend 5, look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. (You expend 5 as you spend your fifth total mana to cast spells during a turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/55.png" num="200">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Campsite Ambush</name>
+			<text>Mill two cards. When you do, choose target creature you control and target creature you don&apos;t control. The creature you control gets +1/+1 for each nonland card milled this way. Then it fights target creature you don&apos;t control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/56.png" num="174">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Might Upon Might</name>
+			<text>Put a +1/+1 counter on each of up to two target creatures.
+Flashback {2}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/57.png" num="185">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pathogenic Mists</name>
+			<text>Prevent all combat damage that would be dealt this turn. Each player mills three cards. (They put the top three cards of their library into their graveyard.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/58.png" num="188">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scavenger&apos;s Trek</name>
+			<text>Each player mills four cards, then you may choose a creature and/or a land card in a graveyard. Return each card chosen this way to its owner&apos;s hand.
+Cache {G} ({G}, Exile this card from your hand: Draw a card. You can cast this later by also discarding a card.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/59.png" num="197">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Surge of Wildwood</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1 and has trample.
+You may cast this card from your graveyard by paying {3}{G}{G} rather than its mana cost.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/60.png" num="203">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gratuitous Grasp</name>
+			<text>Choose one—
+• Gratuitous Grasp deals three times X damage to target creature with flying.
+• Target creature you control gets +0/+X and gains reach and hexproof until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/61.png" num="183">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XG</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Retrogenic Cultivation</name>
+			<text>You may put a land card from your hand or graveyard onto the battlefield
+Draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/62.png" num="195">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pestilence&apos;s Keep</name>
+			<text>Choose two—
+• Destroy target artifact or enchantment.
+• Shuffle up to five cards from your graveyard into your library.
+• Draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/63.png" num="190">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Animated Farmhand</name>
+			<text>Reach
+{1}: Add one mana of any color. Activate only once each turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/64.png" num="240">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crumbling Kite</name>
+			<text>Flying
+Whenever this creature deals combat damage to a player, each player mills that many cards.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/65.png" num="242">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ruined Golem</name>
+			<text>Trample
+{2}, Discard this card: Surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/66.png" num="247">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Trusty Axe</name>
+			<text>When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +2/+2.
+Equip {4}
+Cache {2} ({2}, Exile this card from your hand: Draw a card. You can cast this later by also discarding a card.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/67.png" num="249">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Meteorite</name>
+			<text>When this artifact enters, it deals 2 damage to any target.
+{T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/68.png" num="245">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Honored Heirloom</name>
+			<text>{T}: Add one mana of any color.
+{2}, {T}: Exile target card from a graveyard.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/69.png" num="244">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scavenger&apos;s Charm</name>
+			<text>Choose one—
+• Target creature gets +1/+1 and gains lifelink until end of turn.
+• Create a 1/1 white Ally creature token.
+• Return target creature card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/70.png" num="116">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Willowroot Ritualist</name>
+			<text>Stalwart — Whenever you cast a spell that targets one or more Allies you control, you draw a card and you lose 1 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/71.png" num="125">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bearer of Agony</name>
+			<text>Lifelink
+At the beginning of your end step, if you lost life this turn, draw a card. (Damage causes loss of life.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/72.png" num="87">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hallowed Soulsealer</name>
+			<text>Flying
+When this creature enters, exile any number of cards from target player&apos;s graveyard.
+Cache {2} ({2}, Exile this card from your hand: Draw a card. You can cast this later by also discarding a card.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/73.png" num="104">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grim Diabloist</name>
+			<text>Stalwart — Whenever you cast a spell that targets one or more Allies you control, target opponent loses life equal to the number of Allies you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/74.png" num="102">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ogre Warlock Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Corrupted Savior</name>
+			<text>Flying
+Whenever you draw your second card each turn, put a +1/+1 counter on this creature.
+When this creature dies, return another target creature card with mana value less than or equal to this creature&apos;s power from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/75.png" num="92">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Starvation&apos;s Embrace</name>
+			<text>As an additional cost to cast this spell, pay {1} or 2 life.
+Destroy target creature or planeswalker.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/76.png" num="120">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>With a Vengeance</name>
+			<text>This spell costs {1} less to cast if it targets a card in your graveyard that was put there from anywhere this turn.
+Return target creature card from your graveyard to the battlefield with an additional +1/+1 counter on it.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/77.png" num="126">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Piercing of the Day</name>
+			<text>Whenever one or more nontoken cards are put into your graveyard from your hand, your library, or the battlefield, you gain 2 life.
+Whenever one or more cards leave your graveyard, each opponent loses 2 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/78.png" num="114">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Violent Mutation</name>
+			<text>Target creature you control gets +X/+X until end of turn, where X is 1 plus the number of Calamity cards in your graveyard. It fights up to one target creature you don&apos;t control. (Each deals damage equal to its power to the other.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/79.png" num="207">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Calamity</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sifter Wurm</name>
+			<text>Trample
+When this creature enters, scry 3, then reveal the top card of your library. You gain life equal to that card&apos;s mana value.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/80.png" num="198">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Advocate Invoker</name>
+			<text>This creature enters with two +1/+1 counters on it.
+Stalwart — Whenever you cast a spell that targets one or more Allies you control, double the number of +1/+1 counters on this creature.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/81.png" num="170">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Budding Remnant</name>
+			<text>When this artifact enters, mill three cards.
+Whenever one or more cards leave your graveyard, put growth counter on this artifact.
+{T}: Add {G} for each growth counter on this artifact.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/82.png" num="172">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Answer // Nobody</name>
+			<text>Surveil 2, then draw a card.
+
+---
+
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+Exile target card from a graveyard. Create an X/X colorless Horror creature token, where X is the exiled card&apos;s mana value.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/83.png" num="85">DWE</set>
+			<prop>
+				<layout>aftermath</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B // 3BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Built // Scale</name>
+			<text>Until end of turn, if one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.
+
+---
+
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+Distribute four +1/+1 counters among up to two target creatures.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/84.png" num="173">DWE</set>
+			<prop>
+				<layout>aftermath</layout>
+				<side>front</side>
+				<type>Instant // Sorcery</type>
+				<maintype>Instant</maintype>
+				<manacost>G // 3GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tormenting Nightmares</name>
+			<text>Exile the top X cards of target player&apos;s library, where X is 1 plus the number of Calamity cards in your graveyard. Choose one of them. For as long as that card remains exiled, you may play it, and you may spend mana as though it were mana of any color to cast that spell.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/85.png" num="123">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Calamity</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Break the Mold</name>
+			<text>Combat damage that would be dealt by creatures you control can&apos;t be prevented.
+Whenever a creature you control deals combat damage to a player or planeswalker, you may put a +1/+1 counter on it.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/86.png" num="171">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Conduit of Calamity</name>
+			<text>When this creature enters, you may search your library for a card with mana value 5 or greater, reveal it, then shuffle and put that card on top.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/87.png" num="241">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Replica Effigy</name>
+			<text>Whenever you cast an instant or sorcery spell that targets only this creature, you may pay {2}. If you do, copy that spell. You may choose new targets for the copy.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/88.png" num="246">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Boneborne Amalgam</name>
+			<text>This creature enters with an additional flying counter on it if X is 1 or more, an additional +1/+1 counter on it if X is 2 or more, an additional vigilance counter on it if X is 3 or more, an additional first strike counter on it if X is 4 or more, and and additional lifelink counter on it if X is 5 or more.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/89.png" num="1">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>X2</manacost>
+				<cmc>2</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soul-Guide Lantern</name>
+			<text>When this artifact enters, exile target card from a graveyard.
+{T}, Sacrifice this artifact: Exile each opponent&apos;s graveyard.
+{1}, {T}, Sacrifice this artifact: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/90.png" num="248">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Engulfed Relic</name>
+			<text>{T}: Add {C}{C}.
+{X}, {T}, Exile this artifact, Exile X cards from your graveyard: Create an X/X colorless Horror creature token.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/91.png" num="243">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lafre, Head of Outreach</name>
+			<text>Spells you cast that target Allies you control cost {W}{U}{B}{R}{G} less to cast. This effect reduces only the amount of colored mana you pay.
+Stalwart — Whenever you cast a spell that targets one or more Allies you control, untap those creatures. If it&apos;s your combat phase, there&apos;s an additional combat phase after this one.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/92.png" num="23">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Greater Wildhorn</name>
+			<text>Double strike
+Whenever this creature deals combat damage to a player, return target creature card with mana value 3 or less from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/93.png" num="16">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goat Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Feyrouse, Beacon of Defiance</name>
+			<text>Whenever an opponent casts their first noncreature spell during each of their turns, draw a card unless that player pays {X}, where X is Feyrouse, Beacon of Defiance&apos;s power.
+Whenever you expend 5, put a +1/+1 counter on Feyrouse. (You expend 5 as you spend your fifth total mana to cast spells during a turn.)
+Whenever you expend 8, create a True Conviction token. (It&apos;s a {3}{W}{W}{W} enchantment with &quot;Creatures you control have double strike and lifelink.&quot;)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/94.png" num="13">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Outreach Routeleader</name>
+			<text>Vigilance
+Whenever this creature attacks, if another Ally is attacking, you draw a card and you gain 1 life.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/95.png" num="31">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Immutable Crux</name>
+			<text>Choose one—
+• Destroy all Ally creatures.
+• Destroy all non-Ally creatures.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/96.png" num="107">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Path of Conquest</name>
+			<text>When this enchantment enters, create a 1/1 white Cleric creature token with lifelink and a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+Creature tokens you control get +1/+1 for each noncreature token you control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/97.png" num="32">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Final Conquest</name>
+			<text>{2}{W}{W}, Pay 1 life: Create a 1/1 white Cleric creature token with lifelink.
+At the beginning of your upkeep, if you have exactly 10 life, have exactly seven cards in hand, and control exactly one creature, you win the game.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/98.png" num="14">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Owlwatch Warden</name>
+			<text>When this creature enters, create two 2/2 blue Bird Ally creature tokens with flying.
+Stalwart — Whenever you cast a spell that targets one or more Allies you control, scry 1, then draw a card.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/99.png" num="64">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Now and Never</name>
+			<text>Whenever you draw your second card during each of your turns, put two time counters on this enchantment.
+Once each turn, you may pay {0} rather than pay the mana cost for a spell you cast with mana value X or less, where X is the number of time counters on this enchantment.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/100.png" num="63">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pelix, Starlight Oracle</name>
+			<text>Flying
+Whenever you expend 5, scry 5. (You expend 5 as you spend your fifth total mana to cast spells during a turn.)
+Whenever you expend 8, reveal cards from the top of your library until the total mana value of cards revealed this way is 8 or greater. Put those cards into your hand.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/101.png" num="66">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bird Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Patient Rebuilding</name>
+			<text>At the beginning of your upkeep, target opponent mills three cards, then you draw a card for each land card put into their graveyard this way.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/102.png" num="65">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Ceaseless Famine</name>
+			<text>At the beginning of your draw step, if the number of cards in your library is less than half your starting deck size, draw an additional card.
+At the beginning of your upkeep, if the number of cards in your library is less than a quarter of your starting deck size, return target noncreature, nonland card from your graveyard to your hand.
+At the beginning of your upkeep, if your library has no cards in it, you win the game.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/103.png" num="45">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cyclonic Tempest</name>
+			<text>Return up to X target nonland permanents to their owners&apos; hands, where X is one plus the number of Calamity cards in your graveyard.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/104.png" num="48">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant — Calamity</type>
+				<maintype>Instant</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rin Midor, Miasma Expert</name>
+			<text>Stalwart — Whenever you cast a spell that targets one or more Allies you control, non-Ally creatures get -1/-1 until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/105.png" num="115">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warlock Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Demon of Deepest Regrets</name>
+			<text>This spell costs {X} more to cast, where X is your life total.
+Flying
+When this creature enters, if you cast it, target player&apos;s life total becomes 13.
+Cache {2} ({2}, Exile this card from your hand: Draw a card. You can cast this later by also discarding a card.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/106.png" num="96">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soemo, the Moon Prophet</name>
+			<text>Menace
+Whenever you expend 5, target player reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard. (You expend 5 as you spend your fifth total mana to cast spells during a turn.)
+Whenever you expend 8, put target creature card from a graveyard onto the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/107.png" num="118">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forerunner of Death</name>
+			<text>This creature&apos;s power and toughness are each equal to the number of creature cards in all graveyards.
+Whenever a nontoken creature an opponent controls dies, you may draw a card.
+Whenever another nontoken creature you control dies, discard a card.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/108.png" num="100">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Delve the Unraveled</name>
+			<text>Return to your hand all permanent cards in your graveyard that were put there from anywhere this turn.
+Exile Delve the Unraveled.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/109.png" num="11">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Seek Salvation</name>
+			<text>This spell costs {1}{B} less to cast if your life total is less than or equal to half your starting life total.
+Search your library for a card, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/110.png" num="117">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The March of Death</name>
+			<text>The March of Death deals 1 damage to any target. You gain 1 life. Then if you&apos;ve cast thirteen or more spells named The March of Death this game, a player of your choice loses the game.
+Flashback {1}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+{1}{B}: Put this card from exile into your hand.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/111.png" num="109">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Jelzidry, Chaos Conductor</name>
+			<text>Stalwart — Whenever you cast a spell that targets one or more Allies you control, if that spell is targeting only a single Ally you control, copy it for each other Ally creature you control. Each copy targets a different one of those creatures. Otherwise, copy that spell once and you may choose new targets for the copy. If a spell copied this way is a permanent spell, the copies gain &quot;At the beginning of your end step, sacrifice this permanent.&quot;</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/112.png" num="147">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Goblin Shaman Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ruinous Confidant</name>
+			<text>At the beginning of your upkeep, exile the top card of your library. This creature deals damage to you equal to its mana value. You may play it this turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/113.png" num="157">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zaika, Student of Delia</name>
+			<text>Whenever you expend 3, you may have Zaika, Student of Delia become a Goblin Ally Soldier with base power and toughness 2/2 and menace. (You expend 3 as you spend your third total mana to cast spells during a turn.)
+Whenever you expend 5, you may have Zaika become a Goblin Ally Soldier Shaman with base power and toughness 4/4, trample, and menace.
+Whenever you expend 8, Zaika becomes a Goblin Ally Soldier Shaman Advisor with base power and toughness 6/6, double strike, trample, and menace.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/114.png" num="168">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Goblin Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Guttering Flame</name>
+			<text>Flying, haste
+Whenever you expend 5, return this card from your graveyard to your hand. (You expend 5 as you spend your fifth total mana to cast spells during a turn.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/115.png" num="143">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Xanpef, Paradox Fragment</name>
+			<text>Haste
+Whenever you cast a spell from anywhere other than your hand, create a token that&apos;s a copy of Xanpef, Paradox Fragment, except it&apos;s not legendary. Exile that token at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/116.png" num="167">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Path of War</name>
+			<text>Whenever you attack, add {R} for each attacking creature. Until end of turn, you don&apos;t lose this mana as steps and phases end.
+Whenever you expend 15, put a domination counter on this enchantment.
+At the beginning of your upkeep, if this enchantment has a domination counter on it, you win the game.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/117.png" num="155">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Star of Extinction</name>
+			<text>Destroy target land. Star of Extinction deals 20 damage to each creature and each planeswalker.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/118.png" num="162">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Force of Extinction</name>
+			<text>Whenever this creature enters or attacks, choose one that hasn&apos;t been chosen this turn—
+• Create a 4/4 green Wurm creature token.
+• Creatures you control gain trample and indestructible until end of turn.
+• Destroy target noncreature, nonland permanent.
+• This creature fights target creature you don&apos;t control.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DWE-files/img/119.png" num="180">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>6GG</manacost>
+				<cmc>8</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slymel, Primal Invoker</name>
+			<text>Whenever you expend 5, create a 1/1 green Insect creature token. (You expend 5 as you spend your fifth total mana to cast spells during a turn.)
+Whenever you expend 8, you may have the base power and toughness of other creatures you control become equal to Slymel, Primal Invoker&apos;s power and toughness until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/120.png" num="199">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Degredation Sage</name>
+			<text>When this creature enters, choose one—
+• Destroy target artifact.
+• Exile target player&apos;s graveyard.
+Activated abilities of artifacts and cards in graveyards can&apos;t be activated.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/121.png" num="177">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Escape to the Woods</name>
+			<text>When this enchantment enters, mill four cards.
+Whenever one or more creatures attack you or a planeswalker you control, you may exile a basic land card from your graveyard. If you do, prevent all combat damage that would be dealt this turn. Otherwise, sacrifice this enchantment.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/122.png" num="178">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cunning Reclamation</name>
+			<text>Put all basic land cards from target player&apos;s graveyard onto the battlefield tapped under your control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/123.png" num="176">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Grasp of Pestilence</name>
+			<text>At the beginning of each opponent&apos;s end step, if you didn&apos;t lose life this turn, that opponent gets a poison counter. (A player with ten or more poison counters loses the game.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/124.png" num="182">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Unleashed Afterlife</name>
+			<text>Return each creature card with mana value X or less from your graveyard to the battlefield, where X is 1 plus the number of Calamity cards in your graveyard.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/125.png" num="41">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Calamity</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rite of Replication</name>
+			<text>Kicker {5} (You may pay an additional {5} as you cast this spell.)
+Create a token that&apos;s a copy of target creature. If this spell was kicked, create five of those tokens instead.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/126.png" num="71">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Necrotic Betrayal</name>
+			<text>Destroy up to X target creatures and/or planeswalkers, where X is one plus the number of Calamity cards in your graveyard. Return each card put into a graveyard this way to the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/127.png" num="113">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Calamity</type>
+				<maintype>Sorcery</maintype>
+				<manacost>6BB</manacost>
+				<cmc>8</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Primal Outbreak</name>
+			<text>Look at the top X cards of your library, where X is three plus the number of Calamity cards in your graveyard. You may put any number of creature cards from among them onto the battlefield. Put the rest into your graveyard.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/128.png" num="192">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Calamity</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Quick // Judge</name>
+			<text>The next creature spell you cast this turn can be cast as though it had flash. That creature enters with an additional +1/+1 counter on it.
+
+---
+
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+Your opponents can&apos;t cast spells this turn. Creatures can&apos;t attack this turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/129.png" num="35">DWE</set>
+			<prop>
+				<layout>aftermath</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W // 1WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lost // Time</name>
+			<text>Target nonland permanent phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)
+
+---
+
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+Take an extra turn after this one.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/130.png" num="61">DWE</set>
+			<prop>
+				<layout>aftermath</layout>
+				<side>front</side>
+				<type>Instant // Sorcery</type>
+				<maintype>Instant</maintype>
+				<manacost>1U // 5UU</manacost>
+				<cmc>9</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dress // Kill</name>
+			<text>Put a +1/+1 counter on target creature. It gains indestructible until end of turn.
+
+---
+
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+Destroy target creature or planeswalker. You gain 3 life.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/131.png" num="99">DWE</set>
+			<prop>
+				<layout>aftermath</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B // 2BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Moment // Remember</name>
+			<text>Until end of turn, whenever you cast an instant or sorcery spell, Moment deals 2 damage to each opponent.
+
+---
+
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+Each instant and sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/132.png" num="153">DWE</set>
+			<prop>
+				<layout>aftermath</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R // 4R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Adapt // Environment</name>
+			<text>Choose target creature. Put a +1/+1 counter on each creature you control with equal or lesser power.
+
+---
+
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+Draw a card for each creature you control with power greater than the greatest power among creatures you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/133.png" num="169">DWE</set>
+			<prop>
+				<layout>aftermath</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G // 2G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Er-Corress, Oblivion Priest</name>
+			<text>Whenever one or more creatures become the target of a spell you control, put a +1/+1 counter on Er-Corress, Oblivion Priest.
+{WB}, Remove two +1/+1 counters from Er-Corress: Exile target creature card from a graveyard. Create a 2/2 colorless Horror creature token.
+{1}{W}{B}, Pay 3 life, Remove four +1/+1 counters from Er-Corress: Exile target nonland permanent.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/134.png" num="217">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Artos, Seeker of Salvation</name>
+			<text>[+1]: Surveil 3.
+[-2]: You may cast target instant, sorcery, or Aura card from your graveyard this turn if that spell targets a creature you control. If an instant or sorcery spell cast this way would be put into your graveyard, exile it instead.
+[-8]: Put all creature cards from all graveyards onto the battlefield under your control. Each of them is a 2/2 Zombie Ally in addition to its other types.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DWE-files/img/135.png" num="86">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Artos</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Angel of Sanctity</name>
+			<text>Flash
+Flying
+Prevent all damage. (From any source controlled by any player.)</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DWE-files/img/136.png" num="4">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>5WW</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fractalmancer</name>
+			<text>Whenever this creature becomes the target of a spell or ability you don&apos;t control, copy it. You may choose new targets for the copy.
+Whenever you expend 5, expend 8, or expend 10, copy target spell you control. You may choose new targets for the copy. (You expend 5 as you spend your fifth total mana to cast spells during a turn. A copy of a permanent spell becomes a token.)</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DWE-files/img/137.png" num="57">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Terror of the Catacombs</name>
+			<text>Flying
+Ward—Pay 3 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)
+Whenever one or more creatures cards are put into your graveyard from anywhere other than the battlefield, target opponent loses life equal to the greatest mana value among them.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DWE-files/img/138.png" num="122">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Delia Bladeheart</name>
+			<text>[+1]: Until end of turn, Delia Bladeheart becomes a 3/1 Goblin Ally creature with haste and indestructible that&apos;s still a planeswalker. Prevent all damage that would be dealt to her this turn.
+[0]: Create a 1/1 white Ally creature token.
+[-3]: You get an emblem with &quot;Creatures you control get +1/+0.&quot;</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DWE-files/img/139.png" num="133">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Bladeheart</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Xul Xet, Gigantimancer</name>
+			<text>Xul Xet, Gigantimancer and other creatures you control can&apos;t be blocked by creatures with lesser power.
+{3}{G}: Double target creature&apos;s power until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/140.png" num="209">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Lizard Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Final Arrival</name>
+			<text>This spell costs {1} less to cast for each Calamity card in in your graveyard.
+If you cast this spell from your hand, create, Zec&apos;Tala, a legendary 20/20 colorless Elder Horror creature token with flying and indestructible.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DWE-files/img/141.png" num="2">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Calamity</type>
+				<maintype>Sorcery</maintype>
+				<manacost>15</manacost>
+				<cmc>15</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Beginning // End</name>
+			<text>Search your library for any number of colored cards. Reveal them. If no two cards revealed this way share a color, put them into your hand. Then shuffle.
+
+---
+
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+Choose any number of target colored permanents. If no two permanents chosen this way share a color, destroy them.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DWE-files/img/142.png" num="210">DWE</set>
+			<prop>
+				<layout>aftermath</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WUBRG // 8</manacost>
+				<cmc>14</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Glorious End</name>
+			<text>End the turn. (Exile all spells and abilities from the stack, including this card. The player whose turn it is discards down to their maximum hand size. Damage wears off, and &quot;this turn&quot; and &quot;until end of turn&quot; effects end.)
+At the beginning of your next end step, you lose the game.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DWE-files/img/143.png" num="141">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gunijo, the Executioner</name>
+			<text>Gunijo, the Executioner enters tapped.
+Whenever Gunijo attacks, destroy up to one target creature or planeswalker. You lose life equal to its mana value.
+As long as you have 5 or less life, you may cast Gunijo from your graveyard.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/144.png" num="219">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Force // Reckon</name>
+			<text>Counter target spell. If that spell is countered this way, put it into its owner&apos;s hand instead of into that player&apos;s graveyard.
+
+---
+
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+Return target noncreature card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/145.png" num="235">DWE</set>
+			<prop>
+				<layout>aftermath</layout>
+				<side>front</side>
+				<type>Instant // Sorcery</type>
+				<maintype>Instant</maintype>
+				<manacost>1W/U // 1WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Neglect // Mention</name>
+			<text>Look at the top two cards of target player&apos;s library, then put them back in any order. Then you may have that player mill up to two cards.
+
+---
+
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+Exile target card from an opponent&apos;s graveyard. You may play that card for as long as it remains exiled, and mana of any type can be spent to cast that spell.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/146.png" num="238">DWE</set>
+			<prop>
+				<layout>aftermath</layout>
+				<side>front</side>
+				<type>Instant // Sorcery</type>
+				<maintype>Instant</maintype>
+				<manacost>1U/B // 1UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Doomed // Suffer</name>
+			<text>Target creature gets +1/+0 until end of turn. When that creature dies this turn, create a 2/2 black Zombie creature token.
+
+---
+
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+Choose a nonland permanent type. Each player sacrifices a permanent of the chosen type. Each player who can&apos;t loses 2 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/147.png" num="233">DWE</set>
+			<prop>
+				<layout>aftermath</layout>
+				<side>front</side>
+				<type>Instant // Sorcery</type>
+				<maintype>Instant</maintype>
+				<manacost>B/R // 1BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fate // Bear</name>
+			<text>Whenever a creature you control enters this turn, put a +1/+1 counter on it and it gains haste until end of turn.
+
+---
+
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+Create two 2/2 green Bear creature tokens.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/148.png" num="234">DWE</set>
+			<prop>
+				<layout>aftermath</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R/G // 3RG</manacost>
+				<cmc>7</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cling // Hope</name>
+			<text>Target creature gains hexproof and indestructible until end of turn.
+
+---
+
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+Creatures you control get +2/+2 and gain vigilance and trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/149.png" num="231">DWE</set>
+			<prop>
+				<layout>aftermath</layout>
+				<side>front</side>
+				<type>Instant // Sorcery</type>
+				<maintype>Instant</maintype>
+				<manacost>1G/W // 4GW</manacost>
+				<cmc>8</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Secrets // Unravel</name>
+			<text>Search your library for a nonland permanent card with mana value 3 or less, reveal it, put it into your hand, then shuffle.
+
+---
+
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+Exile target nonland permanent card from your graveyard. Create a token that&apos;s a copy of it.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/150.png" num="239">DWE</set>
+			<prop>
+				<layout>aftermath</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W/B // 3WB</manacost>
+				<cmc>8</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bone // Pick</name>
+			<text>Mill three cards. Create a 1/1 black Skeleton creature token.
+
+---
+
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+Return target permanent card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/151.png" num="230">DWE</set>
+			<prop>
+				<layout>aftermath</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B/G // 1BG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Live // Tell</name>
+			<text>Return up to one permanent you control to its owner&apos;s hand.
+
+---
+
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+Draw a card, then you may put a permanent card with mana value 4 or less from your hand onto the battlefield.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/152.png" num="237">DWE</set>
+			<prop>
+				<layout>aftermath</layout>
+				<side>front</side>
+				<type>Instant // Sorcery</type>
+				<maintype>Instant</maintype>
+				<manacost>G/U // 3GU</manacost>
+				<cmc>6</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dare // Dream</name>
+			<text>Target creature gets +1/+0 until end of turn. If it has base power 2 or less, it can&apos;t be blocked this turn.
+
+---
+
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+Exile the top three cards of your library. During any turn you attacked, you may play those cards.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/153.png" num="232">DWE</set>
+			<prop>
+				<layout>aftermath</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U/R // 3UR</manacost>
+				<cmc>6</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Outreach Exemplar</name>
+			<text>Stalwart — Whenever you cast a spell that targets one or more Allies you control, creatures you control get +1/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/154.png" num="222">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grim Apostle</name>
+			<text>{1}{B}, Pay 2 life: Return this creature from your graveyard to the battlefield tapped.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/155.png" num="101">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mistblade Opportunist</name>
+			<text>This creature has flying as long as you&apos;ve drawn two or more cards this turn.
+{1}{B}: This creature gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/156.png" num="111">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grim Loyalist</name>
+			<text>This creature enters tapped. When it does, you mill two cards.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/157.png" num="103">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Swarmlord Locust</name>
+			<text>When this creature enters, exile up to one target card from a graveyard.
+Whenever a card leaves your graveyard, you may pay {1}. If you do, create a 1/1 green Insect creature token. Do this only once each turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/158.png" num="121">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Defiant Warden</name>
+			<text>Menace
+Stalwart — Whenever you cast a spell that targets one or more Allies you control, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/159.png" num="95">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Cleric Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blood Rager</name>
+			<text>When this creature enters, you draw a card and you lose 1 life.
+Whenever you expend 5, this creature gets +2/+2 and gains menace until end of turn. (You expend 5 as you spend your fifth total mana to cast spells during a turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/160.png" num="89">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Doomed Rider</name>
+			<text>{1}{B}, Exile this card from your graveyard: Create a tapped 2/2 black Zombie creature token.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/161.png" num="97">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unwavering Slayer</name>
+			<text>Stalwart — Whenever you cast a spell that targets one or more Allies you control, target creature you control gets +1/+1 and gains menace until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/162.png" num="124">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Insurgent Bloodlord</name>
+			<text>Flying
+Whenever you lose life during your turn, this creature gains lifelink until end of turn. (Damage causes loss of life.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/163.png" num="108">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hooded Reaper</name>
+			<text>This spell costs {1} less to cast for each other card you own in exile.
+Cache {2} ({2}, Exile this card from your hand: Draw a card. You can cast this later by also discarding a card.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/164.png" num="105">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>6B</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Death&apos;s Embrace</name>
+			<text>Destroy target creature or planeswalker. Any number of target players each mill two cards.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/165.png" num="94">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bloodstorm</name>
+			<text>Target creature gets -2/-2 until end of turn. It gets an additional -1/-1 until end of turn for each Calamity card in your graveyard.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/166.png" num="90">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant — Calamity</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Beg for Mercy</name>
+			<text>Each opponent loses 3 life unless that player sacrifices a nonland permanent.
+Flashback {3}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/167.png" num="88">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dreadful Disintigration</name>
+			<text>Each player loses 2 life. Then, destroy up to one target creature if it has mana value less than or equal to the greatest amount of life a player has lost this turn. (Damage causes loss of life.)
+Cache {2} ({2}, Exile this card from your hand: Draw a card. You can cast this later by also discarding a card.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/168.png" num="98">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Midnight Negotiations</name>
+			<text>Each player loses 2 life. You draw two cards.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/169.png" num="110">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Soul&apos;s Guidance</name>
+			<text>Put a +1/+1 counter on target creature you control, then return a creature card with mana value less than or equal to that creature&apos;s power from your graveyard to the battlefield.
+Cache {1}{B} ({1}{B}, Exile this card from your hand: Draw a card. You can cast this later by also discarding a card.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/170.png" num="119">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hopes Become Ashes</name>
+			<text>Choose one —
+• Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player exiles that card.
+• Put a face-up exiled card target opponent owns into their graveyard.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/171.png" num="106">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Confront Death</name>
+			<text>Until end of turn, target creature gains deathtouch and &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/172.png" num="91">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Monstrous Shadow</name>
+			<text>As an additional cost to cast this spell, pay {2} or discard a card.
+Enchant creature
+Enchanted creature gets +3/+3 and has menace.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/173.png" num="112">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tendril of Ruination</name>
+			<text>When this creature enters, mill three cards, then put a +1/+1 counter on this creature for each creature card in your graveyard. (To mill three cards, put the top three cards of your library into your graveyard.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/174.png" num="205">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ravenous Kurgecroc</name>
+			<text>Trample
+At the beginning of combat on your turn, if one or more cards have left your graveyard this turn, target creature gets +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/175.png" num="193">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crocodile Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Renovator Colossus</name>
+			<text>When this creature enters, put up to one target permanent card from your graveyard on top of your library.
+Cache {2} ({2}, Exile this card from your hand: Draw a card. You can cast this later by also discarding a card.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/176.png" num="194">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gleeful Sadist</name>
+			<text>Haste
+This creature gets +1/+1 as long as you&apos;ve lost life this turn. (Damage causes loss of life.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/177.png" num="140">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Devil</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Magma Slinger</name>
+			<text>Stalwart — Whenever you cast a spell that targets one or more Allies you control, this creature deals 1 damage to target player or planeswalker.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/178.png" num="151">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scion of Brimstone</name>
+			<text>When this creature enters, it deals 1 damage to any target and 1 damage to you.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/179.png" num="158">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Devil</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Disaster Channeler</name>
+			<text>Reach
+Whenever you expend 5, you may discard a card. If you do, draw a card. (You expend 5 as you spend your fifth total mana to cast spells during a turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/180.png" num="135">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Living Campfire</name>
+			<text>Whenever you cast a spell from anywhere other than your hand, target creature gets +1/+0 and gains menace until end of turn.
+Cache {2} ({2}, Exile this card from your hand: Draw a card. You can cast this later by also discarding a card.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/181.png" num="149">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wildpaw Domesitcator</name>
+			<text>Stalwart — Whenever you cast a spell that targets one or more Allies you control, create a 1/1 red Cat creature token. This ability triggers only once each turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/182.png" num="166">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reckless Hammerskull</name>
+			<text>Whenever this creature attacks or blocks, it deals 1 damage to you.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/183.png" num="156">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Disastimancer</name>
+			<text>When this creature enters, exile target instant or sorcery card from your graveyard. Until the end of your next turn, you may cast that card. If a Calamity card is exiled this way, this creature gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/184.png" num="136">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Devil Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fragmented Warlord</name>
+			<text>Trample
+Whenever you expend 5, this creature gets +2/+1 until end of turn. (You expend 5 as you spend your fifth total mana to cast spells during a turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/185.png" num="138">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gored Cyclops</name>
+			<text>Menace
+As long as you&apos;ve lost life this turn, this creature gets +1/+1 and has haste. (Damage causes loss of life.)
+Cache {2} ({2}, Exile this card from your hand: Draw a card. You can cast this later by also discarding a card.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/186.png" num="142">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cyclops</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ionic Outburst</name>
+			<text>Ionic Outburst deals X damage to target creature or planeswalker, where X is 2 plus the number of Calamities in your graveyard.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/187.png" num="146">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Calamity</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Seismic Outburst</name>
+			<text>Seismic Outburst deals 5 damage to target creature or planeswalker. Excess damage is dealt to that permanent&apos;s controller instead.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/188.png" num="159">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dismantling Pulse</name>
+			<text>Destroy target artifact. Dismantling Pulse deals 1 damage to that artifact&apos;s controller.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/189.png" num="137">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inspiration of Example</name>
+			<text>Target creature you control gets +2/+2 until end of turn. Other creatures you control get +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/190.png" num="145">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sorrow&apos;s Release</name>
+			<text>Add {R}{R}{R}. Sorrow&apos;s Release deals 1 damage to you.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/191.png" num="160">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ashen Instincts</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+2 and has haste.
+Cache {R} ({R}, Exile this card from your hand: Draw a card. You can cast this later by also discarding a card.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/192.png" num="130">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Spark of War</name>
+			<text>Target creature gets +1/+0 and gains first strike until end of turn.
+Exile the top card of your library. Until the end of your next turn, you may play that card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/193.png" num="161">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Violent War Cry</name>
+			<text>Choose one—
+• Target creature can&apos;t block this turn.
+• Target creature gets +3/+0 until end of turn.
+Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/194.png" num="164">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Liberating Blow</name>
+			<text>Target creature you control deals damage equal to its power to another target creature. Scry 1.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/195.png" num="148">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Maddening Haze</name>
+			<text>Untap up to X target creatures and gain control of them until end of turn, where X is one plus the number of Calamities in your graveyard. They gain haste until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/196.png" num="150">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Calamity</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Colossal Ally</name>
+			<text>Stalwart — Whenever you cast a spell that targets one or more Allies you control, target creature has base power and toughness 6/6 and gains trample until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/197.png" num="175">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Troll Druid Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eh&apos;Tharaesed, Who Saw All</name>
+			<text>If drawing a card except the first one you draw in each of your draw steps causes an ability of a permanent you control to trigger, that ability triggers an additional time.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/198.png" num="216">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Decoator Crab</name>
+			<text>Tap two untapped tokens you control: This creature can&apos;t be blocked this turn.
+Whenever this creature deals combat damage to a player, create a 0/1 blue Plant Wall creature token with defender named Kelp.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/199.png" num="49">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crab</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancestral Animus</name>
+			<text>Flying
+Whenever you draw your second card each turn, create a 1/1 blue Spirit creature token with flying.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/200.png" num="44">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Guiding Voices</name>
+			<text>Whenever this creature deals combat damage to a player, target player mills that many cards.
+Whenever you expend 5, this creature gets +2/+2 until end of turn and can&apos;t be blocked this turn. (You expend 5 as you spend your fifth total mana to cast spells during a turn.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/201.png" num="58">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Rogue Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Portalmaster Vanguard</name>
+			<text>Whenever you cast Portalmaster Vanguard or another spell, if it wasn&apos;t cast from your hand, draw a card. This ability triggers only once each turn.
+Cache {2} ({2}, Exile this card from your hand: Draw a card. You can cast this later by also discarding a card.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/202.png" num="67">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scholar of the Lost Troves</name>
+			<text>Flying
+When this creature enters, if you cast it, search your library for an instant or sorcery card, reveal it, put it into your hand, then shuffle.
+Cache {1}{U} ({1}{U}, Exile this card from your hand: Draw a card. You can cast this later by also discarding a card.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/203.png" num="73">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Wizard Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wailing Husk</name>
+			<text>Vigilance
+When this creature enters, choose up to one target creature with mana value X or less. Its owner puts it on the top or bottom of their library.
+{1}{U}, {T}: Target player mills three cards.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/204.png" num="84">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>XUU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unbearable Secrets</name>
+			<text>When this enchantment enters, draw a card, then discard a card.
+Whenever you draw a card, target opponent mills two cards.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/205.png" num="82">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Swelling Surge</name>
+			<text>Counter target spell.
+Whenever you expend 5, you may exile this card from your graveyard. If you do, draw a card. (You expend 5 as you spend your fifth total mana to cast spells during a turn.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/206.png" num="79">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Recategorize</name>
+			<text>Target player shuffles their graveyard into their library. Exile Recategorize. (It won&apos;t be cached when exiled this way.)
+Cache {U} ({U}, Exile this card from your hand: Draw a card. You can cast this later by also discarding a card.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/207.png" num="69">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Flash Frost</name>
+			<text>Tap up to X target creatures and put a stun counter on each of them, where X is one plus the number of Calamities in your graveyard. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/208.png" num="54">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant — Calamity</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>True // Form</name>
+			<text>Create a 1/1 white Ally creature token.
+Draw a card.
+
+---
+
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+Up to two target creatures each lose all abilities and become your choice of a 1/1 blue Fish or a 4/4 blue Octopus until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/209.png" num="81">DWE</set>
+			<prop>
+				<layout>aftermath</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U // 3UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Epoch Sculpting</name>
+			<text>When this enchantment enters, draw a card.
+{1}{U}, Sacrifice this enchantment: Draw a card.
+{1}{U}, Exile this card from your graveyard: Draw a card.
+Cache {U} ({U}, Exile this card from your hand: Draw a card. You can cast this later by also discarding a card.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/210.png" num="51">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Forlorn Priest</name>
+			<text>Lifelink
+Stalwart — Whenever you cast a spell that targets one or more Allies you control, scry 2.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/211.png" num="15">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Craftrig Rescuer</name>
+			<text>Whenever this creature deals combat damage to a player, create a tapped 1/1 white Ally creature token.
+{2}: This creature gains flying until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/212.png" num="9">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Artificer Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heightseeker Wildhorn</name>
+			<text>As long as this creature is attacking, it gets +1/+0 and has first strike.
+Whenever this creature deals combat damage to a player, exile target permanent, then return that permanent to the battlefield under its owner&apos;s control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/213.png" num="19">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goat Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nameless Martyr</name>
+			<text>When this creature dies, put a +1/+1 counter on each creature you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/214.png" num="27">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Survivor&apos;s Stampede</name>
+			<text>Target creature you control gets +3/+0 until end of turn. Each other creature you control gets +2/+1 until end of turn.
+Cache {2}{W} ({2}{W}, Exile this card from your hand: Draw a card. You can cast this later by also discarding a card.)
+When you cache this card, create two tapped 1/1 white Ally creature tokens.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/215.png" num="40">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Purveyor of the Wastes</name>
+			<text>Flying
+Whenever one or more tokens you control leave the battlefield, reveal the top card of your library. If it&apos;s a permanent card, put it into your hand. Otherwise, you may put it into your graveyard. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/216.png" num="34">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Militant Showman</name>
+			<text>Stalwart — Whenever you cast a spell that targets one or more Allies you control, if it&apos;s your turn, this creature gains double strike until end of turn. Otherwise, untap it.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/217.png" num="26">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Azra Warrior Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Voidgaze</name>
+			<text>Choose one—
+• Counter target spell with mana value 4 or greater.
+• Counter target spell that was cast from anywhere other than its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/218.png" num="42">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fates Willing</name>
+			<text>Target creature you control gains protection from the color of your choice until end of turn. (It can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color until end of turn.)
+Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/219.png" num="12">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Next // Nothing</name>
+			<text>Tap target creature, then untap another target creature.
+
+---
+
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+Exile target tapped creature and target untapped creature.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/220.png" num="28">DWE</set>
+			<prop>
+				<layout>aftermath</layout>
+				<side>front</side>
+				<type>Instant // Sorcery</type>
+				<maintype>Instant</maintype>
+				<manacost>W // 4WW</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Conquest, the First Horseman</name>
+			<text>Lifelink
+Whenever Conquest, the First Horseman attacks, return target creature card from your graveyard to the battlefield tapped and attacking.
+Whenever Conquest blocks, return target creature card from your graveyard to the battlefield blocking each creature Conquest is blocking.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DWE-files/img/221.png" num="7">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>5WW</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Famine, the Third Horseman</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever Famine, the Third Horseman attacks, put a stun counter on each creature defending player controls.
+Whenever Famine blocks, put a stun counter on each attacking creature.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DWE-files/img/222.png" num="52">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Death, the Final Horseman</name>
+			<text>Deathtouch
+Whenever Death, the Final Horseman attacks, destroy target creature defending player controls.
+Whenever Death blocks, attacking player sacrifices an attacking creature.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DWE-files/img/223.png" num="93">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>War, the Second Horseman</name>
+			<text>Haste
+Whenever War, the Second Horseman attacks for the first time each turn, untap it and up to one other target creature. After this phase, there is an additional combat phase.
+Whenever War blocks, it and another target blocking creature gain double strike until end of turn.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DWE-files/img/224.png" num="165">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pestilence, the Fourth Horseman</name>
+			<text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Whenever Pestilence, the Fourth Horseman attacks, double the number of counters on any number of target creatures.
+Whenever Pestilence blocks, put a +1/+1 counter on each blocking creature.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DWE-files/img/225.png" num="189">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Betrayer of Light</name>
+			<text>Flying, trample, lifelink
+As this enters, you may sacrifice any number of creatures. This creature enters with that many +1/+1 counters on it.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/226.png" num="211">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fevered Visions</name>
+			<text>At the beginning of each player&apos;s end step, that player draws a card. If the player is your opponent and has four or more cards in hand, this enchantment deals 2 damage to that player.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/227.png" num="218">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Phopus, Mist Sage</name>
+			<text>Flash
+When Phopus, Mist Sage enters, prevent all damage that would be dealt to it this turn.
+Whenever damage that would be dealt to you or a creature you control is prevented, target player mills that many cards.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/228.png" num="223">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nick of Time</name>
+			<text>Choose one—
+• Until end of turn, your life total can&apos;t change and you gain protection from everything.
+• All permanents you control phase out. (Treat them and anything attached to them as though they don&apos;t exist until your next turn.)
+Exile Nick of Time.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/229.png" num="220">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Caljak, Shadow of the End</name>
+			<text>Whenever Caljak, Shadow of the End attacks, put a face-up exiled card into its owner&apos;s graveyard. If that card is an artifact card, Caljak gains indestructible until end of turn. If that card is a creature card, put a +1/+1 counter on Caljak. If that card is an enchantment card, Caljak gains deathtouch until end of turn. If that card is a land card, you gain 3 life. If that card is none of those types, draw a card.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWE-files/img/230.png" num="212">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Noctus, Shaper of Stars</name>
+			<text>[+1]: Look at the top three cards of your library. Put one of those cards into your hand, one on top of your library, and one on the bottom of your library.
+[0]: Exile target nonland permanent. Return it to the battlefield under its owner&apos;s control at the beginning of your next upkeep.
+[-4]: Until your next turn, each player skips their beginning phase. (The beginning phase includes the untap, upkeep, and draw steps.)</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DWE-files/img/231.png" num="221">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Noctus</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Opportunistic Ooze</name>
+			<text>Whenever this creature enters or attacks, exile up to one target card from a graveyard. If it was a creature or Calamity card, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/232.png" num="187">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spore Bear</name>
+			<text>{T}, Sacrifice this creature: Prevent all combat damage that would be dealt this turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/233.png" num="202">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus Bear</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Obliteration Troll</name>
+			<text>Trample
+At the beginning of each players upkeep, that player mills a card.
+This creature can&apos;t attack or block unless a creature card was put into a graveyard from anywhere this turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/234.png" num="186">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Troll Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Witness of the End</name>
+			<text>At the beginning of your end step, if you expended 5 this turn, return target permanent card from your graveyard to your hand. (You expend 5 as you spend your fifth total mana to cast spells during a turn.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/235.png" num="208">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Shaman Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Survivor&apos;s Tenacity</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+0 and has trample.
+As long as you have expended 5 this turn, you may cast this card from your graveyard without paying its mana cost. (You expend 5 as you spend your fifth total mana to cast spells during a turn.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/236.png" num="204">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hound of War</name>
+			<text>Haste
+This creature enters with an additional +1/+1 counter on it if it was cast from anywhere other than your hand.
+Cache {2} ({2}, Exile this card from your hand: Draw a card. You can cast this later by also discarding a card.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/237.png" num="144">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Otherworldly Occultist</name>
+			<text>Whenever you cast a spell from anywhere other than your hand, create a 1/1 white Ally creature token. It gains haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/238.png" num="154">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alliance Firestarter</name>
+			<text>Damage can&apos;t be prevented.
+Stalwart —  Whenever you cast a spell that targets one or more Allies you control, this creature deals 1 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/239.png" num="128">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Burning Champion</name>
+			<text>At the beginning of your end step, if you lost life this turn, put a +1/+1 counter on this creature. (Damage causes loss of life.)
+When this creature dies, it deals damage equal to its power to any target.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/240.png" num="132">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alliance Officer</name>
+			<text>First strike
+At the beginning of each combat, if you expended 5 this turn, creatures you control get +1/+0 and gain haste until end of turn. (You expend 5 as you spend your fifth total mana to cast spells during a turn.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/241.png" num="129">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Soldier Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frightful Compatriot</name>
+			<text>Menace
+Stalwart —  Whenever you cast a spell that targets one or more Allies you control, target creature can&apos;t block this turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/242.png" num="139">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Warrior Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Uncontrollable Forces</name>
+			<text>Uncontrollable Forces deals 5 damage to target creature or planeswalker. Excess damage is dealt to you instead.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/243.png" num="163">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Devastation of War</name>
+			<text>Devastation of War deals X damage to each creature, where X is 1 plus the number of Calamity cards in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/244.png" num="134">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Calamity</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Act on Instinct</name>
+			<text>Exile the top three cards of your library. Until the end of your next turn, you may play those cards.
+Cache {2} ({2}, Exile this card from your hand: Draw a card. You can cast this later by also discarding a card.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/245.png" num="127">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Melting Point</name>
+			<text>Choose one —
+• Destroy target artifact.
+• Change the target of target spell or ability with a single target.
+• Melting Point deals 1 damage to each player.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/246.png" num="152">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blast // Smithereens</name>
+			<text>Target creature you control deals damage equal to its power to target creature or planeswalker you don&apos;t control.
+
+---
+
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+Exile target card from a graveyard. Create a number of tapped Treasure tokens equal to its mana value.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWE-files/img/247.png" num="131">DWE</set>
+			<prop>
+				<layout>aftermath</layout>
+				<side>front</side>
+				<type>Instant // Sorcery</type>
+				<maintype>Instant</maintype>
+				<manacost>1R // 3RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Defiant Strike</name>
+			<text>Target creature gets +1/+0 until end of turn.
+Draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWE-files/img/248.png" num="10">DWE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

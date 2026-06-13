@@ -1,0 +1,4470 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>WBR</name>
+			<longname>Wildbrier</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-06-13</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Knowledge from Beyond</name>
+			<text>Draw three cards, then exile a card from your hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/0.png" num="70">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Contemplate</name>
+			<text>Draw a card. Muse 2. (Choose up to two counters on different permanents you control and/or cards you own in exile. For each of them, remove it or add another.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/1.png" num="56">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cloud Curtain</name>
+			<text>Flash
+When Cloud Curtain enters, you may return another target creature or enchantment to its owner&apos;s hand.
+{2}{U}, Exile Cloud Curtain: Draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/2.png" num="55">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Farlands Breezecaller</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+{5}{U}, Exile Farlands Breezecaller: Return target instant or sorcery card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/3.png" num="63">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frost Manifest</name>
+			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+When Frost Manifest enters, if only blue and/or colorless mana was spent to cast it, tap all nonland permanents your opponents control and put a stun counter on each of those permanents.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/4.png" num="66">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Explosive Winter</name>
+			<text>Enchant creature
+When Explosive Winter enters, tap enchanted creature and all other creatures with the same name as that creature.
+At the beginning of your end step, put a stun counter on enchanted creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/5.png" num="62">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Spirit Wings</name>
+			<text>Enchant creature
+When you cast this spell, if you&apos;ve cast another spell this turn, copy this spell. You may choose new targets for the copy. (The copy becomes a token.)
+Enchanted creature gets +1/+1 and gains flying.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/6.png" num="85">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reimagine</name>
+			<text>Target creature&apos;s owner puts it on the top or bottom of their library.
+Muse 1. (Choose a counter on a permanent you control or a card you own in in exile. Remove it or add another.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/7.png" num="83">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Plagued Thoughtbuilder</name>
+			<text>{T}: Draw a card, then exile a card from your hand. If you exiled a Nightmare card this way, muse 1. (Choose a counter on another permanent you control or a card you own in in exile. Remove it or add another.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/8.png" num="80">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Imaginary Snake</name>
+			<text>Deathtouch</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/9.png" num="200">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Snake Reflection</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Runepelt Bear</name>
+			<text>Whenever Runepelt Bear deals combat damage to a player, muse 1. (Choose a counter on another permanent you control or a card you own in in exile. Remove it or add another.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/10.png" num="218">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nascent Sapling</name>
+			<text>Trample
+Suspend 2—{1}{G}{G} (Rather than cast this card from your hand, you may pay {1}{G}{G} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)
+Nascent Sapling enters with two +1/+1 counters on it if it was cast from exile.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/11.png" num="207">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dreamlight Druid</name>
+			<text>When Dreamlight Druid enters, choose one —
+• Put a +1/+1 counter on target creature.
+• Muse 1. (Choose a counter on another permanent you control or a card you own in in exile. Remove it or add another.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/12.png" num="193">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whisperer of the Woods</name>
+			<text>{T}: Add {G}.
+{T}: Add {G}{G}. Activate only if you control a creature with toughness 4 or greater.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/13.png" num="223">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mossy Stoneguard</name>
+			<text>Whenever Mossy Stoneguard deals combat damage to a player, put a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/14.png" num="206">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lifesower Treefolk</name>
+			<text>Reach
+When Lifesower Treefolk enters, you gain life equal to the greatest toughness among other creatures you control.
+Suspend 4—{1}{G} (Rather than cast this card from your hand, you may pay {1}{G} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/15.png" num="203">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flufftail Guide</name>
+			<text>When Flufftail Guide enters, if you own a suspended card, draw a card. Otherwise, scry 2.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/16.png" num="195">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Squirrel Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lucid Dreamwalker</name>
+			<text>{1}{G}: Muse 1. Activate only as a sorcery and only once each turn. (Choose a counter on another permanent you control or a card you own in in exile. Remove it or add another.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/17.png" num="204">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Centaur Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grazing Beetlebeast</name>
+			<text>Vigilance
+Suspend 6—{1}{G} (Rather than cast this card from your hand, you may pay {1}{G} and exile it with six time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/18.png" num="198">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Colossal Greatwoods</name>
+			<text>Vigilance, reach
+When Colossal Greatwoods enters, if only green and/or colorless mana was spent to cast it, creatures you control get +2/+2 and gain vigilance until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/19.png" num="190">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arbor Strike</name>
+			<text>Put a +1/+1 counter on target creature you control. That creature deals damage equal to its toughness to target creature you don&apos;t control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/20.png" num="182">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tower Over Treetops</name>
+			<text>Target creature you control gets +X/+X until end of turn, where X is its toughness. It must be blocked this turn if able.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/21.png" num="222">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inner Strength</name>
+			<text>Flash
+Enchant creature
+When Inner Strength enters, enchanted creature gains your choice of hexproof or trample until end of turn.
+Enchanted creature gets +2/+2.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/22.png" num="202">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Maker&apos;s Contemplation</name>
+			<text>Exile the top four cards of your library. Put up to one permanent card from among them into your hand. Until end of turn, you may play land cards exiled this way.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/23.png" num="205">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Adventurous Spirit</name>
+			<text>Enchant creature
+When Adventurous Spirit enters, put a +1/+1 counter on enchanted creature.
+Whenever enchanted creature attacks, muse 1. (Choose a counter on another permanent you control or a card you own in in exile. Remove it or add another.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/24.png" num="181">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Induce Serenity</name>
+			<text>If you control a Forest and a Treefolk, you may cast this spell without paying its mana cost.
+Prevent all combat damage that would be dealt this turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/25.png" num="201">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Growth Mindset</name>
+			<text>Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Muse 1. (Choose a counter on a permanent you control or a card you own in in exile. Remove it or add another.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/26.png" num="199">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Return to Fantasy</name>
+			<text>Choose one —
+• Return to Fantasy deals 5 damage to target creature with flying.
+• Destroy target enchantment.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/27.png" num="215">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Homage to Life</name>
+			<text>Homage to Life enters tapped.
+{T}: Add {G}.
+{1}{G}, {T}, Exile Homage to Life: Draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/28.png" num="246">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Luminous Familiar</name>
+			<text>Lifelink
+Luminous Familiar enters with a +1/+1 counter on it.
+When Luminous Familiar dies, put its counters on another target creature you control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/29.png" num="31">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Cat Reflection</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Willing Cordoneer</name>
+			<text>{W}, Sacrifice Willing Cordoneer: Exile target creature or enchantment you own. For as long as it remains exiled, you may cast it without paying its mana cost.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/30.png" num="48">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hyena Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Intrepid Hare</name>
+			<text>Suspend 2—{W} (Rather than cast this card from your hand, you may pay {W} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/31.png" num="27">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vigil Hawkwarden</name>
+			<text>Whenever a creature you control attacks alone, untap Vigil Hawkwarden.
+{W}, {T}: Another target creature gets +1/+1 until end of turn. Activate only during your turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/32.png" num="47">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dreamcatcher Mage</name>
+			<text>{2}, {T}: Tap another target untapped creature. If it&apos;s your turn and that creature has no counters on it, you may put a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/33.png" num="21">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Reflection Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Students of Dreamcraft</name>
+			<text>Suspend 3—{3}{W} (Rather than cast this card from your hand, you may pay {3}{W} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)
+When Students of Dreamcraft enters, if you cast it from exile, put a +1/+1 counter on each creature you control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/34.png" num="42">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancestral Strix</name>
+			<text>Flying
+Whenever you cast a spell from exile, put a +1/+1 counter on Ancestral Strix.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/35.png" num="8">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Quest for Acorns</name>
+			<text>Create two 1/1 white Squirrel creature tokens with &quot;Whenever this creature deals combat damage to a player, muse 1.&quot; (Choose a counter on another permanent you control or a card you own in in exile. Remove it or add another.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/36.png" num="35">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Barkclad Hunter</name>
+			<text>When Barkclad Hunter enters, choose up to one—
+• Destroy target tapped creature.
+• Destroy target Nightmare creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/37.png" num="10">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Centaur Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soul Searching</name>
+			<text>When Soul Searching enters, create a white Reflection enchantment creature token with &quot;This creature&apos;s power and toughness is equal to the number of enchantments you control.&quot;
+{2}{W}: Scry 2.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/38.png" num="41">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Canopy Griff</name>
+			<text>Flying, vigilance
+When Canopy Griff enters, if only white and/or colorless mana was spent to cast it, distribute three +1/+1 counters among one, two, or three target creatures you control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/39.png" num="14">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Griffin Reflection</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Venerated Chimera</name>
+			<text>When Venerated Chimera enters, create a 1/1 white Squirrel creature token with &quot;Whenever this creature deals combat damage to a player, muse 1.&quot; (Choose a counter on another permanent you control or a card you own in in exile. Remove it or add another.)
+{2}{W}: Exile Venerated Chimera. You may cast it on a later turn without paying its mana cost.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/40.png" num="46">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Chimera</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rend the Lucid</name>
+			<text>This spell costs {1} less to cast if you control an enchantment.
+Rend the Lucid deals 5 damage to target attacking or blocking creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/41.png" num="37">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tragic Slumber</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t attack or block, and it has &quot;{5}: Exile this creature with two time counters on it and if it doesn&apos;t have suspend, it gains suspend.&quot; (At the beginning of its controllers upkeep, they remove a time counter from it. When the last is removed, they may cast it without paying its mana cost.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/42.png" num="44">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Creation&apos;s Favor</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Put a +1/+1 counter on target creature you control.
+If you control a creature with toughness 4 or greater, you gain 1 life and you draw a card.
+​</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/43.png" num="18">WBR</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Conjure Safety</name>
+			<text>The next time a source of your choice would deal damage this turn, prevent that damage. 
+Muse 1. (Choose a counter on a permanent you control or a card you own in in exile. Remove it or add another.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/44.png" num="17">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cloak of Reprise</name>
+			<text>Enchant creature
+Enchanted creature gets +3/+3.
+{0}: Exile enchanted creature. For as long as it remains exiled, its owner may cast it without paying its mana cost.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/45.png" num="16">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tap into Transience</name>
+			<text>Creatures you control get +2/+1 until end of turn.
+Suspend 3—{1}{W} (Rather than cast this card from your hand, you may pay {1}{W} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/46.png" num="43">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shattering Declaration</name>
+			<text>Destroy target artifact or enchantment. Muse 1. (Choose a counter on a permanent you control or a card you own in in exile. Remove it or add another.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/47.png" num="40">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Homage to Majesty</name>
+			<text>Homage to Majesty enters tapped.
+{T}: Add {W}.
+{1}{W}, {T}, Exile Homage to Majesty: Draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/48.png" num="247">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Reflection WBR</name>
+			<text>This token&apos;s power and toughness are each equal to the number of enchantments you control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/49.png" num="1">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Enchantment Creature — Reflection</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Squirrel WBR</name>
+			<text>Whenever this creature deals combat damage to a player, muse 1. (Choose a counter on another permanent you control or a card you own in in exile. Remove it or add another.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/50.png" num="2">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Squirrel</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Rebloom Apex</name>
+			<text>At the beginning of your second main phase, add one mana of any color.
+{2}, Exile Rebloom Apex: Muse 2. (Choose up to two counters on different other permanents you control and/or cards you own in exile. For each of them, remove it or add another.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/51.png" num="6">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Grim Stalker</name>
+			<text>Haste
+Unnerve — Whenever one or more cards you own are put into exile, Grim Stalker gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/52.png" num="151">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inaugural Migration</name>
+			<text>Create two 1/1 red Beast creature tokens. If you control no tapped lands, instead create three 1/1 red Beast creature tokens and they gain haste until end of turn.
+Suspend 1—{2}{R}{R} (Rather than cast this card from your hand, you may pay {2}{R}{R} and exile it with a time counter on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/53.png" num="157">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Readied Blademaster</name>
+			<text>Whenever you cast your second spell each turn, Readied Blademaster gets +1/+0 and gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/54.png" num="167">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Terrorized Terrorizer</name>
+			<text>{4}{R}, Exile Terrorized Terrorizer from your graveyard: Create a tapped 0/0 black Nightmare creature token and put three +1/+1 counters on it. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/55.png" num="175">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Growing Following</name>
+			<text>When Growing Following enters, you may search your library for a card named Growing Following and exile it with three time counters on it.
+Suspend 3—{R} (Rather than cast this card from your hand, you may pay {R} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/56.png" num="152">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dreamdust Sage</name>
+			<text>When Dreamdust Sage enters, choose one—
+• Destroy target colorless nonland permanent.
+• Add {R} for each suspended card you own.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/57.png" num="144">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ire Razer</name>
+			<text>As an additional cost to cast this spell, exile a creature you control or a card from your hand.
+Menace</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/58.png" num="161">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Orcish Javelineer</name>
+			<text>Orcish Javelineer enters with a javelin counter on it.
+Orcish Javelineer has reach as long as it has a javelin counter on it.
+Whenever Orcish Javelineer becomes blocked, you may remove a javelin counter from it. If you do, Orcish Javelineer deals 3 damage to target creature blocking it.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/59.png" num="164">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aberrant Ogre</name>
+			<text>Trample
+Aberrant Ogre enters with a +1/+1 counter on it if you own a suspended card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/60.png" num="137">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ogre Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Imminent Storm</name>
+			<text>Imminent Storm deals 3 damage to any target.
+Suspend 2—{R} (Rather than cast this card from your hand, you may pay {R} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/61.png" num="156">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Incanted Bombardment</name>
+			<text>This spell costs {2} less to cast if you&apos;ve cast another spell this turn.
+Incanted Bombardment deals 5 damage to target creature or planeswalker.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/62.png" num="158">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Panicked State</name>
+			<text>Gain control of target creature until end of turn. Untap that creature. Until end of turn, it gets +1/+0 for each Nightmare you control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/63.png" num="165">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Take the Offensive</name>
+			<text>Creatures you control get +2/+0 until end of turn. If you own three or more cards in exile, draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/64.png" num="174">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Novel Divining</name>
+			<text>Exile the top two cards of your library. Until the end of your next turn, you may play those cards. If any of those cards have suspend, until the end of your next turn, you may suspend them. (You still pay the suspend costs.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/65.png" num="163">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Furcated Fury</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1 and has menace.
+Unnerve — Whenever one or more cards you own are put into exile from anywhere, until end of turn, enchanted creature can&apos;t be blocked except by three or more creatures.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/66.png" num="150">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Surge of Glory</name>
+			<text>Put a +1/+1 counter on target creature you control. That creature gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/67.png" num="173">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hazardous Blast</name>
+			<text>Hazardous Blast deals 1 damage to each creature your opponents control. Creatures your opponents control can&apos;t block this turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/68.png" num="154">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wall of Roses</name>
+			<text>Defender, reach
+{T}: Wall of Roses deals 1 damage to each opponent.
+Whenever you cast a spell from exile, untap Wall of Roses.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/69.png" num="179">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Wall</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Homage to Indulgence</name>
+			<text>Homage to Indulgence enters tapped.
+{T}: Add {R}.
+{1}{R}, {T}, Exile Homage to Indulgence: Draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/70.png" num="245">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Flying Mantis</name>
+			<text>Flying
+{2}{U}, Exile Flying Mantis from your graveyard: Put a flying counter on target creature. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/71.png" num="65">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Starlight Navigator</name>
+			<text>Vigilance
+{T}: Add {U}. Spend this mana only to cast enchantment spells or activate an ability of an enchantment source.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/72.png" num="89">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Star Seeker</name>
+			<text>When Star Seeker enters, draw a card. If you&apos;ve cast two or more spells this turn, instead scry 2 then draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/73.png" num="87">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Nomad</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Canine Accomplice</name>
+			<text>The second spell you cast each turn costs {2} less to cast.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/74.png" num="54">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Wolf Reflection</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Parasomnia</name>
+			<text>Create a 0/0 black Nightmare creature token. Put X +1/+1 counters on it, where X is one plus the number of cards you own in exile.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/75.png" num="79">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Starbog Bullfrog</name>
+			<text>Suspend 5—{1}{U} (Rather than cast this card from your hand, you may pay {1}{U} and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)
+When Starbog Bullfrog enters, you may return another target creature to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/76.png" num="88">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Frog Reflection</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Warped Reflection</name>
+			<text>Defender
+Unnerve — If a card you own was exiled from anywhere this turn, Warped Reflection can attack as though it didn&apos;t have defender.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/77.png" num="92">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Nightmare Reflection</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Star Capture</name>
+			<text>Counter target spell. If you countered an enchantment spell this way, create a Treasure token.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/78.png" num="86">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Accumulating Flaws</name>
+			<text>Counter target spell unless its controller pays {2}, plus an additional {1} for each card you own in exile.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/79.png" num="50">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Negate</name>
+			<text>Counter target noncreature spell.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/80.png" num="78">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nightmare WBR</name>
+			<text></text>
+			<set rarity="special" picurl="https://strataeternal.github.io/sets/WBR-files/img/81.png" num="3">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Decorated Starshell</name>
+			<text>Whenever one or more counters are put on an enchantment you control, creatures you control get +1/+1 until end of turn.
+If an enchantment you control would leave the battlefield, exile it instead and add {U}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/82.png" num="227">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crab</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eternity Watcher</name>
+			<text>Flying
+Unnerve — Whenever one or more cards you own are put into exile from anywhere, you may pay 2 life. If you do, draw a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/83.png" num="229">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thought Ravager</name>
+			<text>Unnerve — At the beginning of your end step, if one or more cards you own were put into exile this turn, each opponent may discard a card or sacrifice a permanent of their choice. Thought Ravager deals 3 damage to each opponent who didn&apos;t.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/84.png" num="238">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cultivator of Bounty</name>
+			<text>At the beginning of your upkeep, you may move a counter from a permanent you control or a card you own in exile onto Cultivator of Bounty.
+Whenever Cultivator attacks, you may remove up to three counters from it. If you do, creatures you control get +1/+1 until end of turn for each counter removed this way.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/85.png" num="226">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Herald of Glory</name>
+			<text>Lifelink
+Spells you cast and abilities you activate that target Herald of Glory cost {1} less cast or activate.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/86.png" num="231">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hellion Catalyzer</name>
+			<text>When Hellion Catalyzer enters, create a 1/1 red Hellion creature token and scry 1.
+Whenever you cast your second spell each turn, return up to one target enchantment you control to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/87.png" num="230">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ancient Lumberknot</name>
+			<text>Each creature you control with toughness greater than its power assigns combat damage equal to its toughness rather than its power.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/88.png" num="224">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Timescape Tactician</name>
+			<text>Suspend 2—{1}{R}{W} (Rather than cast this card from your hand, you may pay {1}{R}{W} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)
+Whenever Timescape Tactician enters from exile or you cast a spell from exile, target creature gets +2/+0 and gains lifelink until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/89.png" num="239">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Keeper of Legacy</name>
+			<text>Keeper of Legacy enters with a +1/+1 counter on it.
+Whenever a counter is removed from Keeper of Legacy, you gain 3 life and draw a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/90.png" num="233">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unwilling Ingredient</name>
+			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
+{2}{B}, Exile Unwilling Ingredient from your graveyard: You draw a card and you lose 1 life.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/91.png" num="135">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Feardrinker</name>
+			<text>Unnerve — Whenever one or more cards you own are exiled, Feardrinker gets +1/+1 and gains lifelink until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/92.png" num="107">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reaping Gorgon</name>
+			<text>Deathtouch
+Reaping Gorgon gets +2/+2 as long as you own seven or more cards in exile.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/93.png" num="122">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Gorgon Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dreadfeeder Vulture</name>
+			<text>Flying
+Exile five cards from your graveyard: Each opponent loses 2 life and you gain 2 life.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/94.png" num="102">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Trauma Seeder</name>
+			<text>Unnerve — Whenever one or more cards you own are exiled, each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/95.png" num="133">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dreamrobber Boggart</name>
+			<text>When Dreamrobber Boggart enters, you may exile a creature card from your graveyard. If you do, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/96.png" num="104">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Festering Wildroach</name>
+			<text>Menace
+When Festering Wildroach enters or dies, muse 1. (Choose a counter on another permanent you control or a card you own in in exile. Remove it or add another.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/97.png" num="108">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Malevolent Imperial</name>
+			<text>{1}{B}, Exile another creature you control: Put a +1/+1 counter on Malevolent Imperial.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/98.png" num="113">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ogre Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stubborn Lumberkin</name>
+			<text>Menace
+When Stubborn Lumberkin enters, if only black and/or colorless mana was spent to cast it, target creature gets -4/-4 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/99.png" num="129">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deathsower Treefolk</name>
+			<text>Reach
+When Deathsower Treefolk enters, each opponent loses life equal to the greatest toughness among other creatures you control.
+Suspend 4—{2}{B} (Rather than cast this card from your hand, you may pay {2}{B} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/100.png" num="98">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jarred Awake</name>
+			<text>Destroy target creature or planeswalker.
+You may put a +1/+1 counter on a creature you control or put a time counter on a suspended card in exile.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/101.png" num="112">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dead Weight</name>
+			<text>Enchant creature
+Enchanted creature gets -2/-2.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/102.png" num="97">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nightmarish Culling</name>
+			<text>Choose one—
+• Each opponent sacrifices a creature.
+• Each opponent sacrifices an enchantment.
+• Each opponent puts a suspended card they own from exile into their graveyard.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/103.png" num="114">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Demuse</name>
+			<text>As an additional cost to cast, exile a creature you control or pay {3}{B}.
+Destroy target creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/104.png" num="100">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Delusions of Power</name>
+			<text>You draw two cards and lose 2 life.
+Suspend 2—{1}{B} (Rather than cast this card from your hand, you may pay {1}{B} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/105.png" num="99">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Raise Dread</name>
+			<text>Return up to two target creature cards from your graveyard to your hand
+Suspend 3—{B} (Rather than cast this card from your hand, you may pay {B} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/106.png" num="120">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Obliviate Identity</name>
+			<text>Target opponent discards a card. 
+Unnerve — If a card you own was exiled from anywhere this turn, instead that player reveals their hand, you choose a nonland card from it, then that player discards that card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/107.png" num="118">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nightmarish Vigor</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+0.
+When enchanted creature dies or is put into exile from the battlefield, return it to the battlefield under its owner&apos;s control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/108.png" num="116">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Subtle Strike</name>
+			<text>Choose one or both—
+• Target creature gets -1/-1 until end of turn.
+• Put a +1/+1 counter on target creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/109.png" num="130">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Homage to Mystery</name>
+			<text>Homage to Mystery enters tapped.
+{T}: Add {B}
+{1}{B}, {T}: Exile Homage to Mystery: Draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/110.png" num="248">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Gnarled Spawn</name>
+			<text>Defender
+When Gnarled Spawn dies, choose one—
+• Target creature gets -1/-1 until end of turn.
+• Muse 1. (Choose a counter on another permanent you control or a card you own in in exile. Remove it or add another.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/111.png" num="109">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nightveil Pathmaker</name>
+			<text>Menace
+Whenever Nightveil Pathmaker attacks alone, put a +1/+1 counter on it.
+{B}, Exile Nightveil Pathmaker from your graveyard: Put two time counters on up to one target suspended card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/112.png" num="117">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warrior Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Winding Recluse</name>
+			<text>Deathtouch
+Whenever Winding Recluse attacks, you may exile a card from your hand or graveyard.
+Whenever Winding Recluse deals combat damage to a player, that player loses X life, where X is the number of cards you own in exile.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/113.png" num="136">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snake Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tainted Simian</name>
+			<text>Whenever Tainted Simian attacks alone, it gets +1/+0 and gains menace until end of turn.
+Spells you cast and abilities you activate that target Tainted Simian cost {1} less and 2 additional life more to cast or activate.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/114.png" num="132">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ape Mutant Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rustbark Shell</name>
+			<text>Trample
+When Rustbark Shell dies, choose Forest or Swamp. Return from your graveyard to your hand target creature card with mana value less than the number of lands you control of the chosen type.
+Suspend 1—{2}{G}{G}</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/115.png" num="125">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scourge of Knottridge</name>
+			<text>When Scourge of Knottridge enters, up to one target creature gets -X/-X until end of turn, where X is the greatest toughness among other creatures you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/116.png" num="127">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk Troll Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cobaash, the Boggart Prince</name>
+			<text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Whenever a creature you control that&apos;s attacking alone dies, you draw a card and you lose 1 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/117.png" num="93">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Goblin Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grasp of the Nightking</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Destroy target creature.
+You may exile a creature you control. If you do, draw a card.
+Exile Grasp of the Nightking and up to three target cards from graveyards.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/118.png" num="110">WBR</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rakish Revival</name>
+			<text>Return target creature card from a graveyard to the battlefield under your control with a +1/+1 counter on it. It can&apos;t attack for as long as it has a +1/+1 counter on it.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/119.png" num="121">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Impending End</name>
+			<text>Each opponent sacrifices a creature with the greatest power among creatures they control.
+Suspend 2—{2}{B} (Rather than cast this card from your hand, you may pay {2}{B} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/120.png" num="111">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unnerving Mutation</name>
+			<text>Target player exiles cards from the top of their library until they exile a land card. Then, each opponent loses life equal to the number of cards exiled this turn or the number of Nightmares you control, whichever is greater.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/121.png" num="134">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spiteful Countenance</name>
+			<text>Enchant creature 
+Enchanted creature has &quot;Exile another creature you control: Put a +1/+1 counter on this creature.&quot;
+When enchanted creature leaves the battlefield, each opponent loses X life and you gain X life where X is its toughness.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/122.png" num="128">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nightmarish Tutor</name>
+			<text>Search your library for a card, put that card into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/123.png" num="115">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BBB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bright-Eyed Scout</name>
+			<text>Bright-Eyed Scout can&apos;t be blocked by creatures with power 3 or greater.
+Whenever Bright-Eyed Scout deals combat damage to a player, muse 1. (Choose a counter on another permanent you control or a card you own in in exile. Remove it or add another.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/124.png" num="187">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Squirrel</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Abstract Arbor</name>
+			<text>Vigilance
+When Abstract Arbor enters or dies, if you control a creature with toughness 4 or greater, draw a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/125.png" num="180">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Treefolk Reflection</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Friendly Fir</name>
+			<text>Friendly Fir enters with two +1/+1 counters on it.
+When Friendly Fir enters, create a 1/1 white Squirrel creature token with &quot;When this creature deals combat damage to a player, muse 1.&quot; (Choose a counter on another permanent you control or a card you own in in exile. Remove it or add another.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/126.png" num="196">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Parading Bouquet</name>
+			<text>Reach
+Parading Bouquet enters with a +1/+1 counter on it.
+{G}, {T}, Remove a +1/+1 counter from Parading Bouquet: Destroy target artifact or enchantment.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/127.png" num="208">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rockbreaker Rhino</name>
+			<text>When Rockbreaker Rhino enters, you may have target creature assign its combat damage this turn as though it weren&apos;t blocked.
+Suspend 2—{3}{G} (Rather than cast this card from your hand, you may pay {3}{G} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/128.png" num="217">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rhino</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ramhead Crasher</name>
+			<text>When Ramhead Crasher enters, it fights up to one target creature you don&apos;t control.
+Suspend 3—{1}{R}{R} (Rather than cast this card from your hand, you may pay {1}{R}{R} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/129.png" num="211">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloomweft Behemoth</name>
+			<text>Other creatures you control enter with an additional +1/+1 counter on them.
+Bloomweft Behemoth gets +1/+1 for each other creature you control with a counter on it.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/130.png" num="185">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>1GGG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chronognawer</name>
+			<text>Whenever a time counter is removed from a card you own in exile, creatures you control gain trample until end of turn.
+Whenever Chronognawer deals combat damage to a player, muse 1. (Choose a counter on another permanent you control or a card you own in in exile. Remove it or add another.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/131.png" num="189">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Snail</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bushwhack</name>
+			<text>Choose one —
+• Search your library for a basic land card, reveal it, put it into your hand then shuffle.
+• Target creature you control fights target creature you don&apos;t control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/132.png" num="188">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Awakening of Bramblebark</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Scry 3.
+Reveal the top card of your library. If a land card is revealed this way, put it onto the battlefield tapped.
+Put four +1/+1 counters on target land you control and it becomes a 0/0 Treefolk creature with haste. It&apos;s still a land.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/133.png" num="183">WBR</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Strength From the Heart</name>
+			<text>Distribute four +1/+1 counters among up to four target creatures you control.
+Suspend 4—{G} (Rather than cast this card from your hand, you may pay {G} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/134.png" num="221">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Poisoned Dogma</name>
+			<text>At the beginning of combat on your turn, exile the top card of your library. When you do, if you own four or more cards in exile, put a +1/+1 counter on target creature you control and it gains deathtouch until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/135.png" num="209">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rebloom</name>
+			<text>Exile target nonland card with mana value X plus 2 or less from your graveyard with two time counters on it. If it doesn&apos;t have suspend, it gains suspend. (At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. If it&apos;s a creature, it has haste.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/136.png" num="212">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XG</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fathom Encroacher</name>
+			<text>When Fathom Encroacher attacks, exile the top card of your library. If it&apos;s a noncreature card, Fathom Encroacher can&apos;t be blocked this turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/137.png" num="64">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Minstrel of Bemusement</name>
+			<text>Minstrel of Bemusement enters with a +1/+1 counter on it.
+Whenever an enchantment you control enters, muse 1. (Choose a counter on another permanent you control or a card you own in in exile. Remove it or add another.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/138.png" num="77">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heretical Devotee</name>
+			<text>Unnerve — Whenever one or more cards you own are put into exile, put a foreshadow counter on Heretical Devotee.
+Remove eight foreshadow counters from Heretical Devotee: Create a 0/0 black Nightmare creature token. Put eight +1/+1 counters on it.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/139.png" num="68">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aeon Drifter</name>
+			<text>Flying
+Whenever Aeon Drifter blocks a creature, you may exile Aeon Drifter and put a time counter on it.
+Suspend 2—{2}{U} (Rather than cast this card from your hand, you may pay {2}{U} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/140.png" num="51">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Jellyfish Reflection</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lake Monstrosity</name>
+			<text>When Lake Monstrosity enters, exile target nonland permanent you don&apos;t control with three time counters on it. If it doesn&apos;t have suspend, it gains suspend.
+Lake Monstrosity can&apos;t be blocked as long as defending player owns a suspended card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/141.png" num="71">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Leviathan</type>
+				<maintype>Creature</maintype>
+				<manacost>3UUU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lost Dreamseeker</name>
+			<text>This spell costs {2} less as long as you&apos;ve cast another spell this turn.
+When Lost Dreamseeker enters, return target instant or sorcery card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/142.png" num="75">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Dwarf Reflection</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inner Self</name>
+			<text>Create a token that&apos;s a copy of a creature you control, except it&apos;s an enchantment and Reflection in addition to its other types.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/143.png" num="69">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stolen Knowledge</name>
+			<text>Exile the top four cards of your library. You may put a card exiled this way into your hand.
+Suspend 2—{1}{B} (Rather than cast this card from your hand, you may pay {1}{B} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/144.png" num="90">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Snap Awake</name>
+			<text>Counter target spell.
+Unnerve — Untap up to one permanent you control. If a card you own was put into exile this turn, untap up to two permanents you control instead.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/145.png" num="84">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Learn Through Repetition</name>
+			<text>Choose one—
+• When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
+• The next sorcery spell you cast this turn can be cast as though it had flash.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/146.png" num="72">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dreamwoven Arcana</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Draw three cards, then put two cards from your hand on top of your library in any order.
+Scry 2.
+Exile the top card of your library. If its a nonland card with mana value 2 or less, you may cast it without paying its mana cost.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/147.png" num="60">WBR</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Haze of Lucidity</name>
+			<text>Tap all creatures target player controls. Muse 1. (Choose a counter on a permanent you control or a card you own in in exile. Remove it or add another.)
+Flashback {4}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/148.png" num="67">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Living Inquiry</name>
+			<text>Flying
+Whenever you cast your second spell each turn, put a +1/+1 counter on Living Inquiry.
+{2}{U}: Living Inquiry becomes a 2/2 Sphinx creature in addition to its other types until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/149.png" num="74">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Angel of Guiding Light</name>
+			<text>Flying, vigilance
+Suspend 3—{1}{W}{W} (Rather than cast this card from your hand, you may pay {1}{W}{W} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/150.png" num="9">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Angel Reflection</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blank</name>
+			<text>Kicker {3} (You may pay an additional {3} as you cast this spell.)
+Exile target nonland permanent if it&apos;s tapped, if it&apos;s an artifact or enchantment, or if this spell was kicked.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/151.png" num="11">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Farwalker Herd</name>
+			<text>Whenever a time counter is removed from Farwalker Herd while it&apos;s exiled, you may search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
+Suspend 1—{2}{W} (Rather than cast this card from your hand, you may pay {2}{W} and exile it with a time counter on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/152.png" num="25">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goat</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Loyal Realmguard</name>
+			<text>Whenever a time counter is removed from a card you own in exile, put a +1/+1 counter on Loyal Realmguard.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/153.png" num="30">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Breathe Life</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Put your choice of a +1/+1 counter, a vigilance counter, or a lifelink counter on target artifact or enchantment you control.
+Until end of turn, target noncreature artifact or enchantment you control becomes a creature in addition to its other types. Its base power and toughness are each equal to the number of lore counters on Breathe Life.
+​</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/154.png" num="13">WBR</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wooly Hermit</name>
+			<text>Flash
+When Wooly Hermit enters, exile another target nonland permanent. For as long as that card remains exiled, its owner may cast it without paying its mana cost.
+Suspend 2—{1}{U} (Rather than cast this card from your hand, you may pay {1}{U} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/155.png" num="49">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Yeti Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mirror Trap</name>
+			<text>When Mirror Trap enters, exile target nonland permanent until Mirror Trap leaves the battlefield.
+When Mirror Trap enters, create a white Reflection enchantment creature token with &quot;This creature&apos;s power and toughness are each equal to the number of enchantments you control.&quot;</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/156.png" num="32">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Chittering Burrower</name>
+			<text>Whenever Chittering Burrower deals combat damage to a player, muse 1. (Choose a counter on another permanent you control or a card you own in in exile. Remove it or add another.)
+Whenever Chittering Burrower is put into exile from anywhere, create a 1/1 white Squirrel creature token with &quot;Whenever this creature deals combat damage to a player, muse 1.&quot;</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/157.png" num="15">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Squirrel</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dauntless Banneret</name>
+			<text>Dauntless Banneret enters with a +1/+1 counter on it.
+At the beginning of combat on your turn, if you control no tapped lands, Dauntless Banneret gains double strike until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/158.png" num="20">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Runaround Entangler</name>
+			<text>Whenever you cast a spell from exile, tap target creature you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/159.png" num="38">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Uplift</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1 and has flying.
+When Uplift is put into a graveyard from the battlefield, you may exile it. If you do, return target enchantment card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/160.png" num="45">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Light Overwhelming</name>
+			<text>Exile the top five cards of your library, then choose any number of nonland permanent cards with total mana value 5 or less from among cards exiled this way, cards in your graveyard, and cards on the battlefield. Destroy each card chosen this way that&apos;s on the battlefield and put the rest into their owners&apos; hands.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/161.png" num="28">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>WWW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Branchwefting</name>
+			<text>Whenever Branchwefting or another nontoken enchantment enters under your control, create a 1/1 white Squirrel creature token with &quot;Whenever this creature deals combat damage to a player, muse 1.&quot; (Choose a counter on another permanent you control or a card you own in in exile. Remove it or add another.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/162.png" num="12">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Incautious Benefactor</name>
+			<text>Menace
+If you would put two or more time counters on a card you own in exile, put that many minus one on that card instead.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/163.png" num="159">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fellowful Artisan</name>
+			<text>As long as it&apos;s your turn, Fellowful Artisan has first strike
+When Fellowful Artisan enters, if it was cast from exile, it enters with a +1/+1 counter on it for each other creature you control.
+Suspend 3—{1}{W}{W}</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/164.png" num="148">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crazed Curator</name>
+			<text>Whenever Crazed Curator enters or attacks, you may put a suspended card you own from exile into your graveyard. If you do, put a +1/+1 counter on Crazed Curator and draw a card.
+Crazed Curator can&apos;t block as long as it has a +1/+1 counter on it.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/165.png" num="142">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brimskin Surlicant</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Unnerve — At the beginning of your end step, if a card you own was put into exile this turn, exile the top card of your library. You may play that card until the end of your next turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/166.png" num="140">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1RRR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blazingplate Monitor</name>
+			<text>When Blazingplate Monitor enters, creatures you control get +1/+0 and gain haste until end of turn.
+Whenever you remove a time counter from Blazingplate Monitor while it&apos;s exiled, target creature you control gets +2/+0 until end of turn. 
+Suspend 4—{2}{R}</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/167.png" num="139">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Splinterhorn Pugilist</name>
+			<text>Whenever you cast a spell from anywhere other than your hand, Splinterhorn Pugilist gains trample and haste until end of turn. Scry 1.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/168.png" num="171">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Barbarian</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Voltaic Manifestation</name>
+			<text>Unnerve — Whenever a card you own is put into exile, until end of turn, Voltaic Manifestation becomes a 5/5 Dragon Elemental creature in addition to its other types, and it gains flying, trample, and haste.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/169.png" num="178">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Static Strangle</name>
+			<text>Static Strangle deals 4 damage to target creature. 
+Exile Static Strangle.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/170.png" num="172">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unfathomable Stoke</name>
+			<text>Damage can&apos;t be prevented this turn. Unfathomable Stoke deals X damage to target creature and 1 damage to each other creature with the same controller.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/171.png" num="177">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XR</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Incredulous Revelation</name>
+			<text>As an additional cost to cast this spell, discard a card.
+Draw two cards. If you&apos;ve cast another spell this turn, draw three cards instead.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/172.png" num="160">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blaze of the Tyrant</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+You may exile a card from your hand. If you do, draw two cards.
+When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
+Exile target instant or sorcery card from your graveyard and put two time counters on it. If it doesn&apos;t have suspend, it gains suspend.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/173.png" num="138">WBR</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dreamers&apos; Determination</name>
+			<text>If a creature you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 1 instead. 
+Whenever you cast your second spell each turn, creatures you control gain trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/174.png" num="145">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rise and Raze</name>
+			<text>Choose one. If this spell was cast from exile, you may choose both instead—
+• Target creature you control gets +2/+0 until end of turn. It deals damage equal to its power to target creature you don&apos;t control.
+• Destroy target colorless nonland permanent or nonbasic land.
+Suspend 1— {3}{R}{R}</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/175.png" num="170">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dreamwoven Druid</name>
+			<text>Dreamwoven Druid enters with two +1/+1 counters on it. If you spent three mana of the same color to cast it, it enters with three +1/+1 counters instead.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/176.png" num="2">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Druid Reflection</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dream Servant</name>
+			<text>Sacrifice Dream Servant: Put target suspend card from exile into its owner&apos;s graveyard. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/177.png" num="1">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hueheft Giant</name>
+			<text>This spell costs {X} less to cast, where X is the greatest number of permanents you control that each share a color.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/178.png" num="4">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nightsnare</name>
+			<text>When Nightsnare enters, exile target creature.
+{4}, Sacrifice Nightsnare: Create a 0/0 black Nightmare creature token. Put X +1/+1 counters on it, where X is the exiled card&apos;s power.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/179.png" num="5">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nostalgic Vista</name>
+			<text>As Nostalgic Vista enters, choose a color. Nostalgic Vista enters tapped unless you control three or more permanents of the chosen color.
+{T}: Add one mana of the chosen color.
+{4}, {T}, Exile Nostalgic Vista: Return target card of the chosen color from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/180.png" num="249">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Horizon Elemental</name>
+			<text>Haste
+Horizon Elemental gets +1/+1 for each time counter among suspended cards you own.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/WBR-files/img/181.png" num="232">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Coalwing Snapper</name>
+			<text>Flying
+When Coalwing Snapper enters, if only red and/or colorless mana was spent to cast it, exile up to one target instant or sorcery card from your graveyard. If you do, copy it. You may cast the copy without paying its mana cost.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/182.png" num="141">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Abscond Fate</name>
+			<text>If your life total is 0 or less, it becomes 1. You can&apos;t lose the game this turn and your opponents can&apos;t win the game this turn. You get X shield counters. (If you would be dealt damage or lose the game, you lose a shield counter instead.)</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/WBR-files/img/183.png" num="7">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XW</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Behold Creation</name>
+			<text>For each enchantment you control, create a token that&apos;s a copy of that permanent.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/WBR-files/img/184.png" num="53">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Paranoia Clutcher</name>
+			<text>Menace
+Whenever Paranoia Clutcher attacks, exile up to one target card from a graveyard. For as long as it remains exiled, you may cast it.
+Whenever Paranoia Clutcher deals combat damage to a player, at the beginning of your next main phase, you lose that much life and add that much mana in any combination of colors.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/WBR-files/img/185.png" num="119">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Eye</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plunge into Eternity</name>
+			<text>Exile cards from the top of your library until you have exiled cards with total mana value X or more. For each nonland card exiled this way, put two time counters on it, then if it doesn&apos;t have suspend, it gains suspend.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/WBR-files/img/186.png" num="166">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XRR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bramblebark, Worldweaver</name>
+			<text>[+2]: Create a 0/1 green Treefolk creature token, then put a +1/+1 counter on it.
+[+1]: Muse 2. (Choose up to two counters on different other permanents you control and/or cards you own in exile. For each of them, remove it or add another.)
+[-4]: Draw a card for each permanent you control and card you own in exile with one or more counters on it.
+[-12]: Search your library for up to seven nonland permanent cards and exile each of them with a time counter on it. Each of those cards that doesn&apos;t have suspend gains suspend.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/WBR-files/img/187.png" num="186">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Bramblebark</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Dewfather</name>
+			<text>Suspend 9—{1}{G}
+Whenever a time counter is removed from The Dewfather while it&apos;s exiled, you gain 1 life. If The Dewfather has five, four, or three time counters on it (after removing the time counter), instead a creature you control gets +1/+1 until end of turn. If The Dewfather has two or one time counters on it, instead create a 2/2 green Bear creature token. If that was the last time counter on The Dewfather, instead distribute ten +1/+1 counters among creatures you control.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/WBR-files/img/188.png" num="192">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Orthuz, the Dreamcleaver</name>
+			<text>Unnerve — Whenever one or more cards you own are put into exile, put two loyalty counters on Orthuz, the Dreamcleaver.
+[-X]: Search your library for a Nightmare or Aura card with mana value X, put it onto the battlefield, then shuffle.
+[-8]: Whenever a creature you control attacks alone this turn, destroy all other creatures.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/WBR-files/img/189.png" num="235">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Orthuz</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kulos, Bard of The Skids</name>
+			<text>[+1]: Create a 1/1 red and blue Faerie creature token with flying, haste, and &quot;Whenever this token deals combat damage to an opponent, sacrifice it, draw a card, then discard a card.&quot;
+[-2]: When you cast your second spell this turn, copy it and you may choose new targets for the copy.
+[-6]: Until end of turn, whenever you cast a spell, draw two cards and add four mana of any one color.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/WBR-files/img/190.png" num="234">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Kulos</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wrathwood Hellkite</name>
+			<text>Flying
+When Wrathwood Hellkite dies, create a 1/2 red and green Dragon Saproling creature token with flying.
+Regrow 3 (When this creature dies, exile it with three time counters on it. It gains suspend. Creatures cast from suspend have haste.)</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/WBR-files/img/191.png" num="242">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>HAL, Impartial Observer</name>
+			<text>Whenever you cast a spell from exile, create a 1/1 colorless Construct artifact creature token.
+[+1]: Add {R}{R}. Spend this mana only to pay suspend costs or activate abilities.
+[-X]: Look at the top X cards of your library. Exile one of them and put the rest on the bottom of your library in a random order. Put a number of time counters on the exiled cards equal to its mana value. If it doesn&apos;t have suspend, it gains suspend.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/192.png" num="3">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — HAL</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>R</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Frosthollow Owl</name>
+			<text>Flying, vigilance, lifelink
+Frosthollow Owl enters with a +1/+1 counter on it.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/193.png" num="26">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Emanation of Angels</name>
+			<text>Suspend 3—{4}{W}{W} (Rather than cast this card from your hand, pay {4}{W}{W} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)
+Whenever a time counter is removed from Emanation of Angels while it&apos;s exiled, create a 4/4 white Angel creature token with flying.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/194.png" num="22">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Recollection of Virtue</name>
+			<text>Tiered (Choose one additional cost.)
++ {1}{W} — Destroy target artifact or enchantment.
++ {2}{W} — Destroy target creature with toughness 4 or greater.
++ {4}{W}{W} — Destroy all artifacts, creatures, and enchantments.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/195.png" num="36">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dreamspeak Augur</name>
+			<text>Whenever you cast your second spell each turn, create a blue Aura enchantment token attached to a creature you control. The token has enchant creature and &quot;Enchanted creature gets +1/+1 and has ward {1}.&quot; Then, scry X, where X is the number of enchantments you control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/196.png" num="59">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Satyr Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Masked</name>
+			<text>Unnerve — Whenever one or more cards you own put into exile from anywhere, if any of those cards are creature cards, you may have The Masked become a copy of one of those creature cards until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/197.png" num="76">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ambitious Vision</name>
+			<text>When Ambitious Vision enters, put a thought counter on a land you control.
+Whenever you draw a card, muse 1. (Choose a counter on another permanent you control or a card you own in in exile. Remove it or add another.)
+At the beginning of your upkeep, if a permanent you control has twenty or more thought counters on it, you win the game.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/198.png" num="52">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Limitless Creativity</name>
+			<text>Search your library for up to three instant and or sorcery cards with different names, exile them, then shuffle. You may cast those cards for as long as they remain exiled.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/199.png" num="73">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Recollection of Aptitude</name>
+			<text>Tiered (Choose one additional cost.)
++ {U} — Scry 1, then draw a card.
++ {2}{U} — Draw two cards.
++ {3}{U}{U} — Each player shuffles their hand and graveyard into their library, then draws seven cards.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/200.png" num="81">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Direrot, Poisoned Oak</name>
+			<text>Deathtouch
+Whenever a Treefolk you control deals combat damage to a player, that player gets that many poison counters. (A player with ten or more poison counters loses the game.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/201.png" num="101">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reculmination of Orthuz</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Choose a card from a graveyard or the top card of a player&apos;s library. Exile it. For as long as it remains exiled, you may cast it by paying 2 life in addition to its other costs and mana of any type can be spent to do so.
+You may put a creature card exiled with this Saga or from your graveyard onto the battlefield under your control.
+​</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/202.png" num="124">WBR</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Emanation of Torments</name>
+			<text>Suspend X—{X}{B}{B}. X can&apos;t be 0. (Rather than cast this card from your hand, pay {X}{B}{B} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)
+Whenever a time counter is removed from Emanation of Torments while it&apos;s exiled, each opponent loses 3 life unless that player sacrifices a nonland permanent or discards a card.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/203.png" num="106">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Recollection of Ambition</name>
+			<text>Tiered (Choose one additional cost.)
++ {B} — Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.
++ {1}{B}{B} — Destroy target creature or planeswalker.
++ {4}{B} — Return target creature card from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/204.png" num="123">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Habrim, the Redeemer</name>
+			<text>Flying
+Whenever another nontoken creature enters, if it was cast from its owner&apos;s hand, you may exile it with a time counter on it. If it doesn&apos;t have suspend, it gains suspend.
+Creatures you control entering the battlefield from exile or cast from exile enter with an additional +1/+1 counter on them.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/205.png" num="153">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Chimera</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Durged, Troubled Dreamer</name>
+			<text>Ward—Pay 3 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)
+Whenever an effect you control puts two or more counters on a permanent, player, or card in exile, create a 3/1 red Nightmare creature token with &quot;This creature attacks each turn if able.&quot;</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/206.png" num="146">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Goblin Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lightning Blade Paladin</name>
+			<text>Lightning Blade Paladin has first strike as long as its your turn.
+Whenever you cast your second spell each turn, you may have Lightning Blade Paladin deal 3 damage to any target.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/207.png" num="162">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Firemane Feline</name>
+			<text>Trample
+Unnerve — Whenever one or more cards you own are put into exile from anywhere, exile the top card of your library. Firemane Feline gets +X/+0 until end of turn, where X is the exiled card&apos;s mana value. This ability triggers only once each turn.
+Whenever Firemane Feline attacks, until end of turn, you may play cards exiled with it.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/208.png" num="149">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Emanation of Ire</name>
+			<text>Suspend 2—{2}{R}{R} (Rather than cast this card from your hand, pay {2}{R}{R} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)
+Whenever a time counter is removed from Emanation of Ire while it&apos;s exiled, if a source you control would deal damage this turn, it deals double that damage instead.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/209.png" num="147">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Recollection of Passion</name>
+			<text>Tiered (Choose one additional cost.)
++ {R} — Recollection of Passion deals 3 damage to any target.
++ {2}{R} — Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
++ {2}{R}{R} — Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/210.png" num="168">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Galetop Greatwurm</name>
+			<text>Trample, reach
+Suspend 2—{G} (Rather than cast this card from your hand, you may pay {G} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)
+If you would cast Galetop Greatwurm without paying its mana cost, it&apos;s a sorcery named Prey Upon with &quot;Target creature you control fights target creature you don&apos;t control.&quot; (Instead of a creature.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/211.png" num="197">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shrubpelt Bane</name>
+			<text>Shrubpelt Bane can&apos;t be countered.
+Trample
+Protection from everything not on the battlefield. (This creature can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything not on the battlefield.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/212.png" num="220">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blessing of the Realm</name>
+			<text>Enchant land
+Other nontoken permanents you control have all activated abilities of enchanted land in addition to their other abilities. Each of those permanents that&apos;s a land also has all land types of enchanted land in addition to its other types.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/213.png" num="184">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Emanation of Evolution</name>
+			<text>Suspend 3—{1}{G}{G} (Rather than cast this card from your hand, pay {1}{G}{G} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)
+Whenever a time counter is removed from Emanation of Evolution while it&apos;s exiled, you may sacrifice a creature. If you do, search your library for a creature card with mana value less than or equal to 1 plus the sacrificed creature&apos;s mana value, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/214.png" num="194">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Recollection of Abundance</name>
+			<text>Tiered (Choose one additional cost.)
++ {G} — Target creature gets +3/+3 until end of turn.
++ {1}{G} — Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
++ {3}{G}{G} — Create a 1/1 green Snake creature token, a 2/2 green Wolf creature token, and a 3/3 green Elephant creature token.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/215.png" num="213">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Corelia, Trinket Sleuth</name>
+			<text>Whenever you cast a spell with mana value 5 or greater from your hand, you may exile target card from a graveyard. You may play that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/216.png" num="225">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Harpy Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dolla, Reflective Overseer</name>
+			<text>Whenever you cast an enchantment spell, if this is the first time this ability has resolved this turn, create a white Reflection enchantment creature token with &quot;This token&apos;s power and toughness are each equal to the number of enchantments you control.&quot; Otherwise, draw a card.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/217.png" num="228">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Wizard Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Silvertail, Veteran Oakguard</name>
+			<text>Vigilance
+Each other Squirrel you control enters with an additional +1/+1 counter on it.
+Whenever Silvertail deals combat damage to a player, muse 3. (Choose up to three counters on different other permanents you control and/or cards you own in exile. For each of them, remove it or add another.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/218.png" num="236">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Squirrel Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sphinx of the Unending</name>
+			<text>Flash
+Flying
+Whenever Sphinx of the Unending deals combat damage to a player, each player discards their hand, then draws cards equal to the greatest power among creatures they control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/219.png" num="237">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Sphinx</type>
+				<maintype>Creature</maintype>
+				<manacost>4UR</manacost>
+				<cmc>6</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Turroy, the Companioneer</name>
+			<text>Flying
+Whenever a creature that doesn&apos;t share a creature type with a creature on the battlefield enters, put a +1/+1 counter on it and its controller draws a card.
+Whenever Turroy attacks, up to one target creature you don&apos;t control gains flying and hexproof until your next turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/220.png" num="241">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Phelddagrif</type>
+				<maintype>Creature</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tulvish, Idol of Abundance</name>
+			<text>Haste
+When Tulvish, Idol of Abundance enters, choose up to X. (Choose each mode only once.)
+• Put a +1/+1 counter on Tulvish.
+• Put a vigilance counter on Tulvish.
+• Put a trample counter on Tulvish.
+• Put a shield counter on Tulvish. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/221.png" num="240">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bear Archon</type>
+				<maintype>Creature</maintype>
+				<manacost>X2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Peacebringer</name>
+			<text>Vigilance
+If a creature card would be put into exile from anywhere, its owner puts it on the bottom of their library instead.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/222.png" num="34">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Endless Horizons</name>
+			<text>When Endless Horizons enters, search your library for any number of Plains cards, exile them, then shuffle.
+At the beginning of your upkeep, you may put a card you own exiled with Endless Horizons into your hand.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/223.png" num="23">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ephemeral Elk</name>
+			<text>Whenever Ephemeral Elk attacks, exile it at end of combat with a time counter on it.
+Suspend 2—{W}{W} (Rather than cast this card from your hand, you may pay {W}{W} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/224.png" num="24">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dream Killer</name>
+			<text>Menace
+Unnerve — Whenever one or more cards you own are exiled, put a +1/+1 counter on Dream Killer.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/225.png" num="103">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Drown in Agony</name>
+			<text>Remove all counters from permanents. Exile all creatures.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/226.png" num="105">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Culmination of Ambition</name>
+			<text>Menace
+Culmination of Ambition gets +1/+1 for each Swamp you control.
+At the beginning of your upkeep, up to one other target creature gets -X/-X until end of turn, where X is Culmination of Ambition&apos;s power.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/WBR-files/img/227.png" num="95">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>BBBB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Culmination of Abundance</name>
+			<text>Trample
+Culmination of Abundance gets +1/+1 for each Forest you control.
+At the beginning of your upkeep, you gain X life, where X is Culmination of Abundance&apos;s power.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/WBR-files/img/228.png" num="191">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>GGGG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Culmination of Aptitude</name>
+			<text>Flying
+Culmination of Aptitude gets +1/+1 for each Island you control.
+At the beginning of your upkeep, scry X, then draw a card, where X is Culmination of Aptitude&apos;s power.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/WBR-files/img/229.png" num="57">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>UUUU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Culmination of Passion</name>
+			<text>First strike
+Culmination of Passion gets +1/+1 for each Mountain you control.
+At the beginning of combat on your turn, gain control of up to one target creature you don&apos;t control with power X or less until end of turn, where X is Culmination of Passion&apos;s power. Untap it. It gains haste until end of turn.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/WBR-files/img/230.png" num="143">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>RRRR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Culmination of Virtue</name>
+			<text>Vigilance
+Culmination of Virtue gets +1/+1 for each Plains you control.
+At the beginning of combat on your turn, up to one other target creature gets +X/+X until end of turn, where X is Culmination of Virtue&apos;s power.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/WBR-files/img/231.png" num="19">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>WWWW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Homage to Antiquity</name>
+			<text>Homage to Antiquity enters tapped.
+{T}: Add {U}.
+{1}{U}, {T}, Exile Homage to Antiquity: Draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/WBR-files/img/232.png" num="244">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Shaping the Dawn Gates</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+Choose one that hasn&apos;t been chosen—
+• Create two 1/1 white Bird creature tokens with flying.
+• Return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield.
+• Creature spells you cast cost {1} less to cast this turn.
+Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.
+​</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/233.png" num="39">WBR</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Deciphering the Great Truth</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+Choose one that hasn&apos;t been chosen—
+• Exile an instant or sorcery card from your graveyard. Copy it. You may cast the copy.
+• Draw up to two cards, then exile that many cards from your hand.
+• Exile up to three cards from your graveyard. When you do, tap target creature and put that many stun counters on it.
+If you own ten or more cards in exile, exile Deciphering the Great Truth and take an extra turn after this one.
+​</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/234.png" num="58">WBR</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crossing the Rubicon</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+Choose one that hasn&apos;t been chosen —
+• Draw three cards.
+• Exile up to one target creature and all creature tokens you don&apos;t control.
+• Put a creature card you own from your graveyard or from exile onto the battlefield under your control.
+Exile Crossing the Rubicon, your hand, your graveyard, and your library.
+​</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/235.png" num="94">WBR</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Igniting the Aster</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+Choose one that hasn&apos;t been chosen —
+• Untap target creature and gain control of it for as long as you control Igniting the Aster. It gains haste.
+• Create a token that&apos;s a copy of target creature, except it has haste. Exile it when Igniting the Aster leaves the battlefield.
+• Exile the top three cards of your library. As long as you control a permanent named Igniting the Aster, you may play those cards.
+Add {R}{R}{R}.
+​</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/236.png" num="155">WBR</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Seeking the Sacred Glade</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+Choose one that hasn&apos;t been chosen —
+• Create a 1/1 green Saproling creature token. Put a +1/+1 counter on it.
+• Put two +1/+1 counters on target creature you control.
+• This turn, each creature you control enters with an additional +1/+1 counter on it.
+For each other permanent you control, you may double the number of each kind of counter on it.
+​</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/237.png" num="219">WBR</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Succumb to Oblivion</name>
+			<text>Until end of turn, you may cast spells from your hand by exiling a number of cards from the top of your library equal to their mana value rather than paying their mana costs.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/WBR-files/img/238.png" num="131">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ralvus, Wild Vengeance</name>
+			<text>Vigilance, reach
+Whenever one or more Treefolk you control deals combat damage to a player, put a +1/+1 counter on each creature you control.
+{B}, {T}, Sacrifice a creature with toughness 4 or greater: Destroy target creature.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/239.png" num="210">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Treefolk Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lilia, Muse of Virtue</name>
+			<text>Whenever you cast another white spell, create an 1/1 green Insect creature token, then put a +1/+1 counter on that token for each time this ability has resolved this turn beyond the first.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/240.png" num="29">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Rabbit Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>WWW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vencent, Muse of Aptitude</name>
+			<text>Whenever you cast another blue spell, scry 1. If it is the second blue spell you&apos;ve cast this turn, draw a card. If it is the third blue spell you&apos;ve cast this turn, copy it. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/241.png" num="91">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Frog Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>UUU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sachah, Muse of Ambition</name>
+			<text>Whenever you cast another black spell, return target non-Incarnation creature card with mana value less than or equal to that spell&apos;s mana value from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/242.png" num="126">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Goblin Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>BBB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Triscan, Muse of Passion</name>
+			<text>Whenever you cast another red spell, exile the top card of your library. Until end of turn, you may play that card.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/243.png" num="176">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>RRR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ringword, Muse of Abundance</name>
+			<text>Whenever you cast another green spell, double Ringword, Muse of Abundance&apos;s power and toughness until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/244.png" num="216">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Treefolk Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>GGG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Birthpoint, the Sacred Glade</name>
+			<text>{T}: Add {C}.
+{T}: Choose a color. If there are four or more mana symbols of that color among permanents you control, add two mana of that color.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/245.png" num="243">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Emanation of Replication</name>
+			<text>Suspend 2—{2}{U}{U} (Rather than cast this card from your hand, pay {2}{U}{U} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)
+Whenever a time counter is removed from Emanation of Reflections while it&apos;s exiled, copy the next noncreature spell you cast from your hand this turn when you cast it. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/246.png" num="61">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Patron of Rebirth</name>
+			<text>When Patron of Rebirth enters, return target creature card with mana value 3 or less from your graveyard to the battlefield.
+Regrow 3 (When this creature dies, exile it with three time counters on it. It gains suspend. Creatures cast from suspend have haste.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/247.png" num="33">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Reflection</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Recurring Reflection</name>
+			<text>You may have Recurring Reflection enter as a copy of another creature on the battlefield, except it&apos;s a Reflection enchantment in addition to its other typed and it has Recurring Reflection&apos;s other abilities.
+Regrow 4 (When this creature dies, exile it with four time counters on it. It gains suspend. Creatures cast from suspend have haste.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/248.png" num="82">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Reflection</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cyclical Manifestation</name>
+			<text>Regrow 3 (When this creature dies, exile it with three time counters on it. It gains suspend. Creatures cast from suspend have haste.)
+Whenever a time counter is removed from Cyclical Manifestation while it&apos;s exiled, each opponent loses 1 life. You gain life equal to the life lost this way.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/249.png" num="96">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Reflection</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rekindling Fury</name>
+			<text>Haste
+When Rekindling Fury dies, exile the top card of your library. You may play that card until your next end step.
+Regrow 2 (When this creature dies, exile it with two time counters on it. It gains suspend.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/250.png" num="169">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Reflection</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Resillient Might</name>
+			<text>Resillient Might enters with a +1/+1 counter on it.
+When Resillient Might enters, double the number of +1/+1 counters on it once for each time a creature named Resillient Might has entered under your control this game beyond the first.
+Regrow 3 (When this creature dies, exile it with three time counters on it. It gains suspend. Creatures cast from suspend have haste.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/WBR-files/img/251.png" num="214">WBR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Reflection</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

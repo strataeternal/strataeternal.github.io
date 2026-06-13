@@ -5,6 +5,7 @@
         "CHS",
         "CJS",
         "DWC",
+        "DWE",
         "MCF",
         "MYC",
         "MYD",
@@ -12,6 +13,7 @@
         "NLD",
         "S23",
         "SDH",
-        "SSL"
+        "SSL",
+        "WBR"
     ]
 }

@@ -21,13 +21,18 @@
             "formats": "stratacommander"
         },
         {
+            "set_code": "DGZ",
+            "set_name": "Dragazan",
+            "formats": "stratacommander, stratastandard"
+        },
+        {
             "set_code": "DWC",
             "set_name": "Delmand Commander",
             "formats": "stratacommander"
         },
         {
             "set_code": "DWE",
-            "set_name": "",
+            "set_name": "Delmand: At World\u2019s End",
             "formats": "stratacommander, stratastandard"
         },
         {

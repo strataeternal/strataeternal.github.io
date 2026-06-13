@@ -1,0 +1,911 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="../sets/DGZ-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
+	<title>DGZ visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('../resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.close-btn {
+			background: url('../img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('../img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+			border-radius: 3.733% / 2.677%;
+		}
+		.flip-btn {
+			background: url('../img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('../img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/DGZ-files/logo.png" />
+	<img class="preload-hidden" src="../sets/CHC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/CHF-files/icon.png" />
+		<img class="preload-hidden" src="../sets/CHS-files/icon.png" />
+		<img class="preload-hidden" src="../sets/CJS-files/icon.png" />
+		<img class="preload-hidden" src="../sets/DGZ-files/icon.png" />
+		<img class="preload-hidden" src="../sets/DWC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/DWE-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MCF-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MYC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MYD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/NLC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/NLD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/S23-files/icon.png" />
+		<img class="preload-hidden" src="../sets/SDH-files/icon.png" />
+		<img class="preload-hidden" src="../sets/SSL-files/icon.png" />
+		<img class="preload-hidden" src="../sets/WBR-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="../previews/DGZ"><img src="../sets/DGZ-files/icon.png">Dragazan</a>
+	
+		<a class="set-bar inactive" href="../previews/CHC"><img src="../sets/CHC-files/icon.png">Chefs of Culdona Commander</a>
+	
+		<a class="set-bar inactive" href="../previews/CHF"><img src="../sets/CHF-files/icon.png">Chefs of Culdona</a>
+	
+		<a class="set-bar inactive" href="../previews/CHS"><img src="../sets/CHS-files/icon.png">Culdona Signature Creations</a>
+	
+		<a class="set-bar inactive" href="../previews/CJS"><img src="../sets/CJS-files/icon.png">Commander Jumpstrat</a>
+	
+		<a class="set-bar inactive" href="../previews/DWC"><img src="../sets/DWC-files/icon.png">Delmand Commander</a>
+	
+		<a class="set-bar inactive" href="../previews/DWE"><img src="../sets/DWE-files/icon.png">Delmand: At World’s End</a>
+	
+		<a class="set-bar inactive" href="../previews/MCF"><img src="../sets/MCF-files/icon.png">Mystvale Case Files</a>
+	
+		<a class="set-bar inactive" href="../previews/MYC"><img src="../sets/MYC-files/icon.png">Mystvale Commander</a>
+	
+		<a class="set-bar inactive" href="../previews/MYD"><img src="../sets/MYD-files/icon.png">Mystvale: Declassified</a>
+	
+		<a class="set-bar inactive" href="../previews/NLC"><img src="../sets/NLC-files/icon.png">Nieldavar Commander</a>
+	
+		<a class="set-bar inactive" href="../previews/NLD"><img src="../sets/NLD-files/icon.png">Nieldavar</a>
+	
+		<a class="set-bar inactive" href="../previews/S23"><img src="../sets/S23-files/icon.png">Strata Core 23</a>
+	
+		<a class="set-bar inactive" href="../previews/SDH"><img src="../sets/SDH-files/icon.png">Strata Commander</a>
+	
+		<a class="set-bar inactive" href="../previews/SSL"><img src="../sets/SSL-files/icon.png">Strata Signature Legends</a>
+	
+		<a class="set-bar inactive" href="../previews/WBR"><img src="../sets/WBR-files/icon.png">Wildbrier</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="../sets/DGZ-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\56.png" id="DGZ_56" data-flag="@X" onclick="openSidebar('DGZ_56',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\228.png" id="DGZ_228" data-flag="@X" onclick="openSidebar('DGZ_228',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\225.png" id="DGZ_225" data-flag="@X" onclick="openSidebar('DGZ_225',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\57.png" id="DGZ_57" data-flag="@X" onclick="openSidebar('DGZ_57',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\235.png" id="DGZ_235" data-flag="@X" onclick="openSidebar('DGZ_235',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\38.png" id="DGZ_38" data-flag="@X" onclick="openSidebar('DGZ_38',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\230.png" id="DGZ_230" data-flag="@X" onclick="openSidebar('DGZ_230',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\44.png" id="DGZ_44" data-flag="@X" onclick="openSidebar('DGZ_44',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\46.png" id="DGZ_46" data-flag="@X" onclick="openSidebar('DGZ_46',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\50.png" id="DGZ_50" data-flag="@X" onclick="openSidebar('DGZ_50',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\45.png" id="DGZ_45" data-flag="@X" onclick="openSidebar('DGZ_45',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\41.png" id="DGZ_41" data-flag="@X" onclick="openSidebar('DGZ_41',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\43.png" id="DGZ_43" data-flag="@X" onclick="openSidebar('DGZ_43',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\234.png" id="DGZ_234" data-flag="@X" onclick="openSidebar('DGZ_234',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\126.png" id="DGZ_126" data-flag="@X" onclick="openSidebar('DGZ_126',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\229.png" id="DGZ_229" data-flag="@X" onclick="openSidebar('DGZ_229',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\42.png" id="DGZ_42" data-flag="@X" onclick="openSidebar('DGZ_42',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\233.png" id="DGZ_233" data-flag="@X" onclick="openSidebar('DGZ_233',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\48.png" id="DGZ_48" data-flag="@X" onclick="openSidebar('DGZ_48',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\51.png" id="DGZ_51" data-flag="@X" onclick="openSidebar('DGZ_51',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\37.png" id="DGZ_37" data-flag="@X" onclick="openSidebar('DGZ_37',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\40.png" id="DGZ_40" data-flag="@X" onclick="openSidebar('DGZ_40',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\231.png" id="DGZ_231" data-flag="@X" onclick="openSidebar('DGZ_231',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\226.png" id="DGZ_226" data-flag="@X" onclick="openSidebar('DGZ_226',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\49.png" id="DGZ_49" data-flag="@X" onclick="openSidebar('DGZ_49',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\36.png" id="DGZ_36" data-flag="@X" onclick="openSidebar('DGZ_36',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\39.png" id="DGZ_39" data-flag="@X" onclick="openSidebar('DGZ_39',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\232.png" id="DGZ_232" data-flag="@X" onclick="openSidebar('DGZ_232',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\47.png" id="DGZ_47" data-flag="@X" onclick="openSidebar('DGZ_47',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\236.png" id="DGZ_236" data-flag="@X" onclick="openSidebar('DGZ_236',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\199.png" id="DGZ_199" data-flag="@X" onclick="openSidebar('DGZ_199',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\150.png" id="DGZ_150" data-flag="@X" onclick="openSidebar('DGZ_150',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\188.png" id="DGZ_188" data-flag="@X" onclick="openSidebar('DGZ_188',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\163.png" id="DGZ_163" data-flag="@X" onclick="openSidebar('DGZ_163',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\155.png" id="DGZ_155" data-flag="@X" onclick="openSidebar('DGZ_155',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\173.png" id="DGZ_173" data-flag="@X" onclick="openSidebar('DGZ_173',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\153.png" id="DGZ_153" data-flag="@X" onclick="openSidebar('DGZ_153',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\203.png" id="DGZ_203" data-flag="@X" onclick="openSidebar('DGZ_203',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\164.png" id="DGZ_164" data-flag="@X" onclick="openSidebar('DGZ_164',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\190.png" id="DGZ_190" data-flag="@X" onclick="openSidebar('DGZ_190',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\175.png" id="DGZ_175" data-flag="@X" onclick="openSidebar('DGZ_175',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\159.png" id="DGZ_159" data-flag="@X" onclick="openSidebar('DGZ_159',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\27.png" id="DGZ_27" data-flag="@X" onclick="openSidebar('DGZ_27',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\178.png" id="DGZ_178" data-flag="@X" onclick="openSidebar('DGZ_178',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\157.png" id="DGZ_157" data-flag="@X" onclick="openSidebar('DGZ_157',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\176.png" id="DGZ_176" data-flag="@X" onclick="openSidebar('DGZ_176',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\154.png" id="DGZ_154" data-flag="@X" onclick="openSidebar('DGZ_154',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\202.png" id="DGZ_202" data-flag="@X" onclick="openSidebar('DGZ_202',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\179.png" id="DGZ_179" data-flag="@X" onclick="openSidebar('DGZ_179',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\33.png" id="DGZ_33" data-flag="@X" onclick="openSidebar('DGZ_33',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\177.png" id="DGZ_177" data-flag="@X" onclick="openSidebar('DGZ_177',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\213.png" id="DGZ_213" data-flag="@X" onclick="openSidebar('DGZ_213',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\26.png" id="DGZ_26" data-flag="@X" onclick="openSidebar('DGZ_26',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\211.png" id="DGZ_211" data-flag="@X" onclick="openSidebar('DGZ_211',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\32.png" id="DGZ_32" data-flag="@X" onclick="openSidebar('DGZ_32',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\212.png" id="DGZ_212" data-flag="@X" onclick="openSidebar('DGZ_212',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\152.png" id="DGZ_152" data-flag="@X" onclick="openSidebar('DGZ_152',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\138.png" id="DGZ_138" data-flag="@X" onclick="openSidebar('DGZ_138',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\165.png" id="DGZ_165" data-flag="@X" onclick="openSidebar('DGZ_165',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\158.png" id="DGZ_158" data-flag="@X" onclick="openSidebar('DGZ_158',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\198.png" id="DGZ_198" data-flag="@X" onclick="openSidebar('DGZ_198',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\160.png" id="DGZ_160" data-flag="@X" onclick="openSidebar('DGZ_160',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\200.png" id="DGZ_200" data-flag="@X" onclick="openSidebar('DGZ_200',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\162.png" id="DGZ_162" data-flag="@X" onclick="openSidebar('DGZ_162',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\189.png" id="DGZ_189" data-flag="@X" onclick="openSidebar('DGZ_189',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\197.png" id="DGZ_197" data-flag="@X" onclick="openSidebar('DGZ_197',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\161.png" id="DGZ_161" data-flag="@X" onclick="openSidebar('DGZ_161',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\201.png" id="DGZ_201" data-flag="@X" onclick="openSidebar('DGZ_201',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\30.png" id="DGZ_30" data-flag="@X" onclick="openSidebar('DGZ_30',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\31.png" id="DGZ_31" data-flag="@X" onclick="openSidebar('DGZ_31',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\174.png" id="DGZ_174" data-flag="@X" onclick="openSidebar('DGZ_174',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\151.png" id="DGZ_151" data-flag="@X" onclick="openSidebar('DGZ_151',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\214.png" id="DGZ_214" data-flag="@X" onclick="openSidebar('DGZ_214',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\180.png" id="DGZ_180" data-flag="@X" onclick="openSidebar('DGZ_180',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\156.png" id="DGZ_156" data-flag="@X" onclick="openSidebar('DGZ_156',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\116.png" id="DGZ_116" data-flag="@X" onclick="openSidebar('DGZ_116',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\84.png" id="DGZ_84" data-flag="@X" onclick="openSidebar('DGZ_84',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\131.png" id="DGZ_131" data-flag="@X" onclick="openSidebar('DGZ_131',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\104.png" id="DGZ_104" data-flag="@X" onclick="openSidebar('DGZ_104',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\21.png" id="DGZ_21" data-flag="@X" onclick="openSidebar('DGZ_21',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\113.png" id="DGZ_113" data-flag="@X" onclick="openSidebar('DGZ_113',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\78.png" id="DGZ_78" data-flag="@X" onclick="openSidebar('DGZ_78',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\11.png" id="DGZ_11" data-flag="@X" onclick="openSidebar('DGZ_11',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\118.png" id="DGZ_118" data-flag="@X" onclick="openSidebar('DGZ_118',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\87.png" id="DGZ_87" data-flag="@X" onclick="openSidebar('DGZ_87',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\112.png" id="DGZ_112" data-flag="@X" onclick="openSidebar('DGZ_112',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\82.png" id="DGZ_82" data-flag="@X" onclick="openSidebar('DGZ_82',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\7.png" id="DGZ_7" data-flag="@X" onclick="openSidebar('DGZ_7',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\119.png" id="DGZ_119" data-flag="@X" onclick="openSidebar('DGZ_119',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\141.png" id="DGZ_141" data-flag="@X" onclick="openSidebar('DGZ_141',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\3.png" id="DGZ_3" data-flag="@X" onclick="openSidebar('DGZ_3',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\95.png" id="DGZ_95" data-flag="@X" onclick="openSidebar('DGZ_95',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\14.png" id="DGZ_14" data-flag="@X" onclick="openSidebar('DGZ_14',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\103.png" id="DGZ_103" data-flag="@X" onclick="openSidebar('DGZ_103',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\140.png" id="DGZ_140" data-flag="@X" onclick="openSidebar('DGZ_140',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\24.png" id="DGZ_24" data-flag="@X" onclick="openSidebar('DGZ_24',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\79.png" id="DGZ_79" data-flag="@X" onclick="openSidebar('DGZ_79',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\8.png" id="DGZ_8" data-flag="@X" onclick="openSidebar('DGZ_8',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\117.png" id="DGZ_117" data-flag="@X" onclick="openSidebar('DGZ_117',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\18.png" id="DGZ_18" data-flag="@X" onclick="openSidebar('DGZ_18',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\1.png" id="DGZ_1" data-flag="@X" onclick="openSidebar('DGZ_1',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\80.png" id="DGZ_80" data-flag="@X" onclick="openSidebar('DGZ_80',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\136.png" id="DGZ_136" data-flag="@X" onclick="openSidebar('DGZ_136',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\16.png" id="DGZ_16" data-flag="@X" onclick="openSidebar('DGZ_16',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\19.png" id="DGZ_19" data-flag="@X" onclick="openSidebar('DGZ_19',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\0.png" id="DGZ_0" data-flag="@X" onclick="openSidebar('DGZ_0',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\98.png" id="DGZ_98" data-flag="@X" onclick="openSidebar('DGZ_98',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\6.png" id="DGZ_6" data-flag="@X" onclick="openSidebar('DGZ_6',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\106.png" id="DGZ_106" data-flag="@X" onclick="openSidebar('DGZ_106',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\17.png" id="DGZ_17" data-flag="@X" onclick="openSidebar('DGZ_17',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\128.png" id="DGZ_128" data-flag="@X" onclick="openSidebar('DGZ_128',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\25.png" id="DGZ_25" data-flag="@X" onclick="openSidebar('DGZ_25',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\13.png" id="DGZ_13" data-flag="@X" onclick="openSidebar('DGZ_13',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\29.png" id="DGZ_29" data-flag="@X" onclick="openSidebar('DGZ_29',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\86.png" id="DGZ_86" data-flag="@X" onclick="openSidebar('DGZ_86',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\2.png" id="DGZ_2" data-flag="@X" onclick="openSidebar('DGZ_2',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\83.png" id="DGZ_83" data-flag="@X" onclick="openSidebar('DGZ_83',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\130.png" id="DGZ_130" data-flag="@X" onclick="openSidebar('DGZ_130',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\28.png" id="DGZ_28" data-flag="@X" onclick="openSidebar('DGZ_28',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\90.png" id="DGZ_90" data-flag="@X" onclick="openSidebar('DGZ_90',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\133.png" id="DGZ_133" data-flag="@X" onclick="openSidebar('DGZ_133',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\81.png" id="DGZ_81" data-flag="@X" onclick="openSidebar('DGZ_81',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\10.png" id="DGZ_10" data-flag="@X" onclick="openSidebar('DGZ_10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\15.png" id="DGZ_15" data-flag="@X" onclick="openSidebar('DGZ_15',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\85.png" id="DGZ_85" data-flag="@X" onclick="openSidebar('DGZ_85',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\129.png" id="DGZ_129" data-flag="@X" onclick="openSidebar('DGZ_129',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\97.png" id="DGZ_97" data-flag="@X" onclick="openSidebar('DGZ_97',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\137.png" id="DGZ_137" data-flag="@X" onclick="openSidebar('DGZ_137',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\102.png" id="DGZ_102" data-flag="@X" onclick="openSidebar('DGZ_102',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\22.png" id="DGZ_22" data-flag="@X" onclick="openSidebar('DGZ_22',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\127.png" id="DGZ_127" data-flag="@X" onclick="openSidebar('DGZ_127',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\99.png" id="DGZ_99" data-flag="@X" onclick="openSidebar('DGZ_99',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\12.png" id="DGZ_12" data-flag="@X" onclick="openSidebar('DGZ_12',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\107.png" id="DGZ_107" data-flag="@X" onclick="openSidebar('DGZ_107',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\88.png" id="DGZ_88" data-flag="@X" onclick="openSidebar('DGZ_88',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\115.png" id="DGZ_115" data-flag="@X" onclick="openSidebar('DGZ_115',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\96.png" id="DGZ_96" data-flag="@X" onclick="openSidebar('DGZ_96',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\9.png" id="DGZ_9" data-flag="@X" onclick="openSidebar('DGZ_9',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\105.png" id="DGZ_105" data-flag="@X" onclick="openSidebar('DGZ_105',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\20.png" id="DGZ_20" data-flag="@X" onclick="openSidebar('DGZ_20',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\135.png" id="DGZ_135" data-flag="@X" onclick="openSidebar('DGZ_135',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\4.png" id="DGZ_4" data-flag="@X" onclick="openSidebar('DGZ_4',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\139.png" id="DGZ_139" data-flag="@X" onclick="openSidebar('DGZ_139',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\120.png" id="DGZ_120" data-flag="@X" onclick="openSidebar('DGZ_120',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\91.png" id="DGZ_91" data-flag="@X" onclick="openSidebar('DGZ_91',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\114.png" id="DGZ_114" data-flag="@X" onclick="openSidebar('DGZ_114',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\100.png" id="DGZ_100" data-flag="@X" onclick="openSidebar('DGZ_100',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\5.png" id="DGZ_5" data-flag="@X" onclick="openSidebar('DGZ_5',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\101.png" id="DGZ_101" data-flag="@X" onclick="openSidebar('DGZ_101',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\89.png" id="DGZ_89" data-flag="@X" onclick="openSidebar('DGZ_89',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\215.png" id="DGZ_215" data-flag="@X" onclick="openSidebar('DGZ_215',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\218.png" id="DGZ_218" data-flag="@X" onclick="openSidebar('DGZ_218',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\216.png" id="DGZ_216" data-flag="@X" onclick="openSidebar('DGZ_216',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\219.png" id="DGZ_219" data-flag="@X" onclick="openSidebar('DGZ_219',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\238.png" id="DGZ_238" data-flag="@X" onclick="openSidebar('DGZ_238',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\227.png" id="DGZ_227" data-flag="@X" onclick="openSidebar('DGZ_227',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\239.png" id="DGZ_239" data-flag="@X" onclick="openSidebar('DGZ_239',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\237.png" id="DGZ_237" data-flag="@X" onclick="openSidebar('DGZ_237',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\240.png" id="DGZ_240" data-flag="@X" onclick="openSidebar('DGZ_240',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\217.png" id="DGZ_217" data-flag="@X" onclick="openSidebar('DGZ_217',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\221.png" id="DGZ_221" data-flag="@X" onclick="openSidebar('DGZ_221',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\74.png" id="DGZ_74" data-flag="@X" onclick="openSidebar('DGZ_74',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\243.png" id="DGZ_243" data-flag="@X" onclick="openSidebar('DGZ_243',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\266.png" id="DGZ_266" data-flag="@X" onclick="openSidebar('DGZ_266',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\247.png" id="DGZ_247" data-flag="@X" onclick="openSidebar('DGZ_247',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\220.png" id="DGZ_220" data-flag="@X" onclick="openSidebar('DGZ_220',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\249.png" id="DGZ_249" data-flag="@X" onclick="openSidebar('DGZ_249',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\245.png" id="DGZ_245" data-flag="@X" onclick="openSidebar('DGZ_245',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\224.png" id="DGZ_224" data-flag="@X" onclick="openSidebar('DGZ_224',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\246.png" id="DGZ_246" data-flag="@X" onclick="openSidebar('DGZ_246',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\242.png" id="DGZ_242" data-flag="@X" onclick="openSidebar('DGZ_242',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\248.png" id="DGZ_248" data-flag="@X" onclick="openSidebar('DGZ_248',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\244.png" id="DGZ_244" data-flag="@X" onclick="openSidebar('DGZ_244',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\251.png" id="DGZ_251" data-flag="@X" onclick="openSidebar('DGZ_251',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\77.png" id="DGZ_77" data-flag="@X" onclick="openSidebar('DGZ_77',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\241.png" id="DGZ_241" data-flag="@X" onclick="openSidebar('DGZ_241',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\250.png" id="DGZ_250" data-flag="@X" onclick="openSidebar('DGZ_250',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\222.png" id="DGZ_222" data-flag="@X" onclick="openSidebar('DGZ_222',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\252.png" id="DGZ_252" data-flag="@X" onclick="openSidebar('DGZ_252',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\223.png" id="DGZ_223" data-flag="@X" onclick="openSidebar('DGZ_223',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\206.png" id="DGZ_206" data-flag="@X" onclick="openSidebar('DGZ_206',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\169.png" id="DGZ_169" data-flag="@X" onclick="openSidebar('DGZ_169',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\196.png" id="DGZ_196" data-flag="@X" onclick="openSidebar('DGZ_196',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\185.png" id="DGZ_185" data-flag="@X" onclick="openSidebar('DGZ_185',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\147.png" id="DGZ_147" data-flag="@X" onclick="openSidebar('DGZ_147',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\204.png" id="DGZ_204" data-flag="@X" onclick="openSidebar('DGZ_204',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\168.png" id="DGZ_168" data-flag="@X" onclick="openSidebar('DGZ_168',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\192.png" id="DGZ_192" data-flag="@X" onclick="openSidebar('DGZ_192',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\184.png" id="DGZ_184" data-flag="@X" onclick="openSidebar('DGZ_184',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\145.png" id="DGZ_145" data-flag="@X" onclick="openSidebar('DGZ_145',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\209.png" id="DGZ_209" data-flag="@X" onclick="openSidebar('DGZ_209',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\167.png" id="DGZ_167" data-flag="@X" onclick="openSidebar('DGZ_167',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\193.png" id="DGZ_193" data-flag="@X" onclick="openSidebar('DGZ_193',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\182.png" id="DGZ_182" data-flag="@X" onclick="openSidebar('DGZ_182',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\146.png" id="DGZ_146" data-flag="@X" onclick="openSidebar('DGZ_146',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\208.png" id="DGZ_208" data-flag="@X" onclick="openSidebar('DGZ_208',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\171.png" id="DGZ_171" data-flag="@X" onclick="openSidebar('DGZ_171',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\194.png" id="DGZ_194" data-flag="@X" onclick="openSidebar('DGZ_194',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\181.png" id="DGZ_181" data-flag="@X" onclick="openSidebar('DGZ_181',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\148.png" id="DGZ_148" data-flag="@X" onclick="openSidebar('DGZ_148',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\205.png" id="DGZ_205" data-flag="@X" onclick="openSidebar('DGZ_205',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\170.png" id="DGZ_170" data-flag="@X" onclick="openSidebar('DGZ_170',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\191.png" id="DGZ_191" data-flag="@X" onclick="openSidebar('DGZ_191',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\183.png" id="DGZ_183" data-flag="@X" onclick="openSidebar('DGZ_183',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\144.png" id="DGZ_144" data-flag="@X" onclick="openSidebar('DGZ_144',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\207.png" id="DGZ_207" data-flag="@X" onclick="openSidebar('DGZ_207',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\166.png" id="DGZ_166" data-flag="@X" onclick="openSidebar('DGZ_166',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\195.png" id="DGZ_195" data-flag="@X" onclick="openSidebar('DGZ_195',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\186.png" id="DGZ_186" data-flag="@X" onclick="openSidebar('DGZ_186',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\149.png" id="DGZ_149" data-flag="@X" onclick="openSidebar('DGZ_149',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\132.png" id="DGZ_132" data-flag="@X" onclick="openSidebar('DGZ_132',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\108.png" id="DGZ_108" data-flag="@X" onclick="openSidebar('DGZ_108',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\61.png" id="DGZ_61" data-flag="@X" onclick="openSidebar('DGZ_61',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\73.png" id="DGZ_73" data-flag="@X" onclick="openSidebar('DGZ_73',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\92.png" id="DGZ_92" data-flag="@X" onclick="openSidebar('DGZ_92',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\59.png" id="DGZ_59" data-flag="@X" onclick="openSidebar('DGZ_59',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\109.png" id="DGZ_109" data-flag="@X" onclick="openSidebar('DGZ_109',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\60.png" id="DGZ_60" data-flag="@X" onclick="openSidebar('DGZ_60',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\122.png" id="DGZ_122" data-flag="@X" onclick="openSidebar('DGZ_122',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\93.png" id="DGZ_93" data-flag="@X" onclick="openSidebar('DGZ_93',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\58.png" id="DGZ_58" data-flag="@X" onclick="openSidebar('DGZ_58',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\110.png" id="DGZ_110" data-flag="@X" onclick="openSidebar('DGZ_110',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\62.png" id="DGZ_62" data-flag="@X" onclick="openSidebar('DGZ_62',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\121.png" id="DGZ_121" data-flag="@X" onclick="openSidebar('DGZ_121',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\94.png" id="DGZ_94" data-flag="@X" onclick="openSidebar('DGZ_94',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\134.png" id="DGZ_134" data-flag="@X" onclick="openSidebar('DGZ_134',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\111.png" id="DGZ_111" data-flag="@X" onclick="openSidebar('DGZ_111',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\142.png" id="DGZ_142" data-flag="@X" onclick="openSidebar('DGZ_142',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\123.png" id="DGZ_123" data-flag="@X" onclick="openSidebar('DGZ_123',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\143.png" id="DGZ_143" data-flag="@X" onclick="openSidebar('DGZ_143',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\53.png" id="DGZ_53" data-flag="@X" onclick="openSidebar('DGZ_53',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\52.png" id="DGZ_52" data-flag="@X" onclick="openSidebar('DGZ_52',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\187.png" id="DGZ_187" data-flag="@X" onclick="openSidebar('DGZ_187',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\210.png" id="DGZ_210" data-flag="@X" onclick="openSidebar('DGZ_210',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\34.png" id="DGZ_34" data-flag="@X" onclick="openSidebar('DGZ_34',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\23.png" id="DGZ_23" data-flag="@X" onclick="openSidebar('DGZ_23',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\66.png" id="DGZ_66" data-flag="@X" onclick="openSidebar('DGZ_66',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\64.png" id="DGZ_64" data-flag="@X" onclick="openSidebar('DGZ_64',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\63.png" id="DGZ_63" data-flag="@X" onclick="openSidebar('DGZ_63',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\65.png" id="DGZ_65" data-flag="@X" onclick="openSidebar('DGZ_65',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\55.png" id="DGZ_55" data-flag="@X" onclick="openSidebar('DGZ_55',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\76.png" id="DGZ_76" data-flag="@X" onclick="openSidebar('DGZ_76',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\125.png" id="DGZ_125" data-flag="@X" onclick="openSidebar('DGZ_125',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\124.png" id="DGZ_124" data-flag="@X" onclick="openSidebar('DGZ_124',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\75.png" id="DGZ_75" data-flag="@X" onclick="openSidebar('DGZ_75',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\54.png" id="DGZ_54" data-flag="@X" onclick="openSidebar('DGZ_54',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\35.png" id="DGZ_35" data-flag="@X" onclick="openSidebar('DGZ_35',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\172.png" id="DGZ_172" data-flag="@X" onclick="openSidebar('DGZ_172',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\67.png" id="DGZ_67" data-flag="@X" onclick="openSidebar('DGZ_67',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\70.png" id="DGZ_70" data-flag="@X" onclick="openSidebar('DGZ_70',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\71.png" id="DGZ_71" data-flag="@X" onclick="openSidebar('DGZ_71',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\72.png" id="DGZ_72" data-flag="@X" onclick="openSidebar('DGZ_72',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\69.png" id="DGZ_69" data-flag="@X" onclick="openSidebar('DGZ_69',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\68.png" id="DGZ_68" data-flag="@X" onclick="openSidebar('DGZ_68',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DGZ_e" data-flag="@E" onclick="openSidebar('DGZ_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\265.png" id="DGZ_265" data-flag="@X" onclick="openSidebar('DGZ_265',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\260.png" id="DGZ_260" data-flag="@X" onclick="openSidebar('DGZ_260',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\263.png" id="DGZ_263" data-flag="@X" onclick="openSidebar('DGZ_263',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\262.png" id="DGZ_262" data-flag="@X" onclick="openSidebar('DGZ_262',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\253.png" id="DGZ_253" data-flag="@X" onclick="openSidebar('DGZ_253',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\254.png" id="DGZ_254" data-flag="@X" onclick="openSidebar('DGZ_254',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\259.png" id="DGZ_259" data-flag="@X" onclick="openSidebar('DGZ_259',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\264.png" id="DGZ_264" data-flag="@X" onclick="openSidebar('DGZ_264',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\261.png" id="DGZ_261" data-flag="@X" onclick="openSidebar('DGZ_261',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\257.png" id="DGZ_257" data-flag="@X" onclick="openSidebar('DGZ_257',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\255.png" id="DGZ_255" data-flag="@X" onclick="openSidebar('DGZ_255',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\256.png" id="DGZ_256" data-flag="@X" onclick="openSidebar('DGZ_256',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DGZ-files\img\258.png" id="DGZ_258" data-flag="@X" onclick="openSidebar('DGZ_258',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DGZ_e" data-flag="@E" onclick="openSidebar('DGZ_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DGZ_e" data-flag="@E" onclick="openSidebar('DGZ_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DGZ_er" data-flag="@E" onclick="openSidebar('DGZ_er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch(rootPath + '/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch(rootPath + '/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = rootPath + '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url.pathname + url.search;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url.pathname + url.search;
+			}
+	</script>
+</body>
+</html>

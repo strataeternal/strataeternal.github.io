@@ -1,0 +1,4687 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>DGZ</name>
+			<longname>Dragazan</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-06-13</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Outcrop Scout</name>
+			<text>When this creature enters, create an Excavator token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 1.&quot;)
+{1}, Sacrifice this creature: Destroy target artifact or enchantment. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/0.png" num="19">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Novice Mechanic</name>
+			<text>When this creature enters, create a 3/2 colorless Vehicle token with crew 1. (Tap any number of creatures you control with total power 1 or more: That Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/1.png" num="17">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Perimeter Defense</name>
+			<text>Refine 2 (As an additional cost to cast this spell, you may exile two cards from your graveyard.)
+Create two 1/1 white Warrior creature tokens. Then if this spell was refined, those tokens gain indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/2.png" num="21">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Extraction Jockey</name>
+			<text>Refine 3 (As an additional cost to cast this spell, you may exile three cards from your graveyard.)
+When this creature enters, if it was refined, return target nonland permanent card with mana value 3 or less from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/3.png" num="7">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Surveyor&apos;s Hoverrod</name>
+			<text>Flying
+When this Vehicle enters, surveil 1, then draw a card.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/4.png" num="56">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Withering Sproutgrower</name>
+			<text>Deathtouch
+When this creature dies, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/5.png" num="90">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fume Inspector</name>
+			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
+Whenever you cast a noncreature spell, put a +1/+1 counter on this creature. This ability triggers only once each turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/6.png" num="68">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Duststorm Remnant</name>
+			<text>As long as you control a Desert, or there is a Desert card in your graveyard, this creature has menace.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/7.png" num="64">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Sand Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Extract Essence</name>
+			<text>Refine 3 (As an additional cost to cast this spell, you may exile three cards from your graveyard.)
+Destroy target creature, Vehicle, or planeswalker. If this spell was refined, you gain life equal to that permanent&apos;s mana value.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/8.png" num="66">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Underhanded Exchange</name>
+			<text>Target creature gets -1/-1 until end of turn. Create a 1/1 white Warrior creature token.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/9.png" num="84">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Oppressive War Machine</name>
+			<text>Menace
+When this Vehicle enters, target creature or Vehicle you control gains indestructible until end of turn.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/10.png" num="77">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Divest</name>
+			<text>Target player reveals their hand. You choose an artifact or creature card from it. That player discards that card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/11.png" num="63">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Salvage Reaper</name>
+			<text>When this Vehicle enters, return target creature or planeswalker card from your graveyard to your hand.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/12.png" num="81">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Luxury Life Support</name>
+			<text>Refine 2 (As an additional cost to cast this spell, you may exile two cards from your graveyard.)
+If this spell was refined, you may cast it as though it had flash.
+Enchant creature or Vehicle
+Enchanted permanent gets +1/+1 and has &quot;When this permanent is put into a graveyard from the battlefield, return it to its owner&apos;s hand.&quot;</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/13.png" num="72">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Economic Incentive</name>
+			<text>Kicker—Sacrifice an artifact (You may sacrifice an artifact in addition to any other costs as you cast this spell.)
+Draw two cards. If this spell was kicked, you gain 2 life. Otherwise, you lose 2 life.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/14.png" num="65">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Redline Duo</name>
+			<text>When this creature enters, create a Fuel token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Target Vehicle you control becomes an artifact creature until end of turn.&quot;)
+Whenever you sacrifice a permanent, this creature deals 1 damage to each opponent.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/15.png" num="107">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mobile Bike</name>
+			<text>Haste
+When this Vehicle enters, create a Fuel token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Target Vehicle you control becomes an artifact creature until end of turn.&quot;)
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/16.png" num="101">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Heavy Truck</name>
+			<text>When this Vehicle enters, create a 1/1 white Warrior creature token.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/17.png" num="136">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Exotics Gatherer</name>
+			<text>Vigilance
+As long as you control a Desert, or there is a Desert card in your graveyard, this creature gets +1/+1.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/18.png" num="133">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Nomad</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fertile Colossus</name>
+			<text>When this creature enters, harvest, then put a +1/+1 counter on it for each creature card in your graveyard. (To harvest, either sacrifice a token to draw a card or mill a card to create a Food token.)
+This creature can&apos;t be blocked by creatures with power 2 or less.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/19.png" num="135">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Road War</name>
+			<text>Choose target creature or Vehicle you control and target creature or Vehicle you don&apos;t control. Each Vehicle chosen this way becomes an artifact creature until end of turn, then those creatures fight. (Each deals damage equal to its power to the other.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/20.png" num="144">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Armored Transport</name>
+			<text>Trample
+When this Vehicle enters, put a +1/+1 counter on target creature or Vehicle. It gains trample until end of turn.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/21.png" num="122">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mobile Home</name>
+			<text>Reach
+When this creature enters, you may exile a card from your graveyard. If you do, you gain life equal to its mana value.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/22.png" num="141">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Drillmonger Transport</name>
+			<text>Lifelink
+{T}: Add {W} or {B}.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/23.png" num="233">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Motorbrain</name>
+			<text>Overdrive 2 (When this creature attacks, if it has no +1/+1 counters on it, you may sacrifice a permanent. If you do, put two +1/+1 counters on it.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/24.png" num="15">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nullifying Barge</name>
+			<text>Flash
+When this Vehicle enters, counter target spell.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/25.png" num="44">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Moldpipe Tender</name>
+			<text>When this creature enters, harvest. (To harvest, either sacrifice a token to draw a card or mill a card to create a Food token.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/26.png" num="75">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>March of the Dead</name>
+			<text>This spell costs {1} less to cast for each Desert you control and each Desert card in your graveyard.
+Return target creature card from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/27.png" num="73">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reckless Firebrand</name>
+			<text>Haste
+Overdrive 1 (When this creature attacks, if it has no +1/+1 counters on it, you may sacrifice a permanent. If you do, put a +1/+1 counter on it.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/28.png" num="106">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Raider&apos;s Blastdriver</name>
+			<text>When this Vehicle enters, it deals 3 damage to target creature or planeswalker.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/29.png" num="104">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Start Your Engines</name>
+			<text>Vehicles you control become artifact creatures until end of turn. Creatures you control get +2/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/30.png" num="114">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Waste Scavenger</name>
+			<text>If one or more tokens would be created under your control, those tokens plus an additional Food token are created instead. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+{1}, Sacrifice two tokens: Put two +1/+1 counters on target creature. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/31.png" num="147">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Industrial Menace</name>
+			<text>When this Vehicle enters, choose one—
+• Destroy target artifact or enchantment.
+• Put a +1/+1 counter on this Vehicle, then create a Fuel token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Target Vehicle you control becomes an artifact creature until end of turn.&quot;)
+Crew 2</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/32.png" num="137">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Extract from Soil</name>
+			<text>As an additional cost to cast this spell, sacrifice a land or pay {2}.
+Search your library for two basic land cards and/or Desert cards and put them onto the battlefield tapped. Then shuffle.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/33.png" num="134">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Farlands Probe</name>
+			<text>Flying
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
+Desertcycling {2}</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/34.png" num="234">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Drone</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Contested Freeway</name>
+			<text>When this land enters, create a tapped Fuel token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Target Vehicle you control becomes an artifact creature until end of turn.&quot;)
+{T}: Add {C}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/35.png" num="241">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Onsite Technician</name>
+			<text>Overdrive 1 (When this creature attacks, if it has no +1/+1 counters on it, you may sacrifice a permanent. If you do, put a +1/+1 counter on it.)
+Whenever you sacrifice a permanent, you may return to your hand up to one target artifact or creature card in your graveyard with lesser mana value than the sacrificed permanent. If you don&apos;t, put a +1/+1 counter on this creature.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/36.png" num="18">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Merry Mercenaries</name>
+			<text>Whenever you attack, put a +1/+1 counter on up to one target attacking creature.
+Whenever you attack with two or more creatures, draw a card.
+Whenever you attack with three or more creatures, you may return this card from your graveyard to the battlefield tapped and attacking with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/37.png" num="14">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ape Rhino Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Drastic Terraforming</name>
+			<text>Refine 4 (As an additional cost to cast this spell, you may exile four cards from your graveyard.)
+If this spell was refined, target creature you control gains indestructible until end of turn.
+Destroy all creatures.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/38.png" num="4">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>5WW</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tavre, Eon Witness</name>
+			<text>Whenever another nontoken creature you control dies, you may exile it and each Memory you control. If you do, create a token that&apos;s a copy of the exiled card, except it&apos;s a Memory in addition to its other types.
+Stockpile — {2}{G}: Return Tavre from your graveyard to your hand. Activate only if you control three or more tokens and only as a sorcery.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/39.png" num="57">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sphinx of the Sacred Source</name>
+			<text>Flying
+Stockpile — At the beginning of your upkeep, if you control three or more tokens, up to one target token you control becomes a 5/5 Elemental creature with flying in addition to its other types.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/40.png" num="53">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Sphinx</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mobile Manufactory</name>
+			<text>Flying
+Whenever this creature deals combat damage to a player, manufacture that many times. (To manufacture, create a token that&apos;s a copy of an artifact token you control.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/41.png" num="42">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Drone</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sievesight</name>
+			<text>Look at the top seven cards of your library. Put one of them into your hand, then put another one of them into your hand if you control a Desert, then put another one of them into your hand if there is a Desert card in your graveyard. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/42.png" num="52">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Grease Jockey</name>
+			<text>Refine X (As an additional cost to cast this spell, you may exile any number of cards from your graveyard.)
+This creature has flying as long as a face up creature or Vehicle card you own in exile has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, vigilance, and ward.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/43.png" num="70">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Geryuth&apos;s Culling</name>
+			<text>When this enchantment enters, harvest. (To harvest, either sacrifice a token to draw a card or mill a card to create a Food token.)
+If you would harvest, you may instead discard a card. When you do, target opponent loses half their life, rounded up.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/44.png" num="69">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kylie, Restoration Expert</name>
+			<text>When Kylie, Restoration Expert enters, create a 3/2 colorless Vehicle artifact token with crew 1.
+{2}{R}, {T}, Sacrifice an artifact: Return target artifact card from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/45.png" num="10">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Acceleration Fanatic</name>
+			<text>Haste
+Overdrive 1 (When this creature attacks, if it has no +1/+1 counters on it, you may sacrifice a permanent. If you do, put a +1/+1 counter on it.)
+Whenever you sacrifice a permanent during combat on your turn, untap each creature you control. After this phase, there is an additional combat phase. This ability triggers only once each turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/46.png" num="91">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hyena Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Weapons Manufacturing</name>
+			<text>Whenever a nontoken artifact you control enters, create a colorless artifact token named Munitions with &quot;When this token leaves the battlefield, it deals 2 damage to any target.&quot;</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/47.png" num="120">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Smelting Station</name>
+			<text>{T}: Manufacture. (Create a token that&apos;s a copy of an artifact token you control.)
+{T}, Sacrifice an artifact: Draw a card.
+{T}, Discard a card: Create a Weapon token. You may attach it to a creature you control. (It&apos;s an Equipment artifact with &quot;Equipped creature gets +1/+0&quot; and equip {1}.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/48.png" num="112">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dustdevil Hydra</name>
+			<text>This spell costs {1} less to cast for each Desert you control and each Desert card in your graveyard.
+This creature enters with X +1/+1 counters on it.
+When this creature enters, you may have it fight target creature you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/49.png" num="131">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Sand Hydra</type>
+				<maintype>Creature</maintype>
+				<manacost>XGG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Communal Cultivator</name>
+			<text>Whenever this creature or another nontoken creature you control enters, harvest. (To harvest, either sacrifice a token to draw a card or mill a card to create a Food token.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/50.png" num="125">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Damway Defender</name>
+			<text>This creature can&apos;t be blocked by creatures with power 2 or less.
+Stockpile — At the beginning of combat on your turn, if you control three or more tokens, put X +1/+1 counters on this creature, where X is its power.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/51.png" num="130">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Z.O.G., the Lost Breakthrough</name>
+			<text>When Z.O.G., the Lost Breakthrough enters, create two Weapon tokens. Then you may attach any number of Auras and Equipments you control to Z.O.G. (Weapons are Equipment artifacts with &quot;Equipped creature gets +1/+0&quot; and equip {1}.)
+Whenever Z.O.G. attacks, it deals damage to any target equal to the number of permanents attached to it.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/52.png" num="240">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
+				<pt>6/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lich&apos;s Mirror</name>
+			<text>If you would lose the game, instead shuffle your hand, your graveyard, and all permanents you own into your library, then draw seven cards and your life total becomes 20.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/53.png" num="237">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Starkissed Mesa</name>
+			<text>This land enters tapped unless there are three or more other Desert cards among lands you control and land cards in your graveyard.
+{T}: Add {C}.
+{T}, Pay 1 life: Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/54.png" num="248">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Extraction Site</name>
+			<text>This land enters tapped.
+{T}: Add {W} or {B}.
+{X}{W}{B}, {T}, Sacrifice this land: Mill X cards, you may put a card milled this way into your hand. You gain X life.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/55.png" num="244">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Ground Zero Sentry</name>
+			<text>Flying
+You may cast this card from exile as long as you own seven or more cards in exile.
+When this creature enters, if it wasn&apos;t cast from your hand, put a +1/+1 counter and a vigilance counter on it.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DGZ-files/img/56.png" num="8">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Siglar, On a New Road</name>
+			<text>[+1]: You may create Odrvegr, a legendary 4/3 colorless Vehicle artifact token with crew 2. If you don&apos;t, create a Fuel token.
+[-2]: You may sacrifice an artifact. If you do, Siglar deals 4 damage to any target.
+[-6]: All Vehicles you control become artifact creatures until until end of turn. Then, creatures you control get +2/+0 and gain trample and haste until end of turn.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DGZ-files/img/57.png" num="111">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Siglar</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ichor Terror</name>
+			<text>This spell costs {1} less to cast for each noncreature card in your graveyard and each noncreature card you own in exile.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/58.png" num="186">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4WB</manacost>
+				<cmc>6</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Extractor Technician</name>
+			<text>When this creature enters, mill three cards. You may put a card with mana value 3 or less from among the cards milled this way into your hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/59.png" num="170">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vinepillar Steward</name>
+			<text>When this creature enters, harvest. (To harvest, either sacrifice a token to draw a card or mill a card to create a Food token.)
+Whenever you gain life, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/60.png" num="223">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Back from the Boneyard</name>
+			<text>Return target creature card from your graveyard to the battlefield. Put two +1/+1 counters, a trample counter, and a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/61.png" num="152">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4BG</manacost>
+				<cmc>6</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Worldly Salvage</name>
+			<text>Surveil 2, then return a card from your graveyard to your hand. Exile Worldly Salvage. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/62.png" num="225">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rubblefarmer Transport</name>
+			<text>Deathtouch
+{T}: Add {B} or {G}.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/63.png" num="238">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>BG</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hydrotect Transport</name>
+			<text>Trample
+{T}: Add {G} or {U}.
+Crew 6 (Tap any number of creatures you control with total power 6 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/64.png" num="236">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>UG</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Slagsmith Transport</name>
+			<text>Flying
+{T}: Add {U} or {R}.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/65.png" num="239">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>UR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gearhead Transport</name>
+			<text>As long as it&apos;s your turn, this Vehicle has first strike.
+{T}: Add {R} or {W}.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/66.png" num="235">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>WR</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mirage Mesa</name>
+			<text>This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/67.png" num="246">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Derelict Refinery</name>
+			<text>{T}: Add {C}.
+{T}, Sacrifice this land: Search your library for a basic Plains or Swamp card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/68.png" num="254">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Derelict Greenhouse</name>
+			<text>{T}: Add {C}.
+{T}, Sacrifice this land: Search your library for a basic Swamp or Forest card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/69.png" num="253">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Derelict Dam</name>
+			<text>{T}: Add {C}.
+{T}, Sacrifice this land: Search your library for a basic Forest or Island card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/70.png" num="250">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Derelict Factory</name>
+			<text>{T}: Add {C}.
+{T}, Sacrifice this land: Search your library for a basic Island or Mountain card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/71.png" num="251">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Derelict Garage</name>
+			<text>{T}: Add {C}.
+{T}, Sacrifice this land: Search your library for a basic Mountain or Plains card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/72.png" num="252">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Bloodsaw Thresher</name>
+			<text>Overdrive 1 (When this creature attacks, if it has no +1/+1 counters on it, you may sacrifice a permanent. If you do, put a +1/+1 counter on it.)
+Each creature you control with a +1/+1 counter on it has menace.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/73.png" num="157">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Hammer, Slagnum Opus</name>
+			<text>When The Hammer enters, manufacture. (Create a token that&apos;s a copy of an artifact token you control.)
+Whenever one or more artifact tokens you control enter, you may draw that many cards. If you do, discard a card. Do this only once each turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/74.png" num="180">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wellspring Outpost</name>
+			<text>This land enters tapped.
+{T}: Add {G} or {U}.
+{1}{G}{U}, {T}, Sacrifice this land: Create a Water token, a Food token, and a Fuel token. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/75.png" num="249">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Industrial Bowels</name>
+			<text>This land enters tapped.
+{T}: Add {U} or {R}.
+{3}{U}{R}, {T}, Sacrifice this land: Create a token that&apos;s a copy of target artifact you control. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/76.png" num="245">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The One That Got Away</name>
+			<text>Whenever this creature deals combat damage to a player, draw a card, then you may put a permanent card with mana value less than or equal to the number of tokens you control from your hand onto the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/77.png" num="194">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Leviathan</type>
+				<maintype>Creature</maintype>
+				<manacost>4GU</manacost>
+				<cmc>6</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aquiscape Patrol</name>
+			<text>This creature can&apos;t be blocked.
+Stockpile — Whenever this creature deals combat damage to a player or planeswalker, if you control three or more tokens, draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/78.png" num="32">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Harrier Vulture</name>
+			<text>Flying
+Stockpile — When this creature enters, put a stun counter on target artifact or creature you don&apos;t control. If you control three or more tokens, also tap that permanent.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/79.png" num="37">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hydroblade Warrior</name>
+			<text>When this creature enters, create a Water token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Tap or untap target creature. Activate only as a sorcery.&quot;)
+This creature gets +1/+0 for each token you control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/80.png" num="39">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sand Crab</name>
+			<text>Defender (This creature can&apos;t attack.)
+As long as you control a Desert or there is a Desert card in your graveyard, this creature can attack as though it didn&apos;t have defender.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/81.png" num="49">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Sand Crab</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dry Out</name>
+			<text>Counter target spell unless its controller pays {2}. If that spell is a creature or planeswalker spell, create a Water token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Tap or untap target creature. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/82.png" num="34">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Repel the Raiders</name>
+			<text>Return target nonland permanent to its owner&apos;s hand.
+Create a Weapon token. (It&apos;s an Equipment artifact with &quot;Equipped creature gets +1/+0&quot; and equip {1}.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/83.png" num="47">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Adaptable Armaments</name>
+			<text>Up to one target creature gains hexproof until end of turn. Create a Weapon token. You may attach it to that creature. (It&apos;s an Equipment artifact with &quot;Equipped creature gets +1/+0&quot; and equip {1}.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/84.png" num="31">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lost Valley Scavenger</name>
+			<text>When this creature enters, create a tapped Water token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Tap or untap target creature. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/85.png" num="140">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Infested Howlers</name>
+			<text>Deathtouch
+{2}{G}, Exile this card from your graveyard: Put a deathtouch counter on target creature. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/86.png" num="138">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Colossal Snapjaw</name>
+			<text>Stockpile — As long as you control three or more tokens, this creature gets +1/+1 and has trample.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/87.png" num="124">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oasis Seeker</name>
+			<text>When this creature enters, search your library for a basic land card or a Desert card, reveal it, put it into your hand, then shuffle.
+{U}, {T}: Draw a card, then discard a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/88.png" num="142">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Well-Oiled Machine</name>
+			<text>Put two +1/+1 counters on target creature or Vehicle.
+Stockpile — If you control three or more tokens, put three +1/+1 counters on that permanent instead.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/89.png" num="148">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Into the Wasteland</name>
+			<text>Search your library for a basic land card or a Desert card, put it onto the battlefield tapped, then shuffle.
+Create a Fuel token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Target Vehicle you control becomes an artifact creature until end of turn.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/90.png" num="139">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scuttle</name>
+			<text>Destroy target artifact or enchantment.
+{3}{G}, Exile this card from your graveyard: Put two +1/+1 counters on target creature. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/91.png" num="146">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ambush Chameleon</name>
+			<text>When this creature enters, create a Water token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Tap or untap target creature. Activate only as a sorcery.&quot;)
+Stockpile — Whenever this creature attacks, if you control three or more tokens, it gains flying and trample until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/92.png" num="151">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hydrovault Security</name>
+			<text>Stockpile — As long as you control three or more tokens, you may cast this spell as though it had flash.
+Reach</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/93.png" num="185">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4GU</manacost>
+				<cmc>6</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Psycraft</name>
+			<text>Choose one—
+• Return target creature to its owner&apos;s hand.
+• Target creature you control deals damage equal to its power to target creature you don&apos;t control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/94.png" num="200">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fertility Probe</name>
+			<text>Vigilance
+{1}{U}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/95.png" num="36">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Supply Drone Support</name>
+			<text>Create a 1/1 colorless Drone artifact creature token with flying, then manufacture. (Create a token that&apos;s a copy of an artifact token you control.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/96.png" num="55">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Savvy Salvager</name>
+			<text>When Savvy Salvager enters, create a Fuel token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Target Vehicle you control becomes an artifact creature until end of turn.&quot;)
+{2}{R}, {T}, Sacrifice an artifact or land: Draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/97.png" num="50">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Left to Rust</name>
+			<text>Tap target creature or vehicle and put three stun counters on it.
+Manufacture. (Create a token that&apos;s a copy of an artifact token you control.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/98.png" num="41">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Steelcast</name>
+			<text>Affinity for artifact creatures (This spell costs {1} less to cast for each artifact creature you control.)
+Draw two cards.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/99.png" num="54">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Uncharted Voyage</name>
+			<text>Target creature&apos;s owner puts it on their choice of the top or bottom of their library.
+Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/100.png" num="59">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wayless Dunetreader</name>
+			<text>As long as you control a Desert, or there is a Desert card in your graveyard, this creature gets +1/+0.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/101.png" num="119">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Nomad</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Relentless Pathcarver</name>
+			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
+Whenever this creature attacks, another target creature you control gains menace until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/102.png" num="108">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dilapidated Colossus</name>
+			<text>Trample (This creature can deal excess combat damage to the player or planeswalker it&apos;s attacking.)
+This creature can only attack and block alone.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/103.png" num="96">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Basic Manufacturing</name>
+			<text>Create a 1/1 colorless Construct artifact creature token, then manufacture. (Create a token that&apos;s a copy of an artifact token you control.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/104.png" num="92">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stoked</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature or Vehicle
+When this Aura enters, create a Weapon token and attach it to enchanted creature. (It&apos;s an Equipment artifact with &quot;Equipped creature gets +1/+0&quot; and equip {1}.)
+Equipped creature gets +2/+2 and has trample.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/105.png" num="115">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Overclock</name>
+			<text>Choose one —
+• Target creature you control gets +2/+1 and gains first strike until end of turn.
+• Target artifact creature you control gets +3/+1 and gains first strike and trample until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/106.png" num="103">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scrap for Parts</name>
+			<text>Destroy up to one target artifact.
+Manufacture. (Create a token that&apos;s a copy of an artifact token you control.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/107.png" num="109">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Perimeter Drones</name>
+			<text>Flying, haste
+Whenever this creature deals combat damage to a player, surveil 1.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/108.png" num="196">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Drone</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slagsmith Welder</name>
+			<text>When this creature enters, draw a card, then discard a card, then draw a card.
+{U}{R}, {T}: Target artifact creature gets +1/+0 until end of turn. Untap it.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/109.png" num="215">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unstable Ordinance</name>
+			<text>Unstable Ordinance deals 4 damage to target creature or planeswalker. If excess damage was dealt this way, draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/110.png" num="220">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hammer&apos;s Reinforcement</name>
+			<text>When this creature enters, if it isn&apos;t a token, create a token that&apos;s a copy of it.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/111.png" num="226">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4U/RU/R</manacost>
+				<cmc>6</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Exploration Apparatus</name>
+			<text>When this creature dies, create an Excavator token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 1.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/112.png" num="6">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Convoy Float</name>
+			<text>Vigilance
+Whenever this Vehicle attacks, untap up to one target creature.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/113.png" num="3">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Veteran Skyraider</name>
+			<text>Flying, vigilance
+Overdrive 1 (When this creature attacks, if it has no +1/+1 counters on it, you may sacrifice a permanent. If you do, put a +1/+1 counter on it.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/114.png" num="29">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Siphon Essence</name>
+			<text>Destroy target attacking or blocking creature. If an artifact creature was destroyed this way, create a Fuel token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Target Vehicle you control becomes an artifact creature until end of turn.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/115.png" num="27">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Combat Crash</name>
+			<text>Kicker—Sacrifice an artifact. (You may sacrifice an artifact in addition to any other costs as you cast this spell.)
+Target creature or Vehicle gets +2/+2 until end of turn. If this spell was kicked, that permanent gains hexproof and indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/116.png" num="2">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Guzzlefreak Bandit</name>
+			<text>{W}: Untap this creature. Activate only once each turn and only as a sorcery.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/117.png" num="98">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hyena Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bronzetown Bruiser</name>
+			<text>Overdrive 1 (When this creature attacks, if it has no +1/+1 counters on it, you may sacrifice a permanent. If you do, put a +1/+1 counter on it.)
+This creature has trample as long as it has a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/118.png" num="94">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rhino Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Claim Ownership</name>
+			<text>Gain control of target artifact or creature until end of turn. Untap it. It gains haste until end of turn.
+Create a Fuel token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Target Vehicle you control becomes an artifact creature until end of turn.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/119.png" num="95">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Visions of Combustion</name>
+			<text>You may discard a card. If you do, draw two cards. 
+Create a tapped 3/2 colorless Vehicle artifact creature token with crew 1. (Tap any number of creatures you control with total power 1 or more: That Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/120.png" num="118">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sandscorched Surveyor</name>
+			<text>Whenever you sacrifice one or more permanents, put a +1/+1 counter on this creature.
+At the beginning of your end step, you may move a counter from Sandscorched Surveyor onto another target permanent you control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/121.png" num="208">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Road Ready</name>
+			<text>As an additional cost to cast this spell, sacrifice an artifact for each target beyond the first.
+Any number of target creatures each get +3/+1 and gain trample until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/122.png" num="203">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Kingpin Comissioner</name>
+			<text>As long as it&apos;s your turn, this creature has first strike.
+When this creature enters, create a 1/1 colorless Construct artifact creature token.
+Attacking creatures you control get +1/+0.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/123.png" num="227">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>4R/WR/W</manacost>
+				<cmc>6</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Salvage Field</name>
+			<text>This land enters tapped.
+{T}: Add {R} or {W}.
+When this land is put into a graveyard from the battlefield, you may search your library for a basic Mountain Plains card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/124.png" num="247">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cultivated Ruins</name>
+			<text>This land enters tapped.
+{T}: Add {B} or {G}.
+Whenever you gain life, you may return this card from your graveyard to the battlefield with a finality counter on it.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/125.png" num="242">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Crocus, Rations Expert</name>
+			<text>Ward {1}
+Whenever you sacrifice a token, you gain 1 life.
+{3}{B}, {T}: Each opponent loses X life, where X is the amount of life you&apos;ve gained this turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/126.png" num="128">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Snake Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seasoned Fuelseeker</name>
+			<text>Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+{B}, {T}: Mill two cards.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/127.png" num="26">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Overexertion</name>
+			<text>Enchant artifact or creature
+When this Aura enters, tap enchanted permanent and draw a card.
+Whenever enchanted permanent becomes tapped, put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/128.png" num="20">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ride or Die</name>
+			<text>Choose one —
+• Create a 3/2 colorless Vehicle artifact creature token with crew 1 and a 1/1 white Warrior creature token. (Tap any number of creatures you control with total power 1 or more: That Vehicle becomes an artifact creature until end of turn.)
+• Destroy target creature with power 4 or greater.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/129.png" num="23">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Oilkin Pumpmonger</name>
+			<text>Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+When this creature enters, create an Excavator token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 1.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/130.png" num="76">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Catalytic Oilkin</name>
+			<text>Whenever this creature enters the battlefield or leaves your graveyard, create a Fuel token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Target Vehicle you control becomes an artifact creature until end of turn.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/131.png" num="61">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bore In</name>
+			<text>Refine 3 (As an additional cost to cast this spell, you may exile three cards from your graveyard.)
+Destroy target creature if its power is 3 or less or if this spell was refined.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/132.png" num="158">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Read the Sands</name>
+			<text>Enchant creature or Vehicle
+Enchanted permanent gets +1/+1.
+As long as you control a Desert or there is a Desert card in your graveyard, you may cast this Aura from your graveyard.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/133.png" num="22">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Oil Baron&apos;s Enforcer</name>
+			<text>When this creature enters, you may exile a creature card from your graveyard. If you do, put a +1/+1 counter on this creature. If you don&apos;t, create an Excavator token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 1.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/134.png" num="229">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2W/BW/B</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sturdy Dunetreader</name>
+			<text>Vigilance
+When this Vehicle enters, creatures you control get +1/+1 until end of turn.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/135.png" num="28">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Frail Corvid</name>
+			<text>Flying
+Whenever you gain life, Frail Corvid gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/136.png" num="67">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reclamation Witness</name>
+			<text>When this creature enters, harvest. (To harvest, either sacrifice a token to draw a card or mill a card to create a Food token.)
+{1}{G}, Sacrifice a token: Put a +1/+1 counter on this creature. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/137.png" num="80">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Starve Out</name>
+			<text>Kicker {1} (You may pay an additional {1} as you cast this spell.)
+Destroy target creature, Vehicle, or planeswalker.
+If this spell was not kicked, each opponent harvests. (To harvest, either sacrifice a token to draw a card or mill a card to create a Food token.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/138.png" num="83">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Weighted Demands</name>
+			<text>Each opponent sacrifices a creature or Vehicle. If a token was sacrificed this way, harvest. (To harvest, either sacrifice a token to draw a card or mill a card to create a Food token.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/139.png" num="89">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Corpsebay Boss</name>
+			<text>When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+When this creature dies, harvest. (To harvest, either sacrifice a token to draw a card or mill a card to create a Food token.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/140.png" num="127">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Corpse Cage</name>
+			<text>Choose one—
+• Target creature or Vehicle you control must be blocked this turn if able.
+• Create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+• Corpse Cage deals 5 damage to target creature with flying.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/141.png" num="126">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Timberdust Hermit</name>
+			<text>Deathtouch
+When this creature enters, harvest. (To harvest, either sacrifice a token to draw a card or mill a card to create a Food token.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/142.png" num="230">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1B/GB/G</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oasis Guide</name>
+			<text>When this creature enters, create a Water token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Tap or untap target creature. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/143.png" num="228">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G/UG/U</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hydrotect Toolsmith</name>
+			<text>Whenever this creature becomes tapped, you may pay {1}{GU}. When you do, you create a Water token, then target creature or Vehicle gains trample until end of turn. (A Water is an artifact with &quot;{T}, Sacrifice this artifact: Tap or untap target creature. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/144.png" num="184">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bubblewise Mentor</name>
+			<text>Whenever you cast a spell with mana value 2 or less, put a +1/+1 counter on this creature.
+Each creature you control with mana value 2 or less enters with an additional +1/+1 counter on it.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/145.png" num="159">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Domesticated Megamoth</name>
+			<text>Flying
+Whenever this creature attacks, put a +1/+1 counter on target attacking creature, it gains flying until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/146.png" num="165">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>4GU</manacost>
+				<cmc>6</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Barrel Drinker</name>
+			<text>Flying
+Stockpile — This creature gets +1/+1 as long as you control three or more tokens.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/147.png" num="153">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hydrotect Surveyor</name>
+			<text>Whenever Hydrotect Surveyor attacks, look at the top card of your library. If it&apos;s a land card, you may put it onto the battlefield tapped. If you don&apos;t put the card onto the battlefield, put it into your hand.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/148.png" num="183">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Secure Refuge</name>
+			<text>At the beginning of your upkeep, create a Water token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Tap or untap target creature. Activate only as a sorcery.&quot;)
+Whenever a spell or ability you control untaps a creature, put a +1/+1 counter on that creature.
+Whenever a spell or ability you control taps a creature, put a stun counter on that creature.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/149.png" num="210">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Drone Surveillance Network</name>
+			<text>When this enchantment enters, create a 1/1 colorless Drone artifact creature token with flying.
+Whenever one or more artifact creatures you control deal combat damage to a player, surveil 1.
+At the beginning of your end step, if three or more artifact creatures you control dealt combat damage to players this turn, draw a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/150.png" num="33">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Weathered Sentry</name>
+			<text>When this creature enters, return up to one other target creature to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/151.png" num="60">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reservoir Constrictor</name>
+			<text>Flash
+Affinity for tokens (This spell costs {1} less to cast for each token you control.)
+When this creature enters, tap it and up to one target artifact or creature you don&apos;t control. Put a stun counter on the permanent you don&apos;t control. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/152.png" num="48">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dune Wind Deflection</name>
+			<text>This spell costs {1} less to cast if you control a Desert or there is a Desert card in your graveyard.
+Counter target spell.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/153.png" num="35">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Moisture Extractor</name>
+			<text>When this artifact enters, draw a card and create a Water token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Tap or untap target creature. Activate only as a sorcery.&quot;)
+Stockpile — At the beginning of your end step, if you control three or more tokens, return this artifact to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/154.png" num="43">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Anima Awakener</name>
+			<text>Whenever you attack, put a +1/+1 counter on target attacking creature.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/155.png" num="121">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wellspring Guard</name>
+			<text>When this creature enters, create a Water token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Tap or untap target creature. Activate only as a sorcery.&quot;)
+Stockpile — Whenever you attack, if you control three or more tokens, creatures you control gain trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/156.png" num="149">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dam Dismantler</name>
+			<text>Trample, reach
+When this creature enters, you may sacrifice a token. If you do, it fights another target creature.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/157.png" num="129">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ape</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Resourceful Crafting</name>
+			<text>Enchant creature or Vehicle
+Whenever enchanted permanent attacks, put a +1/+1 counter on it.
+When this Aura leaves the battlefield, return target non-Aura permanent card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/158.png" num="143">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hoverforce Agent</name>
+			<text>Flying
+When this creature enters, create a Weapon token and attach it to this creature. (It&apos;s an Equipment artifact with &quot;Equipped creature gets +1/+0&quot; and equip {1}.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/159.png" num="38">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scrapyard Apparition</name>
+			<text>Flying
+{3}{U}: Manufacture. (Create a token that&apos;s a copy of an artifact token you control.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/160.png" num="51">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thirst for Knowledge</name>
+			<text>Draw three cards. Then discard two cards unless you discard an artifact card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/161.png" num="58">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Speed Freak</name>
+			<text>Haste
+Whenever this creature becomes tapped, if it wasn&apos;t tapped to crew a Vehicle, put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/162.png" num="113">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blade Crawler</name>
+			<text>Menace
+When this creature dies, create a Weapon token. (It&apos;s an Equipment artifact with &quot;Equipped creature gets +1/+0&quot; and equip {1}.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/163.png" num="93">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Insect Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forgeworks Operator</name>
+			<text>When this creature enters, choose one—
+• Create a 1/1 colorless Construct artifact creature token.
+• Manufacture. (Create a token that&apos;s a copy of an artifact token you control.)
+Whenever one or more artifacts you control enter, this creature deals 2 damage to each opponent.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/164.png" num="97">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Searing Dunes</name>
+			<text>Searing Dunes deals X damage to target creature or planeswalker, where X is 2 plus the number of Deserts you control and/or Desert cards in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/165.png" num="110">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Slagsmith Toolsmith</name>
+			<text>Whenever this creature becomes tapped, you may pay {1}{UR}. When you do, create a Weapon token, then target creature or Vehicle gains flying until end of turn. (A Weapon is an Equipment artifact with &quot;Equipped creature gets +1/+0&quot; and equip {1}.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/166.png" num="214">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glintscale Smith</name>
+			<text>Vigilance
+When this creature enters, scry 2, then exile the top two cards of your library. Until the end of your next turn, you may cast artifact cards exiled this way.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/167.png" num="177">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fleshhulker</name>
+			<text>Affinity for artifact creatures (This spell costs {1} less to cast for each artifact creature you control.)
+At the beginning of combat on your turn, target artifact creature you control gains vigilance and menace until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/168.png" num="171">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Horror Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>5UR</manacost>
+				<cmc>7</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Construct Conductor</name>
+			<text>Whenever you create one or more tokens, create a 1/1 colorless Construct artifact creature token. This ability triggers only once each turn.
+At the beginning of combat on your turn, target artifact becomes an X/X artifact creature until end of turn, where X is the number of artifacts you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/169.png" num="162">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3UR</manacost>
+				<cmc>5</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slagsmith B.O.L.T.</name>
+			<text>Haste
+When this Vehicle enters, create a Fuel token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Target Vehicle you control becomes an artifact creature until end of turn.&quot;)
+Attacking artifact creatures you control get +1/+0.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/170.png" num="213">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reassembly Station</name>
+			<text>When this artifact enters, create a 1/1 colorless Construct artifact creature token and a Weapon token. (It&apos;s an Equipment artifact with &quot;Equipped creature gets +1/+0&quot; and equip {1}.)
+{T}, Sacrifice an artifact: Manufacture. Activate only as a sorcery. (Create a token that&apos;s a copy of an artifact token you control.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/171.png" num="201">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Encroaching Desert</name>
+			<text>{T}: Add {C}.
+{T}, Sacrifice this land: Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/172.png" num="243">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Enigmatic Engineer</name>
+			<text>As long as it&apos;s your turn, each permanent you control with a +1/+1 counter on it has first strike.
+{W}, {T}: Put a +1/+1 counter on target creature or Vehicle you control. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/173.png" num="5">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Waterhole Witness</name>
+			<text>Lifelink
+When this creature enters, return up to one target permanent card with mana value 1 or less from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/174.png" num="30">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Platypus Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Husked Redeemer</name>
+			<text>Vigilance
+Overdrive 2 (When this creature attacks, if it has no +1/+1 counters on it, you may sacrifice a permanent. If you do, put two +1/+1 counters on it.)
+When this creature dies, return another target non-Cleric creature or Vehicle card with mana value less than or equal to this creature&apos;s power from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/175.png" num="9">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leave no Trace</name>
+			<text>You may cast this spell as though it had flash if you pay {2} more to cast it.
+Choose one —
+• Exile target noncreature, nonland permanent.
+• Exile target tapped creature.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/176.png" num="12">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mechanical Upgrades</name>
+			<text>Enchant creature or Vehicle
+When this Aura enters, put up to one +1/+1 counter on enchanted permanent and draw a card.
+Enchanted permanent gets +1/+1 for each counter on it.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/177.png" num="13">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Guzzlefreak Soloist</name>
+			<text>Whenever you sacrifice a permanent for the first time each turn, put a +1/+1 counter on this creature.
+When this creature dies, it deals damage equal to its power to any target.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/178.png" num="99">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mobile Drivestoker</name>
+			<text>Overdrive 2 (When this creature attacks, if it has no +1/+1 counters on it, you may sacrifice a permanent. If you do, put two +1/+1 counters on it.)
+Whenever this creature attacks, if it has one or more +1/+1 counters on it, you may discard your hand and remove any number of +1/+1 counters from it. If you do, draw that many cards.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/179.png" num="102">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vehicular Manslaughter</name>
+			<text>Create a 3/2 colorless Vehicle artifact creature token with crew 1. It becomes an artifact creature and gains haste until end of turn. Then Vehicular Manslaughter deals damage to each other creature and each planeswalker equal to the number of artifacts you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/180.png" num="117">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gearhead Toolsmith</name>
+			<text>Whenever this creature becomes tapped, you may pay {1}{RW}. When you do, create a Fuel token, then target creature or Vehicle gains first strike until end of turn. (A Fuel is an artifact with &quot;{T}, Sacrifice this artifact: Target Vehicle you control becomes an artifact creature until end of turn.&quot;)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/181.png" num="174">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gearhead Sandspeaker</name>
+			<text>During your turn, this creature has first strike.
+Whenever you sacrifice another permanent, surveil 1. If this is the second time this ability has resolved this turn, draw a card instead.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/182.png" num="173">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skyblazer</name>
+			<text>Flying, haste
+Overdrive 2 (When this creature attacks, if it has no +1/+1 counters on it, you may sacrifice a permanent. If you do, put two +1/+1 counters on it.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/183.png" num="212">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4RW</manacost>
+				<cmc>6</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>From the Wreckage</name>
+			<text>Enchant creature or Vehicle you control
+Enchanted permanent gets +2/+0 and has menace.
+When enchanted permanent is put into a graveyard from the battlefield, return it to the battlefield under its owners control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/184.png" num="172">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blade-Wheel Buggy</name>
+			<text>Trample
+Overdrive 4 (When this creature attacks, if it has no +1/+1 counters on it, you may sacrifice a permanent. If you do, put four +1/+1 counters on it.)
+At the beginning of each end step, remove all counters from Blade-Wheel Buggy.
+Crew 1</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/185.png" num="154">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Witness Me!</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+Lifelink (Damage dealt by this spell also causes you to gain that much life.)
+Witness Me! deals damage to any target equal to the sacrificed creature&apos;s power.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/186.png" num="224">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Combustuble Sludge</name>
+			<text>Haste
+This creature can&apos;t be blocked except by Vehicles.
+{T}, Sacrifice this creature: Target Vehicle you control becomes an artifact creature until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/187.png" num="231">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Fuel Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Corpse Beast</name>
+			<text>Whenever one or more creature cards are put into your graveyard from anywhere, put a +1/+1 counter on this creature and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/188.png" num="62">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Mutant Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scavenging Monkeys</name>
+			<text>When this creature enters, harvest. (To harvest, either sacrifice a token to draw a card or mill a card to create a Food token.)
+Whenever another creature you control enters, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/189.png" num="145">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Monkey</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Barren Wurm</name>
+			<text>This creature gets +1/+1 for each Desert you control and each Desert card in your graveyard.
+As long as you control a Desert and there is a Desert card in your graveyard, this creature has trample and reach.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/190.png" num="123">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rubblefarmer Toolsmith</name>
+			<text>Whenever this creature becomes tapped, you may pay {1}{BG}. When you do, create a Food token, then target creature or Vehicle gains deathtouch until end of turn. (A Food is an artifact with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/191.png" num="206">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hollow Horticulturist</name>
+			<text>Whenever you gain life, put a +1/+1 counter on target creature.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/192.png" num="181">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rot-Farm Prowler</name>
+			<text>Deathtouch
+When this creature enters, harvest. (To harvest, either sacrifice a token to draw a card or mill a card to create a Food token.)
+If you would harvest, instead look at the top card of your library, then harvest.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/193.png" num="204">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>3BG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rubblefarm Cultivator</name>
+			<text>Landfall — Whenever a land you control enters, harvest. (To harvest, either sacrifice a token to draw a card or mill a card to create a Food token.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/194.png" num="205">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scourge of the Greenway</name>
+			<text>Lifelink
+When this Vehicle enters, you may sacrifice another artifact or creature. If you do, destroy target nonland permanent.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/195.png" num="209">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cycle of Reclamation</name>
+			<text>Harvest three times. (To harvest, either sacrifice a token to draw a card or mill a card to create a Food token.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/196.png" num="164">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sandcloaked Nomads</name>
+			<text>As long as you control a Desert and there is a Desert card in your graveyard, this creature gets +2/+0 and has lifelink.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/197.png" num="25">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Nomad</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rugged Duelist</name>
+			<text>When this creature enters, create an Excavator token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 1.&quot;)
+When this creature dies, draw a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/198.png" num="24">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aven Sharpshooter</name>
+			<text>Flash
+Refine 5 (As an additional cost to cast this spell, you may exile five cards from your graveyard.)
+Flying
+When this creature enters, if it was refined, destroy target attacking or blocking creature.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/199.png" num="1">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Urban Guide</name>
+			<text>Refine 4 (As an additional cost to cast this spell, you may exile four cards from your graveyard.)
+When this creature enters, choose up to one target creature or Vehicle card in your graveyard. If this creature was refined, return that card from your graveyard to the battlefield tapped with a finality counter on it. Otherwise, return it to your hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/200.png" num="85">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Voracious Gigapede</name>
+			<text>If a player would mill one or more cards, you may have that player mill that many cards plus an additional two cards instead.
+Whenever this creature attacks, target player mills a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/201.png" num="87">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Maxine&apos;s Tenacity</name>
+			<text>At the beginning of your upkeep, create an Excavator token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 1.&quot;)
+Whenever one or more cards leave your graveyard, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/202.png" num="74">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kolt&apos;s Demise</name>
+			<text>Refine 3 (As an additional cost to cast this spell, you may exile three cards from your graveyard.)
+Target creature gets -2/-2 until end of turn. If this spell was refined, that creature gets an additional -1/-1 until end of turn for each card you own in exile.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/203.png" num="71">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Drillmonger Toolsmith</name>
+			<text>Whenever this creature becomes tapped, you may pay {1}{WB}. When you do, create an Excavator token, then target creature or Vehicle you control gains lifelink until end of turn. (An Excavator is an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 1.&quot;)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/204.png" num="167">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oilstained Retriever</name>
+			<text>Flash
+When this creature enters, you may pay 2 life. If you do, choose up to one target permanent card in your graveyard that was put there from anywhere this turn. Return it to your hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/205.png" num="193">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crude Sludgemaw</name>
+			<text>Refine 5 (As an additional cost to cast this spell, you may exile five cards from your graveyard.) (As an additional cost to cast this spell, you may exile five cards from your graveyard.)
+Vigilance, menace
+When this creature enters, if it was refined, exile target creature you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/206.png" num="163">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4WB</manacost>
+				<cmc>6</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shellslinger</name>
+			<text>Whenever you cast a noncreature spell, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/207.png" num="211">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oilfield Tripod</name>
+			<text>Vigilance
+Whenever this Vehicle attacks, mill three cards.
+Whenever one or more cards leave your graveyard, put a +1/+1 counter on this Vehicle.
+Crew 3</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/208.png" num="192">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Extraction Process</name>
+			<text>Refine 2 (As an additional cost to cast this spell, you may exile two cards from your graveyard.)
+Return target nonland permanent card from your graveyard to your hand. If this spell was refined, you gain life equal to that card&apos;s mana value.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/209.png" num="169">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Crystalline Automaton</name>
+			<text>Whenever this creature becomes tapped for the first time each turn, add one mana of any color. Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/210.png" num="232">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rebel&apos;s Ride</name>
+			<text>Haste
+When this Vehicle enters, gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/211.png" num="105">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Motorcade Masterwork</name>
+			<text>When this Vehicle enters, create a 3/2 colorless Vehicle artifact token with crew 1.
+This Vehicle gets +1/+1 for each other Vehicle you control.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/212.png" num="16">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Portable Depot</name>
+			<text>When this Vehicle enters, target non-Equipment artifact you control becomes an artifact creature for as long as you control this Vehicle. If that artifact is not a Vehicle, it has base power and toughness 3/3.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/213.png" num="45">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wandering Necropolis</name>
+			<text>When this Vehicle enters, search your library for a card, put that card into your graveyard, then shuffle.
+This Vehicle gets +1/+1 for each creature and Vehicle card in your graveyard.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DGZ-files/img/214.png" num="88">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Edworth, the Baron</name>
+			<text>Vigilance
+If damage would be dealt to you, prevent that damage and mill that many cards.
+Exile four cards from your graveyard: Edworth gains indestructible until end of turn. Tap it.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DGZ-files/img/215.png" num="168">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>4WB</manacost>
+				<cmc>6</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Geryuth, Dread Cultivator</name>
+			<text>Whenever another creature dies, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+You may cast permanent spells from your graveyard by sacrificing a token in addition to paying their other costs. If you cast a spell this way, that permanent enters with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DGZ-files/img/216.png" num="176">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3BG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Juln, Head Allocator</name>
+			<text>When Juln enters, for each nonlegendary token you control, create a token that&apos;s a copy of that permanent.
+At the beginning of combat on your turn, target creature you control gets +1/+1 until end of turn for each token you control. If you control ten or more tokens, that creature also gains trample until end of turn.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DGZ-files/img/217.png" num="188">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Turtle Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Goran, the Octoboss</name>
+			<text>Prowess
+When Goran enters, exile the top four cards of your library. You may play those cards for as long as they remain exiled.
+Whenever you cast a nonland spell exiled with Goran, if it&apos;s a permanent spell, create a token that&apos;s a copy of it, except it&apos;s an artifact in addition to its other types. Otherwise, copy that spell. You may choose new targets for the copy.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DGZ-files/img/218.png" num="178">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Octopus Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>4UR</manacost>
+				<cmc>6</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cailth, Burning Excoriator</name>
+			<text>Flying, haste
+Whenever Cailth attacks, you may unearth target creature card tapped and attacking. If you&apos;ve sacrificed a permanent this turn, that creature enters with two +1/+1 counters on it. (To unearth a creature card, return it from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield.)</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DGZ-files/img/219.png" num="160">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>4RW</manacost>
+				<cmc>6</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Maxine, Hand of the Baron</name>
+			<text>Discard a card with mana value X: Counter target spell with mana value X that targets you or a creature you control.
+Whenever one or more cards you own are exiled from anywhere, put a +1/+1 counter on Maxine.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/220.png" num="190">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chief Enforcer</name>
+			<text>Lifelink
+Whenever an opponent casts a spell, that player may pay {X}, where X is the number of spells they&apos;ve cast this turn (including that spell). If they don&apos;t, Chief Enforcer deals X damage to them.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/221.png" num="161">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vin-Emille, Moldpipe Boss</name>
+			<text>Deathtouch
+Whenever Vin-Emille deals combat damage to a player or planeswalker, you may sacrifice a token. If you do, destroy target nonland permanent. Otherwise, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/222.png" num="222">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sakana, Multifacted Merchant</name>
+			<text>{T}: Create a tapped Water token.
+{G}{U}, {T}: Target artifact or creature loses all abilities and becomes an artifact creature with base power and toughness 3/3. Activate only as a sorcery.
+{3}{G}{U}, {T}: Exchange control of target artifact or creature you control and target creature an opponent controls with power 3 or less. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/223.png" num="207">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Fox Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Geirk, Lunatic Outrider</name>
+			<text>When Geirk enters, create two 1/1 white Warrior creature tokens.
+Geirk and other creatures you control have haste.
+Whenever a creature you control with no +1/+1 counters on it attacks, you may sacrifice a permanent. If you do, put a +1/+1 counter on that creature.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/224.png" num="175">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vaul, Unleashed</name>
+			<text>[+1]: You may sacrifice a creature. Then if a creature you control died this turn, draw a card.
+[-1]: Create a 1/1 white Warrior creature token.
+[-6]: Destroy all creatures, then you gain 3 life for each creature that died this turn.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DGZ-files/img/225.png" num="86">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Vaul</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Union Lounge</name>
+			<text>At the beginning of combat on your turn, create a 1/1 white Warrior creature token. It gains haste and must attack this turn if able.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/226.png" num="116">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lieu, Scorned Shot</name>
+			<text>[+1]: Lieu, Scorned Shot deals 1 damage to any target and you gain 1 life. If that target is a creature, tap it.
+[0]: Unearth target creature card with mana value 3 or less. (To unearth a creature card, return it from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield.)
+[-5]: Target opponent gets an emblem with &quot;If you would lose life, you lose that much life plus 1 instead.&quot;</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DGZ-files/img/227.png" num="189">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Lieu</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reign, as the Desert Sky</name>
+			<text>[+1]: Scry 1. Create a Water token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Tap or untap target creature. Activate only as a sorcery.&quot;)
+[-1]: Put a stun counter on target tapped nonland permanent.
+[-4]: Return any number of target tapped creatures to their owners&apos; hands.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DGZ-files/img/228.png" num="46">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Reign</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Launch the Resurgence</name>
+			<text>Return any number of target permanent cards with each with mana value 1 or greater and with total mana value X or less from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/229.png" num="11">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XW</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Iterative Blueprinting</name>
+			<text>At the beginning of your upkeep, put a development counter on this enchantment. When you do, create a token that&apos;s a copy of target artifact with mana value less than or equal to the number of development counters on this enchantment. Then if tokens you control have total mana value 20 or greater, you win the game. (A token copy has the mana cost of the permanent it&apos;s a copy of.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/230.png" num="40">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ratterson, Surplus Abuser</name>
+			<text>Menace
+Whenever Ratterson, Surplus Abuser attacks, create an Excavator token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 1.&quot;)
+{2}{W}, Exile three cards from your graveyard: Creatures you control get +1/+1 until end of turn. Untap them. Activate only during your turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/231.png" num="79">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Rat</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scion of the Broken Night</name>
+			<text>Lifelink
+Whenever you cast a noncreature spell, you may exile the top card of your library. If you do, you lose life equal to its mana value. Put it into your hand at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/232.png" num="82">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Purge the Blightheap</name>
+			<text>Shuffle any number of target cards from your graveyard into your library. For each card shuffled into your library this way, each opponent mills two cards.
+If Purge the Blightheap would be exiled from your graveyard, put it on the bottom of your library instead.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/233.png" num="78">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Kolt, Brute Mechanic</name>
+			<text>Haste
+When Kolt, Brute Mechanic enters, tap target artifact or creature. Create a token that&apos;s a copy of it, except it&apos;s an artifact in addition to its other types and has haste and &quot;At the beginning of your end step, sacrifice this artifact.&quot;
+{1}{U}, {T}: Manufacture. (Create a token that&apos;s a copy of an artifact token you control.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/234.png" num="100">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Worldsoul&apos;s Retribution</name>
+			<text>When this enchantment enters, search your library for a land card, put that card into your graveyard, then shuffle.
+{4}{G}{G}: Exile target land card from your graveyard. Create a token that&apos;s a copy of it, except it&apos;s an Elemental creature in addition to its other types and has &quot;This creature&apos;s power and toughness are each equal to the number of lands you control plus the number of land cards in your graveyard.&quot;</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DGZ-files/img/235.png" num="150">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dynamic Reclamation</name>
+			<text>For each noncreature permanent type, destroy up to one target permanent of that type. For each land destroyed this way, that land&apos;s controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle. (Artifact, battle, enchantment, land, and planeswalker are noncreature permanent types.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/236.png" num="132">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pernicious Deed</name>
+			<text>{X}, Sacrifice this enchantment: Destroy each artifact, creature, and enchantment with mana value X or less.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DGZ-files/img/237.png" num="197">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Downpour Distribution</name>
+			<text>Search your library for a permanent card and put it onto the battlefield under the control of a player of your choice. Then shuffle. Each other player creates a token that&apos;s a copy of that permanent.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DGZ-files/img/238.png" num="166">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Production Hub</name>
+			<text>When this artifact enters, if it isn&apos;t a token, create a token that&apos;s a copy of it.
+At the beginning of your upkeep, create a token that&apos;s a copy of target artifact not named Production Hub.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DGZ-files/img/239.png" num="198">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4UR</manacost>
+				<cmc>6</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Resonant Amplifier</name>
+			<text>When this Vehicle enters, create two 3/2 colorless Vehicle artifact creature tokens with crew 1.
+Whenever you cast a spell or activate an ability that isn&apos;t a mana ability that targets only this Vehicle, copy that spell or ability for each other Vehicle you control that spell or ability could target. Each copy targets a different one of those Vehicles.
+Crew 1</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DGZ-files/img/240.png" num="202">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Utter End</name>
+			<text>Exile target nonland permanent.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/241.png" num="221">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Surface&apos;s Bane</name>
+			<text>Menace
+When The Surface&apos;s Bane enters, mill half your library, rounded down. You may return any number of nonland cards with total mana value 8 or less from among cards milled this way to your hand.
+As long as you own ten or more cards in exile, The Surface&apos;s Bane is a creature in addition to its other types.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/242.png" num="217">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4WB</manacost>
+				<cmc>6</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blight Harvester</name>
+			<text>When this creature enters, target opponent discards a card. Put X +1/+1 counters on this creature, where X is 5 minus the discarded card&apos;s mana value.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/243.png" num="155">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pattern of Decay</name>
+			<text>At the beginning of each player&apos;s upkeep, that player may sacrifice a permanent.
+At the beginning of each player&apos;s end step, if no permanents that player controls were put into a graveyard from the battlefield this turn, that player loses 3 life.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/244.png" num="195">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Hunger Engine</name>
+			<text>Trample
+If The Hunger Engine would deal combat damage to a player, you may instead exchange that player&apos;s life total with your life total.
+Pay half your life, rounded up: The Hunger Engine becomes an artifact creature until end of turn. Activate only once each turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/245.png" num="182">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3BG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Iota of Apocalypse</name>
+			<text>Up to one target creature gets +X/+X until end of turn.
+Return up to one target nonland permanent with mana value X or less to its owner&apos;s hand.
+Return up to one target card with mana value X or less from your graveyard to your hand.
+Exile Iota of Apocalypse.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/246.png" num="187">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XGU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Greatest Good</name>
+			<text>Flying
+The Greatest Good enters with a +1/+1 counter for each different mana value among nonland permanents you control and nonland cards in your graveyard.
+Tap an untapped creature token you control and an untapped noncreature token you control: The Greatest Good becomes an artifact creature until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/247.png" num="179">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Protean Mechamorph</name>
+			<text>You may have this creature enter as a copy of any creature or Vehicle on the battlefield, except it has haste and it&apos;s an artifact creature in addition to its other types. (It will always be a creature, even if it&apos;s a copy of a Vehicle.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/248.png" num="199">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mega-Assembly</name>
+			<text>Create a 10/10 colorless Construct artifact creature token.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/249.png" num="191">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5UR</manacost>
+				<cmc>7</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Steel Vengeance</name>
+			<text>First strike
+Whenever The Steel Vengeance attacks, draw a card. Then you may discard a card. When you do, The Steel Vengeance deals damage to target creature or planeswalker equal to the discarded card&apos;s mana value.
+Crew 3. The Steel Vengeance can only be crewed by artifact creatures.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/250.png" num="216">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3UR</manacost>
+				<cmc>5</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>They Who Radicalize</name>
+			<text>Annihilator 1 (Whenever this creature attacks, defending player sacrifices a permanent.)
+Whenever a player sacrifices a nontoken, nonland permanent without a finality counter on it, exile it. You may play it until the end of your next turn. If you play a permanent this way, that permanent enters with a finality counter on it.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/251.png" num="218">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Ultimate Freedom</name>
+			<text>Haste
+Whenever The Ultimate Freedom attacks, you may discard your hand. When you do, draw cards equal to the number of permanents you&apos;ve sacrificed this turn.
+Remove three counters from among creatures you control: The Ultimate Freedom becomes an artifact creature until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/252.png" num="219">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4RW</manacost>
+				<cmc>6</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Excavator DGZ</name>
+			<text>{1}, {T}, Sacrifice this artifact: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/253.png" num="6">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Excavator</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Food DGZ</name>
+			<text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/254.png" num="7">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Water DGZ</name>
+			<text>{T}, Sacrifice this artifact: Tap or untap target creature. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/255.png" num="12">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Water</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Weapon DGZ</name>
+			<text>Equipped creature gets +1/+0.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/256.png" num="13">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Weapon Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Vehicle DGZ</name>
+			<text>Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/257.png" num="11">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Warrior DGZ</name>
+			<text></text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/258.png" num="2">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Fuel DGZ</name>
+			<text>{T}, Sacrifice this artifact: Target Vehicle becomes an artifact creature until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/259.png" num="8">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Fuel</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Construct DGZ</name>
+			<text></text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/260.png" num="3">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>10/10</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Odrvegr DGZ</name>
+			<text>Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/261.png" num="10">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Drone DGZ</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/262.png" num="5">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Drone</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Construct DGZ</name>
+			<text></text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/263.png" num="4">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Munitions DGZ</name>
+			<text>When this token leaves the battlefield, it deals 2 damage to any target.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/264.png" num="9">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Copy DGZ</name>
+			<text></text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DGZ-files/img/265.png" num="1">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Blood is Fuel</name>
+			<text>When Blood is Fuel enters, it deals 2 damage to any target and you gain 2 life.
+Whenever a creature dies, create a Fuel token. This ability triggers only once each turn. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Target Vehicle you control becomes an artifact creature until end of turn.&quot;)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DGZ-files/img/266.png" num="156">DGZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

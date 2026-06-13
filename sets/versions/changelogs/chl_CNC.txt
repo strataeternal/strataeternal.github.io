@@ -1,4 +1,190 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Foreign Aid
+rules_text: [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — At the beginning of your upkeep, each player creates a Food token.
+At the beginning of your upkeep, each player may put a +1/+1 counter on a creature they control.
+II — At the beginning of your upkeep, each player scries 1. => [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — At the beginning of your upkeep, each player creates a Food token.
+II — At the beginning of your upkeep, each player may put a +1/+1 counter on a creature they control.
+III — At the beginning of your upkeep, each player scries 1.
+special_text: [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — At the beginning of your upkeep, each player creates a Food token.
+At the beginning of your upkeep, each player may put a +1/+1 counter on a creature they control.
+II — At the beginning of your upkeep, each player scries 1. => [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — At the beginning of your upkeep, each player creates a Food token.
+II — At the beginning of your upkeep, each player may put a +1/+1 counter on a creature they control.
+III — At the beginning of your upkeep, each player scries 1.
+
+Standing Military
+rules_text: [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — All creatures have haste.
+Whenever a player attacks, that player creates a 1/1 white Soldier creature token that's tapped and attacking.
+II — Attacking creatures get +1/+0. => [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — All creatures have haste.
+II — Whenever a player attacks, that player creates a 1/1 white Soldier creature token that's tapped and attacking.
+III — Attacking creatures get +1/+0.
+special_text: [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — All creatures have haste.
+Whenever a player attacks, that player creates a 1/1 white Soldier creature token that's tapped and attacking.
+II — Attacking creatures get +1/+0. => [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — All creatures have haste.
+II — Whenever a player attacks, that player creates a 1/1 white Soldier creature token that's tapped and attacking.
+III — Attacking creatures get +1/+0.
+
+Checks and Balances
+rules_text: [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — No more than one creature can attack each combat.
+Each player can't cast more than one spell each turn.
+II — Each player can't draw more than one card each turn. => [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — No more than one creature can attack each combat.
+II — Each player can't cast more than one spell each turn.
+III — Each player can't draw more than one card each turn.
+special_text: [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — No more than one creature can attack each combat.
+Each player can't cast more than one spell each turn.
+II — Each player can't draw more than one card each turn. => [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — No more than one creature can attack each combat.
+II — Each player can't cast more than one spell each turn.
+III — Each player can't draw more than one card each turn.
+
+Final Duties
+rules_text: [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — Whenever a nontoken creature dies, its controller gains 2 life.
+Whenever a nontoken creature dies, its controller draws a card.
+II — Whenever a nontoken creature dies, its controller creates a Treasure token. => [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — Whenever a nontoken creature dies, its controller gains 2 life.
+II — Whenever a nontoken creature dies, its controller draws a card.
+III — Whenever a nontoken creature dies, its controller creates a Treasure token.
+special_text: [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — Whenever a nontoken creature dies, its controller gains 2 life.
+Whenever a nontoken creature dies, its controller draws a card.
+II — Whenever a nontoken creature dies, its controller creates a Treasure token. => [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — Whenever a nontoken creature dies, its controller gains 2 life.
+II — Whenever a nontoken creature dies, its controller draws a card.
+III — Whenever a nontoken creature dies, its controller creates a Treasure token.
+
+Terms of War
+rules_text: [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — Creatures can't block creatures controlled by the player to their controller's left.
+Creatures can't block creatures controlled by the player to their controller's right.
+II — Whenever one or more creatures attack and aren't blocked, each attacking player creates a Treasure token. => [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — Creatures can't block creatures controlled by the player to their controller's left.
+II — Creatures can't block creatures controlled by the player to their controller's right.
+III — Whenever one or more creatures attack and aren't blocked, each attacking player creates a Treasure token.
+special_text: [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — Creatures can't block creatures controlled by the player to their controller's left.
+Creatures can't block creatures controlled by the player to their controller's right.
+II — Whenever one or more creatures attack and aren't blocked, each attacking player creates a Treasure token. => [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — Creatures can't block creatures controlled by the player to their controller's left.
+II — Creatures can't block creatures controlled by the player to their controller's right.
+III — Whenever one or more creatures attack and aren't blocked, each attacking player creates a Treasure token.
+
+Recycling Program
+rules_text: [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+At the beginning of each player's upkeep, that player mills three cards.
+I — Players may play lands from their graveyard.
+II — Once during each player's turn, that player may cast a nonland permanent spell from their graveyard. If a spell is cast this way, that permanent enters with a finality counter on it. => [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — At the beginning of each player's upkeep, that player mills three cards.
+II — Players may play lands from their graveyard.
+III — Once during each player's turn, that player may cast a nonland permanent spell from their graveyard. If a spell is cast this way, that permanent enters with a finality counter on it.
+special_text: [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+At the beginning of each player's upkeep, that player mills three cards.
+I — Players may play lands from their graveyard.
+II — Once during each player's turn, that player may cast a nonland permanent spell from their graveyard. If a spell is cast this way, that permanent enters with a finality counter on it. => [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — At the beginning of each player's upkeep, that player mills three cards.
+II — Players may play lands from their graveyard.
+III — Once during each player's turn, that player may cast a nonland permanent spell from their graveyard. If a spell is cast this way, that permanent enters with a finality counter on it.
+
+Trade Agreement
+rules_text: [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — Whenever a section of this Law is enacted, each player creates a 1/1 white Soldier creature token.
+Whenever a section of this Law is enacted, each player creates a Treasure token.
+II — Whenever a section of this Law is enacted, each player draws a card. => [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I, II — Whenever a section of this Law is enacted, each player creates a 1/1 white Soldier creature token.
+Whenever a section of this Law is enacted, each player creates a Treasure token.
+III — Whenever a section of this Law is enacted, each player draws a card.
+special_text: [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — Whenever a section of this Law is enacted, each player creates a 1/1 white Soldier creature token.
+Whenever a section of this Law is enacted, each player creates a Treasure token.
+II — Whenever a section of this Law is enacted, each player draws a card. => [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I, II — Whenever a section of this Law is enacted, each player creates a 1/1 white Soldier creature token.
+Whenever a section of this Law is enacted, each player creates a Treasure token.
+III — Whenever a section of this Law is enacted, each player draws a card.
+
+Compulsary Education
+rules_text: [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — At the beginning of your second main phase, each player draws a card.
+Noncreature spells cost {1} less to cast.
+II — Discard a card: Draw a card. Any player may activate this ability once during their turn as a sorcery. => [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — At the beginning of your second main phase, each player draws a card.
+II — Noncreature spells cost {1} less to cast.
+III — Discard a card: Draw a card. Any player may activate this ability once during their turn as a sorcery.
+special_text: [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — At the beginning of your second main phase, each player draws a card.
+Noncreature spells cost {1} less to cast.
+II — Discard a card: Draw a card. Any player may activate this ability once during their turn as a sorcery. => [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — At the beginning of your second main phase, each player draws a card.
+II — Noncreature spells cost {1} less to cast.
+III — Discard a card: Draw a card. Any player may activate this ability once during their turn as a sorcery.
+
+Fitting Punishment
+rules_text: [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — At the beginning of each player's upkeep, that player loses 3 life.
+At the beginning of each player's upkeep, that player discards a card.
+II — At the beginning of each player's upkeep, that player sacrifices a permanent. => [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — At the beginning of each player's upkeep, that player loses 3 life.
+II — At the beginning of each player's upkeep, that player discards a card.
+III — At the beginning of each player's upkeep, that player sacrifices a permanent.
+special_text: [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — At the beginning of each player's upkeep, that player loses 3 life.
+At the beginning of each player's upkeep, that player discards a card.
+II — At the beginning of each player's upkeep, that player sacrifices a permanent. => [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — At the beginning of each player's upkeep, that player loses 3 life.
+II — At the beginning of each player's upkeep, that player discards a card.
+III — At the beginning of each player's upkeep, that player sacrifices a permanent.
+
+Territory Lines
+rules_text: [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — Each player may play an additional land on each of their turns.
+Whenever a land enters, its controller may put a +1/+1 counter on a creature they control.
+II — All creatures have trample. => [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — Each player may play an additional land on each of their turns.
+II — Whenever a land enters, its controller may put a +1/+1 counter on a creature they control.
+III — All creatures have trample.
+special_text: [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — Each player may play an additional land on each of their turns.
+Whenever a land enters, its controller may put a +1/+1 counter on a creature they control.
+II — All creatures have trample. => [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+I — Each player may play an additional land on each of their turns.
+II — Whenever a land enters, its controller may put a +1/+1 counter on a creature they control.
+III — All creatures have trample.
+
+Equal Rights
+rules_text: [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+Creatures have base power and toughness 3/3.
+I — Each player's maximum hand size is three.
+At the beginning of each player's end step, if they have fewer than three cards in hand, they draw cards equal to the difference.
+II — Each spell that would cost less than three mana to cast costs three mana to cast. => [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+Creatures have base power and toughness 3/3.
+I, II — Each player's maximum hand size is three.
+At the beginning of each player's end step, if they have fewer than three cards in hand, they draw cards equal to the difference.
+III — Each spell that would cost less than three mana to cast costs three mana to cast.
+special_text: [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+Creatures have base power and toughness 3/3.
+I — Each player's maximum hand size is three.
+At the beginning of each player's end step, if they have fewer than three cards in hand, they draw cards equal to the difference.
+II — Each spell that would cost less than three mana to cast costs three mana to cast. => [i](As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)[/i]
+Creatures have base power and toughness 3/3.
+I, II — Each player's maximum hand size is three.
+At the beginning of each player's end step, if they have fewer than three cards in hand, they draw cards equal to the difference.
+III — Each spell that would cost less than three mana to cast costs three mana to cast.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

@@ -6,6 +6,11 @@
             "formats": "stratacommander"
         },
         {
+            "set_code": "CJS",
+            "set_name": "Commander Jumpstrat",
+            "formats": "stratacommander"
+        },
+        {
             "set_code": "DWC",
             "set_name": "Delmand Commander",
             "formats": "stratacommander"

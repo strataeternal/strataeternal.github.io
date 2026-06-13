@@ -1,0 +1,4433 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>CNC</name>
+			<longname></longname>
+			<settype>Custom</settype>
+			<releasedate>2026-06-13</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Local Representative</name>
+			<text>Whenever this creature or another Advisor you control enters, you gain 1 life.
+Whenever players finish voting, if the choice you voted for got the most votes or tied for the most, each player draws a card. Otherwise, create a 1/1 white Soldier creature token.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/0.png" num="219">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Backhanded Benefactor</name>
+			<text>Gift a Treasure (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a Treasure token. It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
+Whenever an effect you control causes one or more opponents to create one or more tokens and/or draw one or more cards, you may create a 1/1 white Soldier creature token.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/1.png" num="212">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fae Instigator</name>
+			<text>Vigilance
+Whenever a player attacks one or more opponents and/or planeswalkers you don&apos;t control, that attacking player creates a tapped 3/1 red Faerie creature token attacking one of those players or planeswalkers.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/2.png" num="215">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Menagerie Keepers</name>
+			<text>Whenever one more creature tokens you control enter, if they weren&apos;t gifted, put a +1/+1 counter on each of those tokens and a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/3.png" num="220">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Confession Extractor</name>
+			<text>Ward {2}
+When this creature enters, you may return up to one target creature to its owner&apos;s hand, then each opponent discards a card.
+At the beginning of each player&apos;s end step, if no permanents left the battlefield this turn, that player loses 3 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/4.png" num="213">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vedalken Wizard Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wartime Advisor</name>
+			<text>Vigilance, haste
+Council&apos;s directive — {T}: Starting with you, each player votes for one. Choose one with the most votes or tied for the most votes. Activate only during combat before blockers are declared..
+• Aggravate — Creatures the attacking player controls get +1/+0 and gain trample until end of turn.
+• Negotiate — Each player being attacked draws a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/5.png" num="229">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zealous Fey</name>
+			<text>Menace, haste
+At the beginning of your second main phase, the next spell you cast this turn costs {X} less to cast, where X is the number of opponents that lost life this turn. (Damage causes loss of life.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/6.png" num="232">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Accomplished Combatant</name>
+			<text>Haste
+This creature gets +1/+0 for each of your opponents being attacked.
+As long as each of your opponents is being attacked, this creature has trample.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/7.png" num="211">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Twinning Sprite</name>
+			<text>Flying
+Revolt — When this creature enters, if a permanent left the battlefield under your control this turn, return target card from your graveyard to your hand. When you return a nonland card to your hand this way, copy that card and you may cast the copy. (You still pay its costs. A copy of a permanent spell becomes a token.)
+When this creature dies, exile it.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/8.png" num="228">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hunted Fey</name>
+			<text>Lifelink
+When this creature leaves the battlefield, create a 1/1 white Soldier creature token.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/9.png" num="27">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inspiring Rebel</name>
+			<text>Kicker {3} (You may pay an additional {3} as you cast this spell.)
+Vigilance
+When this creature enters, if it was kicked, put a +1/+1 counter on this creature and other creatures you control get +1/+1 and gain vigilance until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/10.png" num="29">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rallying Pride</name>
+			<text>As long as this creature it attacking, it has first strike.
+Myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that&apos;s a copy of this creature that&apos;s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/11.png" num="42">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sprite Uplifter</name>
+			<text>Flying
+Whenever this creature attacks, target attacking creature without flying gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/12.png" num="46">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Valliant Formation</name>
+			<text>Vigilance
+Myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that&apos;s a copy of this creature that&apos;s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/13.png" num="48">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fey Altruist</name>
+			<text>At the beginning of your end step, if a player created a token this turn or drew a card this turn except the first one they draw in each of their draw steps, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/14.png" num="22">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Contracted Recruiter</name>
+			<text>Reveal this card as you draft it and note which draft round it is.
+When this creature enters, create X 1/1 white Soldier creature tokens, where X is the highest numbered draft round you noted for cards named Contracted Recruiter.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/15.png" num="13">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Loyal Realmkeeper</name>
+			<text>Creatures attacking your opponents and planeswalkers you don&apos;t control get +1/+0.
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/16.png" num="31">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hold in Custody</name>
+			<text>When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+At the beginning of your second main phase, untap up to one target Advisor you control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/17.png" num="26">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Martial Impetus</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1 and is goaded. (It attacks each combat if able and attacks a player other than you if able.)
+Whenever enchanted creature attacks, each other creature that&apos;s attacking one of your opponents gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/18.png" num="36">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Charge the Line</name>
+			<text>Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)
+Creatures you control get +2/+1 until end of turn. If the gift was promised, untap those creatures.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/19.png" num="10">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sequestered Stockpile</name>
+			<text>Contingency {1}{W} — There are four or more permanent cards in your graveyard. (Start the game with this conspiracy face down in the command zone. You may turn it face up at any time while the condition is met by paying {1}{W}.)
+When this conspiracy is turned face up, return target permanent card with mana value 3 or less from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/20.png" num="44">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Conspiracy</type>
+				<maintype>Conspiracy</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Anonymous Influencer</name>
+			<text>When this creature enters, scry 1.
+{U}, {T}: While voting this turn, you may vote an additional time. (The votes can be for different choices or for the same choice.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/21.png" num="49">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Persistent Petitioners</name>
+			<text>{1}, {T}: Target player mills a card. (They put the top card of their library into their graveyard.)
+Tap four untapped Advisors you control: Target player mills twelve cards.
+A deck can have any number of cards named Persistent Petitioners.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/22.png" num="76">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fey Conjurer</name>
+			<text>When this creature enters, choose one—
+• Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
+• Tap target creature. Goad it. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/23.png" num="67">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eon Prophet</name>
+			<text>Whenever this creature attacks, scry 1.
+Myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that&apos;s a copy of this creature that&apos;s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/24.png" num="62">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jesting Fey</name>
+			<text>Revolt — When this creature enters, if a permanent left the battlefield under your control this turn, return up to one target creature to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/25.png" num="70">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flitty Infiltrator</name>
+			<text>Flying
+Myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that&apos;s a copy of this creature that&apos;s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/26.png" num="68">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Courtkeeper Djinn</name>
+			<text>Vigilance
+Whenever this creature or one or more other Advisors you control enter, you may have target player draw a card. If a player draws a card this way, they discard a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/27.png" num="55">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Djinn Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mothwing Matron</name>
+			<text>Flying
+Revolt — When this creature enters, if a permanent left the battlefield under your control this turn, draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/28.png" num="73">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Domesticated Leviathan</name>
+			<text>Ward {2}
+At the beginning of combat on your turn, starting with the player to the left of you, each opponent may pay {2}. For each opponent who didn&apos;t, creatures that player controls can&apos;t block this creature this turn.
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/29.png" num="58">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Leviathan</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Double Agent</name>
+			<text>Council&apos;s directive — When this creature enters, starting with you, each player votes for one. Choose one with the most votes or tied for the most votes.
+• Loyalty — Put a defender counter on this creature. Draw a card.
+• Defection — Each opponent draws a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/30.png" num="59">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Rogue Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Expose Plans</name>
+			<text>Counter target noncreature spell or target activated or triggered ability from a conspiracy source.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/31.png" num="65">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Contracted Research</name>
+			<text>Reveal this card as you draft it and note which draft round it is.
+Draw X cards, where X is the highest numbered draft round you noted for cards named Contracted Research.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/32.png" num="54">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unrivaled Access</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+When this enchantment enters, scry 2.
+{U}, Sacrifice this enchantment: Draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/33.png" num="88">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Run Away Together</name>
+			<text>Choose two target creatures controlled by different players. Return those creatures to their owners&apos; hands.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/34.png" num="83">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Psychic Impetus</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+2 and is goaded. (It attacks each combat if able and attacks a player other than you if able.)
+Whenever enchanted creature attacks, you scry 2.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/35.png" num="78">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crowd Control</name>
+			<text>Council&apos;s directive — Choose target player. Starting with you, each player votes for one. Choose one with the most votes or tied for the most votes.
+• Quell — Creatures the chosen player controls get -4/-0 until end of turn.
+• Detain — Put a stun counter on each creature the chosen player controls. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/36.png" num="56">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hidden Hand</name>
+			<text>Contingency {1}{U} — A player controls three or more creatures. (Start the game with this conspiracy face down in the command zone. You may turn it face up at any time while the condition is met by paying {1}{U}.)
+When this conspiracy is turned face up, return target creature to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/37.png" num="69">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Conspiracy</type>
+				<maintype>Conspiracy</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blighttender Fae</name>
+			<text>Menace
+At the beginning of your end step, you gain 1 life for each opponent who lost life this turn. Then if you have two or more opponents and each of them lost life this turn, put a +1/+1 counter on this creature. (Damage causes loss of life.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/38.png" num="94">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Capital Banker</name>
+			<text>At the beginning of your end step, if a player created a token this turn or drew a card this turn except the first one they draw in each of their draw steps, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/39.png" num="98">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bleakwood Hermits</name>
+			<text>Deathtouch
+Myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that&apos;s a copy of this creature that&apos;s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/40.png" num="92">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blood Investor</name>
+			<text>When this creature enters, each player draws a card and loses 1 life.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/41.png" num="95">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Imp Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Commoner&apos;s Cleric</name>
+			<text>Lifelink
+Myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that&apos;s a copy of this creature that&apos;s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/42.png" num="101">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clutchmother Fey</name>
+			<text>Revolt — At the beginning of your second main phase, if a permanent left the battlefield under your control this turn, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/43.png" num="99">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Marrowfield Legion</name>
+			<text>Menace
+This creature enters with a +1/+1 counter on it for each opponent who lost life this turn. (Damage causes loss of life.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/44.png" num="118">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Troll</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Contracted Agent</name>
+			<text>Reveal this card as you draft it and note which draft round it is.
+When this creature enters, up to one target creature gets -X/-X until end of turn, where X is the highest numbered draft round you noted for cards named Contracted Agent.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/45.png" num="102">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bleakwood Regent</name>
+			<text>When this creature enters, each opponent discard a card. Each opponent who can&apos;t loses 3 life.
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/46.png" num="93">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inside Job</name>
+			<text>Gift a tapped Soldier (You may promise an opponent a gift as you cast this spell. If you do, they create a tapped 1/1 white Soldier creature token before its other effects.)
+Destroy target creature or planeswalker. If the gift was promised to the controller of that permanent, draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/47.png" num="116">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ruinous Bribe</name>
+			<text>Gift a Treasure (You may promise an opponent a gift as you cast this spell. If you do, they create a Treasure token before its other effects. It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
+Target creature gets -2/-2 until end of turn. If the gift was promised, that creature instead gets -4/-4 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/48.png" num="123">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Deadly Precision</name>
+			<text>As an additional cost to cast this spell, pay {4} or sacrifice an artifact or creature.
+Destroy target creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/49.png" num="106">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Deathly Bargain</name>
+			<text>Target player draws two cards and loses 2 life.
+Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/50.png" num="107">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blood for Blood</name>
+			<text>Revolt — This spell costs {2} less to cast if a permanent left the battlefield under your control this turn.
+Return up to two target creature cards from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/51.png" num="90">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Trahison des Clercs</name>
+			<text>This spell costs {2} less to cast if targets a player that created a token or drew a card this turn.
+Look at target player&apos;s hand. You may choose a nonland card from it. That player discards that card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/52.png" num="127">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Parasitic Impetus</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+2 and is goaded. (It attacks each combat if able and attacks a player other than you if able.)
+Whenever enchanted creature attacks, its controller loses 2 life and you gain 2 life.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/53.png" num="121">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fatal Fixation</name>
+			<text>Revolt — Contingency {1}{B} — A permanent left the battlefield under your control this turn. (Start the game with this conspiracy face down in the command zone. You may turn it face up at any time while the condition is met by paying {1}{B}.)
+When this conspiracy is turned face up, destroy target creature with mana value 4 or less.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/54.png" num="109">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Conspiracy</type>
+				<maintype>Conspiracy</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sponsored Firebomber</name>
+			<text>Kicker {3} (You may pay an additional {3} as you cast this spell.)
+If this creature was kicked, it enters with a +1/+1 counter on it.
+{T}: This creature deals damage equal to its power to target player or planeswalker.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/55.png" num="162">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zealous Coalition</name>
+			<text>When this creature enters, create two 1/1 white Soldier creature tokens. Then, Soldier creatures you control gain haste until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/56.png" num="169">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Contracted Miscreant</name>
+			<text>Reveal this card as you draft it and note which draft round it is.
+When this creature enters, target creature gets +X/+0 and gains haste until end of turn, where X is the highest numbered draft round you noted for cards named Contracted Miscreant.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/57.png" num="135">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aggressive Tactician</name>
+			<text>Whenever a player attacks, that player may choose a creature that&apos;s not attacking your or a planeswalker you control. It gains menace until end of turn. (This it can&apos;t be blocked except by two or more creatures.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/58.png" num="130">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Soldier Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Moonlight Legion</name>
+			<text>Haste
+Myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that&apos;s a copy of this creature that&apos;s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/59.png" num="150">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fiery Wardriver</name>
+			<text>Each other creature attacking the same player or planeswalker as this creature gets +1/+0.
+Myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that&apos;s a copy of this creature that&apos;s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/60.png" num="142">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Charmed Barkripper</name>
+			<text>Whenever this creature attacks, target creature you don&apos;t control can&apos;t block this turn. Goad it. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/61.png" num="133">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Siege Engine</name>
+			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
+{2}: This creature gets +1/+0 until end of turn. Any player may activate this ability.
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/62.png" num="159">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Juggernaut</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Coerced Dissent</name>
+			<text>Gift a Treasure (You may promise an opponent a gift as you cast this spell. If you do, they create a Treasure token before its other effects. It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
+Gain control of target creature until end of turn if its mana value is 3 or less or if the gift was promised. Untap it. It gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/63.png" num="134">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sow Unrest</name>
+			<text>Creatures target player controls get +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/64.png" num="161">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Redevelopment Plan</name>
+			<text>You may discard a card, if you do, draw two cards.
+Council&apos;s directive — Starting with you, each player votes for one. Choose one with the most votes or tied for the most votes.
+• Rework — You may discard a card. If you do, draw a card.
+• Finance — Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/65.png" num="156">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shiny Impetus</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+2 and is goaded. (It attacks each combat if able and attacks a player other than you if able.)
+Whenever enchanted creature attacks, you create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/66.png" num="157">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Go for Broke</name>
+			<text>Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)
+Target creature gains double strike until end of turn. If the gift was promised, that creature also gains trample until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/67.png" num="144">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Show of Force</name>
+			<text>Kicker {3} (You may pay an additional {3} as you cast this spell.)
+Destroy up to one target artifact. If this spell was kicked, creatures without flying can&apos;t block this turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/68.png" num="158">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sudden Surge</name>
+			<text>Contingency {1}{R} — Three or more creatures are attacking. (Start the game with this conspiracy face down in the command zone. You may turn it face up at any time while the condition is met by paying {1}{R}.)
+When this conspiracy is turned face up, attacking creatures get +1/+0 and gain trample until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/69.png" num="165">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Conspiracy</type>
+				<maintype>Conspiracy</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fey Cultivator</name>
+			<text>Revolt — At the beginning of your second main phase, if a permanent left the battlefield under your control this turn, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/70.png" num="179">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Corruption Tackler</name>
+			<text>Trample
+During your turn, whenever one or more players create one or more tokens and/or draw one or more cards except the first one they draw in each of their draw steps, this creature gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/71.png" num="178">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Splendor Bearer</name>
+			<text>Vigilance, reach
+When this creature enters, choose one—
+• Put a +1/+1 counter on this creature.
+• Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/72.png" num="202">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gaudy Showbeast</name>
+			<text>Gift a tapped Soldier (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a tapped 1/1 white Soldier creature token.)
+This creature gets +1/+1 as long as an opponent controls more creatures than you.
+This creature gets +1/+1 as long as an opponent has more cards in hand than you.
+This creature can&apos;t be blocked by creatures with power 2 or less.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/73.png" num="182">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elephant</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Towering Coilbeast</name>
+			<text>Reach
+When this creature enters, each opponent chooses a creature they control. This creature deals damage equal to its power divided as you choose among those creatures.
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/74.png" num="207">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snake</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Push Back</name>
+			<text>Revolt — Put a +1/+1 counter on target creature you control if a permanent left the battlefield under your control this turn. Then it deals damage equal to its power to up to one target creature or planeswalker an opponent controls. (Regardless of if it got the counter.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/75.png" num="196">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Predatory Impetus</name>
+			<text>Enchant creature
+Enchanted creature gets +3/+3, must be blocked if able, and is goaded. (It attacks each combat if able and attacks a player other than you if able.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/76.png" num="194">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Take Claim</name>
+			<text>Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)
+Choose one. If the gift was promised, choose one or both instead.
+• Destroy target artifact, enchantment, or creature with flying.
+• Return target permanent card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/77.png" num="205">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Agricultural Incentive</name>
+			<text>Council&apos;s directive — Search your library for a basic land card, reveal it, and shuffle. Then, starting with you, each player votes for one. Choose one with the most votes or tied for the most votes.
+• Reap — Put that card onto the battlefield tapped.
+• Sow — Put that card into your hand, then draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/78.png" num="171">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Silent Support</name>
+			<text>Contingency {1}{G} — A player controls more permanents than you. (Start the game with this conspiracy face down in the command zone. You may turn it face up at any time while the condition is met by paying {1}{G}.)
+When this conspiracy is turned face up, scry 3, then reveal the top card of your library. If it&apos;s a creature or land card, draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/79.png" num="200">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Conspiracy</type>
+				<maintype>Conspiracy</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Automated Infiltrator</name>
+			<text>This creature can&apos;t be blocked by creatures with power 3 or greater.
+{6}, {T}, Sacrifice this creature: Destroy target nonland permanent.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/80.png" num="234">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Feytouched Golem</name>
+			<text>When this creature enters, create a 1/1 blue Faerie creature token with flying.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/81.png" num="238">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Towering Peacekeeper</name>
+			<text>Vigilance (Attacking doesn&apos;t cause this creature to tap.)
+Creatures attacking you or planeswalkers you control get -1/-0.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/82.png" num="246">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gilded Pinions</name>
+			<text>When this Equipment enters, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
+Equipped creature has flying.
+Equip {2}</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/83.png" num="240">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Evolving Wilds</name>
+			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/84.png" num="247">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Bonder&apos;s Ornament</name>
+			<text>{T}: Add one mana of any color.
+{4}, {T}: Each player who controls a permanent named Bonder&apos;s Ornament draws a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/85.png" num="236">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dilligent Bookkeeper</name>
+			<text>Whenever a player creates one or more tokens during your turn and/or draws one or more cards during your turn except the first one they draw in each of their draw steps, put a +1/+1 counter on this creature. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/86.png" num="16">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vedalken Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Twilight Sire</name>
+			<text>Reveal this card as you draft it and note how many cards you&apos;ve drafted this draft round, including this card.
+Vigilance
+When this creature enters, for each other creature with mana value less than or equal to the highest number you noted for cards named Twilight Sire, put a +1/+1 counter on it if you control it. Otherwise tap it.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/87.png" num="47">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blessed Feyguide</name>
+			<text>Myriad, myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that&apos;s a copy of this creature that&apos;s tapped and attacking that player or a planeswalker they control. Then do it again. Exile the tokens at end of combat.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/88.png" num="9">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Informed Voter</name>
+			<text>Before players begin voting, you may choose to move yourself to the end of the vote order (instead of where you would usually vote in the vote order).</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/89.png" num="28">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Realm Guard</name>
+			<text>Flying
+Creatures can&apos;t attack you or planeswalkers you control unless their controller pays {1} for each of those creatures. (Creatures that enter tapped and attacking don&apos;t have to be paid for this way.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/90.png" num="43">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Minister of Populations</name>
+			<text>When this creature enters, you may search your library for an Advisor card, reveal it, then shuffle and put that card on top.
+Whenever a creature you control attacks a player who voted for a choice you didn&apos;t vote for since your last turn, that creature gets +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/91.png" num="38">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Raccoon Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arresting Officer</name>
+			<text>When this creature enters, exile target creature or planeswalker.
+Council&apos;s directive — When this creature leaves the battlefield, starting with you, each player votes for one. Choose one with the most votes or tied for the most votes.
+• Acquit — Return the exiled card to the battlefield under its owner&apos;s control.
+• Condemn — The exiled card&apos;s owner creates three 1/1 white Soldier creature tokens.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/92.png" num="8">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Power Vacuum</name>
+			<text>Each player chooses any number of nontoken creatures they control with total mana value 6 or less, then sacrifices all other creatures they control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/93.png" num="41">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Martial Coordination</name>
+			<text>Gift a tapped Soldier (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a tapped 1/1 white Soldier creature token.)
+When this enchantment enters, if the gift was promised, create a 1/1 white Soldier creature token.
+Whenever a player attacks, you may tap target creature not controlled by that player.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/94.png" num="34">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cut a Deal</name>
+			<text>Each opponent draws a card, then you draw a card for each opponent who drew a card this way.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/95.png" num="15">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Peace Dividend</name>
+			<text>Contingency {1}{W} — An opponent controls three or more tokens. (Start the game with this conspiracy face down in the command zone. You may turn it face up at any time while the condition is met by paying {1}{W}.)
+When this conspiracy is turned face up, each token that would be created under an opponent&apos;s control this turn is created under your control instead.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/96.png" num="39">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Conspiracy</type>
+				<maintype>Conspiracy</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mysterious Connection</name>
+			<text>Gift a card (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they draw a card.)
+When this creature enters, goad target creature. If the gift was promised, that creature can&apos;t be blocked until your next turn. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/97.png" num="74">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Rogue Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Quickling</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+Flying
+When this creature enters, sacrifice it unless you return another creature you control to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/98.png" num="80">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prattling Politician</name>
+			<text>Whenever this creature or another Advisor you control enters, tap target creature you don&apos;t control. Goad it. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/99.png" num="77">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stolen Secrets</name>
+			<text>When this enchantment enters, exile another target nonland permanent you control, then return it to the battlefield under its owner&apos;s control.
+Revolt — At the beginning of your end step, if a permanent left the battlefield under your control this turn, draw a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/100.png" num="86">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Disaster Response</name>
+			<text>Council&apos;s directive — Starting with you, each player votes for one. Choose one with the most votes or tied for the most votes.
+• Quarantine — Tap each creature you don&apos;t control. Put a stun counter on each of those creatures. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+• Evacuate — Return each creature to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/101.png" num="57">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Corrupted Aristocrat</name>
+			<text>Lifelink
+{2}, Sacrifice a creature: Put a +1/+1 counter on this creature. If you sacrificed a nontoken creature this way, this creature gains indestructible until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/102.png" num="103">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Minister of Punishments</name>
+			<text>Ward—Pay 3 life, sacrifice a creature, or discard a card
+When this creature enters, return target creature or enchantment from your graveyard to your hand.
+Whenever players finish voting, each opponent who voted for a choice you didn&apos;t vote for this turn loses 3 life unless they sacrifice a creature or discard a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/103.png" num="119">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ulterior Aid</name>
+			<text>Contingency {1}{B} — Your life total is less than or equal to half your starting life total. (Start the game with this conspiracy face down in the command zone. You may turn it face up at any time while the condition is met by paying {1}{B}.)
+When this conspiracy is turned face up, create a 2/2 black Faerie creature token with lifelink.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/104.png" num="128">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Conspiracy</type>
+				<maintype>Conspiracy</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bloodthorn Extractor</name>
+			<text>Myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that&apos;s a copy of this creature that&apos;s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)
+Whenever another creature you control dies, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/105.png" num="96">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thornglade Witch</name>
+			<text>Whenever an opponent loses life during your turn, if it&apos;s the first time that player has lost life this turn, put a +1/+1 counter on this creature. If it&apos;s the second time this ability has resolved this turn, you gain 2 life instead. If it&apos;s the third time, draw a card instead.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/106.png" num="126">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fey Nightcaller</name>
+			<text>Revolt — When this creature enters, choose up to X, where X is the number of permanents that left the battlefield under your control this turn.
+• Put a +1/+1 counter on this creature.
+• Put a flying counter on this creature.
+• Put a deathtouch counter on this creature.
+• Put a lifelink counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/107.png" num="110">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crippling Fear</name>
+			<text>Choose a creature type. Creatures that aren&apos;t of the chosen type get -3/-3 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/108.png" num="105">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Underhanded Initiative</name>
+			<text>Draft this card face up.
+As you draft a card, you may draft an additional card from that booster pack. If you do, turn this card face down, then put a card in your card pool into that booster pack.
+Destroy target creature or planeswalker.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/109.png" num="129">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Comeback Campaign</name>
+			<text>Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)
+You may cast this spell as though it had flash if the gift was promised.
+Return target creature card from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/110.png" num="100">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shrewd Negotiator</name>
+			<text>Whenever one or more tokens enter under a player&apos;s control, if you are that player, you gain 1 life. Otherwise, that player loses 1 life.
+Whenever a player draws a card except the first one they draw in each of their draw steps, if you were that player, you gain 1 life. Otherwise, that player loses 1 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/111.png" num="224">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fey of Autumn&apos;s Wrath</name>
+			<text>Haste
+Whenever this creature deals combat damage to an opponent, it deals that much damage to each other opponent.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/112.png" num="140">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Popular Militia</name>
+			<text>Myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that&apos;s a copy of this creature that&apos;s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)
+{1}{R}: Attacking creatures you control get +1/+0 until end of turn. Activate only once each turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/113.png" num="154">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Minister of Reports</name>
+			<text>Flying
+When this creature enters, you may discard a card. If you do, return target instant or sorcery card from your graveyard to your hand.
+This creature can&apos;t block and can only attack players who voted for a choice you didn&apos;t vote for since your last turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/114.png" num="148">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frontline Expert</name>
+			<text>First strike
+At the beginning of your end step, if this creature attacked this turn, you may discard your hand. If you do, draw a card for each opponent who lost life this turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/115.png" num="143">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Molten Exchange</name>
+			<text>Draft this card face up.
+Immediately after the draft, you may reveal a card in your card pool and offer it to another player. They may accept the offered card.
+Molten Exchange deals 3 damage to any target. If an opponent accepted an offer you made with cards named Molten Exchange, it deals 6 damage divided as you choose among any number of targets instead.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/116.png" num="149">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Patron of Roses</name>
+			<text>When this creature enters, goad up to one target creature. It can&apos;t block this turn. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)
+Whenever an attacking creature dies, this creature deals 1 damage to each opponent.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/117.png" num="153">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brutal Questioning</name>
+			<text>Council&apos;s directive — Starting with you, each player votes for one. Choose one with the most votes or tied for the most votes.
+• Endure — Brutal Questioning deals 5 damage to each opponent.
+• Acquiesce — Draw three cards.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/118.png" num="131">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Walking Wildfire</name>
+			<text>Trample
+Whenever one or more creatures attack an opponent or a planeswalker they control, this creature deals 2 damage to that player or planeswalker.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/119.png" num="168">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Faerie</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Explosive Justice</name>
+			<text>Gift 5 life (You may promise an opponent a gift as you cast this spell. If you do, they gain 5 life before its other effects.)
+Explosive Justice deals 2 damage to each creature and each planeswalker. If the gift was promised, it deals 3 damage to each creature and each planeswalker instead.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/120.png" num="139">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Radical Perspective</name>
+			<text>Enchant creature
+When this Aura enters, gain control of enchanted creature until end of turn. Untap it. It gains haste until end of turn.
+Enchanted creature is goaded. (It attacks each combat if able and attacks a player other than you if able.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/121.png" num="155">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Economic Injection</name>
+			<text>Contingency {1}{R} — You control six or more lands. (Start the game with this conspiracy face down in the command zone. You may turn it face up at any time while the condition is met by paying {1}{R}.)
+When this conspiracy is turned face up, exile the top three cards of your library. Until your next end step, you may play those cards.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/122.png" num="138">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Conspiracy</type>
+				<maintype>Conspiracy</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hardened Packmate</name>
+			<text>Myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that&apos;s a copy of this creature that&apos;s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)
+Whenever this creature deals combat damage to a player, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/123.png" num="183">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wildwood Invoker</name>
+			<text>Vigilance
+When this creature enters, each player creates a 3/3 green Beast creature token. The tokens are goaded for the rest of the game. (They attack each combat if able and attack a player other than you if able.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/124.png" num="209">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Minister of Resources</name>
+			<text>Council&apos;s directive — When this creature enters, starting with you, each player votes for one. Choose one with the most votes or tied for the most votes.
+• Rations — Create a Food token.
+• Riches — Create a Treasure token.
+At the beginning of your end step, distribute X +1/+1 counters among creatures you control, where X is the number of opponents who voted for a choice you didn&apos;t vote for this turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/125.png" num="188">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Overrun</name>
+			<text>Creatures you control get +3/+3 and gain trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/126.png" num="192">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GGG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fey Duelists</name>
+			<text>Revolt — This creature enters with two +1/+1 counters on it if a permanent left the battlefield under your control this turn
+When this creature enters, you may have it fight target creature you don&apos;t control. (Each deals damage equal to its power to the other.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/127.png" num="180">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Parks Project</name>
+			<text>Gift a card (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they draw a card.)
+At the beginning of your end step, if a player created a token this turn or drew a card this turn except the first one they draw in each of their draw steps, draw a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/128.png" num="193">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Smoke and Mirrors</name>
+			<text>Contingency {1}{G} — A creature with power 4 or greater is attacking. (Start the game with this conspiracy face down in the command zone. You may turn it face up at any time while the condition is met by paying {1}{G}.)
+When this conspiracy is turned face up, prevent all damage that would be dealt this turn by creatures your opponents control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/129.png" num="201">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Conspiracy</type>
+				<maintype>Conspiracy</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Foreign Aid</name>
+			<text>(As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)
+I — At the beginning of your upkeep, each player creates a Food token.
+At the beginning of your upkeep, each player may put a +1/+1 counter on a creature they control.
+II — At the beginning of your upkeep, each player scries 1.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/130.png" num="24">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Law</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Standing Military</name>
+			<text>(As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)
+I — All creatures have haste.
+Whenever a player attacks, that player creates a 1/1 white Soldier creature token that&apos;s tapped and attacking.
+II — Attacking creatures get +1/+0.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/131.png" num="163">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Law</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bloodthirsty Blade</name>
+			<text>Equipped creature gets +2/+0 and is goaded. (It attacks each combat if able and attacks a player other than you if able.)
+{1}: Attach this Equipment to target creature an opponent controls. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/132.png" num="235">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Supreme Authority</name>
+			<text>Contingency {W}{U}{B}{R}{G} — You have the highest life total among all players. (Start the game with this conspiracy face down in the command zone. You may turn it face up at any time while the condition is met by paying {W}{U}{B}{R}{G}.)
+You may cast spells from your hand without paying their mana costs. (While this conspiracy is face up.)</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CNC-files/img/133.png" num="227">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Conspiracy</type>
+				<maintype>Conspiracy</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Interim Representative</name>
+			<text>{2}, {T}: Choose a section of a Law on the battlefield. Starting with you, each player votes to enact or repeal that section. (Tied votes are enacted.)
+{1}, Sacrifice this creature: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/134.png" num="241">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Appeals Enforcer</name>
+			<text>Vigilance
+When this creature enters, choose a section of a Law on the battlefield. If it&apos;s enacted, repeal it. It can&apos;t be enacted for as long as this creature remains on the battlefield.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/135.png" num="233">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Democratic Design</name>
+			<text>Trample
+Council&apos;s directive — When this creature enters, starting with you, each player votes for one. Choose one with the most votes or tied for the most votes.
+• Education — Draw a card.
+• Treasury — Create two Treasure tokens.
+• Military — Put two +1/+1 counters on this creature.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/136.png" num="237">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Patchwork Banner</name>
+			<text>As this artifact enters, choose a creature type.
+Creatures you control of the chosen type get +1/+1.
+{T}: Add one mana of any color.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/137.png" num="242">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rogue&apos;s Passage</name>
+			<text>{T}: Add {C}.
+{4}, {T}: Target creature can&apos;t be blocked this turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/138.png" num="249">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Lunar Arcfey</name>
+			<text>Flying
+Creatures attacking your opponents and planeswalkers you don&apos;t control have flying.
+Myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that&apos;s a copy of this creature that&apos;s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/139.png" num="32">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Draft Legislation</name>
+			<text>Draft this card face up.
+As you draft a Law card, you may reveal it, note its name, then turn this card face down.
+Search your graveyard, hand, and/or library for an enchantment card and reveal it. If the revealed card has a name you noted for cards named Draft Legislation, put it onto the battlefield. Otherwise put it into your hand. If you searched your library this way, shuffle.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/140.png" num="18">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Majority Rule</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1 for each creature you control.
+Enchanted creature has myriad. (Whenever that creature attacks, for each opponent other than defending player, you may create a token that&apos;s a copy of that creature that&apos;s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/141.png" num="33">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Silent Majority</name>
+			<text>Contingency {1}{W} — You controlled three or more creatures that shared a creature type at the start of this turn. (Start the game with this conspiracy face down in the command zone. You may turn it face up at any time while the condition is met by paying {1}{W}.)
+Creatures you control get +1/+1. (While this conspiracy is face up.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/142.png" num="45">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Conspiracy</type>
+				<maintype>Conspiracy</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Checks and Balances</name>
+			<text>(As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)
+I — No more than one creature can attack each combat.
+Each player can&apos;t cast more than one spell each turn.
+II — Each player can&apos;t draw more than one card each turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/143.png" num="11">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Law</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Narith, the Enchanted Voice</name>
+			<text>Flying
+When Narith enters, reveal the top five cards of your library. Put all Faerie cards and planeswalker cards revealed this way into your hand and the rest on the bottom of your library in any order.
+Tap four untapped Faeries you control: Gain control of target creature for as long as you control this creature. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/144.png" num="75">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Faerie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eager Transformationist</name>
+			<text>Creatures can&apos;t block this creature unless their controller pays {2} for each of those creatures.
+Whenever this creature deals combat damage to a player, draw two cards, then you may sacrifice another creature. If you do, you may put a creature card with mana value less than or equal to 1 plus the sacrificed creature&apos;s mana value from your hand onto the battlefield. Otherwise, put a card from your hand on top of your library.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/145.png" num="61">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dutiful Stenographer</name>
+			<text>Flash
+When this creature enters, choose one—
+• Choose target instant or sorcery card in a graveyard. Its owner returns it to their hand.
+• Choose a face up conspiracy with contingency. Turn it face down.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/146.png" num="60">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Badger Wizard Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rippling Mirrorkin</name>
+			<text>You may have this creature enter as a copy of any creature on the battlefield, except it has this creature&apos;s other abilities.
+Revolt — At the beginning of your end step, if a permanent you controlled left the battlefield this turn, you may exile this creature then return it to the battlefield.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/147.png" num="82">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Records Request</name>
+			<text>Reveal this card as you draft it. After you draft this card, you may add a booster pack to the draft. (Your next pick is from that booster pack. Pass it to the next player and it&apos;s drafted this draft round.)
+Each player may shuffle their hand and graveyard into their library. Each player who does draws seven cards. Exile Records Request.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/148.png" num="81">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Keeper of Proceedings</name>
+			<text>Council&apos;s directive — At the beginning of your end step, starting with you, each player votes for one. Choose one with the most votes or tied for the most votes.
+• Each opponent mills cards equal to the number of Advisors you control.
+• Scry X, where X is the number of Advisors you control, then draw a card.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/149.png" num="71">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Senator Darus Tan</name>
+			<text>At the beginning of your upkeep, target player draws a card and loses 2 life.
+At the beginning of your end step, target player loses life equal to the amount of life another target player lost this turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/150.png" num="125">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gilded Benefactor</name>
+			<text>Spells you cast have gift a Treasure. (You may promise an opponent a gift as you cast that spell. If you do, before its other effects, they create a Treasure token. It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
+Whenever an effect you control causes one or more opponents to create one or more tokens and/or draw one or more cards, you may create a Treasure token.
+Whenever an opponent sacrifices a Treasure they lose 1 life.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/151.png" num="114">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deathwalker Fey</name>
+			<text>{T}, Sacrifice another creature: You draw a card and you lose 1 life. If you sacrificed a nontoken creature this way, you may cast that card from your graveyard until the end of your next turn. (You still pay its costs. Timing rules still apply.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/152.png" num="108">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Administrative Persecutor</name>
+			<text>Reveal this card as you draft it and note the player who passed it to you.
+Flying, trample
+As long as a player you noted for cards named Administrative Persecutor hasn&apos;t lost the game, you can&apos;t win the game and your opponents other than players you noted for cards named Administrative Persecutor can&apos;t lose the game.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/153.png" num="91">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Illicit Obtainment</name>
+			<text>Contingency {1}{B} — You have no cards in hand. (Start the game with this conspiracy face down in the command zone. You may turn it face up at any time while the condition is met by paying {1}{B}.)
+When this conspiracy is turned face up, search your library for a card, put that card into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/154.png" num="115">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Conspiracy</type>
+				<maintype>Conspiracy</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Final Duties</name>
+			<text>(As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)
+I — Whenever a nontoken creature dies, its controller gains 2 life.
+Whenever a nontoken creature dies, its controller draws a card.
+II — Whenever a nontoken creature dies, its controller creates a Treasure token.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/155.png" num="111">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Law</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fiendish Duo</name>
+			<text>First strike
+If a source would deal damage to an opponent, it deals double that damage to that player instead.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/156.png" num="141">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Devil</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Goblin Anarchist</name>
+			<text>Last strike (This creature deals combat damage after creatures without last strike.)
+This creature gets +1/+1 for each opponent who lost life this turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/157.png" num="145">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>State of Emergency</name>
+			<text>Reveal this card as you draft it and note how many cards you&apos;ve drafted this draft round, including this card.
+Create a number of 1/1 white Soldier creature tokens equal to the highest number you noted for cards named State of Emergency.
+Take an extra turn after this one. At the beginning of that turn&apos;s end step, you lose the game.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/158.png" num="164">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Terms of War</name>
+			<text>(As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)
+I — Creatures can&apos;t block creatures controlled by the player to their controller&apos;s left.
+Creatures can&apos;t block creatures controlled by the player to their controller&apos;s right.
+II — Whenever one or more creatures attack and aren&apos;t blocked, each attacking player creates a Treasure token.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/159.png" num="167">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Law</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rutherford, the Presiding</name>
+			<text>Vigilance
+Whenever a permanent you control enters tapped, untap it. It gains haste until end of turn.
+Rutherford and other creatures you control have &quot;{T}: Add one mana of any color.&quot;</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/160.png" num="199">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elephant Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>World Swallower</name>
+			<text>This creature enters with X myriad counters on it. (If a creature has multiple instances of myriad, each triggers separately.)
+Protection from instants and from sorceries
+Myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that&apos;s a copy of this creature that&apos;s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CNC-files/img/161.png" num="210">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hydra</type>
+				<maintype>Creature</maintype>
+				<manacost>XGGG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Garden Mystic</name>
+			<text>When this creature enters, put a +1/+1 counter on target creature.
+{4}{G}{G}: Target creature you control gains myriad until end of turn. (Whenever that creature attacks, for each opponent other than defending player, you may create a token that&apos;s a copy of that creature that&apos;s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/162.png" num="181">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Assemble the Jury</name>
+			<text>At the beginning of your upkeep, choose one. Create a green and white Citizen creature token with those characteristics and put a selection counter on this enchantment. Then if this enchantment has twelve or more selection counters on it, sacrifice it.
+• 1/3 with reach.
+• 2/2 with vigilance.
+• 3/1 with trample.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/163.png" num="172">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Momentous Movement</name>
+			<text>Draft this card face up.
+As you draft a card, you may remove it from the draft face up. (It isn&apos;t in your card pool.)
+This spell costs {1} less to cast for each card you removed from the draft with cards named Momentous Movement.
+Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/164.png" num="189">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XGG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Values and Traditions</name>
+			<text>Council&apos;s directive — Starting with you, each player votes for one. Choose one with the most votes or tied for the most votes.
+• Past — For each permanent type, return a card of that type from your graveyard to your hand.
+• Present — Creatures you control get +X/+X until end of turn, where X is the number of creatures you control.
+• Future — Reveal the top six card of your library. You may put up to two creature cards with total mana value 6 or less from among them onto the battlefield. Then shuffle.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/165.png" num="208">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Recycling Program</name>
+			<text>(As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)
+At the beginning of each player&apos;s upkeep, that player mills three cards.
+I — Players may play lands from their graveyard.
+II — Once during each player&apos;s turn, that player may cast a nonland permanent spell from their graveyard. If a spell is cast this way, that permanent enters with a finality counter on it.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/166.png" num="197">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Law</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Common Defense</name>
+			<text>When this enchantment enters, draw a card.
+You may have your creatures block attacking creatures you don&apos;t control as though those creatures were attacking you or permanents you control. (Regardless of which permanents or players those creatures are attacking.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/167.png" num="12">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Special Session</name>
+			<text>Contingency {1}{U} — Three or more spells have been cast this turn. (Start the game with this conspiracy face down in the command zone. You may turn it face up at any time while the condition is met by paying {1}{U}.)
+When this conspiracy is turned face up, take an extra turn after this one.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/168.png" num="84">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Conspiracy</type>
+				<maintype>Conspiracy</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scheming Symmetry</name>
+			<text>Choose two target players. Each of them searches their library for a card, then shuffles and puts that card on top.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/169.png" num="124">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dubious Declaration</name>
+			<text>Contingency {1}{R} — Four or more creatures dealt combat damage to players and/or planeswalkers this turn. (Start the game with this conspiracy face down in the command zone. You may turn it face up at any time while the condition is met by paying {1}{R}.)
+When this conspiracy is turned face up, if it isn&apos;t the ending phase, untap all creatures that attacked this turn. After this phase, there is an additional combat phase. During that combat phase, those creatures can&apos;t attack you or planeswalkers you control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/170.png" num="137">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Conspiracy</type>
+				<maintype>Conspiracy</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Actions Speak Louder</name>
+			<text>Contingency {1}{G} — You control the creature with the greatest power among creatures on the battlefield. (Start the game with this conspiracy face down in the command zone. You may turn it face up at any time while the condition is met by paying {1}{G}.)
+When this Conspiracy is turned face up, draw a card for each creature you control with power 4 or greater.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/171.png" num="170">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Conspiracy</type>
+				<maintype>Conspiracy</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Silent Arbiter</name>
+			<text>No more than one creature can attack each combat.
+No more than one creature can block each combat. (If multiple players are being attacked, each may block with up to one creature.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/172.png" num="244">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>1/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Singechanter</name>
+			<text>This creature can&apos;t be blocked by creatures with power 2 or less.
+Whenever another creature you control enters, this creature deals 1 damage to each opponent. If this is the tenth time this ability has resolved this turn, put ten +1/+1 counter on this creature.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/173.png" num="226">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mischievous Throng</name>
+			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
+When this creature enters, create two 1/1 blue Faerie creature tokens with flying.
+At the beginning of your end step, exile the top card of the library of each opponent that lost life this turn. For as long as those cards remain exiled, you may play those cards. If you cast a spell this way, mana of any type can be spent to cast it.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/174.png" num="221">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Golbin Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whelk, Brynn&apos;s Herald</name>
+			<text>Flying
+At the beginning of your upkeep, create a 1/1 red Lizard creature token with haste.
+Whenever a creature attacks or enters attacking, if it&apos;s attacking one of your opponents or a planeswalker you don&apos;t control, its controller may have it become a red Dragon with base power and toughness 4/4 and flying in addition to its other colors, types, and abilities until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/175.png" num="230">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5RW</manacost>
+				<cmc>7</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Surveillance Initiative</name>
+			<text>Adherent (Start the game with this conspiracy face up in the command zone and choose a color before drawing your opening hand. You can only cast colorless spells and spells of the chosen color.)
+At the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/176.png" num="7">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Conspiracy</type>
+				<maintype>Conspiracy</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kindred Connection</name>
+			<text>Before drawing your opening hand, choose a creature type.
+You may spend mana as though it were any color to cast creature spells of the chosen type.
+Creature spells you cast that aren&apos;t of the chosen type cost {1} more to cast.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/177.png" num="4">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Conspiracy</type>
+				<maintype>Conspiracy</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Aggressive Advantage</name>
+			<text>(Start the game with this conspiracy face up in the command zone.)
+Lethal damage dealt to creatures you control is determined by their power rather than their toughness.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/178.png" num="2">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Conspiracy</type>
+				<maintype>Conspiracy</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Noxious Calling</name>
+			<text>Gift a Bitterblossom (You may promise an opponent a gift as you cast this spell. If you do they create a Bitterblossom token before its other effects.)
+Target player loses half their life, then discards half the cards in their hand, then sacrifices half the creatures they control of their choice. Round up each time. If the gift was promised to that player, you gain life equal to the life lost this way, draw a card for each card discarded this way, and create a 1/1 blue Faerie creature token with flying for each creature sacrificed this way.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CNC-files/img/179.png" num="120">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BBB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Taria, Wrath of the Fey</name>
+			<text>Trample, haste
+Whenever Taria deals combat damage to a player, you control that player during their next combat phase. (You see all cards that player could see and make all decisions for them.)</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CNC-files/img/180.png" num="166">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Faerie Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1RRR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Colossal Visitation</name>
+			<text>If one or more creature tokens would be created under your control, that many Colossal Dreadmaw tokens are created instead. (They&apos;re {4}{G}{G} 6/6 Dinosaur creatures with trample.)</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CNC-files/img/181.png" num="176">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The First Seat</name>
+			<text>While voting, you may vote an additional time.
+[+1]: Each player secretly votes for a player, then those votes are revealed. Each player with the most votes or tied for the most draws a card.
+[-3]: Starting with you, each player votes for a nonland permanent you don&apos;t control. Exile a permanent with the most votes or tied for most votes.
+[-7]: Starting with you, each player votes for time or knowledge. If time gets more votes, take an extra turn after this one. If knowledge gets more votes or the vote is tied, draw three cards.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CNC-files/img/182.png" num="239">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Planeswalker</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Position of Power</name>
+			<text>(Start the game with this conspiracy face up in the command zone.)
+Before drawing your opening hand, you may put a creature card you drafted that isn&apos;t in your deck in the command zone. That creature card becomes your commander. (It starts with a commander tax of {0}. That card&apos;s color identity does not have to match the color identity of your starting deck. )
+Your starting hand size is six.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CNC-files/img/183.png" num="6">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Conspiracy</type>
+				<maintype>Conspiracy</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Odar Brynn, the Instigator</name>
+			<text>Odar Brynn, the Instigator enters with your choice of an additional deathtouch counter, a lifelink counter, or shield counter on her.
+[+2]: You may put your choice of a deathtouch counter, lifelink counter, or shield counter on Odar Brynn.
+[-4]: For each opponent, Odar Brynn deals 3 damage to your choice of that player or a creature or planeswalker they control.
+[-10]: Create six 4/4 red Dragon creature tokens. For each kind of counter on Odar Brynn, put a counter of that kind on each of those tokens.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CNC-files/img/184.png" num="222">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Brynn</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4RWB</manacost>
+				<cmc>7</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+				<loyalty>7</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Canopy Treaders</name>
+			<text>Myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that&apos;s a copy of this creature that&apos;s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/185.png" num="175">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sprawl Levelers</name>
+			<text>Trample
+Myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that&apos;s a copy of this creature that&apos;s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/186.png" num="203">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Populist Executioner</name>
+			<text>When Populist Executioner enters, each player sacrifices a creature. Each player who sacrificed a creature with the greatest power among creatures they control this way creates a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/187.png" num="122">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Final Verdict</name>
+			<text>Council&apos;s directive — Starting with you, each player votes for one. Choose one with the most votes or tied for the most votes.
+• Punish — Destroy target creature or planeswalker. 
+• Persecute — Each opponent sacrifices a nontoken creature or planeswalker.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/188.png" num="112">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Invite Attractions</name>
+			<text>Council&apos;s directive — Starting with you, each player votes for one. Choose one with the most votes or tied for the most votes.
+• Monsters — Create a 3/3 green Beast creature token.
+• Men — Create three 1/1 white Soldier creature tokens.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/189.png" num="185">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Militant Allocator</name>
+			<text>Council&apos;s directive — When this creature enters, starting with you, each player votes for one. Choose one with the most votes or tied for the most votes.
+• Mobilize— Create two 1/1 white Soldier creature tokens. Each opponent gains 2 life.
+• Resupply — Creature a 1/1 white Soldier creature token. You gain 2 life.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/190.png" num="37">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dutiful Patrol</name>
+			<text>When this creature enters, target opponent chooses an artifact or enchantment you don&apos;t control. Destroy it.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/191.png" num="19">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>First Degree</name>
+			<text>Gift a tapped Soldier (You may promise an opponent a gift as you cast this spell. If you do, they create a tapped 1/1 white Soldier creature token before its other effects.)
+Destroy target creature if it&apos;s tapped or if the gift was promised.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/192.png" num="23">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Diplomatic Caucus</name>
+			<text>Flying
+Whenever players finish voting, put a +1/+1 counter on Diplomatic Caucus. This ability triggers only once each turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/193.png" num="17">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crooked Benefactor</name>
+			<text>When this creature enters, draw a card.
+When this creature leaves the battlefield, each opponent draws a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/194.png" num="14">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Martial Enforcement</name>
+			<text>Choose one or both —
+• Martial Enforcement deals 3 damage to target attacking creature.
+• Martial Enforcement deals 3 damage to target blocking creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/195.png" num="35">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dutiful Response</name>
+			<text>Council&apos;s directive — Target creature gets +2/+2 until end of turn, then, starting with you, each player votes for one. Choose one with the most votes or tied for the most votes.
+• Protect — That creature gains indestructible until end of turn.
+• Serve — Untap that creature and it gains lifelink until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/196.png" num="20">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Confiscated Curiosity</name>
+			<text>Gift a card (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they draw a card.)
+Enchant creature
+When this Aura enters, if the gift was promised, tap enchanted creature.
+Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/197.png" num="52">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bureaucrat&apos;s Bargain</name>
+			<text>Gift a Treasure (You may promise an opponent a gift as you cast this spell. If you do, they create a Treasure token before its other effects. It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
+Counter target spell unless its controller pays {2}. If the gift was promised, counter that spell instead.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/198.png" num="50">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Contingent Supplies</name>
+			<text>Contingency {1}{U} — A player drew two or more cards this turn. (Start the game with this conspiracy face down in the command zone. You may turn it face up at any time while the condition is met by paying {1}{U}.)
+When this conspiracy is turned face up, draw a card for each opponent that has more cards in hand than you.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/199.png" num="53">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Conspiracy</type>
+				<maintype>Conspiracy</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fact or Fiction</name>
+			<text>Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/200.png" num="66">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gemma, Radical Upstart</name>
+			<text>As long as you control eight or more Faeries, you choose how each player votes.
+[+1]: Create two 1/1 blue Faerie creature tokens with flying.
+[-6]: Starting with you, each player votes for Establish or Abolish. If Establish gets more votes, you get an emblem with &quot;Creatures you control have indestructible.&quot; If Abolish gets more votes or the vote is tied, destroy all creatures you don&apos;t control.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CNC-files/img/201.png" num="25">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Gemma</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Oko, Apex Anarch</name>
+			<text>[+1]: Return up to one target creature to its owner&apos;s hand. If you controlled that creature, create a 3/3 green Elk creature token.
+[-2]: Double target creature&apos;s power. It gains trample and &quot;At the beginning of your end step, sacrifice this creature.&quot; It can&apos;t attack you or planeswalkers you control.
+[-7]: You get an emblem with &quot;You have no maximum hand size&quot; and &quot;If a non-Oko permanent you own would leave the battlefield, you may instead return it to its owner&apos;s hand.&quot;</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CNC-files/img/202.png" num="223">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Oko</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crafty Ringleader</name>
+			<text>{T}: Target creature with power 2 or less can&apos;t be blocked this turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/203.png" num="136">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Outlands Troll</name>
+			<text>Trample
+At the beginning of your end step, if an opponent lost life this turn, put a +1/+1 counter on this creature. If you have two or more opponents and each of them lost life this turn, instead put two +1/+1 counters on this creature. (Damage causes loss of life.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/204.png" num="152">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Troll</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Light a Fire</name>
+			<text>Light a Fire deals 2 damage to target creature or planeswalker. If a creature is dealt damage this way, goad it. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/205.png" num="147">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Boon-Curser Clique</name>
+			<text>Whenever you give a gift, target player loses 3 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/206.png" num="97">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brynn&apos;s Incursion</name>
+			<text>This spell costs {1} less to cast for each opponent who lost life this turn. (Damage causes loss of life.)
+Brynn&apos;s Incursion deals 5 damage to target creature or planeswalker.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/207.png" num="132">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Court Mandate</name>
+			<text>Council&apos;s directive — Starting with you, each player votes for one. Choose one with the most votes or tied for the most votes.
+• Torture — Each opponent loses 5 life.
+• Persecution — All creatures get -3/-3 until end of turn.
+• Schemes — Search your library for a card, put that card into your hand, then shuffle.
+• Chains — Choose a creature card in your graveyard. Return it to the battlefield.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/208.png" num="104">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Order of the Day</name>
+			<text>Council&apos;s directive — Starting with you, each player votes for one. Choose one with the most votes or tied for the most votes.
+• Destruction — Order of the Day deals 4 damage to each creature.
+• Terror — Goad each creature you don&apos;t control.
+• Jubilation — Until your next turn, whenever a creature attacks one of your opponents, it gets +2/+0 until end of turn.
+• Fortune — Each may player discards their hand. If they do, they draw seven cards.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/209.png" num="151">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Personal Retreat</name>
+			<text>(Start the game with this conspiracy face up in the command zone.)
+At the beginning of your first upkeep, you may choose a basic land card you own from outside the game and put it on top of your library.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/210.png" num="5">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Conspiracy</type>
+				<maintype>Conspiracy</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Trade Agreement</name>
+			<text>(As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)
+I — Whenever a section of this Law is enacted, each player creates a 1/1 white Soldier creature token.
+Whenever a section of this Law is enacted, each player creates a Treasure token.
+II — Whenever a section of this Law is enacted, each player draws a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/211.png" num="87">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Law</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kessel, Mercenary King</name>
+			<text>When Kessel enters, you may discard your hand. If you do, draw three cards.
+If a creature token would enter under your control tapped and attacking a player or planeswalker, you may instead put a creature card from your hand onto the battlefield tapped and attacking that player or planeswalker instead. If you do, sacrifice that creature at end of combat unless you pay {R} and return it to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/212.png" num="146">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Solicited Rage</name>
+			<text>Whenever a creature enters, it gets +1/+0 and gains haste until end of turn. Goad it. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)
+Creatures with defender can attack your opponents and planeswalkers you don&apos;t control as though they didn&apos;t have defender.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/213.png" num="160">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Compulsary Education</name>
+			<text>(As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)
+I — At the beginning of your second main phase, each player draws a card.
+Noncreature spells cost {1} less to cast.
+II — Discard a card: Draw a card. Any player may activate this ability once during their turn as a sorcery.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/214.png" num="51">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Law</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fitting Punishment</name>
+			<text>(As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)
+I — At the beginning of each player&apos;s upkeep, that player loses 3 life.
+At the beginning of each player&apos;s upkeep, that player discards a card.
+II — At the beginning of each player&apos;s upkeep, that player sacrifices a permanent.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/215.png" num="113">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Law</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Territory Lines</name>
+			<text>(As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)
+I — Each player may play an additional land on each of their turns.
+Whenever a land enters, its controller may put a +1/+1 counter on a creature they control.
+II — All creatures have trample.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/216.png" num="206">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Law</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Provisions Director</name>
+			<text>When this creature enters, choose one—
+• Target player creates a 1/1 white Soldier creature token.
+• Target player creates a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/217.png" num="195">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Intrepid Pathmaker</name>
+			<text>Creatures attacking your opponents have trample.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/218.png" num="184">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Omen of the Fey</name>
+			<text>Flash
+When this enchantment enters, put two +1/+1 counters on up to one target creature.
+{2}{G}, Sacrifice this enchantment: Scry 2.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/219.png" num="191">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Strength in Numbers</name>
+			<text>Until end of turn, target creature gains trample and gets +X/+X, where X is the number of attacking creatures.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/220.png" num="204">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Contracted Supplier</name>
+			<text>Reveal this card as you draft it and note which draft round it is.
+When this creature enters, distribute X +1/+1 counters among any number of target creatures, where X is the highest numbered draft round you noted for cards named Contracted Supplier.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/221.png" num="177">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Badger Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Luxury Goods</name>
+			<text>When this artifact enters, choose one—
+• Target player gains 3 life.
+• Target player draws a card.
+• Target player creates a tapped Treasure token.
+{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CNC-files/img/222.png" num="187">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Speaker&apos;s Podium</name>
+			<text>While voting, you may vote an additional time.
+{6}, {T}, Exile this artifact: End the turn. (Exile all spells and abilities from the stack. The player whose turn it is discards down to their maximum hand size. Damage wears off, and &quot;this turn&quot; and &quot;until end of turn&quot; effects end.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/223.png" num="245">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Xersis, Ballot Keeper</name>
+			<text>While voting, each vote is secret. Players then reveal their secret votes to you. You may secretly change up to one vote revealed to you this way, then the votes are revealed. (You hold the votes, so you reveal those votes, including who voted for which choices.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/224.png" num="231">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Judex, First Seat</name>
+			<text>You and Judex have protection from players with one or fewer cards in hand.
+Whenever a player attacks you or a planeswalker you control, they reveal their hand. You may choose a nonland card from it. Exile that card.
+At the beginning of your end step, draw a card.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CNC-files/img/225.png" num="217">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Second Seat</name>
+			<text>Play with the top card of your library revealed.
+As long as this Equipment is attached to a creature, you may play lands and cast spells from the top of your library. Whenever you cast a spell that shares a creature type with equipped creature this way, equipped creature gets +X/+X until end of turn, where X is that spell&apos;s mana value.
+Equip {4}</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CNC-files/img/226.png" num="243">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nature&apos;s Vengeance</name>
+			<text>Gift a card (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they draw a card.)
+Whenever a creature you control attacks a player that has drawn one or more cards or created one or more tokens this turn, double that creature&apos;s power until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/227.png" num="190">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Executive Order</name>
+			<text>Council&apos;s directive — Starting with you, each player votes for one. Choose one with the most votes or tied for the most votes.
+• Immigration — Gain control of target creature you don&apos;t control.
+• Economics — Choose target creature you control. Create two tokens that are each copies of it.
+• Procedure — Take an extra turn after this one.
+• Trade — Draw seven cards.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CNC-files/img/228.png" num="64">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Silva, Arbiter of Compromise</name>
+			<text>Whenever an enchantment you control enters, put a +1/+1 counter on target creature. If that enchantment is a Law, up to one target player draws a card and gains 1 life.
+Whenever players finish voting, each opponent who voted for a choice you didn&apos;t vote for mills two cards.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/229.png" num="225">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Snake Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Generous Fey</name>
+			<text>Gift a card, gift a Treasure (You may promise an opponent a gift as you cast this spell. If you do, when it enters, they draw a card. You may do the same for creating a Treasure. The gifts don&apos;t have to be promised to the same opponent.)
+Flying
+This creature enters with a +1/+1 counter on it for each gift you&apos;ve promised this turn.
+This creature enters with a lifelink counter on it if the card was promised and a menace counter on it if the Treasure was promised.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/230.png" num="216">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Krisyn, Sower of Discourse</name>
+			<text>Flying, haste
+Whenever a creature you don&apos;t control becomes the target of a spell or ability you control, tap that creature and goad it. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)
+Whenever a goaded creature attacks you, put a stun counter on it.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/231.png" num="218">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Faerie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deception Campaign</name>
+			<text>When this enchantment enters, exile another creature you control until this enchantment leaves the battlefield.
+Nontoken creatures you control enter as a copy of the exiled card.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/232.png" num="214">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Equal Rights</name>
+			<text>(As this enters, choose a section to enact. After your draw step, choose a section. Then starting with you, each player votes to enact or repeal that section. Tied votes are enacted.)
+Creatures have base power and toughness 3/3.
+I — Each player&apos;s maximum hand size is three.
+At the beginning of each player&apos;s end step, if they have fewer than three cards in hand, they draw cards equal to the difference.
+II — Each spell that would cost less than three mana to cast costs three mana to cast.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CNC-files/img/233.png" num="21">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Law</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jebodiah, Public Servant</name>
+			<text>Vigilance
+Creature tokens you control get +1/+1.
+Whenever you attack, choose a token you control. Create a token that&apos;s a copy of it. If the copy is a creature, it enters tapped and attacking.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/234.png" num="30">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leyline Lender</name>
+			<text>{T}: Target opponent creatures a tapped Treasure token. When they do, add one mana of any color. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/235.png" num="186">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Discretionary Spending</name>
+			<text>(Start the game with this conspiracy face up in the command zone.)
+{0}: Target player that hasn&apos;t been targeted by this ability creates a Treasure token.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/236.png" num="3">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Conspiracy</type>
+				<maintype>Conspiracy</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Advantageous Proclamation</name>
+			<text>(Start the game with this conspiracy face up in the command zone.)
+Your minimum deck size is reduced by five.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/237.png" num="1">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Conspiracy</type>
+				<maintype>Conspiracy</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Population Management</name>
+			<text>Council&apos;s directive — Starting with you, each player votes for one. Choose one with the most votes or tied for the most votes.
+• Meek — Destroy all creatures with power 3 or less.
+• Mighty — Destroy all creatures with power 4 or greater.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CNC-files/img/238.png" num="40">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Everspawn Clique</name>
+			<text>Flying
+Myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that&apos;s a copy of this creature that&apos;s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)
+Whenever this creature deals combat damage to a player, create a tapped 1/1 blue Faerie creature token with flying.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/239.png" num="63">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Minister of Motions</name>
+			<text>When this creature enters, you may search your library for a Law card, reveal it, put it into your hand, then shuffle.
+Whenever players finish voting, for each opponent who voted for a choice you didn&apos;t vote for, put a stun counter on up to one creature that player controls.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/240.png" num="72">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Veto</name>
+			<text>As you draft this card, reveal this card and another card from the same pack. Note the name of the other card. (And return it to the pack.)
+As long as you control an Island, you may cast this spell without paying its mana cost if it targets a spell with a name you noted for cards name Veto.
+Counter target spell.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/241.png" num="89">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Puppet State</name>
+			<text>At the beginning of your upkeep, if you have less cards in hand than the number of your opponents, draw cards equal to the difference.
+At the beginning of your first main phase, reveal your hand. Staring with the player to the left of you, each opponent may choose a nonland card revealed this way and cast it without paying its mana cost.
+You and permanents you control have protection from everything you own but don&apos;t control.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CNC-files/img/242.png" num="79">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3UUU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rejuvenation Guarantor</name>
+			<text>Draft this card face up.
+As you draft a card, you may reveal it, note its name, then turn this card face down.
+When this creature enters, return target card from your graveyard to your hand if it&apos;s a land card or a card with a name you noted for cards named Rejuvenation Guarantor.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/243.png" num="198">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bleakwood Giant</name>
+			<text>This spell costs {1} less to cast for each creature that entered the battlefield this turn.
+Trample</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/244.png" num="173">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>8GG</manacost>
+				<cmc>10</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>10/10</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bog Drake</name>
+			<text>Flash
+{1}, Sacrifice this creature: Choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Counter target activated or triggered ability from a noncreature source. (Mana abilities can&apos;t be countered.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/245.png" num="174">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Drake Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stalking Sprite</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+Other Faerie creatures you control get +1/+1.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/246.png" num="85">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Malicious Misinformation</name>
+			<text>Council&apos;s directive — Starting with you, each player votes for one. Choose one with the most votes or tied for the most votes.
+• Collude — Each opponent discards a card.
+• Betray — Each opponent reveals their hand. You choose two nonland cards from among them. The chosen cards owners&apos; discard those cards.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/247.png" num="117">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Legislative Chamber</name>
+			<text>{T}: Add {C}.
+{5}, {T}, Sacrifice this land: Choose one. Activate only as a sorcery.
+• Search your library for an Aura or Law card, reveal it, put it into your hand, then shuffle.
+• Destroy target enchantment.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CNC-files/img/248.png" num="248">CNC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

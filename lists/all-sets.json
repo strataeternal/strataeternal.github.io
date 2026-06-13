@@ -21,6 +21,11 @@
             "formats": "stratacommander"
         },
         {
+            "set_code": "CNC",
+            "set_name": "",
+            "formats": "stratacommander"
+        },
+        {
             "set_code": "DGZ",
             "set_name": "Dragazan",
             "formats": "stratacommander, stratastandard"

@@ -3954,7 +3954,7 @@
             "number": 32,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Fortified land has \u201c{T}: Scry 1.\u201d\nFortify {1}. Activate only once each turn. [i]({1}: Attach to target land you control. Fortify only as a sorcery.)[/i]",
+            "rules_text": "Fortified land has \u201c{T}: Scry 1.\u201d [i](To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)[/i]\nFortify {1}. Activate only once each turn. [i]({1}: Attach to target land you control. Fortify only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5603,5 +5603,5 @@
             "notes": "This intentionally lets you play lands from opponents graveyards to increase your voyage.\n\nCould bump up to four if oppressive"
         }
     ],
-    "version": 1
+    "version": 2
 }

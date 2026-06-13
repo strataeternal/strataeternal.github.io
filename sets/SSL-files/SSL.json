@@ -2,7 +2,7 @@
     "name": "Strata Signature Legends",
     "formats": "stratacommander",
     "image_type": "png",
-    "draft_structure": "play booster",
+    "draft_structure": "none",
     "unpreviewed": "card back",
     "image_name": "position",
     "v_mana": "",
@@ -53,7 +53,7 @@
             "card_name": "Victoria, Seasoned Inventor",
             "color": "UR",
             "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2014 Charlotte",
+            "type": "Legendary Planeswalker \u2014 Victoria",
             "number": 20,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
@@ -512,5 +512,5 @@
             "notes": ""
         }
     ],
-    "version": 1
+    "version": 2
 }

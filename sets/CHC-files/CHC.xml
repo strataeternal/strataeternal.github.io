@@ -2734,9 +2734,9 @@ Cycling {G}{W}{U} ({G}{W}{U}, Discard this card: Draw a card.)</text>
 		</card>
 		<card>
 			<name>And Loaded with Caffeine</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 3] Until end of turn, spells you cast cost {1} less to cast.</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHC-files/img/157.png" num="1">CHC</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHC-files/img/157.png" num="1">CHC</set>
 			<prop>
 				<layout>leveler</layout>
 				<side>front</side>
@@ -2749,7 +2749,7 @@ Cycling {G}{W}{U} ({G}{W}{U}, Discard this card: Draw a card.)</text>
 		</card>
 		<card>
 			<name>And Loaded with Toppings</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 3] You may discard a card. If you do, draw two cards.</text>
 			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHC-files/img/158.png" num="2">CHC</set>
 			<prop>
@@ -2764,7 +2764,7 @@ Cycling {G}{W}{U} ({G}{W}{U}, Discard this card: Draw a card.)</text>
 		</card>
 		<card>
 			<name>And Served in Fine China</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 3] Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
 			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHC-files/img/159.png" num="3">CHC</set>
 			<prop>
@@ -2779,7 +2779,7 @@ Cycling {G}{W}{U} ({G}{W}{U}, Discard this card: Draw a card.)</text>
 		</card>
 		<card>
 			<name>Evaporated</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 2] Exile target creature or planeswalker.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHC-files/img/160.png" num="5">CHC</set>
 			<prop>
@@ -2794,7 +2794,7 @@ Cycling {G}{W}{U} ({G}{W}{U}, Discard this card: Draw a card.)</text>
 		</card>
 		<card>
 			<name>Gathered From Far Off Lands</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 2] Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 2 life.</text>
 			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHC-files/img/161.png" num="6">CHC</set>
 			<prop>
@@ -2809,7 +2809,7 @@ Cycling {G}{W}{U} ({G}{W}{U}, Discard this card: Draw a card.)</text>
 		</card>
 		<card>
 			<name>Mixed Vigorously</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 2] Exchange control of two target non-Saga permanents.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHC-files/img/162.png" num="7">CHC</set>
 			<prop>
@@ -2824,7 +2824,7 @@ Cycling {G}{W}{U} ({G}{W}{U}, Discard this card: Draw a card.)</text>
 		</card>
 		<card>
 			<name>And Enough to Share</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 3] Choose one—
 • Double your life total.
 • Exchange life totals with target opponent.</text>
@@ -2843,7 +2843,7 @@ Cycling {G}{W}{U} ({G}{W}{U}, Discard this card: Draw a card.)</text>
 		</card>
 		<card>
 			<name>And Preserved for Later</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 3] Creatures you control get +1/+0 and gain indestructible until end of turn.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHC-files/img/164.png" num="12">CHC</set>
 			<prop>
@@ -2878,7 +2878,7 @@ As long as you have more life than a player, nonbasic permanents that player con
 		</card>
 		<card>
 			<name>Flattened</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 2] Destroy target creature you don&apos;t control with power 4 or greater.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHC-files/img/166.png" num="17">CHC</set>
 			<prop>
@@ -2895,7 +2895,7 @@ As long as you have more life than a player, nonbasic permanents that player con
 		</card>
 		<card>
 			<name>Healer&apos;s Livestock</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 31] Create two 1/1 white Bird creature tokens with flying and lifelink.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHC-files/img/167.png" num="19">CHC</set>
 			<prop>
@@ -2912,7 +2912,7 @@ As long as you have more life than a player, nonbasic permanents that player con
 		</card>
 		<card>
 			<name>Mountainous Goat</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 1] Create two 0/1 white Goat creature tokens. You gain 2 life.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHC-files/img/168.png" num="21">CHC</set>
 			<prop>
@@ -2948,7 +2948,7 @@ Entwine {3}{W} (Choose both if you pay the entwine cost.)</text>
 		</card>
 		<card>
 			<name>And Repeat Step One</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 3] Take an extra turn after this one. If you cast this card from your hand, skip the untap step of that turn.</text>
 			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHC-files/img/170.png" num="28">CHC</set>
 			<prop>
@@ -2965,7 +2965,7 @@ Entwine {3}{W} (Choose both if you pay the entwine cost.)</text>
 		</card>
 		<card>
 			<name>And Served On Ice</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 3] Tap up to one target creature. It doesn&apos;t untap during its controller&apos;s next untap step.</text>
 			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHC-files/img/171.png" num="29">CHC</set>
 			<prop>
@@ -2998,7 +2998,7 @@ Entwine {3}{W} (Choose both if you pay the entwine cost.)</text>
 		</card>
 		<card>
 			<name>Doubled Up</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 2] Create a token that&apos;s a copy of target creature you control.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHC-files/img/173.png" num="40">CHC</set>
 			<prop>
@@ -3015,7 +3015,7 @@ Entwine {3}{W} (Choose both if you pay the entwine cost.)</text>
 		</card>
 		<card>
 			<name>Drake Hatchling</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 1] Create a 2/2 blue Drake creature token with flying.</text>
 			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHC-files/img/174.png" num="41">CHC</set>
 			<prop>
@@ -3032,7 +3032,7 @@ Entwine {3}{W} (Choose both if you pay the entwine cost.)</text>
 		</card>
 		<card>
 			<name>Shaken, Not Stirred</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 2] Return target nonland permanent to its owner&apos;s hand.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHC-files/img/175.png" num="50">CHC</set>
 			<prop>
@@ -3085,7 +3085,7 @@ When this creature enters, look at the top four cards of your library. You may r
 		</card>
 		<card>
 			<name>Winter Crab</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 1] Create a 0/3 blue Crab creature token.</text>
 			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHC-files/img/178.png" num="60">CHC</set>
 			<prop>
@@ -3102,7 +3102,7 @@ When this creature enters, look at the top four cards of your library. You may r
 		</card>
 		<card>
 			<name>Aged to Perfection</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 2] Return target artifact, creature, or planeswalker card from your graveyard to the battlefield.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHC-files/img/179.png" num="61">CHC</set>
 			<prop>
@@ -3119,7 +3119,7 @@ When this creature enters, look at the top four cards of your library. You may r
 		</card>
 		<card>
 			<name>And Paired with a Sampler</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 3] And Paired with a Sampler deals 1 damage to any target. You gain 1 life, create a Treasure token, and draw a card.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHC-files/img/180.png" num="62">CHC</set>
 			<prop>
@@ -3136,7 +3136,7 @@ When this creature enters, look at the top four cards of your library. You may r
 		</card>
 		<card>
 			<name>And Served Exactly as Requested</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 3] Search your library for a card with mana value less than or equal to the number of lands you control, reveal it, put it into your hand, then shuffle.</text>
 			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHC-files/img/181.png" num="63">CHC</set>
 			<prop>
@@ -3169,7 +3169,7 @@ When this creature enters, look at the top four cards of your library. You may r
 		</card>
 		<card>
 			<name>Freshly Butchered</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 23] Each opponent sacrifices a creature.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHC-files/img/183.png" num="69">CHC</set>
 			<prop>
@@ -3186,7 +3186,7 @@ When this creature enters, look at the top four cards of your library. You may r
 		</card>
 		<card>
 			<name>Roasted Scorpion</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 1] Create a 2/2 black Scorpion creature token with deathtouch.</text>
 			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHC-files/img/184.png" num="73">CHC</set>
 			<prop>
@@ -3203,7 +3203,7 @@ When this creature enters, look at the top four cards of your library. You may r
 		</card>
 		<card>
 			<name>And a Dessert To Go</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 3] Search target opponent&apos;s library for a creature card and put it onto the battlefield under your control. It gains haste and &quot;Shuffle this creature into its owner&apos;s library at end of turn.&quot; That opponent shuffles.</text>
 			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHC-files/img/185.png" num="78">CHC</set>
 			<prop>
@@ -3220,7 +3220,7 @@ When this creature enters, look at the top four cards of your library. You may r
 		</card>
 		<card>
 			<name>Molten Rock</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 1] Create an X/X red Elemental creature token with trample, where X is the number of instant and sorcery cards you own in exile and in your graveyard.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHC-files/img/186.png" num="80">CHC</set>
 			<prop>
@@ -3255,7 +3255,7 @@ When this creature enters, look at the top four cards of your library. You may r
 		</card>
 		<card>
 			<name>Steamed to Perfection</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 2] Exile the the top two cards of your library. You may play them this turn.</text>
 			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHC-files/img/188.png" num="82">CHC</set>
 			<prop>
@@ -3308,7 +3308,7 @@ Whenever an opponent sacrifices an artifact, this creature deals 3 damage to tha
 		</card>
 		<card>
 			<name>Wild Boar</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 1] Create a 4/2 red Boar Beat creature token with haste.</text>
 			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHC-files/img/191.png" num="85">CHC</set>
 			<prop>
@@ -3325,7 +3325,7 @@ Whenever an opponent sacrifices an artifact, this creature deals 3 damage to tha
 		</card>
 		<card>
 			<name>And Including a Special Surprise</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 3] Look at the top seven cards of your library. You may put a permanent card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.</text>
 			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHC-files/img/192.png" num="86">CHC</set>
 			<prop>
@@ -3342,7 +3342,7 @@ Whenever an opponent sacrifices an artifact, this creature deals 3 damage to tha
 		</card>
 		<card>
 			<name>And Yesterday&apos;s Leftovers</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 3] Return target card from your graveyard to your hand.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHC-files/img/193.png" num="87">CHC</set>
 			<prop>
@@ -3375,7 +3375,7 @@ Whenever an opponent sacrifices an artifact, this creature deals 3 damage to tha
 		</card>
 		<card>
 			<name>Drizzled with Oil</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 2] Up to one target creature gets +1/+1 and gains hexproof until end of turn.</text>
 			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHC-files/img/195.png" num="97">CHC</set>
 			<prop>
@@ -3392,7 +3392,7 @@ Whenever an opponent sacrifices an artifact, this creature deals 3 damage to tha
 		</card>
 		<card>
 			<name>Free Range</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 32] Search your library for two basic land cards, put them onto the battlefield tapped, then shuffle.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHC-files/img/196.png" num="100">CHC</set>
 			<prop>
@@ -3409,7 +3409,7 @@ Whenever an opponent sacrifices an artifact, this creature deals 3 damage to tha
 		</card>
 		<card>
 			<name>Homegrown Sprouts</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 1] Create three 1/1 green Saproling creature tokens.</text>
 			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHC-files/img/197.png" num="105">CHC</set>
 			<prop>
@@ -3426,7 +3426,7 @@ Whenever an opponent sacrifices an artifact, this creature deals 3 damage to tha
 		</card>
 		<card>
 			<name>Lots of Things</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 1] Create a 1/1 blue Tentacle creature token, a 3/3 green Beast creature token, and a Food token.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHC-files/img/198.png" num="107">CHC</set>
 			<prop>
@@ -3477,7 +3477,7 @@ Flashback {4}{G} (You may cast this card from your graveyard for its flashback c
 		</card>
 		<card>
 			<name>All Your Favorites</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 1] For each opponent, you create a token that&apos;s a copy of up to one target permanent that player controls.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHC-files/img/201.png" num="128">CHC</set>
 			<prop>
@@ -3494,7 +3494,7 @@ Flashback {4}{G} (You may cast this card from your graveyard for its flashback c
 		</card>
 		<card>
 			<name>And Grilled to a Char</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 3] This card damage to target creature equal to the total number of instant and sorcery cards you own in exile and in your graveyard. You gain that much life.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHC-files/img/202.png" num="131">CHC</set>
 			<prop>
@@ -3511,7 +3511,7 @@ Flashback {4}{G} (You may cast this card from your graveyard for its flashback c
 		</card>
 		<card>
 			<name>And Served On a Stick</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 3] For each opponent, destroy up to one target artifact, enchantment, or creature with flying that player controls.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHC-files/img/203.png" num="132">CHC</set>
 			<prop>
@@ -3546,7 +3546,7 @@ Whenever you merge one or more cards and/or permanents, choose a counter on targ
 		</card>
 		<card>
 			<name>Chilled</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 2] For each opponent, you create an Ice Over token attached to an artifact or creature they control. (It&apos;s a {1}{U} Aura enchantment with enchant artifact or creature and &quot;Enchanted permanent doesn&apos;t untap during its controller&apos;s untap step.&quot;)</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHC-files/img/205.png" num="138">CHC</set>
 			<prop>
@@ -3563,7 +3563,7 @@ Whenever you merge one or more cards and/or permanents, choose a counter on targ
 		</card>
 		<card>
 			<name>Flash-Frozen</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 2] This card deals 1 damage to each creature you don&apos;t control. Tap those creatures and put a stun counter on each of them.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHC-files/img/206.png" num="143">CHC</set>
 			<prop>
@@ -3580,7 +3580,7 @@ Whenever you merge one or more cards and/or permanents, choose a counter on targ
 		</card>
 		<card>
 			<name>Home-Grown Poultry</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 1] For each opponent, you create a 1/1 red Elemental Bird creature token with flying and haste.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHC-files/img/207.png" num="146">CHC</set>
 			<prop>
@@ -3597,7 +3597,7 @@ Whenever you merge one or more cards and/or permanents, choose a counter on targ
 		</card>
 		<card>
 			<name>House Salad</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 1] For each opponent, you create a 1/1 green Saproling creature token, then you gain 1 life for each token you control.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHC-files/img/208.png" num="147">CHC</set>
 			<prop>
@@ -3614,7 +3614,7 @@ Whenever you merge one or more cards and/or permanents, choose a counter on targ
 		</card>
 		<card>
 			<name>Made Botomless</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 2] Each opponent exiles a nontoken creature they control. You may play those cards for as long as they remain exiled. If you cast a spell this way, you may spend mana as though it were mana of any color to cast it.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHC-files/img/209.png" num="150">CHC</set>
 			<prop>
@@ -3631,7 +3631,7 @@ Whenever you merge one or more cards and/or permanents, choose a counter on targ
 		</card>
 		<card>
 			<name>Meat Loaf</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 1] Create a Food token. When you do, target artifact becomes a 0/0 artifact creature. Put a +1/+1 counter on it for each opponent.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHC-files/img/210.png" num="151">CHC</set>
 			<prop>
@@ -3648,7 +3648,7 @@ Whenever you merge one or more cards and/or permanents, choose a counter on targ
 		</card>
 		<card>
 			<name>Plague Locust</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 1] For each opponent, put a -1/-1 counter on up to one target creature that player controls, then create a 1/1 green Insect creature token. Put a +1/+1 counter on that token for each -1/-1 counter put on creatures this way.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHC-files/img/211.png" num="155">CHC</set>
 			<prop>
@@ -4208,7 +4208,7 @@ This land enters tapped unless you control two or more basic lands.</text>
 		</card>
 		<card>
 			<name>Braised Gremlin</name>
-			<text>Recipe (Exile this with a cooking counter on it as it resolves. Then you may put one each of a &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
 [level 1] Create a 1/1 red Gremlin creature token with prowess.</text>
 			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHC-files/img/246.png" num="79">CHC</set>
 			<prop>

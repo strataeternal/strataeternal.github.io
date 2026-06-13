@@ -1,4 +1,534 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+And Loaded with Caffeine
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Until end of turn, spells you cast cost {1} less to cast.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Until end of turn, spells you cast cost {1} less to cast.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Until end of turn, spells you cast cost {1} less to cast.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Until end of turn, spells you cast cost {1} less to cast.
+
+
+And Loaded with Toppings
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] You may discard a card. If you do, draw two cards.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] You may discard a card. If you do, draw two cards.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] You may discard a card. If you do, draw two cards.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] You may discard a card. If you do, draw two cards.
+
+
+And Served in Fine China
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+
+Evaporated
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Exile target creature or planeswalker.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Exile target creature or planeswalker.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Exile target creature or planeswalker.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Exile target creature or planeswalker.
+
+
+Gathered From Far Off Lands
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 2 life.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 2 life.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 2 life.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 2 life.
+
+
+Mixed Vigorously
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Exchange control of two target non-Saga permanents.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Exchange control of two target non-Saga permanents.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Exchange control of two target non-Saga permanents.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Exchange control of two target non-Saga permanents.
+
+
+And Enough to Share
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Choose one—
+• Double your life total.
+• Exchange life totals with target opponent.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Choose one—
+• Double your life total.
+• Exchange life totals with target opponent.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Choose one—
+• Double your life total.
+• Exchange life totals with target opponent.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Choose one—
+• Double your life total.
+• Exchange life totals with target opponent.
+
+
+And Preserved for Later
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Creatures you control get +1/+0 and gain indestructible until end of turn.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Creatures you control get +1/+0 and gain indestructible until end of turn.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Creatures you control get +1/+0 and gain indestructible until end of turn.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Creatures you control get +1/+0 and gain indestructible until end of turn.
+
+
+Flattened
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Destroy target creature you don't control with power 4 or greater.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Destroy target creature you don't control with power 4 or greater.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Destroy target creature you don't control with power 4 or greater.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Destroy target creature you don't control with power 4 or greater.
+
+
+Healer's Livestock
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 31] Create two 1/1 white Bird creature tokens with flying and lifelink.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 31] Create two 1/1 white Bird creature tokens with flying and lifelink.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 31] Create two 1/1 white Bird creature tokens with flying and lifelink.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 31] Create two 1/1 white Bird creature tokens with flying and lifelink.
+
+
+Mountainous Goat
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create two 0/1 white Goat creature tokens. You gain 2 life.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create two 0/1 white Goat creature tokens. You gain 2 life.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create two 0/1 white Goat creature tokens. You gain 2 life.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create two 0/1 white Goat creature tokens. You gain 2 life.
+
+
+And Repeat Step One
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Take an extra turn after this one. If you cast this card from your hand, skip the untap step of that turn.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Take an extra turn after this one. If you cast this card from your hand, skip the untap step of that turn.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Take an extra turn after this one. If you cast this card from your hand, skip the untap step of that turn.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Take an extra turn after this one. If you cast this card from your hand, skip the untap step of that turn.
+
+
+And Served On Ice
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Tap up to one target creature. It doesn't untap during its controller's next untap step.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Tap up to one target creature. It doesn't untap during its controller's next untap step.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Tap up to one target creature. It doesn't untap during its controller's next untap step.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Tap up to one target creature. It doesn't untap during its controller's next untap step.
+
+
+Doubled Up
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Create a token that's a copy of target creature you control.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Create a token that's a copy of target creature you control.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Create a token that's a copy of target creature you control.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Create a token that's a copy of target creature you control.
+
+
+Drake Hatchling
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a 2/2 blue Drake creature token with flying.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a 2/2 blue Drake creature token with flying.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a 2/2 blue Drake creature token with flying.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a 2/2 blue Drake creature token with flying.
+
+
+Shaken, Not Stirred
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Return target nonland permanent to its owner's hand.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Return target nonland permanent to its owner's hand.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Return target nonland permanent to its owner's hand.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Return target nonland permanent to its owner's hand.
+
+
+Winter Crab
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a 0/3 blue Crab creature token.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a 0/3 blue Crab creature token.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a 0/3 blue Crab creature token.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a 0/3 blue Crab creature token.
+
+
+Aged to Perfection
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Return target artifact, creature, or planeswalker card from your graveyard to the battlefield.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Return target artifact, creature, or planeswalker card from your graveyard to the battlefield.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Return target artifact, creature, or planeswalker card from your graveyard to the battlefield.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Return target artifact, creature, or planeswalker card from your graveyard to the battlefield.
+
+
+And Paired with a Sampler
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] And Paired with a Sampler deals 1 damage to any target. You gain 1 life, create a Treasure token, and draw a card.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] And Paired with a Sampler deals 1 damage to any target. You gain 1 life, create a Treasure token, and draw a card.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] And Paired with a Sampler deals 1 damage to any target. You gain 1 life, create a Treasure token, and draw a card.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] And Paired with a Sampler deals 1 damage to any target. You gain 1 life, create a Treasure token, and draw a card.
+
+
+And Served Exactly as Requested
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Search your library for a card with mana value less than or equal to the number of lands you control, reveal it, put it into your hand, then shuffle.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Search your library for a card with mana value less than or equal to the number of lands you control, reveal it, put it into your hand, then shuffle.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Search your library for a card with mana value less than or equal to the number of lands you control, reveal it, put it into your hand, then shuffle.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Search your library for a card with mana value less than or equal to the number of lands you control, reveal it, put it into your hand, then shuffle.
+
+
+Freshly Butchered
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 23] Each opponent sacrifices a creature.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 23] Each opponent sacrifices a creature.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 23] Each opponent sacrifices a creature.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 23] Each opponent sacrifices a creature.
+
+
+Roasted Scorpion
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a 2/2 black Scorpion creature token with deathtouch.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a 2/2 black Scorpion creature token with deathtouch.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a 2/2 black Scorpion creature token with deathtouch.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a 2/2 black Scorpion creature token with deathtouch.
+
+
+And a Dessert To Go
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Search target opponent's library for a creature card and put it onto the battlefield under your control. It gains haste and “Shuffle this creature into its owner's library at end of turn.” That opponent shuffles.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Search target opponent's library for a creature card and put it onto the battlefield under your control. It gains haste and “Shuffle this creature into its owner's library at end of turn.” That opponent shuffles.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Search target opponent's library for a creature card and put it onto the battlefield under your control. It gains haste and “Shuffle this creature into its owner's library at end of turn.” That opponent shuffles.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Search target opponent's library for a creature card and put it onto the battlefield under your control. It gains haste and “Shuffle this creature into its owner's library at end of turn.” That opponent shuffles.
+
+
+Molten Rock
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create an X/X red Elemental creature token with trample, where X is the number of instant and sorcery cards you own in exile and in your graveyard.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create an X/X red Elemental creature token with trample, where X is the number of instant and sorcery cards you own in exile and in your graveyard.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create an X/X red Elemental creature token with trample, where X is the number of instant and sorcery cards you own in exile and in your graveyard.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create an X/X red Elemental creature token with trample, where X is the number of instant and sorcery cards you own in exile and in your graveyard.
+
+
+Steamed to Perfection
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Exile the the top two cards of your library. You may play them this turn.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Exile the the top two cards of your library. You may play them this turn.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Exile the the top two cards of your library. You may play them this turn.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Exile the the top two cards of your library. You may play them this turn.
+
+
+Wild Boar
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a 4/2 red Boar Beat creature token with haste.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a 4/2 red Boar Beat creature token with haste.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a 4/2 red Boar Beat creature token with haste.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a 4/2 red Boar Beat creature token with haste.
+
+
+And Including a Special Surprise
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Look at the top seven cards of your library. You may put a permanent card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Look at the top seven cards of your library. You may put a permanent card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Look at the top seven cards of your library. You may put a permanent card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Look at the top seven cards of your library. You may put a permanent card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+
+
+And Yesterday's Leftovers
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Return target card from your graveyard to your hand.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Return target card from your graveyard to your hand.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Return target card from your graveyard to your hand.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] Return target card from your graveyard to your hand.
+
+
+Drizzled with Oil
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Up to one target creature gets +1/+1 and gains hexproof until end of turn.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Up to one target creature gets +1/+1 and gains hexproof until end of turn.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Up to one target creature gets +1/+1 and gains hexproof until end of turn.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Up to one target creature gets +1/+1 and gains hexproof until end of turn.
+
+
+Free Range
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 32] Search your library for two basic land cards, put them onto the battlefield tapped, then shuffle.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 32] Search your library for two basic land cards, put them onto the battlefield tapped, then shuffle.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 32] Search your library for two basic land cards, put them onto the battlefield tapped, then shuffle.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 32] Search your library for two basic land cards, put them onto the battlefield tapped, then shuffle.
+
+
+Homegrown Sprouts
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create three 1/1 green Saproling creature tokens.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create three 1/1 green Saproling creature tokens.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create three 1/1 green Saproling creature tokens.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create three 1/1 green Saproling creature tokens.
+
+
+Lots of Things
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a 1/1 blue Tentacle creature token, a 3/3 green Beast creature token, and a Food token.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a 1/1 blue Tentacle creature token, a 3/3 green Beast creature token, and a Food token.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a 1/1 blue Tentacle creature token, a 3/3 green Beast creature token, and a Food token.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a 1/1 blue Tentacle creature token, a 3/3 green Beast creature token, and a Food token.
+
+
+All Your Favorites
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] For each opponent, you create a token that's a copy of up to one target permanent that player controls.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] For each opponent, you create a token that's a copy of up to one target permanent that player controls.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] For each opponent, you create a token that's a copy of up to one target permanent that player controls.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] For each opponent, you create a token that's a copy of up to one target permanent that player controls.
+
+
+And Grilled to a Char
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] This card damage to target creature equal to the total number of instant and sorcery cards you own in exile and in your graveyard. You gain that much life.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] This card damage to target creature equal to the total number of instant and sorcery cards you own in exile and in your graveyard. You gain that much life.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] This card damage to target creature equal to the total number of instant and sorcery cards you own in exile and in your graveyard. You gain that much life.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] This card damage to target creature equal to the total number of instant and sorcery cards you own in exile and in your graveyard. You gain that much life.
+
+
+And Served On a Stick
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] For each opponent, destroy up to one target artifact, enchantment, or creature with flying that player controls.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] For each opponent, destroy up to one target artifact, enchantment, or creature with flying that player controls.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] For each opponent, destroy up to one target artifact, enchantment, or creature with flying that player controls.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 3] For each opponent, destroy up to one target artifact, enchantment, or creature with flying that player controls.
+
+
+Chilled
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] For each opponent, you create an Ice Over token attached to an artifact or creature they control. [i](It's a {1}{U} Aura enchantment with enchant artifact or creature and “Enchanted permanent doesn't untap during its controller's untap step.”)[/i]
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] For each opponent, you create an Ice Over token attached to an artifact or creature they control. [i](It's a {1}{U} Aura enchantment with enchant artifact or creature and “Enchanted permanent doesn't untap during its controller's untap step.”)[/i]
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] For each opponent, you create an Ice Over token attached to an artifact or creature they control. [i](It's a {1}{U} Aura enchantment with enchant artifact or creature and “Enchanted permanent doesn't untap during its controller's untap step.”)[/i]
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] For each opponent, you create an Ice Over token attached to an artifact or creature they control. [i](It's a {1}{U} Aura enchantment with enchant artifact or creature and “Enchanted permanent doesn't untap during its controller's untap step.”)[/i]
+
+
+Flash-Frozen
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] This card deals 1 damage to each creature you don't control. Tap those creatures and put a stun counter on each of them.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] This card deals 1 damage to each creature you don't control. Tap those creatures and put a stun counter on each of them.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] This card deals 1 damage to each creature you don't control. Tap those creatures and put a stun counter on each of them.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] This card deals 1 damage to each creature you don't control. Tap those creatures and put a stun counter on each of them.
+
+
+Home-Grown Poultry
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] For each opponent, you create a 1/1 red Elemental Bird creature token with flying and haste.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] For each opponent, you create a 1/1 red Elemental Bird creature token with flying and haste.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] For each opponent, you create a 1/1 red Elemental Bird creature token with flying and haste.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] For each opponent, you create a 1/1 red Elemental Bird creature token with flying and haste.
+
+
+House Salad
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] For each opponent, you create a 1/1 green Saproling creature token, then you gain 1 life for each token you control.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] For each opponent, you create a 1/1 green Saproling creature token, then you gain 1 life for each token you control.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] For each opponent, you create a 1/1 green Saproling creature token, then you gain 1 life for each token you control.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] For each opponent, you create a 1/1 green Saproling creature token, then you gain 1 life for each token you control.
+
+
+Made Botomless
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Each opponent exiles a nontoken creature they control. You may play those cards for as long as they remain exiled. If you cast a spell this way, you may spend mana as though it were mana of any color to cast it.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Each opponent exiles a nontoken creature they control. You may play those cards for as long as they remain exiled. If you cast a spell this way, you may spend mana as though it were mana of any color to cast it.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Each opponent exiles a nontoken creature they control. You may play those cards for as long as they remain exiled. If you cast a spell this way, you may spend mana as though it were mana of any color to cast it.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 2] Each opponent exiles a nontoken creature they control. You may play those cards for as long as they remain exiled. If you cast a spell this way, you may spend mana as though it were mana of any color to cast it.
+
+
+Meat Loaf
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a Food token. When you do, target artifact becomes a 0/0 artifact creature. Put a +1/+1 counter on it for each opponent.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a Food token. When you do, target artifact becomes a 0/0 artifact creature. Put a +1/+1 counter on it for each opponent.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a Food token. When you do, target artifact becomes a 0/0 artifact creature. Put a +1/+1 counter on it for each opponent.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a Food token. When you do, target artifact becomes a 0/0 artifact creature. Put a +1/+1 counter on it for each opponent.
+
+
+Plague Locust
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] For each opponent, put a -1/-1 counter on up to one target creature that player controls, then create a 1/1 green Insect creature token. Put a +1/+1 counter on that token for each -1/-1 counter put on creatures this way.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] For each opponent, put a -1/-1 counter on up to one target creature that player controls, then create a 1/1 green Insect creature token. Put a +1/+1 counter on that token for each -1/-1 counter put on creatures this way.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] For each opponent, put a -1/-1 counter on up to one target creature that player controls, then create a 1/1 green Insect creature token. Put a +1/+1 counter on that token for each -1/-1 counter put on creatures this way.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] For each opponent, put a -1/-1 counter on up to one target creature that player controls, then create a 1/1 green Insect creature token. Put a +1/+1 counter on that token for each -1/-1 counter put on creatures this way.
+
+
+Braised Gremlin
+rules_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a 1/1 red Gremlin creature token with prowess.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a 1/1 red Gremlin creature token with prowess.
+
+special_text: Recipe [i](Exile this with a cooking counter on it as it resolves. Then you may put one each of a “I”, “II”, and “III” Ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a 1/1 red Gremlin creature token with prowess.
+ => Recipe [i](Exile this as it resolves with a cooking counter on it. Then you may put an “I”, “II”, and “III” ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)[/i]
+[level 1] Create a 1/1 red Gremlin creature token with prowess.
+
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

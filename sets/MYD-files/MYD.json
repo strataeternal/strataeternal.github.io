@@ -2,7 +2,7 @@
     "name": "Mystvale: Declassified",
     "formats": "stratacommander, stratastandard",
     "image_type": "png",
-    "draft_structure": "none",
+    "draft_structure": "draft booster",
     "unpreviewed": "card back",
     "image_name": "position",
     "v_mana": "",
@@ -1611,10 +1611,10 @@
             "number": 32,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
-            "rules_text": "You may remove loyalty counters from Subject MW02 to pay part or all of the costs of loyalty abilities of other permanents you control.\nCreatures you control get +1/+1.\nWhen Subject MW02 dies, return her to the battlefield transformed.\n\u200b\n[i](You may activate a loyalty ability of this permanent once during your turn as a sorcery.)[/i]\nFlying\nTarget creature gets +1/+1 until end of turn for each loyalty counter on Gemma Unbound.",
+            "rules_text": "You may remove loyalty counters from Subject MW02 to pay part or all of the costs of loyalty abilities of other permanents you control.\nCreatures you control get +1/+1.\nWhen Subject MW02 dies, return her to the battlefield transformed.\n[i](You may activate a loyalty ability of this permanent once during your turn as a sorcery.)[/i]\nFlying\nTarget creature gets +1/+1 until end of turn for each loyalty counter on Gemma Unbound.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "You may remove loyalty counters from Subject MW02 to pay part or all of the costs of loyalty abilities of other permanents you control.\nCreatures you control get +1/+1.\nWhen Subject MW02 dies, return her to the battlefield transformed.\n\u200b\n[i](You may activate a loyalty ability of this permanent once during your turn as a sorcery.)[/i]\nFlying\nTarget creature gets +1/+1 until end of turn for each loyalty counter on Gemma Unbound.",
+            "special_text": "You may remove loyalty counters from Subject MW02 to pay part or all of the costs of loyalty abilities of other permanents you control.\nCreatures you control get +1/+1.\nWhen Subject MW02 dies, return her to the battlefield transformed.\n[i](You may activate a loyalty ability of this permanent once during your turn as a sorcery.)[/i]\nFlying\nTarget creature gets +1/+1 until end of turn for each loyalty counter on Gemma Unbound.",
             "shape": "transform double faced",
             "set": "MYD",
             "loyalty": "5",
@@ -1634,7 +1634,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "(You may activate a loyalty ability of this permanent once during your turn as a sorcery.)\nFlying\n\nTarget creature gets +1/+1 until end of turn for each loyalty counter on Gemma Unbound."
         },
         {
             "card_name": "Gordon, Threshold Wrangler",
@@ -5249,5 +5249,5 @@
             "notes": "Mystvale"
         }
     ],
-    "version": 1
+    "version": 2
 }

@@ -1800,6 +1800,14 @@
         "position": "66"
     },
     {
+        "card_name": "And Loaded with Caffeine",
+        "number": 1,
+        "shape": "leveler",
+        "set": "CHC",
+        "rotated": false,
+        "position": "157"
+    },
+    {
         "card_name": "Evaporated",
         "number": 5,
         "shape": "leveler",
@@ -1878,14 +1886,6 @@
         "set": "CHC",
         "rotated": false,
         "position": "58"
-    },
-    {
-        "card_name": "And Loaded with Caffeine",
-        "number": 1,
-        "shape": "leveler",
-        "set": "CHC",
-        "rotated": false,
-        "position": "157"
     },
     {
         "card_name": "And Loaded with Toppings",

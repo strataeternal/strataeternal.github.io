@@ -1,4 +1,13 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Victoria, Seasoned Inventor
+type: Legendary Planeswalker — Charlotte => Legendary Planeswalker — Victoria
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

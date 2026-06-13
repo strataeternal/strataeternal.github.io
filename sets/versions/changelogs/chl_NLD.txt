@@ -1,4 +1,15 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Astral Observatory
+rules_text: Fortified land has “{T}: Scry 1.”
+Fortify {1}. Activate only once each turn. [i]({1}: Attach to target land you control. Fortify only as a sorcery.)[/i] => Fortified land has “{T}: Scry 1.” [i](To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)[/i]
+Fortify {1}. Activate only once each turn. [i]({1}: Attach to target land you control. Fortify only as a sorcery.)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

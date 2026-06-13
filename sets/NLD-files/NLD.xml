@@ -3403,7 +3403,7 @@ Fortify {1}{W} ({1}{W}: Attach to target land you control. Fortify only as a sor
 		</card>
 		<card>
 			<name>Astral Observatory</name>
-			<text>Fortified land has &quot;{T}: Scry 1.&quot;
+			<text>Fortified land has &quot;{T}: Scry 1.&quot; (To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)
 Fortify {1}. Activate only once each turn. ({1}: Attach to target land you control. Fortify only as a sorcery.)</text>
 			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/183.png" num="32">NLD</set>
 			<prop>

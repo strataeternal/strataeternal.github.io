@@ -1,0 +1,4381 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>MYD</name>
+			<longname>Mystvale: Declassified</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-06-13</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Room for Two</name>
+			<text>Enchant creature
+When Room for Two enters, create a 1/1 colorless Construct creature token, then you gain 1 life for each creature you control.
+Enchanted creature gets +1/+1.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/0.png" num="26">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Slimy Shellsnap</name>
+			<text>When Slimy Shellsnap enters, choose one—
+• Put a +1/+1 counter on Slimy Shellsnap.
+• Draw a card, then discard a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/1.png" num="75">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Turtle</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inconspicuous Amphin</name>
+			<text>When Inconspicuous Amphin enters, you may put target instant or sorcery card from your graveyard on top of your library.
+Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/2.png" num="58">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Salamander Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unmanned Carrier</name>
+			<text>Flying
+{3}{U}, Exile Unmanned Carrier from your graveyard: Create two 1/1 colorless Construct artifact creature tokens. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/3.png" num="80">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Drone</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>First Contact</name>
+			<text>Draw three cards. You may put a +1/+1 counter on a cryptid you control. (Aliens, Eldrazi, Horrors, and Mutants are cryptids.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/4.png" num="53">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Paper Trail</name>
+			<text>Flash
+Enchant creature
+Enchanted creature gets +1/+1 and has &quot;When this creature dies, create a Clue token.&quot; (It&apos;s a colorless artifact with &quot;{2}, {T}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/5.png" num="67">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cover Identity</name>
+			<text>Enchant creature
+Enchanted creature loses all colors, abilities, and creature types, and has base power and toughness 2/2.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/6.png" num="48">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mindless Masses</name>
+			<text>Mindless Masses has all names of nonlegendary creature cards in addition to its name.
+A deck can have any number of cards named Mindless Masses.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/7.png" num="101">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Extravital Organs</name>
+			<text>Enchant creature
+Enchanted creature has menace and lifelink and &quot;If this creature would die, you may instead return it to its owner&apos;s hand.&quot;</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/8.png" num="93">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Evil Sky</name>
+			<text>You draw a card and you lose 1 life.
+Flashback {1}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/9.png" num="91">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Superior Skill</name>
+			<text>Target creature gets +2/+1 and gains lifelink until end of turn. If that creature has a loyalty ability, put two loyalty counters on it.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/10.png" num="118">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Top Agent</name>
+			<text>Spark 2 (This creature enters with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level -1] Top Agent gets +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/11.png" num="162">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Carnage Spawn</name>
+			<text>Haste
+When Carnage Spawn enters, cryptid creatures you control get +1/+0 until end of turn. (Aliens, Eldrazi, Horrors, and Mutants are cryptids.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/12.png" num="131">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eldrazi Spawn</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lashmass</name>
+			<text>When Lashmass enters, choose one—
+• Put a +1/+1 counter on Lashmass.
+• Lashmass fights target creature you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/13.png" num="145">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Tentacle</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Living Furnace</name>
+			<text>Reach
+{R}, Sacrifice an artifact: Living Furnace gets +1/+0 and gains trample until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/14.png" num="146">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tools of the Trade</name>
+			<text>When Tools of the Trade enters, attach it to target creature you control.
+Equipped creature gets +3/+3.
+Equip {3}{R}</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/15.png" num="161">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bioverdiversity</name>
+			<text>Creatures you control get +2/+0 until end of turn. If there are five or more creature types among non-Human creatures you control, those creatures also gain trample until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/16.png" num="127">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inner Beast</name>
+			<text>Enchant creature
+Enchanted creature is a Beast Horror in addition to its other types.
+As long as you control enchanted creature, it gets +2/+2. Otherwise, it can&apos;t block.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/17.png" num="141">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sporeflayer</name>
+			<text>When Sporeflayer enters, choose one—
+• Put a +1/+1 counter on Sporeflayer.
+• You may play lands from your graveyard this turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/18.png" num="201">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Creatures from Worlds Beyond</name>
+			<text>Reach
+Whenever another cryptid enters under your control, put a +1/+1 counter on Creatures from Worlds Beyond. (Aliens, Eldrazi, Horrors, and Mutants are cryptids.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/19.png" num="177">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chittering Tyrano</name>
+			<text>When Chittering Tyrano enters, choose one—
+• Put two +1/+1 counters on Chittering Tyrano.
+• Create two 1/1 black Insect creature tokens.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/20.png" num="172">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Lizard Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Might of the Many</name>
+			<text>Until end of turn, target creature gains trample and gets +X/+X, where X is the number of creature types among non-Human creatures you control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/21.png" num="193">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unquestioned Authority</name>
+			<text>Enchant creature
+When Unquestioned Authority enters, draw a card.
+Enchanted creature has protection from creatures.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/22.png" num="37">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Flight Researcher</name>
+			<text>Flying
+Sacrifice two artifacts: Return Flight Researcher from your graveyard to the battlefield tapped.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/23.png" num="54">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pinnacle of Divergence</name>
+			<text>Flying
+When Pinnacle of Divergence enters, choose one—
+• Put a +1/+1 counter on Pinnacle of Divergence.
+• Return target creature to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/24.png" num="69">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Insect Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Live and Let Die</name>
+			<text>Destroy target creature or planeswalker.
+Flashback—{4}{B}, Sacrifice a creature or planeswalker. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/25.png" num="99">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Echoing Return</name>
+			<text>Return target creature card and all other cards with the same name as that card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/26.png" num="90">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mech Tinkerer</name>
+			<text>{T}, Sacrifice an artifact, Discard a card: Draw a card.
+{T}, Sacrifice five artifacts: Create a 10/10 colorless Construct artifact creature token.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/27.png" num="148">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Knobbleboar</name>
+			<text>When Knobbleboar enters, choose one—
+• Put a +1/+1 counter on Knobbleboar.
+• Knobbleboar gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/28.png" num="144">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Boar</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Escape Containment</name>
+			<text>Create a 2/2 black Horror creature token, a 2/2 green Wolf creature token, and a 1/1 colorless Construct artifact creature token. Creatures you control gain haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/29.png" num="137">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Invasion Frontrunner</name>
+			<text>Whenever Invasion Frontrunner enters from anywhere other than your hand, or you cast a spell from anywhere other than your hand, Invasion Frontrunner deals 2 damage to any target.
+Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/30.png" num="143">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Optional Tentacles</name>
+			<text>Whenever a cryptid enters under your control, you may attach Optional Tentacles to it. (Aliens, Eldrazi, Horrors, and Mutants are cryptids.)
+Equipped creature gets +1/+0 for each creature type among non-Human creatures you control.
+Equip {2}</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/31.png" num="151">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Botanist Team</name>
+			<text>Spark 3 (This creature enters with three loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level -1] Add {G}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/32.png" num="171">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Strange Carnivorous Predator</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/33.png" num="202">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien Badger Insect Kavu Troll</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Contact Agents</name>
+			<text>Trample
+Contact Agents enters with a +1/+1 counter on it if it wasn&apos;t cast from your hand.
+Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/34.png" num="176">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Intelligent Life</name>
+			<text>This spell costs {1} less to cast for each cryptid you control. (Aliens, Eldrazi, Horrors, and Mutants are cryptids.)
+Reach
+When Intelligent Life enters, draw a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/35.png" num="188">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Biodiversity Survey</name>
+			<text>Draw X cards, where X is the number of creature types among non-Human creatures you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/36.png" num="167">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Epicenter of Evolution</name>
+			<text>If one or more counters would be put on a creature you control, that many plus one of each of those kinds of counters are put on that permanent instead.
+If you would get one or more counters, you get that many plus one of each of those kinds of counters instead.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/37.png" num="179">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Everflayer</name>
+			<text>Flying
+Whenever Everflayer or another cryptid enters under your control, choose one. (Aliens, Eldrazi, Horrors, and Mutants are cryptids.)
+• Put a +1/+1 counter on that creature.
+• Draw a card.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/38.png" num="52">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Harpy Drake Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Universe Beholder</name>
+			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Tap five untapped artifacts you control: Reveal cards from the top of your library until you reveal a nonland card. You may cast that card without paying its mana cost. Then shuffle.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/39.png" num="79">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Anders, Truth Hunter</name>
+			<text>Whenever an opponent casts an instant or sorcery spell, exile that spell as it resolves and create a Clue token. When you sacrifice that Clue, you may cast the exiled card and you may spend mana as though it were mana of any type to cast that spell. (A Clue is a colorless artifact with &quot;{2}, {T}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/40.png" num="43">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Secrets Extractor</name>
+			<text>Spark 2 (This creature enters with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level +1] Exile the top card of each player&apos;s library.
+[level -3] Until end of turn, you may play cards exiled with Secrets Extractor, and you may spend mana as though it were mana of any type to cast those spells.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/41.png" num="112">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Breach Gateway</name>
+			<text>Creatures you control have haste.
+{2}{R}, {T}: Put a cryptid creature card from your hand onto the battlefield. Sacrifice it at the beginning of the next end step. Activate only as a sorcery. (Aliens, Eldrazi, Horrors, and Mutants are cryptids.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/42.png" num="130">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Extraplanar Fauna</name>
+			<text>Whenever you cast Extraplanar Fauna or another spell from exile, create a token that&apos;s a copy of Extraplanar Fauna.
+Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/43.png" num="181">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hyperadapt</name>
+			<text>Creatures you control get +X/+X until end of turn, where X is the number of creature types among non-Human creatures you control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/44.png" num="186">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Extraction Specialist</name>
+			<text>Lifelink
+When Extraction Specialist enters, return target creature card with mana value 2 or less from your graveyard to the battlefield. That creature can&apos;t attack or block for as long as you control Extraction Specialist.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/45.png" num="10">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mission Briefing</name>
+			<text>Surveil 2, then choose an instant or sorcery card in your graveyard. You may cast it this turn. If that spell would be put into your graveyard, exile it instead. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/46.png" num="65">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dogged Detective</name>
+			<text>When Dogged Detective enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Whenever an opponent draws their second card each turn, you may return Dogged Detective from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/47.png" num="88">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Conspiracy Theorist</name>
+			<text>Whenever Conspiracy Theorist attacks, you may pay {1} and discard a card. If you do, draw a card.
+Whenever you discard one or more nonland cards, you may exile one of them from your graveyard. If you do, you may cast it this turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/48.png" num="133">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>On the Case</name>
+			<text>Whenever an opponent draws a card, that player may pay {2}. If the player doesn&apos;t, you create a Clue token. (It&apos;s a colorless artifact with &quot;{2}, {T}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/49.png" num="212">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Time Walker</name>
+			<text>Time Walker can&apos;t be blocked.
+Whenever Time Walker deals combat damage to a player, surveil 1. Then if it isn&apos;t an extra turn, you may exile ten cards from your graveyard. If you do, take an extra turn after this one.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MYD-files/img/50.png" num="77">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tamrin, Veteran Agent</name>
+			<text>Spark 2 (This creature enters with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+Other permanents&apos; loyalty abilities you activate cost an additional [+1] to activate.
+[level -X] Return target creature card with mana value X or less from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/51.png" num="219">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Anomalous Awakener</name>
+			<text>Spark 3 (This creature enters with three loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level -1] Target player gains 1 life.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/52.png" num="3">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Taskbot Savior</name>
+			<text>{W}, Sacrifice Taskbot Savior: Return target creature you control to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/53.png" num="34">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Doomed Analyst</name>
+			<text>When Doomed Analyst dies, create a 1/1 colorless Construct artifact creature token.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/54.png" num="8">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Meticulous Assistant</name>
+			<text>Whenever Meticulous Assistant enters, for each kind of counter on target permanent or player, give that permanent or player another counter of that kind.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/55.png" num="14">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Researcher&apos;s Assistant</name>
+			<text>Flying
+When Researcher&apos;s Assistant entersm you get {V} (a research counter).
+Whenever Researcher&apos;s Assistant attacks, if you have three or more {V}, target creature gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/56.png" num="25">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Conspicuous Taskbot</name>
+			<text>{3}{W}, {T}: Sacrifice Conspicuous Taskbot: Create three 1/1 colorless Construct artifact creature tokens. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/57.png" num="226">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Conspicuous Evidence</name>
+			<text>{2}, {T}, Sacrifice Conspicuous Evidence: Draw a card.
+{1}{U}, {T}: Sacrifice Conspicuous Evidence: Create three Clue tokens. (They&apos;re artifacts with &quot;{2}, {T}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/58.png" num="223">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Clue</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Conspicuous Wealth</name>
+			<text>{T}, Sacrifice Conspicuous Wealth: Add one mana of any color.
+{3}{B}, {T}: Sacrifice Conspicuous Wealth: Create three Treasure tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/59.png" num="227">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Conspicuous Sample</name>
+			<text>{1}, {T}, Discard a card, Sacrifice Conspicuous Sample: Draw a card.
+{2}{R}, {T}: Sacrifice Conspicuous Sample: Create three Blood tokens. (They&apos;re artifacts with &quot;{1}, {T}, Discard a card, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/60.png" num="225">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Blood</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Conspicuous Meal</name>
+			<text>{2}, {T}, Sacrifice Conspicuous Meal: You gain 3 life.
+{1}{G}, {T}: Sacrifice Conspicuous Meal: Create three Food tokens. (They&apos;re artifacts with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/61.png" num="224">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Forward Scout</name>
+			<text>Whenever Forward Scout deals combat damage to a player, you may shuffle a card named Imminent Invasion into your library from outside the game. If you don&apos;t, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/62.png" num="230">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Alien Drone</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Break Facilitator</name>
+			<text>Spark 2 (This creature enters with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level -1] Tap target creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/63.png" num="5">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Odd Ox</name>
+			<text>Vigilance
+{1}{W}, Exile Odd Ox from your graveyard: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/64.png" num="18">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien Ox Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Taskbot Gatherer</name>
+			<text>Spark 2 (This creature enters with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level -1] Create a 1/1 colorless Construct artifact creature token.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/65.png" num="33">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Splinterflock</name>
+			<text>Flying
+Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/66.png" num="30">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Relentless Reporter</name>
+			<text>{2}, Sacrifice an artifact or another creature: Put a +1/+1 counter on Relentless Reporter.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/67.png" num="24">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Recovery Agent</name>
+			<text>When Recovery Agent enters, you get {V} (a research counter).
+Lifelink
+At the beginning of your upkeep, if you have three or more {V}, put a +1/+1 counter on Recovery Agent.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/68.png" num="23">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Security Procedures</name>
+			<text>As an additional cost to cast Security Procedures, tap an untapped artifact you control or pay {2}.
+Destroy target attacking or blocking creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/69.png" num="27">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stored in the Archives</name>
+			<text>Enchant creature or planeswalker
+Enchanted permanent can&apos;t attack or block, and its activated abilities can&apos;t be activated.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/70.png" num="31">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Omnipresent Watch</name>
+			<text>Target creature gets +2/+2 until end of turn. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/71.png" num="19">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>New Gear</name>
+			<text>When New Gear enters, you get {V} (a research counter).
+Equipped creature gets +1/+1.
+When equipped creature attacks, if you have three or more {V}, it gains first strike until end of turn.
+Equip {1}</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/72.png" num="17">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Recharge</name>
+			<text>Creatures you control get +1/+1 until end of turn. Put a loyalty counter on on each permanent you control with a loyalty ability.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/73.png" num="22">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reallocate</name>
+			<text>Destroy target artifact or enchantment. Create a 1/1 colorless Construct artifact creature token.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/74.png" num="21">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mallik, the Curator</name>
+			<text>Vigilance
+Whenever you attack with three or more creatures, you get {V} (a research counter).
+As long as you have ten or more {V}, other creatures you control have vigilance, and after your first combat phase there&apos;s an additional combat phase.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MYD-files/img/75.png" num="13">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Subject MW02</name>
+			<text>You may remove loyalty counters from Subject MW02 to pay part or all of the costs of loyalty abilities of other permanents you control.
+Creatures you control get +1/+1.
+When Subject MW02 dies, return her to the battlefield transformed.
+​
+(You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+Flying
+Target creature gets +1/+1 until end of turn for each loyalty counter on Gemma Unbound.
+---
+(Back): Gemma Unbound</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MYD-files/img/76_front.png" num="32a">MYD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Gemma</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Gemma Unbound</related>
+		</card>
+		<card>
+			<name>Gemma Unbound</name>
+			<text>[level +1] 
+
+---
+(Front): Subject MW02</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MYD-files/img/76_back.png" num="32b">MYD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Faerie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Subject MW02</related>
+		</card>
+		<card>
+			<name>Gordon, Threshold Wrangler</name>
+			<text>Trample
+At the beginning of your end step, if there are five or more creature types among non-Human creatures you control, you get {V} (a research counter).
+At the beginning of combat on your turn, if you have ten or more {V}, target creature gets +X/+X until end of turn, where X is the number of creature types among non-Human creatures you control.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MYD-files/img/77.png" num="183">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Angelic Taskmaster</name>
+			<text>Flying, vigilance
+Whenever Angelic Taskmaster enters or attacks, create a 1/1 colorless Construct artifact creature token.
+Colorless creatures you control have vigilance.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/78.png" num="2">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Adamantine Enforcer</name>
+			<text>Spark 2 (This creature enters with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level +1] Tap target creature.
+[level -2] Until your next turn, Adamantine Enforcer gets +2/+2 and gains indestructible.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/79.png" num="1">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cecil, Head of Development</name>
+			<text>When Cecil, Head of Development enters, create a 1/1 colorless Construct artifact creature token.
+{1}{U}: Target colorless creature has base power and toughness 4/4 until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/80.png" num="47">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grizzled Mentor</name>
+			<text>Double strike
+{1}, Sacrifice another artifact or creature: Put a +1/+1 counter on Grizzled Mentor.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/81.png" num="12">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mortal Coil</name>
+			<text>When Mortal Coil enters, return target creature card from your graveyard to the battlefield and attach Mortal Coil to it.
+Whenever Mortal Coil becomes unattached from a creature, exile that creature.
+Equipped creature has indestructible.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/82.png" num="16">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Field Agent</name>
+			<text>As long as you have gotten {V} (research counter) this turn, Field Agent gets +2/+2.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/83.png" num="11">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Buddybot</name>
+			<text>When Buddybot enters, create a 1/1 colorless Construct artifact creature token.
+Buddybot&apos;s power and toughness are each equal to the number of artifacts you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/84.png" num="6">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spark Studier</name>
+			<text>Spark 2 (This creature enters with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level -1] For each kind of counter on another target permanent or player, give that permanent or player another counter of that kind.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/85.png" num="29">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Transport Master</name>
+			<text>Spark 2 (This creature enters with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level -1] You and target opponent each draw a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/86.png" num="36">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unrealized Flying Object</name>
+			<text>{W}, Sacrifice another artifact: Unrealized Flying Object gets +1/+0 and gains flying until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/87.png" num="38">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Threshold Warden</name>
+			<text>Spark 1 (This creature enters with a loyalty counter on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level -1] Exile target creature or planeswalker an opponent controls until Threshold Warden leaves the battlefield.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/88.png" num="35">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unseen Guardian</name>
+			<text>Flash
+Flying
+When Unseen Guardian enters, you may return another target nonland permanent you control to its owner&apos;s hand.
+Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/89.png" num="39">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Metrics Tracker</name>
+			<text>When Metrics Tracker enters, you get {V} (a research counter).
+Equipped creature gets +1/+1 for each {V} you have.
+Equip {2}{W}</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/90.png" num="15">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Come in Peace</name>
+			<text>Each player chooses one. The same mode may be chosen this way more than once.
+• Each player creates two 1/1 colorless Construct artifact creature tokens.
+• Each player gains 4 life.
+• Each player draws a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/91.png" num="7">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Auto-Restoration</name>
+			<text>Choose one —
+• Return target permanent card from your graveyard to the battlefield.
+• Create three 1/1 colorless Construct artifact creature tokens.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/92.png" num="4">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Take as Evidence</name>
+			<text>You get {V} (a research counter), then counter up to one target spell unless its controller pays {X}, where X is the number of {V} you have.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/93.png" num="76">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Investigative Journalist</name>
+			<text>Whenever Investigative Journalist attacks and isn&apos;t blocked, you get {V} (a research counter).</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/94.png" num="60">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Phone Home</name>
+			<text>Draw three cards, then discard two cards.
+Flashback {5}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/95.png" num="68">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>What Lurks Among Men</name>
+			<text>Whenever What Lurks Among Men attacks, you may put a card from your hand onto the battlefield face down, tapped, and attacking. (It&apos;s a 2/2 creature.)
+Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/96.png" num="220">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>5/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Escaped Abomination</name>
+			<text>Trample
+Escaped Abomination&apos;s power and toughness are each equal to the number of creature types among non-Human creatures you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/97.png" num="210">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Chimera Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Riftmender</name>
+			<text>Spark 3 (This creature enters with three loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level 0] Put a loyalty counter on target permanent with a loyalty ability.
+[level -2] Target creature gets +1/+1 until end of turn for each counter on it.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/98.png" num="217">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3GW</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dispassionate Experimentor</name>
+			<text>Spark 4 (This creature enters with four loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+Dispassionate Experimentor has all loyalty abilities of all cards in your graveyard.
+[level -2] Sacrifice another creature. If you do, draw a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/99.png" num="208">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bot Depot</name>
+			<text>When Bot Depot enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Whenever one or more cards are put into your graveyard from anywhere other than the battlefield, create a 1/1 colorless Construct artifact creature token. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/100.png" num="207">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Endless Aliases</name>
+			<text>Spells you cast from anywhere other than your hand cost {1} less to cast.
+Whenever a creature enters, under your control, if you didn&apos;t cast it from hand, put a +1/+1 counter on it.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/101.png" num="209">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Retromaniac</name>
+			<text>When Retromaniac enters, create a 1/1 colorless Construct artifact creature token.
+Artifact creatures you control get +1/+0.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/102.png" num="216">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Protoplasm</name>
+			<text>You may have Protoplasm enter as a copy of any cryptid you control, except it enters with an additional +1/+1 counter on it and it&apos;s an Alien Ooze Shapeshifter in addition to its other types. (Aliens, Eldrazi, Horrors, and Mutants are cryptids.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/103.png" num="215">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien Ooze Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Field Testing</name>
+			<text>Create two 1/1 colorless Construct artifact creature tokens. They gain haste until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/104.png" num="138">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Paranoid Droid</name>
+			<text>Whenever you cast your first noncreature spell each turn, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/105.png" num="152">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prospective Detective</name>
+			<text>When Prospective Detective enters, create a Clue token. (It&apos;s a colorless artifact with &quot;{2}, {T}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/106.png" num="71">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Disturbance Monitor</name>
+			<text>Flying
+Whenever Disturbance Monitor deals combat damage to a player, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/107.png" num="51">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Drone</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tireless Researcher</name>
+			<text>When Tireless Researcher enters, you get {V} (a research counter).</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/108.png" num="78">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lurking Anomaly</name>
+			<text>{3}{U}: You get {V} (a research counter).
+Lurking Anomaly can&apos;t attack unless you have three or more {V}.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/109.png" num="62">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Area 0 — Threshold</name>
+			<text>Area 0 — Threshold enters tapped.
+When Area 0 — Threshold enters, create a copy of Threshold Stalker. You may cast the copy. (It&apos;s a {2}{G} 4/2 Beast Horror creature with Trample.)
+{T}: Add {G}.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/110.png" num="240">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Interplanar Extraction Labs</name>
+			<text>Spark 2 (This permanent enters with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level 0] Add {C}.
+[level -1] Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/111.png" num="247">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Inside Scoop</name>
+			<text>Enchant creature
+When Inside Scoop enters, draw a card.
+Enchanted creatures you control get +1/+1 and have vigilance.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/112.png" num="59">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lab Results</name>
+			<text>Surveil 2, then draw two cards. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/113.png" num="61">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Void Prober</name>
+			<text>When Void Prober enters, if it wasn&apos;t cast from your hand, you get {V}{V} (two research counters). Otherwise, you get {V}.
+Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/114.png" num="81">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Distant Melody</name>
+			<text>Choose a creature type. Draw a card for each permanent you control of that type. (Cryptid is not a creature type.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/115.png" num="50">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hushed Operation</name>
+			<text>Counter target spell or loyalty ability.
+Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/116.png" num="56">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Puzzleform</name>
+			<text>Whenever you cast a spell that shares a name with a card in your graveyard or a permanent you control, put a +1/+1 counter on Puzzleform, then you may have it become a 0/0 Illusion creature with flying until end of turn.
+{2}{U}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/117.png" num="72">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Background Check</name>
+			<text>Look at up to one target face-down creature or face-down card in exile.
+Draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/118.png" num="45">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cryoexamination</name>
+			<text>Tap up to two target creatures. They don&apos;t untap during their controller&apos;s next untap step. You get {V} (a research counter).</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/119.png" num="49">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Organic Automation</name>
+			<text>Counter target creature or planeswalker spell. Create a 1/1 colorless Construct artifact creature token.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/120.png" num="66">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Multiplying Multiplier</name>
+			<text>At the beginning of your upkeep, you may pay {1}. If you do, create a token that&apos;s a copy of Multiplying Multiplier.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/121.png" num="232">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Testing Grounds</name>
+			<text>You may have Testing Grounds enter the battlefield tapped. If you do, you get {V} (a research counter).
+{T}: Add {C}.
+{T}: Add one mana of any color. Activate only if you have three or more {V}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/122.png" num="248">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Warped Landscape</name>
+			<text>{T}: Add {C}.
+{2}, {T}, Sacrifice Warped Landscape: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/123.png" num="249">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Abduct</name>
+			<text>This spell costs {1} less to cast if you control a cryptid. (Aliens, Eldrazi, Horrors, and Mutants are cryptids.)
+Return target nonland permanent to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/124.png" num="42">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Records Auditor</name>
+			<text>Spark 2 (This creature enters with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level -1] Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/125.png" num="74">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bwrfbn, Hidden Eye</name>
+			<text>Ward {2}
+Whenever you cast an instant or sorcery spell for the first time each turn, you get {V}.
+As long as you have ten or more {V}, your opponents can&apos;t cast spells during your turn and each player plays with the top card of their library revealed. You may play cards revealed this way during your turn.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MYD-files/img/126.png" num="46">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Homunculus</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Recon Squad</name>
+			<text>Spark 2 (This creature enters with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level +1] Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+[level -3] Return target artifact, instant, or sorcery card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/127.png" num="73">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hypothesphinx</name>
+			<text>Flying
+Whenever Hypothesphinx enters or attacks, surveil 2.
+Whenever one or more cards are put into your graveyard from your library, you may have each opponent exile twice that many cards from the top of their library.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/128.png" num="57">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Sphinx Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mass Prototyping</name>
+			<text>Choose one—
+• Create X 1/1 colorless Construct artifact creature tokens.
+• You get X {V} (research counters).</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/129.png" num="63">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XUU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mindjack</name>
+			<text>Enchant creature or planeswalker
+You can&apos;t choose a permanent with mana value greater than the amount of {V} (research counters) you have as this spell&apos;s target as you cast it.
+You control enchanted permanent.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/130.png" num="64">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Project Tech</name>
+			<text>As Project Tech enters, choose a creature card name.
+Whenever a creature with the chosen name enters, target player mills three cards.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/131.png" num="70">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rapid Developer</name>
+			<text>When Rapid Developer enters, you get {V}. (A research counter.)
+{T}: Create a 1/1 colorless Construct artifact creature token. Activate only if you have three or more {V}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/132.png" num="20">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Formtwister</name>
+			<text>Spark 2 (This creature enters with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level -1] Switch target creature&apos;s power and toughness until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/133.png" num="55">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Alien Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Want to Believe</name>
+			<text>When Want to Believe enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Whenever a cryptid enters under your control, return Want to Believe to its owner&apos;s hand. (Aliens, Eldrazi, Horrors, and Mutants are cryptids.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/134.png" num="82">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The World is Hollow</name>
+			<text>You may look at the bottom card of your library.
+You may play land and creature cards from the bottom of your library.
+At the beginning of your upkeep, put the bottom card of your library into your graveyard.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/135.png" num="206">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Close Encounter</name>
+			<text>Search your library and/or outside the game for a cryptid card you own, reveal it, and put it into your hand. If you search your library this way, shuffle. (Aliens, Eldrazi, Horrors, and Mutants are cryptids.)
+{G}{G}, Exile Close Encounter from your graveyard: Add two mana of any one type. (Mana of any color, or {C}.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/136.png" num="173">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bizarreborist</name>
+			<text>Spark 3 (This creature enters with three loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level +1] Untap target land.
+[level -3] Create a colorless Forest land token. (It has &quot;{T}: Add {G}.&quot;)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/137.png" num="169">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Anomaly Tamer</name>
+			<text>(You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+Whenever a land enters under your control, put a loyalty counter on Anomaly Tamer.
+[level -3] Create two 2/2 green Wolf creature tokens.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/138.png" num="166">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Into the World</name>
+			<text>Return up to two target permanent cards from your graveyard to your hand, then if Into the World was cast from exile, you may put a permanent card from your hand onto the battlefield.
+Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/139.png" num="190">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Toxin Tester</name>
+			<text>Spark 3 (This creature enters with three loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level -1] Each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/140.png" num="120">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Breakthrough Subject</name>
+			<text>{T}, Sacrifice Breakthrough Subject and another creature: Search your library for a Rat card with mana value 4 or less and cast it without paying its mana cost. Shuffle. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/141.png" num="84">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rat</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Willing Volunteers</name>
+			<text>When you sacrifice Willing Volunteers, you may pay 1 life. If you do, return it to your hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/142.png" num="124">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hapless Victim</name>
+			<text>When Hapless Victim enters, create a 2/1 black Rat creature token.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/143.png" num="95">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Creator of Formulas</name>
+			<text>When Creator of Formulas enters, you may sacrifice a creature or planeswalker. If you do, choose one—
+• You get {V} (a research counter).
+• Put two loyalty counters on target permanent with a loyalty ability.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/144.png" num="85">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nightmare Stalker</name>
+			<text>When Nightmare Stalker enters, destroy target creature an opponent controls that was dealt damage this turn.
+Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/145.png" num="103">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rastafel&apos;s Menaces</name>
+			<text>Menace
+When Rastafel&apos;s Menaces enters, if it wasn&apos;t cast from your hand, each opponent discards a card.
+Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/146.png" num="109">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rat Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dissect</name>
+			<text>Destroy target creature or planeswalker. You get {V} (a research counter).</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/147.png" num="87">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Double-Agency</name>
+			<text>Target creature gets -2/-2 until end of turn. If that creature would die this turn, exile it instead. (Undercover creatures exiled this way enter exile face up.)
+Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/148.png" num="89">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Weed Out</name>
+			<text>Target opponent sacrifices a non-Human creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/149.png" num="122">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Recover Assets</name>
+			<text>Surveil 2 (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+{5}{B}, Exile Recover Assets from your graveyard: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/150.png" num="111">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Interrogate</name>
+			<text>Target opponent reveals one or more cards from their hand. You choose one of them. They discard that card. For each card in their hand not revealed this way, they lose 1 life.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/151.png" num="97">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Crypt Cleaner</name>
+			<text>Spark 2 (This creature enters with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level -1] Exile target card from a graveyard.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/152.png" num="86">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Emergence Zone</name>
+			<text>{T}: Add {C}.
+{1}, {T}, Sacrifice Emergence Zone: You may cast spells this turn as though they had flash.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/153.png" num="246">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Osbargoth, the First Anamoly</name>
+			<text>(You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+Flying, trample
+Whenever Osbargoth, the First Anamoly deals combat damage to a player, put that many loyalty counters on it.
+[level -4] Destroy target creature.
+[level -10] Destroy target player.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MYD-files/img/154.png" num="106">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Legendary Creature — Angel Demon Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spree Slasher</name>
+			<text>As you cast a card named Spree Slasher for the first time in a game, choose and note a number.
+When Spree Slasher enters, destroy target creature with mana value equal to a number noted this game for cards named Spree Slasher.
+Whenever Spree Slasher deals combat damage to a player, you may return it to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/155.png" num="116">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Facetaker</name>
+			<text>Deathtouch
+Whenever you cast a spell from anywhere other than your hand, create an X/X black Horror creature token, where X is the amount of mana spent to cast that spell.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/156.png" num="94">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Overrat</name>
+			<text>Haste
+{T}, Sacrifice a creature: Search your library for a Rat card and cast it without paying its mana cost. Then shuffle.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/157.png" num="107">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Rat Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>7B</manacost>
+				<cmc>8</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>8/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ratastrophe</name>
+			<text>Destroy all non-Rat creatures.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/158.png" num="110">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Standard Specimen</name>
+			<text>(Melds with Long-Tail Rat)
+When Standard Specimen dies, you get {V} (a research counter).</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/159.png" num="117">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rat</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Waste Analyst</name>
+			<text>Spark 2 (This creature enters with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level -2] Each opponent discards a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/160.png" num="121">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plague Researcher</name>
+			<text>Deathtouch
+Attacking creature tokens you control have deathtouch.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/161.png" num="108">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Horrific Success</name>
+			<text>{T}, Sacrifice Horrific Success and another creature: Search your library for a Rat card with mana value 8 or less and cast it without paying its mana cost. Shuffle. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/162.png" num="96">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rat Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spark Siphoner</name>
+			<text>Flash
+When Spark Siphoner enters, remove all counters from up to one target permanent and put that many +1/+1 counters on Spark Siphoner.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/163.png" num="115">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>What Lurks in Shadows</name>
+			<text>Flying
+Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)
+{3}{B}{B}: Return What Lurks in Shadows from your graveyard to the battlefield face down.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/164.png" num="123">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Exploratory Biopsy</name>
+			<text>When Exploratory Biopsy enters, you get {V} (a research counter).
+Whenever you get one or more {V}, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/165.png" num="92">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dilligent Droid</name>
+			<text>{2}{R}, Exile Dilligent Droid from your graveyard: Discard up to two cards, then draw that many cards.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/166.png" num="135">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mechanized Infantry Batallion</name>
+			<text>Haste
+Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/167.png" num="149">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodcurler</name>
+			<text>When Bloodcurler enters, if it wasn&apos;t cast from your hand, discard your hand, then draw two cards.
+Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/168.png" num="129">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Analyze the Remains</name>
+			<text>Analyze the Remains deals 2 damage to any target.
+{R}, Exile Analyze the Remains from your graveyard: You get {V} (a research counter).</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/169.png" num="125">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Illuminating Flame</name>
+			<text>Illuminating Flame deals 5 damage to target creature. Surveil X, where X is the excess damage dealt this way. (To surveil X, look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/170.png" num="140">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shifting Allegiance</name>
+			<text>Gain control of target artifact or creature until end of turn. Untap it. It gains haste until end of turn.
+Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/171.png" num="157">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rapid Development</name>
+			<text>Exile the top two cards of your library. Until the end of your next turn, you may play those cards. You get {V} (a research counter).</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/172.png" num="154">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Verminate</name>
+			<text>Target creature gets +2/+1 until end of turn. When that creature dies this turn, create a 2/1 black Rat creature token.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/173.png" num="164">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Destructive Tampering</name>
+			<text>Choose one —
+• Destroy target artifact.
+• Creatures without flying can&apos;t block this turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/174.png" num="134">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Self-Catalyzer</name>
+			<text>Spark 2 (This creature enters with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level -1] Self-Catalyzer deals 1 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/175.png" num="156">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Newshounds</name>
+			<text>Haste
+{T}: Target creature with power 2 or less gains haste until end of turn and can&apos;t be blocked this turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/176.png" num="150">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Strike from the Record</name>
+			<text>This spell costs {1} more to cast if it targets a basic land.
+Destroy target colorless permanent.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/177.png" num="159">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Superconductor</name>
+			<text>Whenever a source you control deals noncombat damage to a permanent or player, you get {V} (a research counter).
+{3}{R}{R}, Sacrifice Superconductor: Superconductor deals X damage to any target, where X is the amount of {V} you have.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/178.png" num="160">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>HAL, From Accounting</name>
+			<text>HAL, From Accounting enters with an additional loyalty counter on it for each {C} spent to cast it.
+[+1]: Create a 1/1 colorless Construct artifact creature token.
+[-4]: Discard your hand, then draw a card for each colorless creature you control.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MYD-files/img/179.png" num="139">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — HAL</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Propane Phoenix</name>
+			<text>Flying, haste
+At the beginning of combat on your turn, if you surveilled this turn, you may pay {R}. If you do, return Propane Phoenix from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/180.png" num="153">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ego Influencers</name>
+			<text>Spark 1 (This creature enters with a loyalty counter on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level +1] Target creature gains haste until end of turn.
+[level -3] Gain control of target creature until end of turn. Untap it. It gains haste until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/181.png" num="136">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whipfang</name>
+			<text>{R}, {T}, Sacrifice another creature: Whipfang deals X damage to any target, where X is the sacrificed creature&apos;s power. If the sacrificed creature was colorless, put a +1/+1 counter on Whipfang.
+Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/182.png" num="165">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog Beast Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unleash the Archives</name>
+			<text>Exile the top X cards of your library. Put any number of creature cards with mana value X or less from among them onto the battlefield. Those creatures gains haste. Sacrifice them at end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/183.png" num="163">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XRR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Intimidator-inator</name>
+			<text>Sacrifice an artifact: Target creature can&apos;t block this turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/184.png" num="142">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cole, Impetuous Agent</name>
+			<text>Haste
+Whenever a creature with mana value 3 or greater enters, sacrifice Cole, Impetuous Agent.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/185.png" num="132">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blood-Hazed Specimen</name>
+			<text>Trample, haste
+When Blood-Hazed Specimen enters, choose one—
+• Put a +1/+1 counter on Blood-Hazed Specimen.
+• Add {R} for each creature type among non-Human creatures you control.
+{2}{R}: Double Blood-Hazed Specimen&apos;s power until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/186.png" num="128">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Restless Seeking</name>
+			<text>When Restless Seeking enters and at the beginning of your upkeep, create a 1/1 colorless Construct artifact creature token. It gains haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/187.png" num="155">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Loose Cannon</name>
+			<text>First strike
+Whenever Loose Cannon deals combat damage to a player, instant and sorcery spells you cast cost {2} less to cast this turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/188.png" num="147">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Interplanar Expert</name>
+			<text>When Interplanar Expert enters, choose target creature. If it has a loyalty ability, put a loyalty counter on it. Otherwise, put a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/189.png" num="189">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Overgrowth Researchers</name>
+			<text>{T}: Add one mana of any type. (Mana of any color, or {C}.)
+{3}{G}: Put a +1/+1 counter on Overgrowth Researchers.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/190.png" num="197">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Threshold Stalker</name>
+			<text>Trample</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/191.png" num="204">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Biomaximizer</name>
+			<text>Spark 2 (This creature enters with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level -1] Untap target creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/192.png" num="168">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Master of Symbiosis</name>
+			<text>Spark 2 (This creature enters with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level -1] Target creature gets +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/193.png" num="192">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Outland Beast Tracker</name>
+			<text>When Outland Beast Tracker enters, create a 2/2 green Wolf creature token.
+Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/194.png" num="195">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Overgrown Mass</name>
+			<text>Overgrown Mass can&apos;t be blocked by creatures with power 2 or less.
+{3}{G}: Put a +1/+1 counter on Overgrown Mass.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/195.png" num="196">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Ooze Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Typical Pet</name>
+			<text>Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/196.png" num="205">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Overgrowth Spasms</name>
+			<text>Choose one —
+• Destroy target creature with flying.
+• Target creature you control fights target creature you don&apos;t control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/197.png" num="198">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Influence of the Beyond</name>
+			<text>Choose target creature. If it has a loyalty ability, put two loyalty counters on it. Otherwise, put two +1/+1 counters on it.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/198.png" num="187">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Commune with the Unnatural</name>
+			<text>Look at the top five cards of your library. You may reveal a cryptid or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. (Aliens, Eldrazi, Horrors, and Mutants are cryptids.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/199.png" num="175">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blend In</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+2 and has ward {2}.
+Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/200.png" num="170">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Simulated Terrain</name>
+			<text>Enchant land
+Enchanted land has &quot;{T}: Add two mana of any one type.&quot; (Mana of any color, or {C}.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/201.png" num="200">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reverse Engineering</name>
+			<text>Destroy up to one target artifact or enchantment. You get {V} (a research counter).</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/202.png" num="199">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tendrils from Below</name>
+			<text>Tendrils from Below enters with four +1/+1 counters on it.
+Whenever Tendrils from Below attacks or blocks, remove a +1/+1 counter from it. If you do, create a token that&apos;s a copy of Tendrils from Below.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MYD-files/img/203.png" num="203">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien Tentacle Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Evolution Driver</name>
+			<text>Spark 3 (This creature enters with three loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level -1] Choose another target creature. If it has a loyalty ability, put a loyalty counter on it. Otherwise, put a +1/+1 counter on it.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/204.png" num="180">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Alien Treefolk Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Living Lichen</name>
+			<text>When Living Lichen enters, choose one—
+• Put two +1/+1 counters on Living Lichen.
+• Return target card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/205.png" num="191">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Fungus Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Field Operator</name>
+			<text>Spark 1 (This creature enters with a loyalty counter on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level -1] Until your next turn, you may cast creature spells as though they had flash.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/206.png" num="182">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Haze Lurker</name>
+			<text>Flash
+When Haze Lurker enters, prevent all combat damage that other creatures would deal this turn.
+Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/207.png" num="184">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hydrofarming</name>
+			<text>Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. You get {V} (a research counter).</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/208.png" num="185">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Traveling Taskbot</name>
+			<text>When Traveling Taskbot dies, for each kind of counter on target permanent or player, give that permanent or player another counter of that kind.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/209.png" num="238">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Buzzing Drone</name>
+			<text>Flying
+When Buzzing Drone enters, surveil 1. You get {V}. ({V} is a research counter. To surveil 1, look at the top card of your library. You may put that card into your graveyard.) (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/210.png" num="222">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Insect Drone</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Display Visor</name>
+			<text>You may look at face-down creatures you don&apos;t control and face-down cards in exile.
+{T}: Add one mana of any type. (Mana of any color, or {C}.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/211.png" num="229">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ordinary Operator</name>
+			<text>Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/212.png" num="233">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Samara, Containment Proctor</name>
+			<text>Whenever you get one or more {V} (research counters), put that may loyalty counters on Samara, Containment Proctor.
+[+1]: Surveil 1.
+[-3]: Choose target creature card in your graveyard or target creature on the battlefield. Return it to its owner&apos;s hand. You get {V}.
+[-8]: You get an emblem with &quot;Whenever a nontoken creature enters, create a token that&apos;s a copy of it, except it&apos;s a black Shade in addition to its other colors and types.&quot;</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MYD-files/img/213.png" num="218">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Samara</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Progenitor-Mutant</name>
+			<text>Cryptids you control have ward {1}. (Aliens, Eldrazi, Horrors, and Mutants are cryptids.)
+Rather than choose the indicated number of modes for spells and abilities you control, you may choose one or more modes. You can&apos;t choose any mode more than once.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MYD-files/img/214.png" num="214">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Typical Taskbot</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/215.png" num="239">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cosmos Delver</name>
+			<text>When Cosmos Delver enters, if it wasn&apos;t cast from your hand, draw a card.
+Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/216.png" num="228">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Memory Editor</name>
+			<text>When Memory Editor enters, target player discards a card.
+{4}, {T}, Sacrifice Memory Editor: Return target creature to its owner&apos;s hand. Its controller discards a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/217.png" num="231">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Strange Monolith</name>
+			<text>{T}: Add one mana of any type. (Mana of any color, or {C}.)
+{T}: Add three mana of any one type. Activate only if you have three or more {V}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/218.png" num="237">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Standard-Issue Crossbow</name>
+			<text>Whenever a colorless creature enters under your control, you may attach Standard-Issue Crossbow to that creature.
+Equipped creature gets +2/+1.
+Equip {3}</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/219.png" num="236">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Planeswalking Augmentation</name>
+			<text>Equipped permanent isn&apos;t a creature and is a planeswalker in addition to its other types.
+Equipped permanent has &quot;[+2]: Surveil 2.&quot; and &quot;[-6]: Mill three cards. Put any number of permanent cards from among the milled cards onto the battlefield.&quot;
+{2}: Put a loyalty counter on target creature or planeswalker you control, and attach Planeswalking Augmentation to it. Activate only as a sorcery and only once each turn.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MYD-files/img/220.png" num="235">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Spark Extraction</name>
+			<text>Choose one—
+• Target creature gets -2/-2 until end of turn.
+• Remove two counters from target permanent.
+Choose one—
+• Put two loyalty counters on target permanent with a loyalty ability.
+• Target player loses 2 life and you gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/221.png" num="114">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mutagenic Hydra</name>
+			<text>When Mutagenic Hydra enters, choose one—
+• Put X +1/+1 counters on Mutagenic Hydra.
+• Choose any number of other permanents and/or players, then give each X additional counters of each kind already there.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/222.png" num="194">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Hydra</type>
+				<maintype>Creature</maintype>
+				<manacost>XGG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Extinction-Level Event</name>
+			<text>Exile all creatures and all creature cards from all graveyards.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/223.png" num="9">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Slow Burn</name>
+			<text>Flash
+Enchant creature
+When Slow Burn enters and at the beginning of your upkeep, put a flame counter on enchanted creature, then Slow Burn deals damage to enchanted creature equal to the number of flame counters on it.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/224.png" num="158">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Taboo Experimentation</name>
+			<text>You get {V} (a research counter), then search your library for a nonland card with mana value less than or equal to the number of {V} you have, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/225.png" num="119">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Colossification</name>
+			<text>Enchant creature
+When Colossification enters, tap enchanted creature.
+Enchanted creature gets +20/+20.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/226.png" num="174">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Once Upon a Midnight Dreary</name>
+			<text>If this spell is the first spell you&apos;ve cast this game, you may cast it without paying its mana cost.
+Target creature gets -2/-2 until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/227.png" num="105">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nightmare Fuel</name>
+			<text>When Nightmare Fuel enters, exile all creature cards from all graveyards.
+At the beginning of your upkeep, put a card exiled with Nightmare Fuel onto the battlefield under your control. It&apos;s a Horror in addition to its other types.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MYD-files/img/228.png" num="102">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Soul Absorption</name>
+			<text>If you would lose life, you may exile that many cards from the top of your library instead.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/229.png" num="113">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Masked Tempter</name>
+			<text>When Masked Tempter enters, each player discards their hand.
+Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/230.png" num="100">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shella Codebreaker</name>
+			<text>Vigilance
+For each color among permanents you control, Shella Codebreaker has protection from that color. (This creature can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything that color.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/231.png" num="28">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Parallel Door</name>
+			<text>Whenever a player would draw a card, they may instead exile the top card of another player&apos;s library face down. If they do, they may look at and play that card for as long as it remains exiled.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MYD-files/img/232.png" num="234">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pitfall Engineer</name>
+			<text>When Pitfall Engineer enters, you get {V} (a research counter).
+Whenever you get one or more {V}, you may tap or untap target nonland permanent.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/233.png" num="213">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Exceptional Experiment</name>
+			<text>As long as you have three or more {V}, you may cast Exceptional Experiment from your graveyard.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/234.png" num="211">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Upgraded Operatives</name>
+			<text>When Upgraded Operatives enters you get {V} (a research counter).
+Whenever you get one or more {V}, creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/235.png" num="40">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brainswarm</name>
+			<text>You get {V} (a research counter). Then for each {V} you have, you lose 1 life and create a 2/1 black Rat creature token.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/236.png" num="83">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Null Revival</name>
+			<text>Return target card from your graveyard to the battlefield face down. (It&apos;s a 2/2 creature.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/237.png" num="104">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Artful Dodge</name>
+			<text>Target creature can&apos;t be blocked this turn.
+Flashback {U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYD-files/img/238.png" num="44">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Crime Scene</name>
+			<text>{T}: Add {C}.
+{2}, {T}, Sacrifice Crime Scene: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/239.png" num="245">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Land — Clue</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Jemdar, the Interrogator</name>
+			<text>Deathtouch
+At the beginning of each end step, if an opponent discarded a card this turn, you get {V} (a research counter).
+At the beginning of your upkeep, if you have ten or more {V}, you may put target creature card from a graveyard onto the battlefield under your control.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MYD-files/img/240.png" num="98">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ashmoth, the Blazing End</name>
+			<text>Menace
+Whenever an artifact you control enters for the first time each turn, you get {V} (a research counter).
+As long as you have ten or more {V}, change the text of Equipment you control by replacing each instance of &quot;equipped creature&quot; with &quot;each creature you control.&quot;</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MYD-files/img/241.png" num="126">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Winks, Private Eye</name>
+			<text>When Winks, Private Eye enters, investigate.
+{1}, Sacrifice an artifact: Exile Winks face down with a cover counter on it. 
+Undercover (You may cast this face down as a 2/2 creature for {3}. When it dies while face down, exile it face down without revealing it and put a cover counter on it. Players may look at and cast face down cards they own exiled with cover counters.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/242.png" num="41">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Eye Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Area 3 — Interrogation</name>
+			<text>Area 3 — Interrogation enters tapped.
+When Area 3 — Interrogation enters, create a copy of Interrogate. You may cast the copy. (It&apos;s a {B} sorcery with &quot;Target opponent reveals one or more cards from their hand. You choose one of them. They discard that card. For each card in their hand not revealed this way, they lose 1 life.&quot;)
+{T}: Add {B}.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/243.png" num="241">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Area 53 — Armory</name>
+			<text>Area 53 — Armory enters tapped.
+When Area 53 — Armory enters, create a copy of Tools of the Trade. You may cast the copy. (It&apos;s a {3}{R} Equipment artifact with &quot;When Tools of the Trade enters, attach it to target creature you control.&quot; and &quot;Equipped creature gets +3/+3.&quot; and &quot;Equip {3}{R}&quot;)
+{T}: Add {R}.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/244.png" num="243">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Area 16 — Laboratories</name>
+			<text>Area 16 — Laboratories enters tapped.
+When Area 16 — Laboratories enters, create a copy of Lab Results. You may cast the copy. (It&apos;s a {3}{U} instant with &quot;Surveil 2, then draw two cards.&quot;)
+{T}: Add {U}.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/245.png" num="242">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Area 99 — Archives</name>
+			<text>Area 99 — Archives enters tapped.
+When Area 99 — Archives enters, create a copy of Stored in the Archives. You may cast the copy. (It&apos;s a {2}{W} Aura enchantment with &quot;Enchant creature or planeswalker&quot; and &quot;Enchanted permanent can&apos;t attack or block, and its activated abilities can&apos;t be activated.&quot;)
+{T}: Add {W}.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYD-files/img/246.png" num="244">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Day-to-Day Activity</name>
+			<text>Whenever one or more creatures with no abilities enter the battlefield under your control, draw a card. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/247.png" num="178">MYD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bottled Lightning</name>
+			<text>Spark 4 (This permanent enters with four loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+[level 0] Move a loyalty counter from Bottled Lightning onto another permanent you control with a loyalty ability.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYD-files/img/248.png" num="221">MYD</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

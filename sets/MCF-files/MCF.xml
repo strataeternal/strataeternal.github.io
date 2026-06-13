@@ -1,0 +1,1145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>MCF</name>
+			<longname>Mystvale Case Files</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-06-13</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Violent Intelligence</name>
+			<text>Brandish (Whenever this creature attacks or blocks, you may attach target Equipment you control to it.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MCF-files/img/0.png" num="13">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Alien Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Credulous Allowance</name>
+			<text>Counter target spell.
+Madness {1}{U}{U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/1.png" num="16">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Essence Drainer</name>
+			<text>When Essence Drainer enters, put a lifelink counter on target creature.
+Each counter on a creature you don&apos;t control is a -1/-1 counter instead of its other kinds.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MCF-files/img/2.png" num="24">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Persistent Vermin</name>
+			<text>Prowl {1}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rat or Horror.)
+Madness {2}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+Embalm {3}{B} ({3}{B}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s a white Zombie Rat Horror with no mana cost. Embalm only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MCF-files/img/3.png" num="28">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rat Horror</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Erratic Decimator</name>
+			<text>(Devoid cards have no color.)
+Whenever Erratic Decimator attacks, you may have target creature gain or lose a creature type of your choice until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MCF-files/img/4.png" num="35">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Devoid Creature — Eldrazi Drone</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shocking Expose</name>
+			<text>Conspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it.)
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+Put a +1/+1 counter on each creature that conspired to copy Shocking Expose.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MCF-files/img/5.png" num="37">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mauling Monstrosity</name>
+			<text>Trample
+Trample over planeswalkers (This creature can deal excess combat damage to the controller of the planeswalker it&apos;s attacking.)
+Trample over players (This creature can deal excess combat damage dealt to a player to another player.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MCF-files/img/6.png" num="47">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear Mutant Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mr. Barry Grizmore, Esquire</name>
+			<text>Whenever another 2/2 creature enters under your control, put a +1/+1 counter on Mr. Barry Grizmore, Esquire.
+Mr. Barry Grizmore, Esquire counts a non-Bear Human creature for spells and effects you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MCF-files/img/7.png" num="48">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bear Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Strange Statues</name>
+			<text>(Strange Statues isn&apos;t a spell. It&apos;s affected by summoning sickness while it&apos;s a creature.)
+{T}: Add {C}.
+Crew 3</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MCF-files/img/8.png" num="64">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Land — Vehicle</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Invasion of Mystvale</name>
+			<text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it&apos;s defeated, exile it, then cast it transformed.)
+When Invasion of Mystvale enters, create two 1/1 colorless Eldrazi Scion creature tokens with &quot;Sacrifice this creature: Add {C}.&quot;</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/9.png" num="10">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Battle — Siege</type>
+				<maintype>Battle</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ancient Symbiote</name>
+			<text>Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature&apos;s combat damage, not its controller, among any of the creatures it&apos;s being blocked by or is blocking.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/10.png" num="5">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glimpse of Impossibility</name>
+			<text>Enchant creature
+When Glimpse of Impossibility enters, you gain 2 life and draw two cards.
+Aura Swap {1}{W}{U} ({1}{W}{U}: Exchange this Aura with an Aura card in your hand.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/11.png" num="53">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Induced Will</name>
+			<text>Duplicity (When this permanent enters, target opponent creates a copy of the back face of this card and casts the copy without paying its mana cost if able.)
+You control opponents while they&apos;re choosing modes for spells and abilities and while they&apos;re choosing targets for those modes.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/12.png" num="25">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cyclopean Sloth</name>
+			<text>Last strike (This creature deals combat damage after creatures without last strike.)
+Whenever a creature dealt combat damage by Cyclopean Sloth this turn dies, exile that creature and put X +1/+1 counters on Cyclopean Sloth, where X is that creature&apos;s power.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/13.png" num="34">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Cyclops Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elusive Enigmas</name>
+			<text>You can&apos;t cast Elusive Enigmas.
+Hexproof</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/14.png" num="43">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Beast Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Summoner&apos;s Volute</name>
+			<text>Enchant card in your hand
+At the beginning of your upkeep, you may reveal the enchanted card. If it&apos;s a creature card, you may sacrifice Summoner&apos;s Volute and put that card onto the battlefield.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/15.png" num="50">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Strange Lumps</name>
+			<text>Enchant creature
+Daybound (If a player casts no spells during their own turn, it becomes night next turn.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/16.png" num="22">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Groupthink</name>
+			<text>As Groupthink enters, choose a creature card name.
+At the beginning of each combat, each creature you control with the chosen name gains all abilities of each other creature you control with the chosen name until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/17.png" num="55">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Watching Eyes</name>
+			<text>Watching Eyes&apos;s power and toughness are each equal to the number of cards you own in exile.
+Terrorize {3}{B}{R} ({3}{B}{R}, Put this card from exile into your graveyard: This card terrorizes target creature. Terrorize only as a sorcery.)
+Whenever Watching Eyes terrorizes a creature, it deals damage to that creature equal to the number of cards you own in exile.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/18.png" num="59">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Eye Nightmare Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancient Augmenter</name>
+			<text>Trample
+Instant and sorcery spells you control have &quot;Target creature gets +3/+3 until end of turn.&quot; The same is true for instant and sorcery cards you own that aren&apos;t on the battlefield.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/19.png" num="51">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien Lizard Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Recurring Poltergeist</name>
+			<text>Flying
+Haunt (When this creature dies, exile it haunting target creature.)
+Creatures haunted by Recurring Poltergeist get +3/+3, have flying, and have &quot;At the beginning of your upkeep, sacrifice a creature.&quot;
+When a creature haunted by Recurring Poltergeist dies, return that card and Recurring Poltergeist to the battlefield under their owners&apos; control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/20.png" num="57">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Spirit Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reoccurring Phenomenon</name>
+			<text>Companion — Your starting deck contains only noncreature cards. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} any time you could cast a sorcery.)
+For each noncreature card type among cards in your graveyard, choose a card of that type and exile it from your graveyard. Copy the exiled cards. You may cast the copies without paying their mana costs.
+Exile Reoccurring Phenomenon.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/21.png" num="58">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UR</manacost>
+				<cmc>6</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Exclusion Zone</name>
+			<text>Space sculptor (Exclusion Zone divides the battlefield into alpha, beta, and gamma sectors. If a creature isn&apos;t assigned to a sector, its controller assigns it to one. Opponents assign first.)
+Creatures in each sector can be blocked only by creatures in the same sector.
+Creatures in alpha sector lose all abilities and can&apos;t have or gain abilities.
+Creatures in beta sector have base power and toughness 3/3.
+Creatures in gamma sector have ward {3}.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MCF-files/img/22.png" num="8">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>World Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Truth</name>
+			<text>Flying
+Cards you own that aren&apos;t on the battlefield lose all card types, costs, names, and abilities and become white enchantment Auras named Reprobation that cost 1{W} with enchant creature and &quot;Enchanted creature loses all abilities and is a Coward creature with base power and toughness 0/1.&quot; (Cards you own put onto the battlefield from other zones while this creature is on the battlefield remain copies of Reprobation, even after this creature leaves the battlefield.)</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MCF-files/img/23.png" num="12">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1WWW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unending Sleep</name>
+			<text>Exile target creature or planeswalker.
+If you&apos;ve cast at least three other spells this game named Unending Sleep, create Ashiok, Nightmare Incarnate, a legendary blue and black Ashiok planeswalker token with 3 starting loyalty, &quot;[+1]: Exile the top card of each opponent&apos;s library,&quot; &quot;[-X]: Put a creature or planeswalker card you don&apos;t own with mana value X or less from exile onto the battlefield under your control,&quot; and &quot;[-6]: Exile each nonland permanent you don&apos;t control.&quot;</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MCF-files/img/24.png" num="30">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Unreal</name>
+			<text>Haste
+When The Unreal enters, put all cards from your sideboard into exile face down.
+At the beginning of your upkeep, choose a random card exiled with The Unreal. Until your next turn, you may look at and play that card.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MCF-files/img/25.png" num="41">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2RRR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Simulation Manager</name>
+			<text>As Simulation Manager enters, mark two of its conditions with simulation markers.
+Each player&apos;s turn consists of—
+The untap step. □ The upkeep step.
+□ The draw step. □ The precombat main phase.
+□ The combat phase. □ The postcombat main phase.
+And the end phase.
+{0}: Mark or unmark one of Simulation Manager&apos;s conditions. Any player may activate this ability once during each of their turns.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MCF-files/img/26.png" num="61">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Zec&apos;tala, the Imprisoned</name>
+			<text>Flying, indestructible
+If Zec&apos;tala, the Imprisoned would enter the battlefield and it wasn&apos;t summoned, split it into four pieces instead. (To split Zec&apos;tala into four pieces, exile it and shuffle four token cards named Invoke Zec&apos;tala into your library. They&apos;re colorless sorcery cards with mana cost {0} and &quot;Draw a card. Then exile this card and put an invocation counter on a Zec&apos;tala you own in exile. Then if that Zec&apos;tala has four or more invocation counters on it, summon it by putting it onto the battlefield under your control.&quot;)</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MCF-files/img/27.png" num="4">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>20/20</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Incomprehensible</name>
+			<text>Trample
+Whenever The Incomprehensible attacks, you may have its base power and toughness become ထ/ထ until end of turn. If you do, it loses all abilities until end of turn, can&apos;t have or gain abilities until end of turn, and you can&apos;t cast spells this turn.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MCF-files/img/28.png" num="46">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>5GGG</manacost>
+				<cmc>8</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Consuming Cavern</name>
+			<text>Devour 2 (As this enters, you may sacrifice any number of creatures. That creature enters with twice that many +1/+1 counters on it.)
+{T}: Add {C}.
+{4}{C}: Consuming Cavern becomes a 0/0 Horror creature that&apos;s still a land.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MCF-files/img/29.png" num="62">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Crop Claimer</name>
+			<text>When Crop Claimer enters, if an opponent controls more lands than you, create a colorless Plains land token named Crop Circle with &quot;{3}{W}, {T}: Tap target creature.&quot; (It also has &quot;{T}: Add {W}.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/30.png" num="7">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shrinkatron Subject</name>
+			<text>Lifelink
+Minimorph {W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its minimorph cost and put a -1/-1 counter on it.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MCF-files/img/31.png" num="11">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elephant Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Behind the Curtain</name>
+			<text>When Behind the Curtain enters, exile target creature an opponent controls until Behind the Curtain leaves the battlefield.
+Dash {2}{W} (You may cast this spell for its dash cost. If you do, it gains haste, and it&apos;s returned from the battlefield to its owner&apos;s hand at the beginning of the next end step.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MCF-files/img/32.png" num="6">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Interplanar Observer</name>
+			<text>Interplanar Observer can&apos;t be blocked as long as it&apos;s attacking alone.
+Whenever Interplanar Observer attacks, roll the planar die.
+Whenever chaos ensues (you roll {A}), you may exile Interplanar Observer. If you do, shuffle your hand and graveyard into your library, then draw seven cards.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MCF-files/img/33.png" num="18">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Alien Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Everything</name>
+			<text>Epic (When you cast this spell, for the rest of the game, you can&apos;t cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability. A copy of a permanent spell becomes a token.)
+You may have The Everything enter the battlefield as a copy of any permanent on the battlefield, except it&apos;s a Horror in addition to its other types.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MCF-files/img/34.png" num="17">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4UUU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Third Eye</name>
+			<text>When this permanent enters, draw a card.
+Splice onto creature {2}{U} (As you cast a creature spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card&apos;s effects to that spell.)
+Splice onto cryptid creature {U} (Aliens, Eldrazi, Horrors, and Mutants are cryptids.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/35.png" num="23">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cognitive Dissonance</name>
+			<text>Resilient (Whenever you mulligan, you may reveal one Opening from your hand. If you do, keep it and draw one fewer card when drawing your new hand.)
+Scry 1, then draw a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MCF-files/img/36.png" num="15">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Opening</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Recalled Anomalous Test Subject</name>
+			<text>A deck may have any number of cards named Recalled Anomalous Test Subject.
+[-1]: Each player loses 1 life.
+[-3]: Create a 2/1 black Rat creature token named Rat Colony with &quot;Rat Colony gets +1/+0 for each other Rat you control.&quot;</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/37.png" num="29">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tribal Planeswalker — Rat Horror</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Long-Tail Rat</name>
+			<text>At the beginning of your end step, if you both own and control Long-Tail Rat, and a card named Standard Specimen is in your graveyard, you may exile them, then meld them into Rat King.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MCF-files/img/38.png" num="26">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rat Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Swarm of Mecha-Ants</name>
+			<text>Dash {1}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it&apos;s returned from the battlefield to its owner&apos;s hand at the beginning of the next end step.)
+Storm (When you cast this spell, copy it for each spell cast before it this turn. A copy of a permanent spell becomes a token. A copy of a dashed spell is also dashed.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/39.png" num="40">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Insect Horror</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Final Form</name>
+			<text>Turn each face-down creature face up. (Instant and sorcery cards turned face up this way remain on the battlefield face-down.)
+Spellmorph {3}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Cast it any time for its spellmorph cost.)</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MCF-files/img/40.png" num="44">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Form of the Hydra</name>
+			<text>As Form of the Hydra enters, your life total becomes X.
+At the beginning of each end step, you gain life equal to twice the amount of life you lost this turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/41.png" num="45">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>XG</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Multibear</name>
+			<text>Replicate {1}{G} (When you cast this spell, copy it for each time you paid its replicate cost. Copies become tokens.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MCF-files/img/42.png" num="49">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grist, the First Success</name>
+			<text>As Grist, the First Success enters, create two 1/1 green Insect creature tokens.
+The number of loyalty counters on Grist, the First Success is equal to the number of Insects you control. (Create or sacrifice 1/1 green Insects whenever Grist gains or loses loyalty.)
+[+1]: You may exile a card from your graveyard. If you do, you gain life equal to its mana value.
+[-2]: Destroy target nonland permanent.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MCF-files/img/43.png" num="54">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Grist</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<loyalty>*</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Calcification Virus</name>
+			<text>Creature cards in your graveyard have fossilize. Their fossilize cost is equal to their mana cost. (To fossilize a card, pay its fossilize cost and exile it from your graveyard. Create a token that&apos;s a copy of it, except it&apos;s a colorless noncreature artifact with no mana cost. Fossilize only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/44.png" num="52">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reality Tear</name>
+			<text>Reality Tear has all activated abilities of lands your opponents control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/45.png" num="63">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Azzie, Elusive Ancient // Question the Locals</name>
+			<text>Affinity for Clues (This spell costs {1} less to cast for each Clue you control.)
+Ward {3}
+
+---
+
+Create a Clue token for each creature you control with power or toughness 1 or less. (Then exile this card. You may cast the creature later from exile.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/46.png" num="14">MCF</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Serpent // Sorcery — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>6UU // 1G</manacost>
+				<cmc>8</cmc>
+				<colors>U</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Imminent Invasion</name>
+			<text>Forbidden (This card cannot be in your starting deck.)
+For each creature your opponents control, create a 2/3 colorless Alien creature token.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/47.png" num="3">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1C</manacost>
+				<cmc>2</cmc>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>No-Eyed Girl</name>
+			<text>If you would scry, surveil, or haul a number of cards, you may instead put that many +1/+1 counters on No-Eyed Girl.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MCF-files/img/48.png" num="19">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Child Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slithertusk</name>
+			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MCF-files/img/49.png" num="38">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snake Elephant Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Replica Parasite</name>
+			<text>Flash
+Flying
+You may cast Replica Parasite as a copy of another spell you&apos;ve cast this turn, except it costs {U} in addition to its other costs.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/50.png" num="20">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Existential Dread</name>
+			<text>As long as there are no non-Invocation creatures on the battlefield, Existential Dread is a creature in addition to its other types.
+Invoke {2} ({2}: This Invocation becomes an enchantment creature until end of turn.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/51.png" num="9">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Invocation</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stalkers of Maple Street</name>
+			<text>Flying
+Whenever you cast a spell that targets a permanent you don&apos;t control, corrupt that permanent. (Untap it and gain control of it until end of turn. Until end of turn, it gains haste, can&apos;t be sacrificed, and you may spend mana as though it were any type to activate its abilities.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/52.png" num="39">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Worst Enemy</name>
+			<text>You count as an opponent for spells and abilities you control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/53.png" num="32">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ancient Remnants</name>
+			<text>Create a Blood token, a Clue token, a Food token, a Glyph token, a Scrap token, and a Treasure token. (Blood has &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot; Glyphs have &quot;{T}, Sacrifice this artifact: Target creature gets +1/+0 until end of turn.&quot; Scrap has &quot;{3}, Sacrifice this artifact: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/54.png" num="42">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Revenge</name>
+			<text>Haste
+If a source controlled by a bloodied player would deal damage to a permanent or player, it deals double that damage to that permanent or player instead. (A player is bloodied if their life total is less than or equal to half their starting life total.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/55.png" num="36">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Incarnation Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>C4pt𝚽vE</name>
+			<text>As long as you have fewer than ten {V} (research counters), C4pt𝚽vE isn&apos;t a creature. (It&apos;s a permanent with no card type.)
+Trample
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/56.png" num="1">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phyrexian Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>11/11</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sapphiria</name>
+			<text>When Sapphiria enters, put a blue counter on target permanent. (A permanent with a color counter is that color in addition to its other colors.)
+Blue permanents you control have ward {2}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MCF-files/img/57.png" num="21">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Expanding Ooze</name>
+			<text>Grandeur — Discard another card named Expanding Ooze: Put a +1/+1 counter on Expanding Ooze.
+Dredge 3 (If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MCF-files/img/58.png" num="2">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Nothing</name>
+			<text>Deathtouch
+All spells have &quot;As an additional cost to cast this spell, mill cards equal to this spell&apos;s mana value.&quot;
+If another card would be put into a graveyard or exile from anywhere, its owner puts it outside the game instead.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MCF-files/img/59.png" num="27">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1BBB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Outlands Avenger</name>
+			<text>Vengeant (This spell costs {1} less to cast for each creature that died this turn.)
+Flash
+Flying, trample</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/60.png" num="56">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Devil Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>6RW</manacost>
+				<cmc>8</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Charging Aratxe</name>
+			<text>Trample
+Whenever Charging Aratxe attacks, exile target instant or sorcery card from your graveyard encoded on Charging Aratxe. It gains cipher. (Whenever this creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MCF-files/img/61.png" num="33">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Boar Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Impossibility Reactor</name>
+			<text>{T}: Add one mana of any type.
+{3}PP: Choose a card name. Impossibility Reactor gains &quot;Your opponents can&apos;t cast spells with the chosen name.&quot; until the next time you activate this ability. Activate only as a sorcery.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MCF-files/img/62.png" num="60">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Void Crypter</name>
+			<text>Whenever Void Crypter deals combat damage to a player, exile that many cards from the top of their library. You may put a creature card from among them onto the battlefield.
+Morph {4}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MCF-files/img/63.png" num="31">MCF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>6BB</manacost>
+				<cmc>8</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

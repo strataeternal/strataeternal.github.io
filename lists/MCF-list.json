@@ -1,0 +1,618 @@
+﻿[
+    {
+        "card_name": "Exclusion Zone",
+        "number": 8,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "The Everything",
+        "number": 17,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "The Nothing",
+        "number": 27,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "Charging Aratxe",
+        "number": 33,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "Final Form",
+        "number": 44,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "The Truth",
+        "number": 12,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Interplanar Observer",
+        "number": 18,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "Unending Sleep",
+        "number": 30,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "The Unreal",
+        "number": 41,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "The Incomprehensible",
+        "number": 46,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "Ancient Symbiote",
+        "number": 5,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "Azzie, Elusive Ancient",
+        "number": 14,
+        "shape": "adventure",
+        "set": "MCF",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "Induced Will",
+        "number": 25,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "Cyclopean Sloth",
+        "number": 34,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "Ancient Remnants",
+        "number": 42,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "Crop Claimer",
+        "number": 7,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Credulous Allowance",
+        "number": 16,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "Recalled Anomalous Test Subject",
+        "number": 29,
+        "shape": "planeswalker",
+        "set": "MCF",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "Revenge",
+        "number": 36,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "Elusive Enigmas",
+        "number": 43,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "Existential Dread",
+        "number": 9,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "Replica Parasite",
+        "number": 20,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "Void Crypter",
+        "number": 31,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "Stalkers of Maple Street",
+        "number": 39,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "Form of the Hydra",
+        "number": 45,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "Invasion of Mystvale",
+        "number": 10,
+        "shape": "normal split",
+        "set": "MCF",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "Strange Lumps",
+        "number": 22,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "Worst Enemy",
+        "number": 32,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "Swarm of Mecha-Ants",
+        "number": 40,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "Summoner's Volute",
+        "number": 50,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "Behind the Curtain",
+        "number": 6,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "Third Eye",
+        "number": 23,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "Essence Drainer",
+        "number": 24,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "Erratic Decimator",
+        "number": 35,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "Mauling Monstrosity",
+        "number": 47,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "Shrinkatron Subject",
+        "number": 11,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "Cognitive Dissonance",
+        "number": 15,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "Long-Tail Rat",
+        "number": 26,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "Shocking Expose",
+        "number": 37,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "Mr. Barry Grizmore, Esquire",
+        "number": 48,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "Violent Intelligence",
+        "number": 13,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "No-Eyed Girl",
+        "number": 19,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "Persistent Vermin",
+        "number": 28,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "Slithertusk",
+        "number": 38,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "Multibear",
+        "number": 49,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sapphiria",
+        "number": 21,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Glimpse of Impossibility",
+        "number": 53,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "Groupthink",
+        "number": 55,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "Watching Eyes",
+        "number": 59,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "Ancient Augmenter",
+        "number": 51,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Calcification Virus",
+        "number": 52,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Recurring Poltergeist",
+        "number": 57,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "Reoccurring Phenomenon",
+        "number": 58,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "Grist, the First Success",
+        "number": 54,
+        "shape": "planeswalker",
+        "set": "MCF",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "Outlands Avenger",
+        "number": 56,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Zec'tala, the Imprisoned",
+        "number": 4,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "Impossibility Reactor",
+        "number": 60,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "Simulation Manager",
+        "number": 61,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "C4pt\ud835\udebdvE",
+        "number": 1,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "Imminent Invasion",
+        "number": 3,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "Expanding Ooze",
+        "number": 2,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Reality Tear",
+        "number": 63,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "Consuming Cavern",
+        "number": 62,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "Strange Statues",
+        "number": 64,
+        "shape": "normal",
+        "set": "MCF",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

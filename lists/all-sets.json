@@ -16,9 +16,19 @@
             "formats": "stratacommander"
         },
         {
+            "set_code": "MCF",
+            "set_name": "Mystvale Case Files",
+            "formats": "stratacommander, stratastandard"
+        },
+        {
             "set_code": "MYC",
             "set_name": "Mystvale Commander",
             "formats": "stratacommander"
+        },
+        {
+            "set_code": "MYD",
+            "set_name": "Mystvale: Declassified",
+            "formats": "stratacommander, stratastandard"
         },
         {
             "set_code": "NLC",

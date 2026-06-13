@@ -1,0 +1,4773 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>CHF</name>
+			<longname>Chefs of Culdona</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-06-13</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Chef of the Rest</name>
+			<text>Flying
+When this creature enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+{2}, Sacrifice an artifact: Exile target artifact or creature you control, then return that card to the battlefield under its owner&apos;s control. Activate only once each turn and only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/0.png" num="211">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zealous Connoisseur</name>
+			<text>At the beginning of your end step, if a permanent you control left the battlefield this turn, exile the top card of your library. You gain life equal to its mana value. Until the beginning of your next end step, you may play that card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/1.png" num="231">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Foodie Family</name>
+			<text>When this creature enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+Whenever one or more Foods enter under your control, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/2.png" num="214">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Murktide Lurker</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+Whenever you cast your first spell during each opponent&apos;s turn, put a +1/+1 counter on Murktide Lurker, then each opponent loses X life and you gain X life, where X is the number of +1/+1 counters on this creature.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/3.png" num="221">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Octopus</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spell-Chef Prodigy</name>
+			<text>Whenever you cast a noncreature spell, choose one—
+• Scry 1.
+• This creature gets +1/+1 until end of turn.
+• This creature deals 1 damage to each opponent.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/4.png" num="227">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Wizard Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reckless Novice</name>
+			<text>When this creature enters, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
+When this creature leaves the battlefield, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/5.png" num="224">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Accomplished Composter</name>
+			<text>When this creature enters, mill three cards.
+Spells you cast from anywhere other than your hand cost {1} less to cast.
+Activated abilities of cards you own that aren&apos;t on the battlefield cost {1} less to activate.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/6.png" num="209">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Exotic Exemplar</name>
+			<text>Nourish 1 (When this creature enters, put a +1/+1 counter on it or create a colorless Food artifact token with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)
+Other Beast creatures you control have nourish 1. (If a creature has multiple instances of nourish, each triggers separately.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/7.png" num="213">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sunbeam Stag</name>
+			<text>Lifelink
+Nourish 1 (When this creature enters, put a +1/+1 counter on it or create a colorless Food artifact token with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/8.png" num="48">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Copper Chef</name>
+			<text>Nourish 1 (When this creature enters, put a +1/+1 counter on it or create a colorless Food artifact token with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/9.png" num="235">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Chef Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stern Critic</name>
+			<text>Sacrifice an artifact or another creature: This creature gets +2/+0 until end of turn. Activate only once each turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/10.png" num="47">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Assistance Inventor</name>
+			<text>When this creature enters, create a 1/1 colorless Construct artifact creature token.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/11.png" num="21">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Domesticated Wingmate</name>
+			<text>Flying
+Devour artifact and/or creature 1 (As this enters, you may sacrifice any number of artifacts and/or creatures. This creature enters with that many +1/+1 counters on it.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/12.png" num="28">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hunter&apos;s Provisions</name>
+			<text>{2}, {T}, Sacrifice this artifact: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{5}, {T}, Sacrifice this artifact: It deals 4 damage to target creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/13.png" num="239">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Benthic Subduer</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+When this creature enters, tap target creature you don&apos;t control. If you control a Crab, Kraken, Leviathan, Octopus, Serpent, or Shark, put a stun counter on that creature. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/14.png" num="60">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Recipe Thief</name>
+			<text>Whenever one or more tokens enter under your control, this creature gets +1/+0 until end of turn and can&apos;t be blocked this turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/15.png" num="78">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crop Keeper</name>
+			<text>When this creature enters, choose one—
+• Surveil 2.
+• Exile up to two target cards from a single graveyard.
+• Put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/16.png" num="236">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Raid the Pantry</name>
+			<text>Look at the top X cards of your library, where X is 1 plus the number of differently named tokens you control. Put one of them into your hand and the rest on the bottom of your library in any order.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/17.png" num="77">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Leave to Cool</name>
+			<text>Choose one—
+• Return target nonland permanent to its owner&apos;s hand.
+• Exile target nonland permanent you control. Return that card to the battlefield under its owner&apos;s control at the beginning of the next end step.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/18.png" num="74">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Starving Crab</name>
+			<text>Whenever you gain life, this creature gets +1/+0 until end of turn.
+Whenever you lose life, this creature gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/19.png" num="126">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crab</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grilling Gang</name>
+			<text>When this creature enters, you draw a card and you lose 1 life.
+Decompose into Treasure {2}{B} ({2}{B}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s a colorless Treasure artifact with no mana cost and &quot;{T}, Sacrifice this artifact: Add one mana of any color,&quot; and it loses all other card types. Decompose only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/20.png" num="109">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inksnare Octopus</name>
+			<text>Whenever you cast your first spell during each opponent&apos;s turn, that player loses 1 life and you gain 1 life.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/21.png" num="111">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Octopus</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blood Hunter</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+Devour artifact and/or creature 2 (As this enters, you may sacrifice any number of artifacts and/or creatures. This creature enters with twice that many +1/+1 counters on it.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/22.png" num="97">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shark</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blighted Barkhide</name>
+			<text>Menace
+Nourish 1 (When this creature enters, put a +1/+1 counter on it or create a colorless Food artifact token with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)
+At the beginning of combat on your turn, if you gained and/or lost life this turn, put a +1/+1 counter on this creature. (Damage causes loss of life.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/23.png" num="96">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seahunter&apos;s Bane</name>
+			<text>Devour artifact and/or creature 2 (As this enters, you may sacrifice any number of artifacts and/or creatures. This creature enters with twice that many +1/+1 counters on it.)
+When this creature enters, if a permanent you control left the battlefield this turn, each opponent exiles a creature they control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/24.png" num="124">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kraken</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Takeout</name>
+			<text>Destroy target creature or planeswalker. Create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/25.png" num="127">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gothic Goop</name>
+			<text>When this creature leaves the battlefield, create a 1/1 green Ooze creature token.
+Decompose into Food {1}{B} ({1}{B}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s a colorless Food artifact with no mana cost and &quot;{2}, {T}: Sacrifice this artifact: You gain 3 life,&quot; and it loses all other card types. Decompose only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/26.png" num="108">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Servo Server</name>
+			<text>This creature enters with a +1/+1 counter on it if you control an artifact.
+Whenever one or more other artifacts enter under your control, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/27.png" num="241">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Servo Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Delicious Dispute</name>
+			<text>As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw two cards and create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/28.png" num="104">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Retrieved from the Cellar</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 2] Mill three cards, then you may return an artifact or creature card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/29.png" num="121">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spoil</name>
+			<text>Choose one—
+• Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player exiles that card.
+• Target opponent exiles two cards from their hand.
+• Exile target opponent&apos;s graveyard.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/30.png" num="125">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Help Wanted</name>
+			<text>Create two 1/1 colorless Construct creature tokens.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/31.png" num="150">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ferocious Marksman</name>
+			<text>Reach
+{2}, Sacrifice an artifact or creature: Put a +1/+1 counter on this creature. It deals 1 damage to target player or planeswalker. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/32.png" num="143">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodthirsty Snarltooth</name>
+			<text>Trample
+Devour artifact and/or creature 1 (As this enters, you may sacrifice any number of artifacts and/or creatures. This creature enters with that many +1/+1 counters on it.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/33.png" num="137">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Conjoined Tigorilla</name>
+			<text>Menace
+Devour artifact and/or creature 2 (As this enters, you may sacrifice any number of artifacts and/or creatures. This creature enters with twice that many +1/+1 counters on it.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/34.png" num="141">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Ape Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hijack</name>
+			<text>Gain control of target artifact or creature until end of turn. Untap it. It gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/35.png" num="151">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ruin the Batch</name>
+			<text>Choose one—
+• Destroy target artifact.
+• Destroy all Foods.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/36.png" num="160">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Crafty Scavenger</name>
+			<text>Nourish 1 (When this creature enters, put a +1/+1 counter on it or create a colorless Food artifact token with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/37.png" num="181">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Raccoon Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Berry Blenders</name>
+			<text>When this creature enters, put a +1/+1 counter on target creature you control.
+Decompose into Clue {1}{G} ({1}{G}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s a colorless Clue artifact with no mana cost and &quot;{2}, Sacrifice this artifact: Draw a card,&quot; and it loses all other card types. Decompose only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/38.png" num="177">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Evolving Wilds</name>
+			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/39.png" num="247">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sporecap Hermit</name>
+			<text>Nourish 2 (When this creature enters, put two +1/+1 counters on it or create two colorless Food artifact tokens with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/40.png" num="201">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slimy Shopkeep</name>
+			<text>When this creature enters, create a token that&apos;s a copy of a token you control that&apos;s not named Slimy Shopkeep.
+Decompose into Food {2}{G} ({2}{G}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s a colorless Food artifact with no mana cost and &quot;{2}, {T}: Sacrifice this artifact: You gain 3 life,&quot; and it loses all other card types. Decompose only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/41.png" num="200">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jungle Slasher</name>
+			<text>Each creature you control with a counter on it has trample.
+{4}{G}: Put a +1/+1 counter on target Beast. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/42.png" num="191">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>And Featuring a Rare Ingredient</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 3] Surveil 3, then you may reveal the top card of your library. If it&apos;s a creature, land, or Food card, draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/43.png" num="170">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Produce Produce</name>
+			<text>Put X +1/+1 counters on target creature, where X is 2 or the number of differently named tokens you control, whichever is greater.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/44.png" num="196">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cleaner&apos;s Knife</name>
+			<text>Equipped creature gets +2/+2.
+Equip 2. This ability costs {2} less to activate if a permanent you control left the battlefield this turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/45.png" num="233">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Flock Herder</name>
+			<text>When this creature leaves the battlefield, create a 0/1 white Goat creature token.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/46.png" num="32">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancestral Guide</name>
+			<text>Flying
+This creature has lifelink as long as you&apos;ve lost life this turn. (Damage causes loss of life.)
+Whenever you gain life, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/47.png" num="16">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Feasting Wildlife</name>
+			<text>Devour artifact and/or creature 1 (As this enters, you may sacrifice any number of artifacts and/or creatures. This creature enters with that many +1/+1 counters on it.)
+Nourish X, where X is the number of permanents this creature devoured. (When this creature enters, put X +1/+1 counters on it or create X colorless Food artifact tokens with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/48.png" num="30">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Cat Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Against All Odds</name>
+			<text>Choose one or both —
+• Exile target artifact or creature you control, then return it to the battlefield under its owner&apos;s control.
+• Return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/49.png" num="14">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>All that Simmers</name>
+			<text>Enchant creature
+When this enchantment enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+Enchanted creature gets +1/+1 for each artifact you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/50.png" num="15">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Trial of Skill</name>
+			<text>When this enchantment enters, put two +1/+1 counters on target creature you control.
+When a legendary Chef enters under your control, return this enchantment to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/51.png" num="51">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Skilled Slicer</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+Whenever you cast your first spell during each opponent&apos;s turn, put a +1/+1 counter on this creature, then surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/52.png" num="83">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Octopus Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blur Leopard</name>
+			<text>Flash
+When this creature enters, exile another target nonland permanent you control. Return that card to the battlefield under its owner&apos;s control at the beginning of the next end step.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/53.png" num="61">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shaken, Not Stirred</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 2] Return another target nonland permanent to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/54.png" num="81">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Instant — Ingredient</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Trial of Improvisation</name>
+			<text>When this enchantment enters, return target noncreature card from your graveyard to your hand.
+When a legendary Chef enters under your control, return this enchantment to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/55.png" num="89">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pincher Crab</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+When this creature leaves the battlefield, target creature you don&apos;t control gets -1/-1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/56.png" num="119">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crab</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Citrus Sucker</name>
+			<text>Flying
+Whenever you create or sacrifice a token, each opponent loses 1 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/57.png" num="101">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bat</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Octofolk Gorger</name>
+			<text>Nourish 2 (When this creature enters, put two +1/+1 counters on it or create two colorless Food artifact tokens with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)
+{T}, Sacrifice an artifact: Put a +1/+1 counter on each Crab, Kraken, Leviathan, Octopus, Serpent, and Shark you control. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/58.png" num="116">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Octopus</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chupacabra Devourer</name>
+			<text>Menace
+Devour artifact and/or creature 1 (As this enters, you may sacrifice any number of artifacts and/or creatures. This creature enters with that many +1/+1 counters on it.)
+When this creature enters, it deals damage equal to its power to target creature.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/59.png" num="100">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Candy Keeper</name>
+			<text>When this creature enters, you may return target creature card from your graveyard to your hand.
+Decompose into Food {3}{B}{B} ({3}{B}{B}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s a colorless Food artifact with no mana cost and &quot;{2}, {T}: Sacrifice this artifact: You gain 3 life,&quot; and it loses all other card types. Decompose only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/60.png" num="98">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sabotage the Competition</name>
+			<text>As long as this spell is on the stack, your opponents can&apos;t sacrifice Food.
+Destroy target creature or planeswalker. If that permanent is a Food, gain control of it instead.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/61.png" num="123">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>And Paired with a Sampler</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 3] This card deals 1 damage to any target. You gain 1 life, create a Treasure token, and draw a card. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/62.png" num="93">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Instant — Ingredient</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Haul from the Depths</name>
+			<text>This spell has flash as long as you own a Crab, Kraken, Leviathan, Octopus, Serpent, or Shark in your graveyard or on the battlefield.
+Return target creature card from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/63.png" num="110">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Trial of Deceit</name>
+			<text>When this enchantment enters, target opponent reveals their hand. You choose a nonland card from it. That player exiles that card. You may play that card for as long as it remains exiled, and mana of any type can be spent to cast it.
+When a legendary Chef enters under your control, return this enchantment to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/64.png" num="129">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rowdy Patron</name>
+			<text>At the beginning of your end step, if a non-Treasure permanent you control left the battlefield this turn, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/65.png" num="159">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Giant Cindermaw</name>
+			<text>Trample
+Players can&apos;t gain life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/66.png" num="146">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sizzlemancer</name>
+			<text>Whenever you cast a noncreature spell, create a 1/1 red Elemental creature token.
+{1}: Target creature you control gains haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/67.png" num="162">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sapfarm Scourge</name>
+			<text>Flying
+Devour artifact and/or creature 2 (As this enters, you may sacrifice any number of artifacts and/or creatures. This creature enters with twice that many +1/+1 counters on it.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/68.png" num="161">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stovetop Maniac</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When this creature leaves the battlefield, it deals damage equal to its power to any target.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/69.png" num="165">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Squirrel Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Char to a Crisp</name>
+			<text>Char to a Crisp deals 3 damage to any target. If an opponent gained life this turn, Char to a Crisp deals 5 damage instead.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/70.png" num="140">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Trial of Originality</name>
+			<text>When this enchantment enters, exile the top three cards of your library. Until the end of your next turn, you may play those cards.
+When a legendary Chef enters under your control, return this enchantment to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/71.png" num="166">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Feisty Cub</name>
+			<text>When this creature dies, you may search your library for a Beast card, reveal that card, put it into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/72.png" num="185">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sap Suckers</name>
+			<text>Reach
+When this creature enters, destroy target artifact, enchantment, or land.
+Decompose into Food {5}{G} ({5}{G}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s a colorless Food artifact with no mana cost and &quot;{2}, {T}: Sacrifice this artifact: You gain 3 life,&quot; and it loses all other card types. Decompose only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/73.png" num="198">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cakery Crew</name>
+			<text>{T}: Add one mana of any color.
+Decompose into Clue {2}{G} ({2}{G}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s a colorless Clue artifact with no mana cost and &quot;{2}, Sacrifice this artifact: Draw a card,&quot; and it loses all other card types. Decompose only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/74.png" num="180">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Trial of Resourcefulness</name>
+			<text>When this enchantment enters, reveal the top four cards of your library. You may put a creature card and/or a land card from among them into your hand. Put the rest into your graveyard.
+When a legendary Chef enters under your control, return this enchantment to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/75.png" num="206">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cyclical Harvester</name>
+			<text>Reach
+{2}, {T}, Discard a card: Create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+{2}, {T}, Sacrifice a Food: Create a 1/1 white Bird creature token with flying and lifelink.
+{2}, {T}, Sacrifice a creature: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/76.png" num="238">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shambling Suit</name>
+			<text>This creature&apos;s power is equal to the number of artifacts and/or enchantments you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/77.png" num="242">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>*/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Assorted Sweets</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 1] Create three 1/1 colorless Food Golem artifact creature tokens with haste and &quot;{2}, {T}, Sacrifice this creature: You gain 3 life.&quot;</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/78.png" num="7">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>And Loaded with Caffeine</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 3] Until end of turn, spells you cast cost {1} less to cast.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/79.png" num="2">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Jax, Charming Critic</name>
+			<text>Lifelink
+Whenever you gain life, choose one that hasn&apos;t been chosen this turn—
+• Draw a card.
+• Put a +1/+1 counter on target creature.
+• Create a 1/1 colorless Construct artifact creature token.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/80.png" num="37">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Enchanting Temptress</name>
+			<text>Flying
+Whenever an opponent casts their first spell each turn, counter it unless that player pays {1} or sacrifices a Food.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/81.png" num="29">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sweet Dreams</name>
+			<text>When you cast this spell, copy it for each Food you&apos;ve sacrificed this turn. You may choose new targets for the copy.
+Exile target nonland permanent.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/82.png" num="50">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Selected Specially</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 2] Look at the top seven cards of your library. Put up to two artifact and/or creature cards with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/83.png" num="43">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Snipcaster Mage</name>
+			<text>Flash
+When this creature enters, you may exile an instant or sorcery card from your graveyard.
+{U}: Until end of turn, you may cast a card exiled with this creature. If that spell would be put into a graveyard, exile it instead. (You still pay its costs. Timing rules still apply.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/84.png" num="84">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crab Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ars, Technical Critic</name>
+			<text>Flying
+Whenever you cast a noncreature spell, scry 2.
+Whenever a Saga enters under your control, draw a card.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/85.png" num="57">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bird Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bakery Bunch</name>
+			<text>{2}{U}, {T}, Sacrifice an artifact: Search your library for an artifact card, reveal it, put it into your hand, then shuffle.
+Decompose into Clue {4}{U} ({4}{U}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s a colorless Clue artifact with no mana cost and &quot;{2}, Sacrifice this artifact: Draw a card,&quot; and it loses all other card types. Decompose only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/86.png" num="59">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cuprising</name>
+			<text>Noncreature artifacts you control become artifact creatures with base power and toughness 4/4 until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/87.png" num="66">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Corentine, Indulgent Critic</name>
+			<text>Artifacts you control are Food in addition to their other types and have &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;
+Whenever you sacrifice a Food, you may pay 3 life. If you do, draw a card.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/88.png" num="102">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chef&apos;s Shadow</name>
+			<text>This creature&apos;s power and toughness are each equal to 1, the amount of life you gained this turn, or the amount of life you lost this turn, whichever is greatest.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/89.png" num="99">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sanity Amplifier</name>
+			<text>Ward—Mill five cards. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player mills five cards.)
+Whenever you cast your first spell during each opponent&apos;s turn, copy it. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/90.png" num="79">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kraken Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Goblin Brewmaster</name>
+			<text>Trample
+Devour artifact and/or creature 1 (As this enters, you may sacrifice any number of artifacts and/or creatures. This creature enters with that many +1/+1 counters on it.)
+Whenever you cast a creature spell with devour, create a 1/1 green Snake creature token. (That creature may devour the token as it enters.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/91.png" num="147">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Shaman Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Berth, Practical Critic</name>
+			<text>Haste
+Whenever Berth attacks, if a permanent you control left the battlefield this turn, exile the top card of target opponent&apos;s library. Until the beginning of your next end step, you may play that card, and mana of any type can be spent to cast it.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/92.png" num="135">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Food Fight</name>
+			<text>Artifacts you control have &quot;{2}, Sacrifice this artifact: It deals damage to any target equal to 1 plus the number of permanents named Food Fight you control.&quot;</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/93.png" num="145">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gigantifier Jelly</name>
+			<text>Reach, trample, vigilance
+Decompose into X/X green Ooze creature {X}{G}{G} ({X}{G}{G}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s an X/X green Ooze creature with no mana cost and it loses all other card types. Decompose only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/94.png" num="187">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thragtusk</name>
+			<text>When this creature enters, you gain 5 life.
+When this creature leaves the battlefield, create a 3/3 green Beast creature token.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/95.png" num="204">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Effa, Verdurous Critic</name>
+			<text>When Effa enters, put a +1/+1 counter on target creature you control.
+Whenever you attack, double the power of up to one target creature with a counter on it until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/96.png" num="184">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blossoming Season</name>
+			<text>If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+If one or more counters would be put on an artifact, creature, or land you control, twice that many of each of those kinds of counters are put on that permanent instead.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/97.png" num="178">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crop-Cobbled Scarecrow</name>
+			<text>This creature enters with four +1/+1 counters on it.
+If damage would be dealt to this creature while it has a +1/+1 counter on it, prevent that damage, remove a +1/+1 counter from this creature, and create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/98.png" num="237">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Banquet Hall</name>
+			<text>{T}: Add {C}.
+{X}{X}, {T}: Put X meal counters on this land.
+Whenever you cast a creature spell, you may remove a meal counter from this land. If you do, that spell gains nourish 1. (When that creature enters, put a +1/+1 counter on it or create a colorless Food artifact token with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/99.png" num="243">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sustainable Food Source</name>
+			<text>Flying
+When this creature leaves the battlefield, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+{2}{W}, Pay 3 life: Return this creature from your graveyard to the battlefield tapped.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHF-files/img/100.png" num="49">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oakenmaul, the Apex</name>
+			<text>Devour artifact and/or creature 2 (As this enters, you may sacrifice any number of artifacts and/or creatures. This creature enters with twice that many +1/+1 counters on it.)
+When Oakenmaul enters, choose one for each Beast it devoured—
+• Put two +1/+1 counters on Oakenmaul.
+• You gain 3 life.
+• Draw a card.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHF-files/img/101.png" num="195">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Codex Culinaria</name>
+			<text>{3}, {T}, Discard a card: Search your library for an instant or sorcery card, reveal it, put it into your hand, then shuffle. Activate only as a sorcery.
+If one or more lore counters would be put on a Saga you control, three times that many lore counters are put on that Saga instead.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHF-files/img/102.png" num="234">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bane of Crops</name>
+			<text>Menace
+Whenever this creature enters or attacks, destroy up to one target nonland permanent. Its controller creates a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHF-files/img/103.png" num="232">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>And Served in Fine China</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 3] Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/104.png" num="6">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>And Loaded with Toppings</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 3] You may discard a card. If you do, draw two cards.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/105.png" num="3">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>And Paired with a Side of Eyeballs</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 3] Create two 1/1 colorless Eye creature tokens. Scry 2.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/106.png" num="4">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>And Complimented with Marbled Gargoyle</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 3] Create a 3/4 colorless Gargoyle artifact creature token with flying.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/107.png" num="1">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Made With Care</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 2] Draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/108.png" num="11">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gathered From Far Off Lands</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 2] Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 2 life.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/109.png" num="10">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Seasonal Harvest</name>
+			<text>Choose one—
+• Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+• Mill four cards, then return a land card from your graveyard to the battlefield tapped.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/110.png" num="199">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>With Seconds Included</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 2] Create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/111.png" num="13">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tenderized</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 2] Destroy up to one target creature with power 3 or less.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/112.png" num="12">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fattened Up</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 2] Put two +1/+1 counters on up to one target creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/113.png" num="9">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>And Served by Automatic Helpers</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 3] Create a 1/1 colorless Construct artifact creature token, then up to one creature you control gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/114.png" num="5">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shady Salesman</name>
+			<text>At the beginning of your end step, put a number of +1/+1 counters on this creature equal to the amount of life you gained this turn or the amount of life you lost this turn, whichever is greater. (Damage causes loss of life.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/115.png" num="225">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mocktail</name>
+			<text>Create a token that&apos;s a copy of an artifact or creature you control, except it&apos;s a 0/0 Ooze creature in addition to its other types and it has &quot;This creature gets +1/+1 for each differently named token you control.&quot;</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/116.png" num="220">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Livestock Farmer</name>
+			<text>Whenever one or more tokens enter under your control, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/117.png" num="193">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mountainous Goat</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 1] Create two 0/1 white Goat creature tokens. You gain 2 life.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/118.png" num="41">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Angus Beef</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 1] Create a 2/4 white Ox creature token.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/119.png" num="20">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sprinkled with Salt</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 2] Put a +1/+1 counter on target creature. It gains lifelink until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/120.png" num="46">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Instant — Ingredient</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>And Glazed in Caramel</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 3] Put a +1/+1 counter on each creature you control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/121.png" num="18">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Drake Hatchling</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 1] Create a 2/2 blue Drake creature token with flying.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/122.png" num="68">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>And Served on Ice</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 3] Tap up to one target creature. It doesn&apos;t untap during its controller&apos;s next untap step.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/123.png" num="55">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Watered Down</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 2] Up to one target creature gets -2/-0 until the end of your next turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/124.png" num="90">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Instant — Ingredient</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Winter Crab</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 1] Create a 0/3 blue Crab creature token.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/125.png" num="91">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>And Simmered in Manticore Venom</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 3] This card deals 2 damage to any target. You gain 2 life.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/126.png" num="95">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Poached Squirrel</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 1] Create a 1/1 green Squirrel creature token.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/127.png" num="120">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Instant — Ingredient</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Roasted Scorpion</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 1] Create a 2/2 black Scorpion creature token with deathtouch.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/128.png" num="122">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>And Coated in Spices</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 3] Creatures you control get +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/129.png" num="132">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Instant — Ingredient</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Steamed to Perfection</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 2] Exile the top two cards of your library. You may play them this turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/130.png" num="164">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Braised Gremlin</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 1] Create a 1/1 red Gremlin creature token with prowess.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/131.png" num="138">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Instant — Ingredient</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wild Boar</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 1] Create a 4/2 red Boar Beast creature token with haste.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/132.png" num="168">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Homegrown Sprouts</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 1] Create three 1/1 green Saproling creature tokens.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/133.png" num="189">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Jungle Baloth</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 1] Create a 3/3 green Beast creature token.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/134.png" num="190">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Drizzled with Oil</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 2] Up to one target creature gets +1/+1 and gains hexproof until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/135.png" num="183">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Instant — Ingredient</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Selveth, Decorated Chef</name>
+			<text>Vigilance
+Selveth&apos;s power and toughness are each equal to your life total.
+---
+(Back): Simple Bliss</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/136_front.png" num="44a">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>4WWW</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Simple Bliss</related>
+		</card>
+		<card>
+			<name>Simple Bliss</name>
+			<text>{2}, {T}, Sacrifice Simple Bliss: You gain 3 life.
+When you sacrifice Simple Bliss, until end of turn, if you would gain life, you gain twice that much life instead.
+---
+(Front): Selveth, Decorated Chef</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/136_back.png" num="44b">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Selveth, Decorated Chef</related>
+		</card>
+		<card>
+			<name>Cass, Impressionable Prodigy</name>
+			<text>Flash
+When Cass enters, copy target spell. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)
+---
+(Back): Flawless Recreation</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/137_front.png" num="63a">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Flawless Recreation</related>
+		</card>
+		<card>
+			<name>Flawless Recreation</name>
+			<text>{2}, {T}, Sacrifice Flawless Recreation: You gain 3 life.
+When you sacrifice Flawless Recreation, you may return up to one target noncreature card from your graveyard to your hand.
+---
+(Front): Cass, Impressionable Prodigy</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/137_back.png" num="63b">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Cass, Impressionable Prodigy</related>
+		</card>
+		<card>
+			<name>Josue Moreau</name>
+			<text>At the beginning of your upkeep, you lose 3 life and create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)
+---
+(Back): Charcuterie Fantastique</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/138_front.png" num="112a">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Rat Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Charcuterie Fantastique</related>
+		</card>
+		<card>
+			<name>Charcuterie Fantastique</name>
+			<text>{2}, {T}, Sacrifice Charcuterie Fantastique: You gain 3 life.
+When you sacrifice Charcuterie Fantastique, you may exile it. If you do, at the beginning of the next end step, return to the battlefield target artifact or creature card in your graveyard with mana value less than or equal to the amount of life you&apos;ve gained this turn or the amount of life you&apos;ve lost this turn, whichever is greater. (Damage causes loss of life.)
+---
+(Front): Josue Moreau</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/138_back.png" num="112b">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Josue Moreau</related>
+		</card>
+		<card>
+			<name>Kobbit, Burly Butcher</name>
+			<text>{R}, {T}, Sacrifice another creature: Kobbit deals damage equal to the sacrificed creature&apos;s power to any target.
+---
+(Back): Cut of the Day</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/139_front.png" num="154a">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Orc Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Cut of the Day</related>
+		</card>
+		<card>
+			<name>Cut of the Day</name>
+			<text>{2}, {T}, Sacrifice Cut of the Day: You gain 3 life.
+When you sacrifice Cut of the Day, create a token that&apos;s a copy of target artifact or creature you control. It gains haste. Sacrifice it at the beginning of the next end step.
+---
+(Front): Kobbit, Burly Butcher</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/139_back.png" num="154b">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Kobbit, Burly Butcher</related>
+		</card>
+		<card>
+			<name>Arietta, Who Caters to All</name>
+			<text>Whenever one or more tokens enter the battlefield under your control, put a +1/+1 counter on Arietta.
+At the beginning of your upkeep, you may move any number of +1/+1 counters from Arietta onto other creatures.
+---
+(Back): Omnivorous Spread</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/140_front.png" num="174a">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Omnivorous Spread</related>
+		</card>
+		<card>
+			<name>Omnivorous Spread</name>
+			<text>{2}, {T}, Sacrifice Omnivorous Spread: You gain 3 life.
+When you sacrifice Omnivorous Spread, choose any number of tokens you control with different names. For each of them, create a token that&apos;s a copy of it.
+---
+(Front): Arietta, Who Caters to All</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/140_back.png" num="174b">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Arietta, Who Caters to All</related>
+		</card>
+		<card>
+			<name>Emillie, Heavenly Baker</name>
+			<text>Flying
+When Emillie enters, you gain 3 life and draw a card.
+Whenever one or more other nonland permanents you control leave the battlefield, put a +1/+1 counter on Emillie.
+---
+(Back): Angelic Food Cake</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/141_front.png" num="212a">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Angel Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>3WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Angelic Food Cake</related>
+		</card>
+		<card>
+			<name>Angelic Food Cake</name>
+			<text>{2}, {T}, Sacrifice Angelic Food Cake: You gain 3 life.
+When you sacrifice Angelic Food Cake, for each player, exile up to one target nonland permanent that player controls. For as long as that card remains exiled, its owner may cast it. If you own the card, you may cast it this way without paying its mana cost. Otherwise, it costs {2} more to cast.
+---
+(Front): Emillie, Heavenly Baker</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/141_back.png" num="212b">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Emillie, Heavenly Baker</related>
+		</card>
+		<card>
+			<name>Fritt, the Hunter</name>
+			<text>At the beginning of your end step, put a bounty counter on up to one target creature without a bounty counter on it.
+Whenever a creature with a bounty counter on it dies or is put into exile from the battlefield, you and each opponent who didn&apos;t control that creature draws a card and creates a Food token.
+---
+(Back): Behemoth Burger</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/142_front.png" num="215a">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Ranger Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Behemoth Burger</related>
+		</card>
+		<card>
+			<name>Behemoth Burger</name>
+			<text>{2}, {T}, Sacrifice Behemoth Burger: You gain 3 life.
+When you sacrifice Behemoth Burger, choose up to one for each Beast you control. (You may only choose each mode once.)
+• Put two +1/+1 counters on target creature.
+• Target creature you control fights target creature you don&apos;t control.
+• Discard a card, then draw two cards.
+---
+(Front): Fritt, the Hunter</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/142_back.png" num="215b">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Fritt, the Hunter</related>
+		</card>
+		<card>
+			<name>Grom, Cooking Momma</name>
+			<text>Menace
+Whenever you sacrifice a non-Goblin, permanent, create two 1/1 red Goblin creature tokens.
+---
+(Back): Grom&apos;s Spaghetti</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/143_front.png" num="216a">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Goblin Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Grom&apos;s Spaghetti</related>
+		</card>
+		<card>
+			<name>Grom&apos;s Spaghetti</name>
+			<text>{2}, {T}, Sacrifice Grom&apos;s Spaghetti: You gain 3 life.
+When you sacrifice Grom&apos;s Spaghetti, you may exile it. If you do, return to your hand all permanent cards in your graveyard that were put there from anywhere this turn.
+---
+(Front): Grom, Cooking Momma</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/143_back.png" num="216b">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Grom, Cooking Momma</related>
+		</card>
+		<card>
+			<name>Halvis, Seafood Spokestopus</name>
+			<text>Whenever you cast your first spell during each opponent&apos;s turn, put a +1/+1 counter on Halvis and create a Food token.
+Sacrifice eight Foods: Create an 8/8 blue Kraken creature token.
+---
+(Back): Sushi Supreme</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/144_front.png" num="217a">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Octopus Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Sushi Supreme</related>
+		</card>
+		<card>
+			<name>Sushi Supreme</name>
+			<text>{2}, {T}, Sacrifice Sushi Supreme: You gain 3 life.
+When you sacrifice Sushi Supreme, draw a card. You may cast spells this turn as though they had flash.
+---
+(Front): Halvis, Seafood Spokestopus</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/144_back.png" num="217b">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Halvis, Seafood Spokestopus</related>
+		</card>
+		<card>
+			<name>Jennig, Queen of Confections</name>
+			<text>Whenever you cast a noncreature spell, you may exile the top card of your library. If you do, until end of turn, you can&apos;t play cards from your hand and you may play the exiled card.
+---
+(Back): Pure Imagination</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/145_front.png" num="218a">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Pure Imagination</related>
+		</card>
+		<card>
+			<name>Pure Imagination</name>
+			<text>{2}, {T}, Sacrifice Pure Imagination: You gain 3 life.
+When you sacrifice Pure Imagination, exile cards from the top of your library until you exile an instant card and a sorcery card. You may cast those cards without paying their mana costs. Put the rest on the bottom of your library in a random order.
+---
+(Front): Jennig, Queen of Confections</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/145_back.png" num="218b">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Jennig, Queen of Confections</related>
+		</card>
+		<card>
+			<name>Kinna de Rolo III</name>
+			<text>Vigilance, lifelink
+{T}, Pay X life: Target creature gets -X/-X until end of turn. Activate only as a sorcery.
+---
+(Back): Debonair Eclair</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/146_front.png" num="219a">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Debonair Eclair</related>
+		</card>
+		<card>
+			<name>Debonair Eclair</name>
+			<text>{2}, {T}, Sacrifice Debonair Eclair: You gain 3 life.
+When you sacrifice Debonair Eclair, until end of turn, whenever you gain life, each opponent loses that much life.
+---
+(Front): Kinna de Rolo III</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/146_back.png" num="219b">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Kinna de Rolo III</related>
+		</card>
+		<card>
+			<name>Pallo, Palate Perfectionist</name>
+			<text>At the beginning of your upkeep, choose one that hasn&apos;t been chosen —
+• Create a Clue token.
+• Create a Food token.
+• Create a Treasure token.
+• Create a 1/1 green Insect creature token.
+---
+(Back): Strange Stew</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/147_front.png" num="223a">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Frog Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Strange Stew</related>
+		</card>
+		<card>
+			<name>Strange Stew</name>
+			<text>{2}, {T}, Sacrifice Strange Stew: You gain 3 life.
+When you sacrifice Strange Stew, draw X cards, where X is half the number of differently named tokens you control, rounded down.
+---
+(Front): Pallo, Palate Perfectionist</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/147_back.png" num="223b">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Pallo, Palate Perfectionist</related>
+		</card>
+		<card>
+			<name>Sid, the Kid</name>
+			<text>Haste
+If a permanent leaving the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time. (Dying and sacrificing both cause a permanent to leave the battlefield.)
+---
+(Back): Pizza Perfetta</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/148_front.png" num="226a">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Orc Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Pizza Perfetta</related>
+		</card>
+		<card>
+			<name>Pizza Perfetta</name>
+			<text>{2}, {T}, Sacrifice Pizza Perfetta: You gain 3 life.
+When you sacrifice Pizza Perfetta, creatures you control get +2/+1 until end of turn.
+---
+(Front): Sid, the Kid</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/148_back.png" num="226b">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Sid, the Kid</related>
+		</card>
+		<card>
+			<name>Terry, Sous Supreme</name>
+			<text>Whenever one or more cards you own are put into exile from anywhere, create a Food token.
+{2}, Sacrifice a Food: Surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+---
+(Back): Fermented Feast</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/149_front.png" num="228a">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Ooze Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Fermented Feast</related>
+		</card>
+		<card>
+			<name>Fermented Feast</name>
+			<text>{2}, {T}, Sacrifice Fermented Feast: You gain 3 life.
+When you sacrifice Fermented Feast, you may exile it. If you do, exile target creature card from your graveyard. Create a token that&apos;s a copy of it, except it&apos;s a Food artifact with &quot;{2}, {T}: Sacrifice this artifact: You gain 3 life,&quot; and it loses all other card types.
+---
+(Front): Terry, Sous Supreme</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/149_back.png" num="228b">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Terry, Sous Supreme</related>
+		</card>
+		<card>
+			<name>Urnis, Battlechef Exemplar</name>
+			<text>Nourish 2 (When this creature enters, put two +1/+1 counters on it or create two colorless Food artifact tokens with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)
+At the beginning of combat on your turn, each noncreature Food you control becomes an artifact creature with base power and toughness X/X until end of turn, where X is Urnis, Battlechef Exemplar&apos;s power.
+---
+(Back): Essence of Life</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/150_front.png" num="229a">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Essence of Life</related>
+		</card>
+		<card>
+			<name>Essence of Life</name>
+			<text>{2}, {T}, Sacrifice Essence of Life: You gain 3 life.
+When you sacrifice Essence of Life, search your library for a creature or Food card, reveal it, put it into your hand, then shuffle.
+---
+(Front): Urnis, Battlechef Exemplar</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/150_back.png" num="229b">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Urnis, Battlechef Exemplar</related>
+		</card>
+		<card>
+			<name>Ryori, Iron Chef</name>
+			<text>{T}: Add {C}{C}. This mana can&apos;t be spent to cast nonartifact spells.
+{2}, {T}: Copy target activated or triggered ability you control. You may choose new targets for the copy.
+---
+(Back): Processed Food</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/151_front.png" num="240a">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Chef Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Processed Food</related>
+		</card>
+		<card>
+			<name>Processed Food</name>
+			<text>{2}, {T}, Sacrifice Processed Food: You gain 3 life.
+When you sacrifice Processed Food, you may pay {2}. If you do, create a token that&apos;s a copy of it. The token can&apos;t be sacrificed until your next turn.
+---
+(Front): Ryori, Iron Chef</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/151_back.png" num="240b">CHF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Ryori, Iron Chef</related>
+		</card>
+		<card>
+			<name>Cadewyn, Short Order Cook</name>
+			<text>[+1]: Until your next turn, up to one target creature has base power and toughness 0/1.
+[0]: You may sacrifice a Food. If you do, put three loyalty counters on Cadewyn. Otherwise, create a Food token.
+[-3]: Create three 1/1 colorless Food Golem artifact creature tokens with haste and &quot;{2}, {T}, Sacrifice this creature: You gain 3 life.&quot;
+[-8]: You get an emblem with &quot;Whenever an artifact you control enters or leaves the battlefield, this emblem deals 1 damage to any target, and you gain 1 life.&quot;</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHF-files/img/152.png" num="210">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Cadewyn</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Oko, Lavish Host</name>
+			<text>[+1]: Each player may create their choice of a Food, Clue, or Treasure token.
+[-3]: Create a token that&apos;s a copy of another target permanent with mana value 3 or less.
+[-6]: For each token you control, create a token that&apos;s a copy of that permanent.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHF-files/img/153.png" num="222">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Oko</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vaul, Cannibal Outcast</name>
+			<text>[+1]: Create a 1/1 black Human creature token with haste.
+[-X]: The next creature spell you cast this turn has devour artifact and/or creature X.
+[-3]: Sacrifice a creature. You gain X life and draw X cards, where X is that creature&apos;s power.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHF-files/img/154.png" num="230">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Vaul</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sinzer, Seafood Surprise</name>
+			<text>Flash
+As long as Sinzer entered this turn, you may activate his loyalty abilities any time you could cast an instant.
+[+1]: Up to one target creature gets -2/-0 until end of turn. Its controller mills two cards.
+[0]: Until end of turn, Sinzer becomes a legendary 4/6 Crab creature with hexproof and indestructible. (He doesn&apos;t lose loyalty while he&apos;s not a planeswalker.)
+[-2]: Return up to one target creature to its owner&apos;s hand. Create a 0/3 blue Crab creature token.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHF-files/img/155.png" num="82">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Sinzer</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lost in Flavor</name>
+			<text>Enchant nonland permanent
+Enchanted permanent is a Food artifact with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life,&quot; and it loses all other types and abilities. (If it was a creature, it&apos;s no longer a creature.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/156.png" num="39">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>You Are What You Eat</name>
+			<text>When this enchantment enters, create a Food token.
+Whenever a creature you control devours a permanent, it gains haste and all abilities of that permanent until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/157.png" num="130">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Seasoned Seasoner</name>
+			<text>Vigilance
+This creature gets +2/+0 as long as you&apos;ve gained life and/or lost life this turn. (Damage causes loss of life.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/158.png" num="42">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clean Your Plate</name>
+			<text>This spell costs {2} less to cast if it targets a noncreature permanent.
+Destroy target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/159.png" num="26">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Biggest Fan</name>
+			<text>Vigilance
+Nourish 2 (When this creature enters, put two +1/+1 counters on it or create two colorless Food artifact tokens with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/160.png" num="23">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hunting Hawk</name>
+			<text>Flying
+At the beginning of your end step, if a permanent you control left the battlefield this turn, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/161.png" num="34">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Icing Aficionado</name>
+			<text>Vigilance
+When this creature enters, tap target creature.
+Decompose into Food {1}{W} ({1}{W}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s a colorless Food artifact with no mana cost and &quot;{2}, {T}: Sacrifice this artifact: You gain 3 life,&quot; and it loses all other card types. Decompose only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/162.png" num="35">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lunch Break</name>
+			<text>Exile target nonland permanent you control. Return that card to the battlefield under its owner&apos;s control at the beginning of the next end step. Create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/163.png" num="40">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ingredient Juggler</name>
+			<text>When this creature enters or leaves the battlefield, scry 1.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/164.png" num="36">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chopped</name>
+			<text>Choose one —
+• Destroy target attacking creature.
+• Target creature gets +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/165.png" num="25">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pastry Poisoner</name>
+			<text>Nourish 1 (When this creature enters, put a +1/+1 counter on it or create a colorless Food artifact token with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)
+Whenever you sacrifice a permanent, each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/166.png" num="118">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Chef Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kitchen Rats</name>
+			<text>Pay 3 life: This creature gets +2/+2 until end of turn. Activate only once each turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/167.png" num="113">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rat</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aven Spell-Chef</name>
+			<text>Flying
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/168.png" num="58">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Wizard Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Trapjaw Kraken</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+When this creature enters, tap it and up to one other target creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/169.png" num="88">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kraken Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Supernatural Intervention</name>
+			<text>Counter target spell. Create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/170.png" num="86">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Messy Decorator</name>
+			<text>When this creature enters, target player mills three cards.
+Decompose into Clue {1}{U} ({1}{U}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s a colorless Clue artifact with no mana cost and &quot;{2}, Sacrifice this artifact: Draw a card,&quot; and it loses all other card types. Decompose only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/171.png" num="75">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Secret Way</name>
+			<text>Target creature can&apos;t be blocked this turn.
+Draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/172.png" num="80">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ambidextrous Spellcook</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When this creature enters, you may draw a card. If you do, discard a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/173.png" num="53">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Octopus Wizard Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cafe Chums</name>
+			<text>When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Decompose into Clue {2}{U} ({2}{U}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s a colorless Clue artifact with no mana cost and &quot;{2}, Sacrifice this artifact: Draw a card,&quot; and it loses all other card types. Decompose only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/174.png" num="62">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Exotics Vendor</name>
+			<text>Flying
+This creature&apos;s power is equal to the number of differently named tokens you control.
+{1}{U}, Discard this card: Create a Treasure token.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/175.png" num="69">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>*/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thirst for Sustenance</name>
+			<text>Draw three cards, then discard two cards unless you discard an instant card or a card with flash.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/176.png" num="87">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Check Please</name>
+			<text>Counter target spell unless its controller pays {X}, where X is 1 plus the number of artifacts you control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/177.png" num="64">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Crafty Resilience</name>
+			<text>Until end of turn, target creature gets +1/+0 and gains &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/178.png" num="103">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Campfire Cooks</name>
+			<text>When this creature enters, target creature you control gains haste until end of turn.
+Decompose into Treasure {1}{R} ({1}{R}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s a colorless Treasure artifact with no mana cost and &quot;{T}, Sacrifice this artifact: Add one mana of any color,&quot; and it loses all other card types. Decompose only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/179.png" num="139">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hunted Corrix</name>
+			<text>When this creature leaves the battlefield, exile the top card of your library. Until your next end step, you may play that card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/180.png" num="152">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heated Up</name>
+			<text>Target creature gets +2/+0 and gains first strike until end of turn.
+Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/181.png" num="149">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inspiring Chef</name>
+			<text>At the beginning of your end step, if a permanent you control left the battlefield this turn, create a 1/1 red Goblin creature token.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/182.png" num="153">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sizzling Chef</name>
+			<text>As long as it&apos;s your turn, this creature has first strike.
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/183.png" num="163">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Overcook</name>
+			<text>Players can&apos;t gain life this turn. Damage can&apos;t be prevented this turn. Choose one—
+• Overcook deals 2 damage to target player.
+• Overcook deals 3 damage to target creature or planeswalker.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/184.png" num="156">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Flambe</name>
+			<text>Choose one —
+• Flambe deals 5 damage to target creature.
+• Destroy target artifact or land.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/185.png" num="144">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Harvest Warden</name>
+			<text>Reach
+{T}: Add one mana of any color.
+{3}{G}: This creature gets +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/186.png" num="188">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Titanic Gorzilla</name>
+			<text>Trample
+Nourish 1 (When this creature enters, put a +1/+1 counter on it or create a colorless Food artifact token with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/187.png" num="205">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ape Lizard Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Knuckle Sandwich</name>
+			<text>Target creature you control fights target creature you don&apos;t control.
+Create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/188.png" num="192">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Broken Wings</name>
+			<text>Destroy target artifact, enchantment, or creature with flying.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/189.png" num="179">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Distant Haze</name>
+			<text>Prevent all combat damage that would be dealt this turn by nontoken creatures.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CHF-files/img/190.png" num="182">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hinterland Harbor</name>
+			<text>This land enters tapped unless you control a Forest or an Island.
+{T}: Add {G} or {U}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/191.png" num="249">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dragonskull Summit</name>
+			<text>This land battlefield tapped unless you control a Swamp or a Mountain.
+{T}: Add {B} or {R}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/192.png" num="245">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Woodland Cemetery</name>
+			<text>This land enters tapped unless you control a Swamp or a Forest.
+{T}: Add {B} or {G}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/193.png" num="254">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Clifftop Retreat</name>
+			<text>This land enters tapped unless you control a Mountain or a Plains.
+{T}: Add {R} or {W}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/194.png" num="244">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Evaporated</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 2] Exile target creature or planeswalker.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/195.png" num="8">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Healer&apos;s Livestock</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 1] Create two 1/1 white Bird creature tokens with flying and lifelink.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/196.png" num="33">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Flattened</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 2] Destroy target creature you don&apos;t control with power 4 or greater.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/197.png" num="31">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>And Preserved for Later</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 3] Creatures you control get +1/+0 and gain indestructible until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/198.png" num="19">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Instant — Ingredient</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>And with the Recipe Provided</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 3] Draw two cards.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/199.png" num="56">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Steamed Octopus</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 1] Create a 3/4 blue Octopus creature token with ward {2}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/200.png" num="85">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Freshly Butchered</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 2] Each opponent sacrifices a creature.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/201.png" num="106">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Maggot Cheese</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 1] Create a 1/1 green Insect creature token for each creature card you own in exile and in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/202.png" num="114">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Twice-Baked</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 2] Target creature gains double strike until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/203.png" num="167">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Instant — Ingredient</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>And Sliced Up</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 3] This card deals 2 damage to each creature.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/204.png" num="134">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Molten Rock</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 1] Create an X/X red Elemental creature token with trample, where X is the number of instant and sorcery cards you own in exile and in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/205.png" num="155">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lots of Things</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 1] Create a 1/1 blue Tentacle creature token, a 3/3 green Beast creature token, and a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/206.png" num="194">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Free Range</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 2] Search your library for two basic land cards, put them onto the battlefield tapped, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/207.png" num="186">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>And Yesterday&apos;s Leftovers</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 3] Return target card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/208.png" num="173">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Server Angel</name>
+			<text>Flying, vigilance
+Nourish 2 (When this creature enters, put two +1/+1 counters on it or create two colorless Food artifact tokens with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/209.png" num="45">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Boarkin Incenser</name>
+			<text>When this creature enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+{2}, Sacrifice an artifact or another creature: Creatures you control get +1/+1 until end of turn. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/210.png" num="24">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Boar Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Livestock Guardian</name>
+			<text>Vigilance
+When this creature enters, you may sacrifice a token. When you do, exile target creature an opponent controls until this creature leaves the battlefield.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/211.png" num="38">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Halfling Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Five Second Rule</name>
+			<text>Return target spell, creature, or planeswalker to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/212.png" num="70">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hunt for Ingredients</name>
+			<text>Search your library for an instant or sorcery card, reveal it, then shuffle and put that card on top.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/213.png" num="72">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Clumsy Cook</name>
+			<text>When this creature enters, you may return another target creature to its owner&apos;s hand.
+Decompose into Clue {4}{U} ({4}{U}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s a colorless Clue artifact with no mana cost and &quot;{2}, Sacrifice this artifact: Draw a card,&quot; and it loses all other card types. Decompose only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/214.png" num="65">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hungry Squab</name>
+			<text>Flying
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/215.png" num="71">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kraken Drowner</name>
+			<text>Flash
+When this creature enters, counter target spell.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/216.png" num="73">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kraken</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tavern Swindler</name>
+			<text>{T}, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/217.png" num="128">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Greasefire Phoenix</name>
+			<text>Flying, haste
+Protection from blue
+Whenever an opponent casts a blue spell, put a +1/+1 counter on this creature.
+At the beginning of combat on your turn, if an opponent has cast a blue spell this turn, return this creature from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/218.png" num="148">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prepmage Adept</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+If a spell or ability would cause this creature to gain an amount of power, put that many +1/+1 counters on it instead.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/219.png" num="157">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Wizard Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Woodcrasher Baloth</name>
+			<text>Whenever this creature or another Beast enters under your control, that creature deals damage equal to its power to target player.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/220.png" num="169">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ready to Crumble</name>
+			<text>Choose one —
+• Destroy target artifact.
+• Target creature you control deals damage equal to its power to another target creature.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/221.png" num="158">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Well-Fed Grizzly</name>
+			<text>Nourish 1 (When this creature enters, put a +1/+1 counter on it or create a colorless Food artifact token with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/222.png" num="208">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unbalanced Diet</name>
+			<text>Create a 1/1 green Elf creature token. Then choose a creature you control. Put X +1/+1 counters on it, where X is the number of differently named tokens you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/223.png" num="207">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Battlechef Contestant</name>
+			<text>Nourish 1 (When this creature enters, put a +1/+1 counter on it or create a colorless Food artifact token with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)
+Sacrifice a Food: This creature fights another target creature.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/224.png" num="175">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stompede</name>
+			<text>Put a +1/+1 counter on each Beast creature you control. Then creatures you control get +2/+2 and gain trample until end of turn</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/225.png" num="202">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sweets Swiper</name>
+			<text>When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{2}{G}: The owner of target card in a graveyard shuffles it into their library.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/226.png" num="203">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aged to Perfection</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 2] Return target artifact, creature, or planeswalker card from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/227.png" num="92">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Doubled Up</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 2] Create a token that&apos;s a copy of target creature you control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/228.png" num="67">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>And Kicked Up a Notch</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 3] After the first postcombat main phase this turn, there&apos;s an additional combat phase followed by an additional main phase. At the beginning of that combat, untap all creatures that attacked this turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/229.png" num="133">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>And Made Premium</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 3] You may sacrifice a creature. If you do, search your library for a creature card with mana value X or less, where X is 1 plus the sacrificed creature&apos;s mana value. Put that card onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/230.png" num="172">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Baker&apos;s Dozen</name>
+			<text>Create thirteen Food tokens.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/231.png" num="22">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4WWW</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Veteran Competitor</name>
+			<text>Nourish 2 (When this creature enters, put two +1/+1 counters on it or create two colorless Food artifact tokens with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)
+Spells you cast that target this creature cost {1} less to cast for each Food you control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/232.png" num="52">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clear the Table</name>
+			<text>Destroy all artifacts and creatures.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/233.png" num="27">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Overwhelming Wave</name>
+			<text>Return all creatures to their owners&apos; hands except for Crabs, Krakens, Leviathans, Octopuses, Serpents, and Sharks.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/234.png" num="76">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>One Minute Remaining</name>
+			<text>As an additional cost to cast this spell, sacrifice X artifacts and/or creatures.
+Draw X cards.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/235.png" num="117">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Demon of Endless Appetite</name>
+			<text>Flying
+At the beginning of your upkeep, you may sacrifice a Food. If you don&apos;t, tap this creature and it deals 6 damage to you.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/236.png" num="105">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Meatery Master</name>
+			<text>Nourish 3 (When this creature enters, put three +1/+1 counters on it or create three colorless Food artifact tokens with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)
+Whenever an artifact you control is put into a graveyard from the battlefield, target opponent loses life equal to this creature&apos;s power.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/237.png" num="115">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodlash</name>
+			<text>Prowess
+Whenever Bloodlash attacks, you may put a creature card with mana value less than or equal to Bloodlash&apos;s power from your hand onto the battlefield tapped and attacking. Return that creature to your hand at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/238.png" num="136">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Beast Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Battlechef Lieutenant</name>
+			<text>Nourish 2 (When this creature enters, put two +1/+1 counters on it or create two colorless Food artifact tokens with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)
+Foods you control have &quot;{2}, {T}, Sacrifice this artifact: Target creature you control deals damage equal to its power to target creature or planeswalker you don&apos;t control.&quot;</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/239.png" num="176">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Soldier Chef</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Revel in Dishes</name>
+			<text>Whenever you attack, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+At the beginning of your upkeep, if you control ten or more Foods, you win the game.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/240.png" num="197">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>And Enough to Share</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 3] Choose one—
+• Double your life total.
+• Exchange life totals with target opponent.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHF-files/img/241.png" num="17">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>And Repeat Step One</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 3] Take an extra turn after this one. If you cast this card from your hand, skip the untap step of that turn.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHF-files/img/242.png" num="54">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>And Served Exactly as Requested</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 3] Search your library for a card with mana value less than or equal to the number of lands you control, reveal it, shuffle your library, and put that card on top</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHF-files/img/243.png" num="94">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>And a Dessert To Go</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 3] Search target opponent&apos;s library for a creature card and put it onto the battlefield under your control. It gains haste and &quot;shuffle this creature into its owner&apos;s library at end of turn.&quot; That opponent shuffles.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHF-files/img/244.png" num="131">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>And Including a Special Surpise</name>
+			<text>Recipe (Exile this as it resolves with a cooking counter on it. Then you may put an &quot;I&quot;, &quot;II&quot;, and &quot;III&quot; ingredient you own in exile with cooking counters on them onto the battlefield merged as a Saga enchantment with their names, colors, and chapter abilities.)
+[level 3] Look at the top seven cards of your library. You may put a permanent card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHF-files/img/245.png" num="171">CHF</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Sorcery — Ingredient</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Culdona Reaper</name>
+			<text>Flying, haste
+Players can&apos;t gain life.
+Whenever a creature dies, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;)
+Sacrifice a Food: Dragons you control get +2/+0 until end of turn.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHF-files/img/246.png" num="142">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ghost-Story Group</name>
+			<text>Whenever one or more creature cards leave your graveyard, create a 1/1 white Spirit creature token with flying.
+Decompose into Doom Whisperer {5}{B}{B} ({5}{B}{B}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s a 6/6 black Nightmare Demon creature with mana cost {3}{B}{B}, flying, trample, and &quot;Pay 2 life: Surveil 2.&quot; It loses all other card types. Decompose only as a sorcery.)</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHF-files/img/247.png" num="107">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sulfur Falls</name>
+			<text>This land enters tapped unless you control an Island or a Mountain.
+{T}: Add {U} or {R}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/248.png" num="252">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Drowned Catacomb</name>
+			<text>This land enters tapped unless you control an Island or a Swamp.
+{T}: Add {U} or {B}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/249.png" num="246">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Glacial Fortress</name>
+			<text>This land enters tapped unless you control a Plains or an Island.
+{T}: Add {W} or {U}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/250.png" num="248">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Rootbound Crag</name>
+			<text>This land enters tapped unless you control a Mountain or a Forest.
+{T}: Add {R} or {G}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/251.png" num="251">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sunpetal Grove</name>
+			<text>This land enters tapped unless you control a Forest or a Plains.
+{T}: Add {G} or {W}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/252.png" num="253">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Isolated Chapel</name>
+			<text>This land enters tapped unless you control a Plains or a Swamp.
+{T}: Add {W} or {B}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHF-files/img/253.png" num="250">CHF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

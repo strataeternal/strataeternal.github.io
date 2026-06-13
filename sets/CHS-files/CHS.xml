@@ -1,0 +1,1084 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>CHS</name>
+			<longname>Culdona Signature Creations</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-06-13</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Wholesome Milk</name>
+			<text>{2}, {T}: Sacrifice this artifact.
+{1}{W}, {T}, Sacrifice this artifact: Put a +1/+1 counter on each of up to two target creatures. Activate only as a sorcery.
+When this artifact is put into a graveyard from the battlefield, you gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHS-files/img/0.png" num="60">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Soul Food</name>
+			<text>Flying, haste
+{2}, {T}: Sacrifice this creature.
+When this creature dies, you gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHS-files/img/1.png" num="53">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Uplifting Brew</name>
+			<text>{2}, {T}, Sacrifice this artifact: You gain 3 life.
+When this artifact leaves the battlefield, target creature gains flying until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHS-files/img/2.png" num="59">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Brain Food</name>
+			<text>{2}, {T}: Sacrifice this artifact.
+{1}{U}, {T}, Sacrifice this artifact: Scry 1, then draw a card. Activate only as a sorcery.
+When this artifact is put into a graveyard from the battlefield, you gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHS-files/img/3.png" num="31">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Puff Partner</name>
+			<text>Whenever you gain life, put a +1/+1 counter on this creature.
+{2}, {T}, Sacrifice this creature: You gain life equal to its power.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHS-files/img/4.png" num="50">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Poisoned Apple</name>
+			<text>{2}, {T}: Sacrifice this artifact.
+{1}{B}, {T}: Sacrifice this artifact: Each opponent loses 3 life. Activate only as a sorcery.
+When this artifact is put into a graveyard from the battlefield, you gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHS-files/img/5.png" num="49">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Carnivorous Vegetable</name>
+			<text>Whenever a creature dealt combat damage by this creature this turn dies, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+{2}, {T}, Sacrifice this creature: You gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHS-files/img/6.png" num="35">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Energy Drink</name>
+			<text>This artifact enters tapped.
+{T}: Add {C}. This mana can&apos;t be spent to cast a nonartifact spell.
+{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHS-files/img/7.png" num="39">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food Powerstone</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Inferno Sauce</name>
+			<text>{2}, {T}: Sacrifice this artifact.
+{1}{R}, {T}, Sacrifice this artifact: Target creature gets +3/+0 until end of turn. Activate only as a sorcery.
+When this artifact is put into a graveyard from the battlefield, you gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHS-files/img/8.png" num="44">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Buns in the Oven</name>
+			<text>Haste
+{2}, {T}, Sacrifice this creature: You gain 3 life.
+When this artifact leaves the battlefield, if it isn&apos;t a token, create a token that&apos;s a copy of it.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/9.png" num="33">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Exotic Chocolate Coin</name>
+			<text>{T}, Sacrifice this artifact: Add one mana of any color.
+{2}, Sacrifice this artifact: Draw a card.
+{2}, {T}, Sacrifice this artifact: You gain 3 life.
+{4}, {T}, Sacrifice this artifact: Create two tokens that are copies of it.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/10.png" num="40">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Clue Food Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Winter Produce</name>
+			<text>{2}, {T}: Sacrifice this artifact.
+{1}{G}, {T}, Sacrifice this artifact: Create a 1/1 green Squirrel creature token. Activate only as a sorcery.
+When this artifact is put into a graveyard from the battlefield, you gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHS-files/img/11.png" num="61">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Boundless Cornucopia</name>
+			<text>When this artifact enters, draw a card.
+{2}, {T}, Sacrifice this artifact: You gain 3 life.
+When this artifact is put into a graveyard from the battlefield, its owner shuffles it into their library.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHS-files/img/12.png" num="30">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Color Pie</name>
+			<text>When this artifact enters, scry 2.
+{2}, {T}, Sacrifice this artifact: Add two mana in any combination of colors. You gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHS-files/img/13.png" num="37">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bread Knife</name>
+			<text>Equipped creature gets +1/+1.
+{2}, {T}, Sacrifice this artifact: You gain 3 life.
+Equip {1}</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHS-files/img/14.png" num="32">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Two-for-One Special</name>
+			<text>When this artifact enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHS-files/img/15.png" num="58">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Delectable Delta</name>
+			<text>{T}: Add {C}.
+{2}, {T}, Sacrifice this land: You gain 3 life.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/16.png" num="63">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Land — Food</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Transmutive Tonic</name>
+			<text>Flash
+{2}, {T}, Sacrifice this artifact: You gain 3 life.
+When you sacrifice this artifact, until end of turn, target creature has base power and toughness 10/10 and gains trample and &quot;At the beginning of the end step, exile this creature and create a 3/3 green Elk creature token.&quot;</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHS-files/img/17.png" num="57">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Watermelephant</name>
+			<text>Vigilance
+When this creature enters or leaves the battlefield, return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield.
+{2}, {T}, Sacrifice this creature: You gain 3 life.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/18.png" num="4">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Elephant</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oblivionion Ring</name>
+			<text>When this artifact enters, exile another target nonland permanent until this artifact leaves the battlefield.
+{2}, {T}, Sacrifice this artifact You gain 3 life.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/19.png" num="2">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tabascobra</name>
+			<text>First strike
+{2}, {T}, Sacrifice this creature: You gain 3 life.
+When this creature dies, it deals 3 damage to each player.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/20.png" num="15">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Snake</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Midnight Snack</name>
+			<text>Foods you control have &quot;{T}: You gain 1 life.&quot;
+At the beginning of your end step, sacrifice a Food.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/21.png" num="9">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gourmet Golem</name>
+			<text>Trample
+This creature&apos;s power and toughness are each equal to the number of Foods you control.
+{2}, {T}, Sacrifice this creature: You gain 3 life.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/22.png" num="42">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cake Boss</name>
+			<text>Whenever you sacrifice a Food, you get {V} (a research counter).
+As long as you have ten or more {V}, you may pay {0} rather than pay the mana cost for artifact spells you cast.
+{2}, {T}, Sacrifice Cake Boss: You gain 3 life and get {V}.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHS-files/img/23.png" num="34">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Imposter Cake</name>
+			<text>You may have this artifact enter as a copy of an artifact or creature an opponent controls, except it&apos;s a Food artifact with &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life&quot; and it loses all other card types.
+{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/24.png" num="5">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Treasure Brews</name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+{2}, {T}, Sacrifice this artifact: Draw three cards. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/25.png" num="8">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reef Wellington</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+This creature can&apos;t be blocked as long as you&apos;ve cast two or more noncreature spells this turn.
+{2}, {T}, Sacrifice this creature: You gain 3 life.
+When this creature dies, draw a card for each noncreature spell you&apos;ve cast this turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/26.png" num="6">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Octopus</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cantelope</name>
+			<text>Lifelink
+When this creature enters, search your library for a Plains card, reveal it, put it into your hand, then shuffle.
+{2}, {T}, Sacrifice this creature: You gain 3 life.
+When this creature leaves the battlefield, if an opponent controls more lands than you, you may put a land card from your hand onto the battlefield.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/27.png" num="1">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Antelope</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plate of Leftovers</name>
+			<text>{2}, {T}, Sacrifice this artifact: You gain 3 life.
+When this artifact leaves the battlefield, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHS-files/img/28.png" num="48">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Delectable Altar</name>
+			<text>Sacrifice a Food: Add {C}.
+{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHS-files/img/29.png" num="38">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rotted Roast</name>
+			<text>{2}, {T}, Sacrifice this artifact: You gain 3 life, then each creature gets -X/-X until end of turn, where X is equal to the amount of life you gained this turn or the amount of life you lost this turn, whichever is greater. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/30.png" num="10">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Thoughtcheese</name>
+			<text>When this artifact enters, you lose 2 life.
+{2}, {T}, Sacrifice this artifact: Target player reveals their hand. You choose a nonland card from it. That player discards that card. You gain 3 life. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/31.png" num="11">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sauerkraut Elder</name>
+			<text>{2}, {T}, Sacrifice this creature: You gain 3 life.
+When this creature dies, search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/32.png" num="19">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Staff of Confection</name>
+			<text>{T}, Sacrifice a Food: You gain 3 life.
+{T}, Sacrifice two Foods: Draw a card.
+{T}, Sacrifice three Foods: Return target card from your graveyard to your hand.
+{T}, Sacrifice four Foods: You may put a permanent card from your hand onto the battlefield tapped.
+{5}: Untap this artifact.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHS-files/img/33.png" num="54">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Frosted Ballista</name>
+			<text>This creature enters with X +1/+1 counters on it.
+{4}: Put a +1/+1 counter on this creature.
+{2}, {T}, Sacrifice this creature: It deals damage equal to its power to any target.
+When this creature dies, you gain life equal to its power.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHS-files/img/34.png" num="41">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>XX</manacost>
+				<cmc>0</cmc>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wurmboil Engine</name>
+			<text>Trample, prowess
+{2}, {T}, Sacrifice this creature: You gain 3 life.
+When this artifact dies, create a 3/3 colorless Food Wurm artifact creature token with trample and a 3/3 colorless Food Wurm artifact creature token with prowess. Each of those tokens also has &quot;{2}, {T}, Sacrifice this creature: You gain 3 life.&quot;</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHS-files/img/35.png" num="62">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hot Potato</name>
+			<text>Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Whenever this artifact&apos;s cumulative upkeep is paid, target opponent gains control of it.
+When this artifact is put into a graveyard from the battlefield, it deals damage to its controller equal to the number of age counters on it.
+{2}, {T}: Put an age counter on Hot Potato.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/36.png" num="14">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crepe Shot</name>
+			<text>Storm (When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)
+{2}, {T}, Sacrifice this artifact: Crepe Shot deals 1 damage to any target. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/37.png" num="13">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Secret Ingredient</name>
+			<text>Morph {1} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+{2}, {T}: Sacrifice this artifact.
+When this artifact is turned face up or leaves the battlefield (while it&apos;s face-up), you gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHS-files/img/38.png" num="51">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Infinite Truffle</name>
+			<text>{2}, {T}: You gain 3 life.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/39.png" num="45">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gravy Train</name>
+			<text>Trample
+When this Vehicle enters, create two Food tokens. (They&apos;re artifacts with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+Crew 3
+Sacrifice a Food: You gain 3 life. This Vehicle becomes an artifact creature until end of turn. Activate only once each turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/40.png" num="43">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Grapevine Harvester</name>
+			<text>{T}: Add {G} for each Food you control.
+{2}, {T}, Sacrifice this creature: You gain 3 life.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/41.png" num="18">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Colossal Breadmaw</name>
+			<text>Trample
+Whenever a creature dealt combat damage by this creature this turn dies, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+{2}, {T}, Sacrifice this creature: You gain 3 life.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/42.png" num="17">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Dinsoaur</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Irresistible Coating</name>
+			<text>{T}: Until end of turn, target nonland permanent becomes a Food artifact in addition to its other types and gains &quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&quot;
+{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/43.png" num="46">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cherry Bomb</name>
+			<text>{T}: Put a charge counter on this artifact.
+{2}, {T}, Sacrifice this artifact: Destroy each nonland permanent with mana value equal to the number of charge counters on this artifact.
+{2}, {T}, Sacrifice this artifact: You gain life equal to the number of charge counters on this artifact.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/44.png" num="36">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>All You Can Eat Buffet</name>
+			<text>{X}, {T}, Sacrifice this artifact: You gain X life.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/45.png" num="27">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Smothering Thyme</name>
+			<text>Whenever an opponent draws one or more cards, that player may pay {2}. If the player doesn&apos;t, you create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHS-files/img/46.png" num="3">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Prince of the Pie</name>
+			<text>Vigilance
+When this creature enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+{G}{W}, Sacrifice another Food: Put a permanent card with mana value 3 or less from your graveyard on top of your library. You gain 3 life.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/47.png" num="24">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3GW</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sensei&apos;s Divining Tea</name>
+			<text>{T}: Scry 1.
+{2}, {T}: You gain 3 life and draw a card. Then put this artifact on top of its owner&apos;s library.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/48.png" num="52">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sphinx of the Final Meal</name>
+			<text>Flying
+Whenever this creature deals combat damage to a player, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+If you would gain life, scry that many cards instead.
+{2}, {T}, Sacrifice this creature: Scry 3.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHS-files/img/49.png" num="7">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Sphinx</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beefy Broodling</name>
+			<text>Trample
+When this creature enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+{R}{G}, Sacrifice a Food: Put a +1/+1 counter on a creature you control. You gain 3 life.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/50.png" num="21">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aether Veal</name>
+			<text>At the beginning of your upkeep, you may put a charge counter on this artifact.
+{T}: You may put a noncreature artifact card with mana value equal to the number of charge counters on this artifact from your hand onto the battlefield.
+{2}, {T}, Sacrifice this artifact: You gain life equal to the number of charge counters on this artifact.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHS-files/img/51.png" num="26">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Underworld Bread</name>
+			<text>Each nonland permanent card in your graveyard has decompose into Food. The decompose cost is equal to its mana cost. (Pay that card&apos;s decompose cost and exile it from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s a colorless Food artifact with &quot;{2}, {T}: Sacrifice this artifact: You gain 3 life,&quot; and it loses all other card types.)
+At the beginning of the end step, sacrifice this artifact and you gain 3 life.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHS-files/img/52.png" num="12">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Salted Seer</name>
+			<text>Ward {2}
+When this creature enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+{W}{U}, Sacrifice a Food: Draw a card. You gain 3 life.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/53.png" num="25">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Taffin, Lord of the Feast</name>
+			<text>Whenever you activate an ability of a Food, if {W} was spent to activate it, create a 1/1 white Human creature token. If {U} was spent to activate it, scry 2. If {B} was spent to activate it, each opponent loses 2 life. If {R} was spent to activate it, you may discard a card. If you do, draw a card. If {G} was spent to activate it, you may put a land card from your hand onto the battlefield.
+{2}, {T}, Sacrifice this creature: You gain 3 life.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHS-files/img/54.png" num="56">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Food Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wheel of Cheddar</name>
+			<text>{2}, {T}, Sacrifice this artifact: Each player may discard their hand. If they do, they draw seven cards. Activate only as a sorcery.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHS-files/img/55.png" num="16">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Decadent Dragon</name>
+			<text>Lifelink
+When this creature enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+{U}{B}, Sacrifice a Food: Create a tapped Treasure token. You gain 3 life. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/56.png" num="22">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sword of Sugar and Spice</name>
+			<text>Equipped creature gets +2/+2 and has protection from artifacts and from enchantments. This effect doesn&apos;t remove this artifact.
+Whenever equipped creature deals combat damage to a player, draw a card, then discard a card. You gain life equal to the discarded card&apos;s mana value.
+{T}: You gain life equal to equipped creature&apos;s power, then sacrifice this artifact.
+Equip {2}</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHS-files/img/57.png" num="55">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tyrant of Rotisserie Ridge</name>
+			<text>Vigilance
+{2}, {T}: Choose one—
+• You may sacrifice another Food. If you do, this creature fights target creature you don&apos;t control.
+• You may sacrifice this creature. If you do, you gain 3 life.
+• This creature gains indestructible until end of turn.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHS-files/img/58.png" num="20">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Food Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3GGG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frosted Flamespitter</name>
+			<text>Flying
+When Frosted Flamespitter enters create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+{B}{R}, Sacrifice a Food: Frosted Flamespitter deals 3 damage to any target. You gain 3 life.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/59.png" num="23">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bagels and Mox</name>
+			<text>This artifact enters tapped.
+{T}: Add one mana of any color. Spend this mana only to cast Food or Chef spells or activate the abilities of Foods and Chefs.
+{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHS-files/img/60.png" num="28">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blood Pudding</name>
+			<text>{T}: Add one mana of any color.
+{2}, {T}, Sacrifice this artifact, Discard a card: You gain 3 life and draw a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHS-files/img/61.png" num="29">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Blood Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kraken Roll</name>
+			<text>When this creature enters, create two Food tokens. (They&apos;re artifacts with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+Whenever you sacrifice a Food, create a 1/1 blue Tentacle creature token.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CHS-files/img/62.png" num="47">CHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Kraken</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

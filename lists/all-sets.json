@@ -6,6 +6,16 @@
             "formats": "stratacommander"
         },
         {
+            "set_code": "CHF",
+            "set_name": "Chefs of Culdona",
+            "formats": "stratacommander, stratastandard"
+        },
+        {
+            "set_code": "CHS",
+            "set_name": "Culdona Signature Creations",
+            "formats": "stratacommander, stratastandard"
+        },
+        {
             "set_code": "CJS",
             "set_name": "Commander Jumpstrat",
             "formats": "stratacommander"

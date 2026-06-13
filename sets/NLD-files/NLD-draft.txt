@@ -1,0 +1,2947 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Spiteful Thrall",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Elf Viking",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/0.png"
+			}
+		},
+		{
+			"name": "Raevir Guide",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird Scout",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/1.png"
+			}
+		},
+		{
+			"name": "Honored Dead",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit Viking",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/2.png"
+			}
+		},
+		{
+			"name": "Fireblade Gunnar",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Viking",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/3.png"
+			}
+		},
+		{
+			"name": "Selfless Sage",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Dwarf Cleric",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/4.png"
+			}
+		},
+		{
+			"name": "Dvergr Inscriber",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Dwarf Artificer",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/5.png"
+			}
+		},
+		{
+			"name": "Dvergr Longship",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/6.png"
+			}
+		},
+		{
+			"name": "Landscaper Colos",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Goat Beast",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/7.png"
+			}
+		},
+		{
+			"name": "Subzero Shattering",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/8.png"
+			}
+		},
+		{
+			"name": "Unfamiliar Territory",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/9.png"
+			}
+		},
+		{
+			"name": "Charge In",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/10.png"
+			}
+		},
+		{
+			"name": "Bjorn's Blessing",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/11.png"
+			}
+		},
+		{
+			"name": "Shipwreck Stalker",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Scout",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/12.png"
+			}
+		},
+		{
+			"name": "Upwash Leader",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird Viking",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/13.png"
+			}
+		},
+		{
+			"name": "Belhime's Sentinel",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Spirit Soldier",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/14.png"
+			}
+		},
+		{
+			"name": "Frostburn Draugr",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Zombie Viking",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/15.png"
+			}
+		},
+		{
+			"name": "Novice Shipwright",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Dwarf Artificer",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/16.png"
+			}
+		},
+		{
+			"name": "Draugr Vanguard",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Zombie Viking",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/17.png"
+			}
+		},
+		{
+			"name": "Etli's Denial",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/18.png"
+			}
+		},
+		{
+			"name": "Feathered Tune",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/19.png"
+			}
+		},
+		{
+			"name": "Walking Nightmare",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/20.png"
+			}
+		},
+		{
+			"name": "Rolling Waves",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/21.png"
+			}
+		},
+		{
+			"name": "Mystic Communion",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/22.png"
+			}
+		},
+		{
+			"name": "Leap",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/23.png"
+			}
+		},
+		{
+			"name": "Leira Muckdredgers",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Merfolk Rogue",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/24.png"
+			}
+		},
+		{
+			"name": "Draugr Corsair",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Viking",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/25.png"
+			}
+		},
+		{
+			"name": "Raevir Lifeweaver",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Bird Cleric",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/26.png"
+			}
+		},
+		{
+			"name": "Restless Combatant",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elf Viking",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/27.png"
+			}
+		},
+		{
+			"name": "Dokkar Cohort",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Elf Viking",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/28.png"
+			}
+		},
+		{
+			"name": "Murkwater Scrounger",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Merfolk Rogue",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/29.png"
+			}
+		},
+		{
+			"name": "Soul Exhumer",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Angel",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/30.png"
+			}
+		},
+		{
+			"name": "Rise Again",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/31.png"
+			}
+		},
+		{
+			"name": "Fellwind Dredger",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/32.png"
+			}
+		},
+		{
+			"name": "Cremate",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/33.png"
+			}
+		},
+		{
+			"name": "Soulbreaker",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/34.png"
+			}
+		},
+		{
+			"name": "Brekka Bladesmith",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Dwarf Artificer",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/35.png"
+			}
+		},
+		{
+			"name": "Kilvik Runekarl",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Viking",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/36.png"
+			}
+		},
+		{
+			"name": "Seskrin's Apprentrice",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/37.png"
+			}
+		},
+		{
+			"name": "Rakish Raider",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dwarf Viking",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/38.png"
+			}
+		},
+		{
+			"name": "Pitiless Pillagers",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Zombie Viking",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/39.png"
+			}
+		},
+		{
+			"name": "Vindictive Valkyr",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Angel",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/40.png"
+			}
+		},
+		{
+			"name": "Warleader Aspirant",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Viking",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/41.png"
+			}
+		},
+		{
+			"name": "Fiery Barde",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/42.png"
+			}
+		},
+		{
+			"name": "Barbarian's Strength",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/43.png"
+			}
+		},
+		{
+			"name": "Tectonic Bombardment",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/44.png"
+			}
+		},
+		{
+			"name": "Glancing Blow",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/45.png"
+			}
+		},
+		{
+			"name": "Relic Blade",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/46.png"
+			}
+		},
+		{
+			"name": "Memory Preserver",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Spirit Cleric",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/47.png"
+			}
+		},
+		{
+			"name": "Champion of the Wilderness",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Viking",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/48.png"
+			}
+		},
+		{
+			"name": "Leyline Keeper",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/49.png"
+			}
+		},
+		{
+			"name": "Youthful Gunnar",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Viking",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/50.png"
+			}
+		},
+		{
+			"name": "Ethereal Groundskeeper",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Spirit",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/51.png"
+			}
+		},
+		{
+			"name": "Seagrass Sifter",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Merfolk Scout",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/52.png"
+			}
+		},
+		{
+			"name": "Alfir Warcaller",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Viking",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/53.png"
+			}
+		},
+		{
+			"name": "Follower of Nmir",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Giant",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/54.png"
+			}
+		},
+		{
+			"name": "Seatreader Jotun",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Giant",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/55.png"
+			}
+		},
+		{
+			"name": "Kelp Siren",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Merfolk Horror",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/56.png"
+			}
+		},
+		{
+			"name": "Corrupting Touch",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/57.png"
+			}
+		},
+		{
+			"name": "Nmir's Feast",
+			"rarity": "common",
+			"mana_cost": "{2}{G/W}",
+			"type": "Instant",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/58.png"
+			}
+		},
+		{
+			"name": "Explore",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/59.png"
+			}
+		},
+		{
+			"name": "Collective Company",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Elf Viking",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/60.png"
+			}
+		},
+		{
+			"name": "Sanctum Constructor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "20",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://strataeternal.github.io/sets/NLD-files/img/61_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/61_front.png"
+			}
+		},
+		{
+			"name": "Tarhild Redeemer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Angel Viking",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/62.png"
+			}
+		},
+		{
+			"name": "Sealing Spirit",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/63.png"
+			}
+		},
+		{
+			"name": "Sigiled Gateway",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Artifact — Fortification",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/64.png"
+			}
+		},
+		{
+			"name": "Gilded Frontrunner",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/65.png"
+			}
+		},
+		{
+			"name": "Dwarven Metalsong",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/66.png"
+			}
+		},
+		{
+			"name": "Triumph Mage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Dwarf Wizard",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/67.png"
+			}
+		},
+		{
+			"name": "Plundering Raevir",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird Viking",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/68.png"
+			}
+		},
+		{
+			"name": "Leira Plunger",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Merfolk Rogue",
+			"collector_number": "46",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://strataeternal.github.io/sets/NLD-files/img/69_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/69_front.png"
+			}
+		},
+		{
+			"name": "Sturmkeld Skyscribe",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Bird Shaman",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/70.png"
+			}
+		},
+		{
+			"name": "Bastion of Knowledge",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Fortification",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/71.png"
+			}
+		},
+		{
+			"name": "Mirage Skimmer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/72.png"
+			}
+		},
+		{
+			"name": "Rewind",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/73.png"
+			}
+		},
+		{
+			"name": "Blackwater Chanter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Merfolk Warlock",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/74.png"
+			}
+		},
+		{
+			"name": "Twilight Chaser",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Bird Cleric",
+			"collector_number": "91",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://strataeternal.github.io/sets/NLD-files/img/75_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/75_front.png"
+			}
+		},
+		{
+			"name": "Grim Valkyr",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Angel",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/76.png"
+			}
+		},
+		{
+			"name": "Emerge from the Underrealm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/77.png"
+			}
+		},
+		{
+			"name": "Funeral Courier",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/78.png"
+			}
+		},
+		{
+			"name": "Den of the Fell God",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Fortification",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/79.png"
+			}
+		},
+		{
+			"name": "Frenzied Immolator",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/80.png"
+			}
+		},
+		{
+			"name": "Tireless Runescribe",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dwarf Shaman",
+			"collector_number": "118",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://strataeternal.github.io/sets/NLD-files/img/81_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/81_front.png"
+			}
+		},
+		{
+			"name": "Relentless Invader",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Zombie Viking",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/82.png"
+			}
+		},
+		{
+			"name": "Avalanche Jotun",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Elemental Giant",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/83.png"
+			}
+		},
+		{
+			"name": "Obliterating Bolt",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/84.png"
+			}
+		},
+		{
+			"name": "Battering Cart",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/85.png"
+			}
+		},
+		{
+			"name": "Raiders' Encampment",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Artifact — Fortification",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/86.png"
+			}
+		},
+		{
+			"name": "Whisper in the Woods",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Spirit",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/87.png"
+			}
+		},
+		{
+			"name": "Dokkar Clansman",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Viking",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/88.png"
+			}
+		},
+		{
+			"name": "Caring Cultivator",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "125",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://strataeternal.github.io/sets/NLD-files/img/89_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/89_front.png"
+			}
+		},
+		{
+			"name": "Jotun Amplifier",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Giant Druid",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/90.png"
+			}
+		},
+		{
+			"name": "Murkwater Voyager",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/91.png"
+			}
+		},
+		{
+			"name": "Outland Settlements",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Fortification",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/92.png"
+			}
+		},
+		{
+			"name": "Long Way Home",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/93.png"
+			}
+		},
+		{
+			"name": "Dauntless Bear",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Bear",
+			"collector_number": "7",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://strataeternal.github.io/sets/NLD-files/img/94_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/94_front.png"
+			}
+		},
+		{
+			"name": "Valkyr General",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{W}",
+			"type": "Creature — Angel Viking",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/95.png"
+			}
+		},
+		{
+			"name": "Ceaseless Butcher",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elf Viking",
+			"collector_number": "64",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://strataeternal.github.io/sets/NLD-files/img/96_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/96_front.png"
+			}
+		},
+		{
+			"name": "Drink the Cosmos",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/97.png"
+			}
+		},
+		{
+			"name": "Grim Lavamancer",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/98.png"
+			}
+		},
+		{
+			"name": "Draugr Uprising",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/99.png"
+			}
+		},
+		{
+			"name": "Jotun Chanter",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Giant Shaman",
+			"collector_number": "134",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://strataeternal.github.io/sets/NLD-files/img/100_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/100_front.png"
+			}
+		},
+		{
+			"name": "Kell of the North Wind",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Shapeshifter",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/101.png"
+			}
+		},
+		{
+			"name": "Duskfeather Soulguide",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Bird Spirit",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/102.png"
+			}
+		},
+		{
+			"name": "Mesmeric Drowner",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Merfolk Warlock",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/103.png"
+			}
+		},
+		{
+			"name": "Kilvik Sage",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/104.png"
+			}
+		},
+		{
+			"name": "Unstoppable Valkyr",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Creature — Angel Viking",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/105.png"
+			}
+		},
+		{
+			"name": "Smuggler's Sailcraft",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/106.png"
+			}
+		},
+		{
+			"name": "Trench Feeder",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Merfolk",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/107.png"
+			}
+		},
+		{
+			"name": "Tarhild Escort",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Creature — Angel Viking",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/108.png"
+			}
+		},
+		{
+			"name": "Radiant Skies",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/109.png"
+			}
+		},
+		{
+			"name": "Thunder Slinger",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Creature — Giant Warrior",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/110.png"
+			}
+		},
+		{
+			"name": "Svetnar General",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Spirit Viking",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/111.png"
+			}
+		},
+		{
+			"name": "Margyr General",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Merfolk Viking",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/112.png"
+			}
+		},
+		{
+			"name": "Mobile City",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Artifact — Fortification",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/113.png"
+			}
+		},
+		{
+			"name": "Courageous Solidarity",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/114.png"
+			}
+		},
+		{
+			"name": "Grim Solidarity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/115.png"
+			}
+		},
+		{
+			"name": "Fervent Solidarity",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/116.png"
+			}
+		},
+		{
+			"name": "Venture the Realms",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/117.png"
+			}
+		},
+		{
+			"name": "Echoes of Sondar",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/118.png"
+			}
+		},
+		{
+			"name": "Raevir Gustcaller",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Bird Wizard",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/119.png"
+			}
+		},
+		{
+			"name": "Dokkar Raidmaster",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{B}{G}",
+			"type": "Creature — Elf Viking",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/120.png"
+			}
+		},
+		{
+			"name": "Guiding Valkyr",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Creature — Angel Warrior",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/121.png"
+			}
+		},
+		{
+			"name": "Agony of Unlife",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/122.png"
+			}
+		},
+		{
+			"name": "Draugr Submerger",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Merfolk Zombie",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/123.png"
+			}
+		},
+		{
+			"name": "Brekka Titanship",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/124.png"
+			}
+		},
+		{
+			"name": "Margyr Sorceress",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/125.png"
+			}
+		},
+		{
+			"name": "Primal Monolith",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Artifact — Fortification",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/126.png"
+			}
+		},
+		{
+			"name": "Apex Worldpost",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Artifact — Fortification",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/127.png"
+			}
+		},
+		{
+			"name": "Raevir Soulmage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Creature — Bird Wizard",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/128.png"
+			}
+		},
+		{
+			"name": "Bloodspitter Draugr",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Dwarf Zombie",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/129.png"
+			}
+		},
+		{
+			"name": "Jotun Invoker",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Giant Viking",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/130.png"
+			}
+		},
+		{
+			"name": "Paragon of the Pure",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/131.png"
+			}
+		},
+		{
+			"name": "Tyranny of the Horde",
+			"rarity": "common",
+			"mana_cost": "{W}{B}",
+			"type": "Instant",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/132.png"
+			}
+		},
+		{
+			"name": "Brekka Flagship",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/133.png"
+			}
+		},
+		{
+			"name": "Resillient Warband",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Elf Viking",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/134.png"
+			}
+		},
+		{
+			"name": "Persistent Valkyr",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/135.png"
+			}
+		},
+		{
+			"name": "Horizon Treader",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}{U}{R}",
+			"type": "Creature — Giant",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/136.png"
+			}
+		},
+		{
+			"name": "Olaf, Dvergr King",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Legendary Creature — Dwarf",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/137.png"
+			}
+		},
+		{
+			"name": "Grotnar, Fell Champion",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Legendary Creature — Zombie",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/138.png"
+			}
+		},
+		{
+			"name": "Belhime, Voice of Peace",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/139.png"
+			}
+		},
+		{
+			"name": "Raidleader Brynja",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}{B}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/140.png"
+			}
+		},
+		{
+			"name": "Ingmar, the Drowner",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Legendary Creature — Merfolk",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/141.png"
+			}
+		},
+		{
+			"name": "Irilai, the Siren's Wail",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}{B}",
+			"type": "Legendary Creature — Bird Dragon",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/142.png"
+			}
+		},
+		{
+			"name": "Gardir, Primal Voice",
+			"rarity": "rare",
+			"mana_cost": "{8}{G}{U}{R}",
+			"type": "Legendary Creature — Giant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/143.png"
+			}
+		},
+		{
+			"name": "Bloodfell Caves",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/144.png"
+			}
+		},
+		{
+			"name": "Dismal Backwater",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/145.png"
+			}
+		},
+		{
+			"name": "Rugged Highlands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/146.png"
+			}
+		},
+		{
+			"name": "Brekka Port",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/147.png"
+			}
+		},
+		{
+			"name": "Belhime's Tithe",
+			"rarity": "common",
+			"mana_cost": "{1}{W/U}",
+			"type": "Instant",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/148.png"
+			}
+		},
+		{
+			"name": "Battlefield Bonepicker",
+			"rarity": "common",
+			"mana_cost": "{3}{U/B}",
+			"type": "Creature — Zombie Bird",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/149.png"
+			}
+		},
+		{
+			"name": "Break the Earth",
+			"rarity": "common",
+			"mana_cost": "{3}{B/R}",
+			"type": "Sorcery",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/150.png"
+			}
+		},
+		{
+			"name": "Primal Ferocity",
+			"rarity": "common",
+			"mana_cost": "{1}{R/G}",
+			"type": "Instant",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/151.png"
+			}
+		},
+		{
+			"name": "Viking Funeral",
+			"rarity": "common",
+			"mana_cost": "{1}{W/B}",
+			"type": "Sorcery",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/152.png"
+			}
+		},
+		{
+			"name": "Dvergr Innovator",
+			"rarity": "common",
+			"mana_cost": "{1}{U/R}",
+			"type": "Creature — Dwarf Wizard",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/153.png"
+			}
+		},
+		{
+			"name": "Salvage Reclaimer",
+			"rarity": "common",
+			"mana_cost": "{4}{B/G}",
+			"type": "Creature — Merfolk",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/154.png"
+			}
+		},
+		{
+			"name": "Engraved Arms",
+			"rarity": "common",
+			"mana_cost": "{R/W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/155.png"
+			}
+		},
+		{
+			"name": "Shield Formation",
+			"rarity": "common",
+			"mana_cost": "{G/U}",
+			"type": "Instant",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/156.png"
+			}
+		},
+		{
+			"name": "Sigil of Might",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/157.png"
+			}
+		},
+		{
+			"name": "Blossoming Sands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/158.png"
+			}
+		},
+		{
+			"name": "Refracting Pool",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/159.png"
+			}
+		},
+		{
+			"name": "Jungle Hollow",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/160.png"
+			}
+		},
+		{
+			"name": "Scoured Barrens",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/161.png"
+			}
+		},
+		{
+			"name": "Swiftwater Cliffs",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/162.png"
+			}
+		},
+		{
+			"name": "Thornwood Falls",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/163.png"
+			}
+		},
+		{
+			"name": "Tranquil Cove",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/164.png"
+			}
+		},
+		{
+			"name": "Wind-Scarred Crag",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/165.png"
+			}
+		},
+		{
+			"name": "Dvergr Likeness",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Artifact Creature — Shapeshifter",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/166.png"
+			}
+		},
+		{
+			"name": "Mindpicker Raevir",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Bird Warlock",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/167.png"
+			}
+		},
+		{
+			"name": "Meet the Challenge",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/168.png"
+			}
+		},
+		{
+			"name": "Burn the City",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/169.png"
+			}
+		},
+		{
+			"name": "Moonlight Bargain",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/170.png"
+			}
+		},
+		{
+			"name": "Rampaging Horde",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Zombie Viking",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/171.png"
+			}
+		},
+		{
+			"name": "Primal Solidarity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/172.png"
+			}
+		},
+		{
+			"name": "Tinkerbox",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Artifact",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/173.png"
+			}
+		},
+		{
+			"name": "Secrets of the Rime",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/174.png"
+			}
+		},
+		{
+			"name": "Sondaran Knell",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Instant",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/175.png"
+			}
+		},
+		{
+			"name": "Surmount",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/176.png"
+			}
+		},
+		{
+			"name": "Punish the Weak",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Instant",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/177.png"
+			}
+		},
+		{
+			"name": "Primal Force",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}{G}",
+			"type": "Instant",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/178.png"
+			}
+		},
+		{
+			"name": "Vedgard Gardens",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Artifact — Fortification",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/179.png"
+			}
+		},
+		{
+			"name": "Slag Reforger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Dwarf Artificer",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/180.png"
+			}
+		},
+		{
+			"name": "Lightning Helix",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Instant",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/181.png"
+			}
+		},
+		{
+			"name": "Forward Garrison",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Fortification",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/182.png"
+			}
+		},
+		{
+			"name": "Astral Observatory",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Fortification",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/183.png"
+			}
+		},
+		{
+			"name": "Protected Paradise",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Artifact — Fortification",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/184.png"
+			}
+		},
+		{
+			"name": "Mead Hall",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Fortification",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/185.png"
+			}
+		},
+		{
+			"name": "Seeker of Pasts",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "54",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://strataeternal.github.io/sets/NLD-files/img/186_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/186_front.png"
+			}
+		},
+		{
+			"name": "Valkyr Finisher",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Angel Viking",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/187.png"
+			}
+		},
+		{
+			"name": "Pain for Power",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/188.png"
+			}
+		},
+		{
+			"name": "Village Stomper",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Giant Viking",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/189.png"
+			}
+		},
+		{
+			"name": "Shipseeker Kraken",
+			"rarity": "common",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Kraken",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/190.png"
+			}
+		},
+		{
+			"name": "Sondar Fragment",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/191.png"
+			}
+		},
+		{
+			"name": "Tarhild Hall",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/192.png"
+			}
+		},
+		{
+			"name": "Vedgard Stronghold",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/193.png"
+			}
+		},
+		{
+			"name": "Sturmkeld Rookery",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/194.png"
+			}
+		},
+		{
+			"name": "Jotlund Gorge",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/195.png"
+			}
+		},
+		{
+			"name": "Dokkar Battlements",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/196.png"
+			}
+		},
+		{
+			"name": "Fellwind Tomb",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/197.png"
+			}
+		},
+		{
+			"name": "Kilvik Ruins",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/198.png"
+			}
+		},
+		{
+			"name": "Leira Outcrop",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/199.png"
+			}
+		},
+		{
+			"name": "Frost Jotun",
+			"rarity": "common",
+			"mana_cost": "{6}{U}",
+			"type": "Creature — Giant Warrior",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/200.png"
+			}
+		},
+		{
+			"name": "Village Outcrops",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact — Fortification",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/201.png"
+			}
+		},
+		{
+			"name": "Captive Transport",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/202.png"
+			}
+		},
+		{
+			"name": "Freezing Encampment",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact — Fortification",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/203.png"
+			}
+		},
+		{
+			"name": "Ethereal Karve",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/204.png"
+			}
+		},
+		{
+			"name": "Pungent Necropolis",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact — Fortification",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/205.png"
+			}
+		},
+		{
+			"name": "Galdur's Scorn",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/206.png"
+			}
+		},
+		{
+			"name": "Raiders' Warship",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/207.png"
+			}
+		},
+		{
+			"name": "Memorial Pass",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact — Fortification",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/208.png"
+			}
+		},
+		{
+			"name": "Venturing Busse",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/209.png"
+			}
+		},
+		{
+			"name": "Armaments Outpost",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Artifact — Fortification",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/210.png"
+			}
+		},
+		{
+			"name": "Vedgard Animus",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{U}",
+			"type": "Creature — Elemental Spirit",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/211.png"
+			}
+		},
+		{
+			"name": "Ingenious Solidarity",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/212.png"
+			}
+		},
+		{
+			"name": "Raevir Saboteur",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird Rogue Viking",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/213.png"
+			}
+		},
+		{
+			"name": "Silent Sloop",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/214.png"
+			}
+		},
+		{
+			"name": "The Oknir",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/215.png"
+			}
+		},
+		{
+			"name": "Aurora Keep",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Fortification",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/216.png"
+			}
+		},
+		{
+			"name": "Blight of Sturmkeld",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Bird Demon",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/217.png"
+			}
+		},
+		{
+			"name": "Contempt for the Nine",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/218.png"
+			}
+		},
+		{
+			"name": "Barge of the Dead",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/219.png"
+			}
+		},
+		{
+			"name": "Outland Jarl",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Creature — Elf Viking",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/220.png"
+			}
+		},
+		{
+			"name": "Impassable Fortress",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact — Fortification",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/221.png"
+			}
+		},
+		{
+			"name": "Raevir General",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature — Bird Viking",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/222.png"
+			}
+		},
+		{
+			"name": "Draugr General",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Zombie Viking",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/223.png"
+			}
+		},
+		{
+			"name": "General Chaos",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/224.png"
+			}
+		},
+		{
+			"name": "Realm Rover",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/225.png"
+			}
+		},
+		{
+			"name": "Talar General",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Human Viking",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/226.png"
+			}
+		},
+		{
+			"name": "Runestone Ritual",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/227.png"
+			}
+		},
+		{
+			"name": "Alfir General",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Elf Viking",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/228.png"
+			}
+		},
+		{
+			"name": "Dvergr General",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Dwarf Viking",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/229.png"
+			}
+		},
+		{
+			"name": "The Blood Tide",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/230.png"
+			}
+		},
+		{
+			"name": "Deepcaller's Horn",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Artifact",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/231.png"
+			}
+		},
+		{
+			"name": "Varaklysm",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/232.png"
+			}
+		},
+		{
+			"name": "Humble Seamstress",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "104",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://strataeternal.github.io/sets/NLD-files/img/233_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/233_front.png"
+			}
+		},
+		{
+			"name": "Altar Between Worlds",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Legendary Artifact",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/234.png"
+			}
+		},
+		{
+			"name": "Runspau, the Seer",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/235.png"
+			}
+		},
+		{
+			"name": "Vestri, Queen of Dokkar",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}{G}",
+			"type": "Legendary Creature — Elf Noble",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/236.png"
+			}
+		},
+		{
+			"name": "Kurth, The Allseer",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — God",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/237.png"
+			}
+		},
+		{
+			"name": "Dunvar, the Nurturer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Ox",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/238.png"
+			}
+		},
+		{
+			"name": "Askild, Ineffable Boar",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Boar",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/239.png"
+			}
+		},
+		{
+			"name": "Varskur, Scourge of Sjofir",
+			"rarity": "mythic",
+			"mana_cost": "{7}{U}{U}",
+			"type": "Legendary Creature — Elder Serpent",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/240.png"
+			}
+		},
+		{
+			"name": "Eilert, Sun Chaser",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Wolf Avatar",
+			"collector_number": "71",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://strataeternal.github.io/sets/NLD-files/img/241_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/241_front.png"
+			}
+		},
+		{
+			"name": "Herida, the Temptress",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Nymph",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/242.png"
+			}
+		},
+		{
+			"name": "Davriel, Interloper",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}",
+			"type": "Legendary Planeswalker — Davriel",
+			"collector_number": "67",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://strataeternal.github.io/sets/NLD-files/img/243_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/243_front.png"
+			}
+		},
+		{
+			"name": "Thrya, Steed of the Gods",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Spider Horse",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/244.png"
+			}
+		},
+		{
+			"name": "Dagny, Sun's Chariot",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "97",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://strataeternal.github.io/sets/NLD-files/img/245_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/245_front.png"
+			}
+		},
+		{
+			"name": "Aina, Svetnar Uniter",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Planeswalker — Aina",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/246.png"
+			}
+		},
+		{
+			"name": "Siglar, Master Shipwright",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Planeswalker — Siglar",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/247.png"
+			}
+		},
+		{
+			"name": "Bedral the Fractured",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Orous Cleric",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/248.png"
+			}
+		},
+		{
+			"name": "Sjofir, The World Sea",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/249.png"
+			}
+		},
+		{
+			"name": "Blind Shot",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/250.png"
+			}
+		},
+		{
+			"name": "Ring of Infinity",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/251.png"
+			}
+		},
+		{
+			"name": "Assault on Vedgard",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/252.png"
+			}
+		},
+		{
+			"name": "Tireless Draugr",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie Viking",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/253.png"
+			}
+		},
+		{
+			"name": "Hulvara, Hearth of the Graveless",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/254.png"
+			}
+		},
+		{
+			"name": "Jotun General",
+			"rarity": "rare",
+			"mana_cost": "{7}{G}{U}",
+			"type": "Creature — Giant Viking",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/255.png"
+			}
+		},
+		{
+			"name": "Waddell, Realm Runner",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Squirrel",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/256.png"
+			}
+		},
+		{
+			"name": "Fade into Obscurity",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/257.png"
+			}
+		},
+		{
+			"name": "Secret Streams",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://strataeternal.github.io/sets/NLD-files/img/258.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Dauntless Bear
+	5 Valkyr General
+	5 Ceaseless Butcher
+	5 Drink the Cosmos
+	5 Grim Lavamancer
+	5 Draugr Uprising
+	5 Jotun Chanter
+	5 Kell of the North Wind
+	5 Svetnar General
+	5 Margyr General
+	5 Mobile City
+	5 Olaf, Dvergr King
+	5 Grotnar, Fell Champion
+	5 Belhime, Voice of Peace
+	5 Raidleader Brynja
+	5 Ingmar, the Drowner
+	5 Irilai, the Siren's Wail
+	5 Gardir, Primal Voice
+	5 Dvergr Likeness
+	5 Mindpicker Raevir
+	5 Meet the Challenge
+	5 Burn the City
+	5 Moonlight Bargain
+	5 Forward Garrison
+	5 Seeker of Pasts
+	5 Raevir Saboteur
+	5 Silent Sloop
+	5 The Oknir
+	5 Aurora Keep
+	5 Blight of Sturmkeld
+	5 Contempt for the Nine
+	5 Barge of the Dead
+	5 Outland Jarl
+	5 Impassable Fortress
+	5 Raevir General
+	5 Draugr General
+	5 General Chaos
+	5 Realm Rover
+	5 Talar General
+	5 Runestone Ritual
+	5 Alfir General
+	5 Dvergr General
+	5 The Blood Tide
+	5 Deepcaller's Horn
+	5 Varaklysm
+	5 Humble Seamstress
+	5 Altar Between Worlds
+	5 Runspau, the Seer
+	5 Vestri, Queen of Dokkar
+	5 Kurth, The Allseer
+	5 Dunvar, the Nurturer
+	5 Askild, Ineffable Boar
+	5 Varskur, Scourge of Sjofir
+	5 Eilert, Sun Chaser
+	5 Herida, the Temptress
+	5 Davriel, Interloper
+	5 Thrya, Steed of the Gods
+	5 Dagny, Sun's Chariot
+	5 Aina, Svetnar Uniter
+	5 Siglar, Master Shipwright
+	5 Bedral the Fractured
+	5 Sjofir, The World Sea
+	5 Ring of Infinity
+	5 Assault on Vedgard
+	5 Hulvara, Hearth of the Graveless
+	5 Jotun General
+	5 Waddell, Realm Runner
+	5 Secret Streams
+[uncommon(3)]
+	5 Collective Company
+	5 Sanctum Constructor
+	5 Tarhild Redeemer
+	5 Sealing Spirit
+	5 Sigiled Gateway
+	5 Gilded Frontrunner
+	5 Dwarven Metalsong
+	5 Triumph Mage
+	5 Plundering Raevir
+	5 Leira Plunger
+	5 Sturmkeld Skyscribe
+	5 Bastion of Knowledge
+	5 Mirage Skimmer
+	5 Rewind
+	5 Blackwater Chanter
+	5 Twilight Chaser
+	5 Grim Valkyr
+	5 Emerge from the Underrealm
+	5 Funeral Courier
+	5 Den of the Fell God
+	5 Frenzied Immolator
+	5 Tireless Runescribe
+	5 Relentless Invader
+	5 Avalanche Jotun
+	5 Obliterating Bolt
+	5 Battering Cart
+	5 Raiders' Encampment
+	5 Whisper in the Woods
+	5 Dokkar Clansman
+	5 Caring Cultivator
+	5 Jotun Amplifier
+	5 Murkwater Voyager
+	5 Outland Settlements
+	5 Long Way Home
+	5 Duskfeather Soulguide
+	5 Mesmeric Drowner
+	5 Kilvik Sage
+	5 Unstoppable Valkyr
+	5 Smuggler's Sailcraft
+	5 Trench Feeder
+	5 Tarhild Escort
+	5 Radiant Skies
+	5 Thunder Slinger
+	5 Courageous Solidarity
+	5 Grim Solidarity
+	5 Fervent Solidarity
+	5 Venture the Realms
+	5 Echoes of Sondar
+	5 Dokkar Raidmaster
+	5 Guiding Valkyr
+	5 Agony of Unlife
+	5 Margyr Sorceress
+	5 Apex Worldpost
+	5 Raevir Soulmage
+	5 Brekka Flagship
+	5 Horizon Treader
+	5 Brekka Port
+	5 Rampaging Horde
+	5 Primal Solidarity
+	5 Tinkerbox
+	5 Secrets of the Rime
+	5 Sondaran Knell
+	5 Surmount
+	5 Punish the Weak
+	5 Primal Force
+	5 Vedgard Gardens
+	5 Slag Reforger
+	5 Lightning Helix
+	5 Sondar Fragment
+	5 Tarhild Hall
+	5 Vedgard Stronghold
+	5 Sturmkeld Rookery
+	5 Jotlund Gorge
+	5 Dokkar Battlements
+	5 Fellwind Tomb
+	5 Kilvik Ruins
+	5 Leira Outcrop
+	5 Vedgard Animus
+	5 Ingenious Solidarity
+	5 Tireless Draugr
+[common(10)]
+	5 Spiteful Thrall
+	5 Raevir Guide
+	5 Honored Dead
+	5 Fireblade Gunnar
+	5 Selfless Sage
+	5 Dvergr Inscriber
+	5 Dvergr Longship
+	5 Landscaper Colos
+	5 Subzero Shattering
+	5 Unfamiliar Territory
+	5 Charge In
+	5 Bjorn's Blessing
+	5 Shipwreck Stalker
+	5 Upwash Leader
+	5 Belhime's Sentinel
+	5 Frostburn Draugr
+	5 Novice Shipwright
+	5 Draugr Vanguard
+	5 Etli's Denial
+	5 Feathered Tune
+	5 Walking Nightmare
+	5 Rolling Waves
+	5 Mystic Communion
+	5 Leap
+	5 Leira Muckdredgers
+	5 Draugr Corsair
+	5 Raevir Lifeweaver
+	5 Restless Combatant
+	5 Dokkar Cohort
+	5 Murkwater Scrounger
+	5 Soul Exhumer
+	5 Rise Again
+	5 Fellwind Dredger
+	5 Cremate
+	5 Soulbreaker
+	5 Brekka Bladesmith
+	5 Kilvik Runekarl
+	5 Seskrin's Apprentrice
+	5 Rakish Raider
+	5 Pitiless Pillagers
+	5 Vindictive Valkyr
+	5 Warleader Aspirant
+	5 Fiery Barde
+	5 Barbarian's Strength
+	5 Tectonic Bombardment
+	5 Glancing Blow
+	5 Relic Blade
+	5 Memory Preserver
+	5 Champion of the Wilderness
+	5 Leyline Keeper
+	5 Youthful Gunnar
+	5 Ethereal Groundskeeper
+	5 Seagrass Sifter
+	5 Alfir Warcaller
+	5 Follower of Nmir
+	5 Seatreader Jotun
+	5 Kelp Siren
+	5 Corrupting Touch
+	5 Nmir's Feast
+	5 Explore
+	5 Raevir Gustcaller
+	5 Draugr Submerger
+	5 Brekka Titanship
+	5 Primal Monolith
+	5 Bloodspitter Draugr
+	5 Jotun Invoker
+	5 Paragon of the Pure
+	5 Tyranny of the Horde
+	5 Resillient Warband
+	5 Persistent Valkyr
+	5 Bloodfell Caves
+	5 Dismal Backwater
+	5 Rugged Highlands
+	5 Belhime's Tithe
+	5 Battlefield Bonepicker
+	5 Break the Earth
+	5 Primal Ferocity
+	5 Viking Funeral
+	5 Dvergr Innovator
+	5 Salvage Reclaimer
+	5 Engraved Arms
+	5 Shield Formation
+	5 Sigil of Might
+	5 Blossoming Sands
+	5 Refracting Pool
+	5 Jungle Hollow
+	5 Scoured Barrens
+	5 Swiftwater Cliffs
+	5 Thornwood Falls
+	5 Tranquil Cove
+	5 Wind-Scarred Crag
+	5 Astral Observatory
+	5 Protected Paradise
+	5 Mead Hall
+	5 Valkyr Finisher
+	5 Pain for Power
+	5 Village Stomper
+	5 Shipseeker Kraken
+	5 Frost Jotun
+	5 Village Outcrops
+	5 Captive Transport
+	5 Freezing Encampment
+	5 Ethereal Karve
+	5 Pungent Necropolis
+	5 Galdur's Scorn
+	5 Raiders' Warship
+	5 Memorial Pass
+	5 Venturing Busse
+	5 Armaments Outpost
+	5 Blind Shot
+	5 Fade into Obscurity

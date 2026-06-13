@@ -1,0 +1,4870 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>NLD</name>
+			<longname>Nieldavar</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-06-13</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Spiteful Thrall</name>
+			<text>{2}{B}, Sacrifice this creature: Target creature gets -3/-3 until end of turn. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/0.png" num="25">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Raevir Guide</name>
+			<text>Flying
+Whenever a creature you control without flying attacks, you may pay {U}. If you do, it gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/1.png" num="18">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Honored Dead</name>
+			<text>When this creature enters or dies, create a 1/1 white Viking creature token.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/2.png" num="15">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fireblade Gunnar</name>
+			<text>Vigilance
+{2}{R}: This creature gets +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/3.png" num="12">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Selfless Sage</name>
+			<text>{3}{W}{W}, Sacrifice this creature: Return target artifact or creature card from your graveyard to the battlefield. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/4.png" num="22">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dvergr Inscriber</name>
+			<text>Lifelink
+When this creature enters, create a Glyph token. If you control three or more artifacts, create three of those tokens instead. (Glyphs are artifacts with &quot;{T}, Sacrifice this artifact: Target creature gets +1/+0 until end of turn.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/5.png" num="9">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dvergr Longship</name>
+			<text>Vigilance
+When this Vehicle enters, put a +1/+1 counter on target creature or Vehicle.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/6.png" num="10">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Landscaper Colos</name>
+			<text>When this creature enters, put target card from an opponent&apos;s graveyard on the bottom of their library.
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/7.png" num="16">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goat Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Subzero Shattering</name>
+			<text>Destroy target artifact or enchantment.
+Flashback {4}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/8.png" num="26">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unfamiliar Territory</name>
+			<text>Voyage — Unfamiliar Territory deals damage to target attacking or blocking creature equal to the number of differently named lands you control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/9.png" num="28">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Charge In</name>
+			<text>Creatures you control get +1/+0 until end of turn.
+Draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/10.png" num="4">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bjorn&apos;s Blessing</name>
+			<text>Target creature gets +2/+2 until end of turn. If you control a God, that creature gets +4/+4 until end of turn instead.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/11.png" num="2">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shipwreck Stalker</name>
+			<text>Flash
+Pillage (Whenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/12.png" num="55">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Upwash Leader</name>
+			<text>Flying
+Whenever this creature attacks, creature spells with flying you cast cost {1} less to cast until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/13.png" num="58">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Belhime&apos;s Sentinel</name>
+			<text>Vigilance
+{G}, {T}: Untap target land.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/14.png" num="35">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frostburn Draugr</name>
+			<text>Pillage (Whenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/15.png" num="42">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Novice Shipwright</name>
+			<text>{1}{R}: Target creature gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/16.png" num="49">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Draugr Vanguard</name>
+			<text>{4}{B}, Exile this card from your graveyard: Return two other target creature cards from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/17.png" num="36">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Etli&apos;s Denial</name>
+			<text>Counter target spell. If you control a God, draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/18.png" num="38">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Feathered Tune</name>
+			<text>This Vehicle can&apos;t be blocked.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/19.png" num="39">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Walking Nightmare</name>
+			<text>Enchant creature
+Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.
+{1}{W}: Attach Walking Nightmare to target creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/20.png" num="60">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rolling Waves</name>
+			<text>Target creature&apos;s controller puts it on the top or bottom of their library.
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/21.png" num="53">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mystic Communion</name>
+			<text>Voyage — Scry X, where X is the number of differently named lands you control, then draw two cards.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/22.png" num="48">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Leap</name>
+			<text>Target creature gains flying until end of turn.
+Draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/23.png" num="45">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Leira Muckdredgers</name>
+			<text>When this creature enters, target player mills two cards.
+{1}{G}, Exile a card from your graveyard: Put a +1/+1 counter on this creature. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/24.png" num="80">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Draugr Corsair</name>
+			<text>Deathtouch
+Pillage (Whenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/25.png" num="70">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Raevir Lifeweaver</name>
+			<text>Flying
+Voyage — {5}{B}: This creature gains deathtouch and lifelink until end of turn. This ability costs {1} less to activate for each differently named land you control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/26.png" num="85">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Restless Combatant</name>
+			<text>You may cast this creature from your graveyard by discarding a card in addition to paying its other costs.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/27.png" num="86">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dokkar Cohort</name>
+			<text>Menace
+When this creature enters, if {W} was spent to cast it, create a 1/1 white Viking creature token.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/28.png" num="69">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Murkwater Scrounger</name>
+			<text>Kicker {U} (You may pay an additional {U} as you cast this spell.)
+When this creature enters, if it was kicked, target player mills five cards.
+{2}{B}, Exile a card from your graveyard: Draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/29.png" num="82">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soul Exhumer</name>
+			<text>Flying
+When this creature enters, return target non-Angel creature card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/30.png" num="88">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rise Again</name>
+			<text>Return target creature card from your graveyard to the battlefield.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/31.png" num="87">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fellwind Dredger</name>
+			<text>When this Vehicle enters, target opponent sacrifices a creature.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/32.png" num="74">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cremate</name>
+			<text>Exile target card from a graveyard.
+Draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/33.png" num="66">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Soulbreaker</name>
+			<text>Lifelink
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/34.png" num="89">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brekka Bladesmith</name>
+			<text>Haste
+This creature gets +1/+1 as long as you control an artifact.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/35.png" num="96">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kilvik Runekarl</name>
+			<text>Kicker {W} (You may pay an additional {W} as you cast this spell.)
+When this creature enters, if it was kicked, create two Glyph tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this artifact: Target creature gets +1/+0 until end of turn.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/36.png" num="105">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seskrin&apos;s Apprentrice</name>
+			<text>Kicker {3}{R} (You may pay an additional {3}{R} as you cast this spell.)
+When this creature enters, if it was kicked or if you control a God, unearth target artifact or creature card. (To unearth an artifact or creature card, return it from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/37.png" num="114">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rakish Raider</name>
+			<text>Whenever this creature becomes tapped, you may exile two cards from your graveyard. When you do, target creature can&apos;t block this turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/38.png" num="111">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pitiless Pillagers</name>
+			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
+Pillage (Whenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/39.png" num="108">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vindictive Valkyr</name>
+			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/40.png" num="120">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Warleader Aspirant</name>
+			<text>Trample
+{5}{G}: This creature gets +4/+4 until end of turn. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/41.png" num="121">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fiery Barde</name>
+			<text>When this Vehicle enters, other creatures you control get +1/+0 until end of turn.
+Haste
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/42.png" num="100">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Barbarian&apos;s Strength</name>
+			<text>Choose one —
+• Target creature gets +2/+0 and gains first strike until end of turn.
+• Destroy target artifact.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/43.png" num="93">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tectonic Bombardment</name>
+			<text>Voyage — Tectonic Bombardment deals damage to target creature or planeswalker equal to the number of differently named lands you control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/44.png" num="116">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Glancing Blow</name>
+			<text>Glancing Blow deals 1 damage to target player or planeswalker.
+Draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/45.png" num="102">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Relic Blade</name>
+			<text>Equipped creature gets +2/+0 and has haste and menace. 
+Equip {3} or {B}</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/46.png" num="113">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Memory Preserver</name>
+			<text>{2}{W}, Exile this card from your graveyard: Return target artifact or enchantment card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/47.png" num="138">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Champion of the Wilderness</name>
+			<text>Voyage — This creature gets +1/+0 for each differently named land you control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/48.png" num="126">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leyline Keeper</name>
+			<text>this creature gets +2/+2 as long as you control three or more creatures.
+{T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/49.png" num="136">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Youthful Gunnar</name>
+			<text>{R}, Sacrifice this creature: Destroy target artifact. Activate only as a sorcery.
+{G}, Sacrifice this creature: Destroy target enchantment. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/50.png" num="151">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ethereal Groundskeeper</name>
+			<text>Reach
+As long as you control a fortified land, this creature gets +1/+1 and has vigilance.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/51.png" num="129">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seagrass Sifter</name>
+			<text>When this creature enters or dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/52.png" num="144">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alfir Warcaller</name>
+			<text>When this creature enters, creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/53.png" num="123">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Follower of Nmir</name>
+			<text>Trample
+this creature gets +2/+2 as long as you control a God.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/54.png" num="131">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seatreader Jotun</name>
+			<text>Whenever this creature attacks, you may pay {3}{U}. If you do, target creature can&apos;t be blocked this turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/55.png" num="145">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kelp Siren</name>
+			<text>When this creature enters, you may exile three cards from your graveyard. If you do, mill three cards. You may put a creature or land card from among the cards milled this way into your hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/56.png" num="135">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Corrupting Touch</name>
+			<text>Kicker {B} (You may pay an additional {B} as you cast this spell.)
+Target creature you control gains deathtouch until end of turn if this spell was kicked. Then it deals damage equal to its power to target creature you don&apos;t control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/57.png" num="127">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nmir&apos;s Feast</name>
+			<text>Prevent all combat damage that would be dealt this turn. Put a +1/+1 counter on each creature you control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/58.png" num="230">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G/W</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Explore</name>
+			<text>You may play an additional land this turn.
+Draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/59.png" num="130">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Collective Company</name>
+			<text>Kicker {3}{W} (You may pay an additional {3}{W} as you cast this spell.)
+When this creature enters, if it was kicked, create two 1/1 white Viking creature tokens.
+Tap two untapped creatures you control: Put a +1/+1 counter on this creature. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/60.png" num="5">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sanctum Constructor</name>
+			<text>{T}: Attach target Fortification or Equipment you control to target permanent it could fortify or equip.
+At the beginning of your end step, if you activated nine or more different abilities this turn (including mana abilities), transform this creature.
+---
+(Back): Carlson, God of Settlements</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/61_front.png" num="20a">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Carlson, God of Settlements</related>
+		</card>
+		<card>
+			<name>Carlson, God of Settlements</name>
+			<text>You may pay {0} rather than pay the cost of the first ability you activate during each of your turns that isn&apos;t a mana ability. (Fortify and equip abilities are activated.)
+---
+(Front): Sanctum Constructor</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/61_back.png" num="20b">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Spirit God</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Sanctum Constructor</related>
+		</card>
+		<card>
+			<name>Tarhild Redeemer</name>
+			<text>Flying
+Whenever a nonland permanent enters under your control, if that permanent entered from a graveyard or you cast it from a graveyard, create a 1/1 white Viking creature token.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/62.png" num="27">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sealing Spirit</name>
+			<text>When this creature enters, choose target artifact you control and target nonland permanent you don&apos;t control. Exile the permanent you don&apos;t control until the artifact you control leaves the battlefield.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/63.png" num="21">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sigiled Gateway</name>
+			<text>Fortified land has &quot;{T}: Create a Glyph token.&quot; (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Target creature gets +1/+0 until end of turn.&quot;)
+Fortify {W}. Activate only once each turn. ({W}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/64.png" num="23">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gilded Frontrunner</name>
+			<text>Whenever this Vehicle attacks, other creatures you control get +1/+1 until end of turn.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/65.png" num="14">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dwarven Metalsong</name>
+			<text>Search your library for an Equipment, Fortification, or Vehicle card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/66.png" num="11">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Triumph Mage</name>
+			<text>When this creature enters, search your library for an artifact card with mana value 4, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/67.png" num="57">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plundering Raevir</name>
+			<text>Flying
+Pillage (Whenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/68.png" num="51">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leira Plunger</name>
+			<text>Whenever this creature deals combat damage to a player, target player mills that many cards.
+At the beginning of your end step, if a graveyard has nine or more cards in it, transform this creature.
+---
+(Back): Anitra, God of the Drowned</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/69_front.png" num="46a">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Anitra, God of the Drowned</related>
+		</card>
+		<card>
+			<name>Anitra, God of the Drowned</name>
+			<text>Whenever Anitra deals combat damage to a player, that player mills half their library, rounded up.
+{3}{U}: Anitra can&apos;t be blocked this turn.
+---
+(Front): Leira Plunger</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/69_back.png" num="46b">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Merfolk God</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Leira Plunger</related>
+		</card>
+		<card>
+			<name>Sturmkeld Skyscribe</name>
+			<text>Flying
+Whenever this creature or another creature with flying enters under your control, create a Glyph token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Target creature gets +1/+0 until end of turn.&quot;)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/70.png" num="56">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bastion of Knowledge</name>
+			<text>Fortified land has &quot;{T}: Draw a card.&quot;
+Fortify {2}{U}. Activate only once each turn. ({2}{U}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/71.png" num="34">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mirage Skimmer</name>
+			<text>You may have this Vehicle enter the battlefield as a copy of any creature or Vehicle you control, except it&apos;s a Vehicle artifact with crew 2 and it loses all other card types.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/72.png" num="47">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rewind</name>
+			<text>Counter target spell. Untap up to four lands.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/73.png" num="52">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blackwater Chanter</name>
+			<text>When this creature enters, target player mills two cards. You gain 1 life for each creature card milled this way.
+{X}{B}, {T}, Exile X cards from your graveyard: Target creature gets -X/-X until end of turn. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/74.png" num="61">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Twilight Chaser</name>
+			<text>Flying, lifelink
+Other creatures you control with flying have lifelink.
+At the beginning of your end step, if you have 9 or more life than an opponent, transform this creature.
+---
+(Back): Revna, God of Midnights</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/75_front.png" num="91a">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Bird Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Revna, God of Midnights</related>
+		</card>
+		<card>
+			<name>Revna, God of Midnights</name>
+			<text>Flying, lifelink
+Other creatures you control with flying have lifelink.
+Whenever you gain life, each opponent loses that much life.
+---
+(Front): Twilight Chaser</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/75_back.png" num="91b">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Bird God</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Twilight Chaser</related>
+		</card>
+		<card>
+			<name>Grim Valkyr</name>
+			<text>Flying
+When Grim Valkyr enters, destroy target creature or planeswalker an opponent controls.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/76.png" num="78">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Emerge from the Underrealm</name>
+			<text>Kicker {1}{B} (You may pay an additional {1}{B} as you cast this spell.)
+Choose target creature or planeswalker card in your graveyard. If this spell was kicked, return it to the battlefield. Otherwise, unearth it. (Return it from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/77.png" num="72">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Funeral Courier</name>
+			<text>Whenever a creature you control dies, create a Glyph token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Target creature gets +1/+0 until end of turn.&quot;)
+Sacrifice a creature: This Vehicle becomes an artifact creature until end of turn. Activate only once each turn and only as a sorcery.
+Crew 2</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/78.png" num="75">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Den of the Fell God</name>
+			<text>Fortified land has &quot;{T}, Sacrifice this land: Return target creature or Vehicle card from your graveyard to your hand.&quot;
+Fortify {2}{B}. Activate only once each turn. ({2}{B}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/79.png" num="68">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Frenzied Immolator</name>
+			<text>Haste
+Voyage — {5}{R}: This creature gets +2/+0 until end of turn. This ability costs {1} less to activate for each differently named land you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/80.png" num="101">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tireless Runescribe</name>
+			<text>Haste
+{T}: Create a Glyph token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Target creature gets +1/+0 until end of turn.&quot;)
+At the beginning of your end step, if you control nine or more artifacts, transform this creature.
+---
+(Back): Svend, God of Inscriptions</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/81_front.png" num="118a">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Svend, God of Inscriptions</related>
+		</card>
+		<card>
+			<name>Svend, God of Inscriptions</name>
+			<text>First strike, trample
+{T}: Create a Glyph token.
+Artifacts you control have &quot;{T}: Target creature gets +1/+0 until end of turn.&quot;
+---
+(Front): Tireless Runescribe</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/81_back.png" num="118b">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Dwarf God</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Tireless Runescribe</related>
+		</card>
+		<card>
+			<name>Relentless Invader</name>
+			<text>Pillage (Whenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.)
+Whenever you discard a card, you may exile that card from your graveyard. If you do, you may play that card this turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/82.png" num="112">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Avalanche Jotun</name>
+			<text>Voyage — When this creature enters, it deals damage to target creature or planeswalker equal to the number of differently named lands you control.
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/83.png" num="92">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Obliterating Bolt</name>
+			<text>Obliterating Bolt deals 4 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/84.png" num="107">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Battering Cart</name>
+			<text>Haste
+When this Vehicle enters, it becomes an artifact creature until end of turn.
+Crew 2
+Unearth {3}{R} ({3}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/85.png" num="95">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Raiders&apos; Encampment</name>
+			<text>Fortified land has &quot;{T}: Creatures you control gain haste until end of turn.&quot;
+Fortify {R} ({R}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/86.png" num="109">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Whisper in the Woods</name>
+			<text>{T}: Untap target land.
+{5}{G}, Sacrifice this creature: Put six +1/+1 counters on target land you control. It becomes a becomes a 0/0 Elemental creature with haste that&apos;s still a land.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/87.png" num="150">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dokkar Clansman</name>
+			<text>When this creature enters, choose one—
+• Create two 1/1 white Viking creature tokens.
+• Create two Glyph tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this artifact: Target creature gets +1/+0 until end of turn.&quot;)
+• Put a +1/+1 counter on this creature for each creature you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/88.png" num="128">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Caring Cultivator</name>
+			<text>Whenever a land enters the battlefield under your control, if it doesn&apos;t share a name with another land you control or a land card in your graveyard, put a +1/+1 counter on this creature.
+At the beginning of your end step, if this creature has power 9 or greater, transform it.
+---
+(Back): Jurgen, God of Bounty</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/89_front.png" num="125a">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Jurgen, God of Bounty</related>
+		</card>
+		<card>
+			<name>Jurgen, God of Bounty</name>
+			<text>Vigilance, trample, ward {2}
+Whenever a land enters the battlefield under your control, if it doesn&apos;t share a name with another land you control or a land card in your graveyard, put a +1/+1 counter on each creature you control.
+---
+(Front): Caring Cultivator</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/89_back.png" num="125b">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Human God</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Caring Cultivator</related>
+		</card>
+		<card>
+			<name>Jotun Amplifier</name>
+			<text>{T}: Add {G}{G}{G}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/90.png" num="133">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Murkwater Voyager</name>
+			<text>When this Vehicle enters, surveil 2.
+Whenever this Vehicle attacks, you may exile a card from your graveyard. If a creature card is exiled this way, put a +1/+1 counter on this Vehicle. If a noncreature card is exiled this way, put your choice of a vigilance counter, a reach counter, or a trample counter on this Vehicle.
+Crew 2</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/91.png" num="139">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Outland Settlements</name>
+			<text>Fortified land has &quot;{T}: Create a 1/1 white Viking creature token.&quot;
+Fortify {1}{G}. Activate only once each turn. ({1}{G}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/92.png" num="141">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Long Way Home</name>
+			<text>Search your library for a land card, reveal it, put it into your hand, then shuffle.
+Flashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/93.png" num="137">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dauntless Bear</name>
+			<text>At the beginning of combat on your turn, if you control nine or more creatures, transform this creature.
+---
+(Back): Bjorn, God of Courage</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/94_front.png" num="7a">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Bear</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Bjorn, God of Courage</related>
+		</card>
+		<card>
+			<name>Bjorn, God of Courage</name>
+			<text>Ward {X}, where X is the number of creatures you control.
+Bjorn, God of Courage&apos;s power and toughness are each equal to the number of creatures you control.
+---
+(Front): Dauntless Bear</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/94_back.png" num="7b">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Bear God</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Dauntless Bear</related>
+		</card>
+		<card>
+			<name>Valkyr General</name>
+			<text>Flying
+Whenever you cast a red spell, creatures you control gain double strike until end of turn.
+Whenever you cast a white spell, put a +1/+1 counter on each creature you control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/95.png" num="219">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>5RW</manacost>
+				<cmc>7</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ceaseless Butcher</name>
+			<text>Pillage (Whenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.)
+At the beginning of your upkeep, if there are nine or more creature cards in your graveyard, you may transform this creature.
+---
+(Back): Galdur, Fell God</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/96_front.png" num="64a">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Elf Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Galdur, Fell God</related>
+		</card>
+		<card>
+			<name>Galdur, Fell God</name>
+			<text>Ward—Sacrifice a creature.
+At the beginning of combat, you may exile a creature card from your graveyard. If you do, Galdur gets +X/+X until end of turn, where X is the exiled card&apos;s mana value.
+---
+(Front): Ceaseless Butcher</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/96_back.png" num="64b">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Wolf God</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Ceaseless Butcher</related>
+		</card>
+		<card>
+			<name>Drink the Cosmos</name>
+			<text>Each player&apos;s life total becomes 9.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/97.png" num="166">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WB</manacost>
+				<cmc>5</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Grim Lavamancer</name>
+			<text>{R}, {T}, Exile two cards from your graveyard: This creature deals 2 damage to any target.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/98.png" num="103">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Draugr Uprising</name>
+			<text>Unearth X target creature cards. (To unearth a creature card, return it from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/99.png" num="98">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XXR</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Jotun Chanter</name>
+			<text>{T}: Add two mana of any one color.
+{9}: Transform this creature. Activate only as a sorcery.
+---
+(Back): Nmir, God of Boons</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/100_front.png" num="134a">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Giant Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Nmir, God of Boons</related>
+		</card>
+		<card>
+			<name>Nmir, God of Boons</name>
+			<text>Ward {9}
+{X}, {T}: Put X +1/+1 counters on another target creature. Activate only as a sorcery.
+---
+(Front): Jotun Chanter</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/100_back.png" num="134b">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Giant God</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Jotun Chanter</related>
+		</card>
+		<card>
+			<name>Kell of the North Wind</name>
+			<text>Vigilance
+You may have Kell enter as a copy of another creature on the battlefield, except it has vigilance and &quot;Whenever this creature attacks, you may pay {2}{RW}{RW}. If you do, there&apos;s an additional combat step after this one.&quot;</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLD-files/img/101.png" num="44">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>WUR</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Duskfeather Soulguide</name>
+			<text>Flying
+Other creatures you control with flying get +1/+1.
+{1}{W}{U}, Exile this creature from your graveyard: Put a flying counter on target creature. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/102.png" num="167">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mesmeric Drowner</name>
+			<text>Ward—Discard a card (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.)
+At the beginning of your upkeep, each player with the fewest amount of cards in hand mills three cards.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/103.png" num="186">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kilvik Sage</name>
+			<text>Voyage — When this creature enters, scry X, where X is the number of differently named lands you control, then reveal the top card of your library. If it&apos;s a permanent card, draw a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/104.png" num="180">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unstoppable Valkyr</name>
+			<text>Flying, vigilance
+As long as this card is in your graveyard, spells you cast that target it cost {3} less to cast and abilities you activate that target it cost {3} less to activate.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/105.png" num="218">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>3WB</manacost>
+				<cmc>5</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Smuggler&apos;s Sailcraft</name>
+			<text>Trample
+Pillage (Whenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.)
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/106.png" num="208">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Trench Feeder</name>
+			<text>As this creature enters, choose a player.
+This creature gets +1/+1 for each different mana value among cards in the chosen player&apos;s graveyard.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/107.png" num="216">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tarhild Escort</name>
+			<text>Flying
+When this creature enters, return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.
+When this creature leaves the battlefield, exile the permanent put onto the battlefield with this creature.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/108.png" num="213">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Radiant Skies</name>
+			<text>Search your library and/or graveyard for a Plains card, an Island card, a Swamp card, a Mountain card, and a Forest card, put them onto the battlefield tapped, then shuffle.
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/109.png" num="195">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5GU</manacost>
+				<cmc>7</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Thunder Slinger</name>
+			<text>Double strike (This creature deals both first-strike and regular combat damage.)
+Trample (This creature can deal excess combat damage to the player or planeswalker it&apos;s attacking.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/110.png" num="214">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4RG</manacost>
+				<cmc>6</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Svetnar General</name>
+			<text>Whenever you cast a green spell, untap target permanent you control.
+Whenever you cast a white spell, tap target nonland permanent you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/111.png" num="211">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Margyr General</name>
+			<text>Whenever you cast a black spell, target player mills two cards.
+Whenever you cast a green spell, exile up to one card from target player&apos;s graveyard.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/112.png" num="183">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mobile City</name>
+			<text>Fortified lands you control are 4/4 creatures in addition to its other types.
+Fortify {3} ({3}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/113.png" num="188">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>4GU</manacost>
+				<cmc>6</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Courageous Solidarity</name>
+			<text>As this enchantment enters, choose a creature type.
+Whenever you cast a spell of the chosen type, create a 1/1 white Viking creature token.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/114.png" num="6">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Grim Solidarity</name>
+			<text>As this enchantment enters, choose a creature type.
+Whenever you cast a spell of the chosen type, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/115.png" num="77">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fervent Solidarity</name>
+			<text>As this enchantment enters, choose a creature type.
+Whenever a nontoken creature of the chosen type enters under your control, put a +1/+1 counter on it. It gains haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/116.png" num="99">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Venture the Realms</name>
+			<text>Voyage — Create a 1/1 white Viking creature token for each differently named land you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/117.png" num="223">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RGW</manacost>
+				<cmc>3</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Echoes of Sondar</name>
+			<text>Whenever one or more cards leave your graveyard during your turn, put a despair counter on this enchantment, then create an X/X colorless Avatar creature token, where X is the number of despair counters on this enchantment. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/118.png" num="170">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BRG</manacost>
+				<cmc>3</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Raevir Gustcaller</name>
+			<text>Flying
+When this creature enters, put a +1/+1 counter on target creature you control with flying.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/119.png" num="197">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dokkar Raidmaster</name>
+			<text>Haste
+When this creature enters, creatures you control gain vigilance, menace, and trample until end of turn.
+{W}{B}{G}, Discard this creature: Create three 1/1 white Viking creature tokens. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/120.png" num="163">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>3WBG</manacost>
+				<cmc>6</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Guiding Valkyr</name>
+			<text>Flying
+Whenever another nonland permanent enters under your control, if that permanent entered from a graveyard or you cast it from a graveyard, put a +1/+1 counter on this creature. If that permanent is a creature, also put a +1/+1 counter on it.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/121.png" num="174">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1RWB</manacost>
+				<cmc>4</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Agony of Unlife</name>
+			<text>When this creature enters, return target nonenchantment card from your graveyard to your hand.
+Creatures you control have haste.
+If you would draw a card while your library has no cards in it, instead create a 1/1 white Viking creature token.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/122.png" num="152">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UBR</manacost>
+				<cmc>4</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Draugr Submerger</name>
+			<text>This spell costs {2} less to cast as long as there are seven or more cards in a graveyard.
+Pillage (Whenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/123.png" num="165">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brekka Titanship</name>
+			<text>Menace
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/124.png" num="160">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Margyr Sorceress</name>
+			<text>When this creature enters, target player mills five cards.
+Menace
+This creature gets +5/+5 as long as there are thirty or more cards total in all graveyards.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/125.png" num="184">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2BGU</manacost>
+				<cmc>5</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Primal Monolith</name>
+			<text>Fortified land is a 6/6 Giant Spirit creature with vigilance and haste that&apos;s still a land.
+Fortify {5} ({5}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/126.png" num="193">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Apex Worldpost</name>
+			<text>Untap all fortified lands you control during each player&apos;s untap step.
+Fortify {1} ({1}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/127.png" num="154">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>GWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Raevir Soulmage</name>
+			<text>Flying, deathtouch, lifelink
+Whenever another creature with flying enters under your control, choose one—
+• Put a +1/+1 counter on that creature.
+• Put a deathtouch counter on that creature.
+• Put a lifelink counter on that creature.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/128.png" num="198">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1WUB</manacost>
+				<cmc>4</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodspitter Draugr</name>
+			<text>Whenever one or more nonland cards leave your graveyard, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/129.png" num="158">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jotun Invoker</name>
+			<text>{8}: This creature has base power and toughness 10/10 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/130.png" num="179">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Paragon of the Pure</name>
+			<text>Voyage — When this creature enters, you gain life equal to the number of differently named lands you control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/131.png" num="190">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3GW</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tyranny of the Horde</name>
+			<text>Until end of turn, target creature gets -1/-1 for each creature you control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/132.png" num="217">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Brekka Flagship</name>
+			<text>Haste
+At the beginning of combat on your turn, another target Vehicle you control becomes an artifact creature until end of turn.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/133.png" num="159">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1URW</manacost>
+				<cmc>4</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Resillient Warband</name>
+			<text>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Whenever this creature attacks, you may exile a card from your graveyard. If you do, create a 1/1 white Viking creature token that&apos;s tapped and attacking.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/134.png" num="202">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Persistent Valkyr</name>
+			<text>Flying
+Unearth {1}{R}{W} ({1}{R}{W}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/135.png" num="191">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Horizon Treader</name>
+			<text>Haste
+This creature can&apos;t be blocked.
+This creature enters with X +1/+1 counters on it.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/136.png" num="175">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>XGUR</manacost>
+				<cmc>3</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Olaf, Dvergr King</name>
+			<text>Vigilance
+Whenever an artifact enters under your control, put a +1/+1 counter on each Dwarf creature you control. This ability triggers only once each turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/137.png" num="189">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dwarf</type>
+				<maintype>Creature</maintype>
+				<manacost>1URW</manacost>
+				<cmc>4</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grotnar, Fell Champion</name>
+			<text>Pillage (Whenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.)
+Whenever a Zombie card is put into your graveyard from anywhere for the first time each turn, each opponent discards a card.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/138.png" num="173">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>UBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Belhime, Voice of Peace</name>
+			<text>When Belhime enters, scry 3, then reveal the top card of your library. If it&apos;s a permanent card, draw a card.
+If damage would be dealt to Belhime or another Spirit you control, prevent X of that damage, where X is the number of fortified lands you control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/139.png" num="156">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>GWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>0/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Raidleader Brynja</name>
+			<text>Flying
+Whenever Raidleader Brynja or another Angel enters under your control for the first time each turn, unearth target creature card. (To unearth a creature card, return it from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/140.png" num="199">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>2RWB</manacost>
+				<cmc>5</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ingmar, the Drowner</name>
+			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Tap three untapped Merfolk you control: Target player mills five cards.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/141.png" num="176">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Merfolk</type>
+				<maintype>Creature</maintype>
+				<manacost>1BGU</manacost>
+				<cmc>4</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Irilai, the Siren&apos;s Wail</name>
+			<text>Flying
+Whenever a Bird you control deals combat damage to a player, you may sacrifice it. If you do, gain control of target nonland permanent that player controls.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/142.png" num="177">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bird Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3WUB</manacost>
+				<cmc>6</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gardir, Primal Voice</name>
+			<text>Trample, ward {3}
+Gardir, Primal Voice costs {1} less to cast for each Giant card in your graveyard.
+When Gardir dies, search your library for a nonlegendary Giant card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/143.png" num="171">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>8GUR</manacost>
+				<cmc>11</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+				<pt>11/11</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodfell Caves</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {B} or {R}.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/144.png" num="237">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dismal Backwater</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {B}.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/145.png" num="240">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Rugged Highlands</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/146.png" num="249">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Brekka Port</name>
+			<text>({T}: Add {R}.)
+This land enters tapped unless you control an Island and a Plains.
+{U}{R}{W}, {T}, Sacrifice this land: Vehicles you control become artifact creatures until end of turn. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/147.png" num="239">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RWU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Belhime&apos;s Tithe</name>
+			<text>Counter target spell unless its controller pays {2}.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/148.png" num="226">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W/U</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Battlefield Bonepicker</name>
+			<text>Flying
+Pillage (Whenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/149.png" num="225">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3U/B</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Break the Earth</name>
+			<text>Destroy target land and all permanents attached to it.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/150.png" num="227">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B/R</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Primal Ferocity</name>
+			<text>Target creature gets +3/+2 and gains trample until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/151.png" num="231">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R/G</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Viking Funeral</name>
+			<text>Return target creature card with mana value 3 or less from your graveyard to the battlefield.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/152.png" num="234">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W/B</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dvergr Innovator</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/153.png" num="228">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U/R</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Salvage Reclaimer</name>
+			<text>When this creature enters, you may put target permanent card from your graveyard on top of your library.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/154.png" num="232">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk</type>
+				<maintype>Creature</maintype>
+				<manacost>4B/G</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Engraved Arms</name>
+			<text>When this artifact enters, create a Glyph token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Target creature gets +1/+0 until end of turn.&quot;)
+As long as it&apos;s your turn, equipped creature has first strike.
+Equip {2}</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/155.png" num="229">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>R/W</manacost>
+				<cmc>1</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Shield Formation</name>
+			<text>Target permanent you control gains hexproof until end of turn. If that permanent is a creature, put a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/156.png" num="233">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G/U</manacost>
+				<cmc>1</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sigil of Might</name>
+			<text>Put three +1/+1 counters on target creature or Vehicle. If it&apos;s a creature, it gains trample until end of turn.
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/157.png" num="147">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blossoming Sands</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {G} or {W}.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/158.png" num="238">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Refracting Pool</name>
+			<text>{T}: Add {C}.
+{3}, {T}: Add three mana in any combination of colors.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/159.png" num="248">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Jungle Hollow</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {B} or {G}.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/160.png" num="245">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Scoured Barrens</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/161.png" num="250">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swiftwater Cliffs</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {R}.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/162.png" num="254">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Thornwood Falls</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {G} or {U}.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/163.png" num="256">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Tranquil Cove</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {U}.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/164.png" num="257">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Wind-Scarred Crag</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {W}.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/165.png" num="259">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dvergr Likeness</name>
+			<text>This creature gets +1/+1 for each artifact you control.
+You may have this creature enter as a copy of any creature on the battlefield, except it&apos;s a 0/0 artifact creature in addition to its other types and has &quot;This creature gets +1/+1 for each artifact you control.&quot;</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/166.png" num="169">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mindpicker Raevir</name>
+			<text>Flying
+Whenever this creature deals combat damage to a player, that player&apos;s maximum hand size is reduced by one for the rest of the game.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/167.png" num="187">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Meet the Challenge</name>
+			<text>Search your library for a creature card with mana value X or less, put it onto the battlefield, and shuffle. Then that creature fights up to one target creature you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/168.png" num="185">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XRG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Burn the City</name>
+			<text>Voyage — Destroy all creatures. Burn the City deals damage to target opponent equal to the number of differently named lands you control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/169.png" num="161">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RRWW</manacost>
+				<cmc>6</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Moonlight Bargain</name>
+			<text>Look at the top five cards of your library. For each card, put that card into your graveyard unless you pay 2 life. Then put the rest into your hand.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/170.png" num="81">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rampaging Horde</name>
+			<text>Whenever one or more nonland cards leave your graveyard, create a 1/1 white Viking creature token, then creatures you control get +1/+0 and gain haste until end of turn.
+{B}{R}, {T}: Exile target card from a graveyard.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/171.png" num="200">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Primal Solidarity</name>
+			<text>As this enchantment enters, choose a creature type.
+Spells you cast of the chosen type cost {1} less to cast.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/172.png" num="142">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tinkerbox</name>
+			<text>{1}, {T}, Exile this artifact: Return target artifact or creature card from your graveyard to your hand.
+{2}, {T}, Exile this artifact: Create a Clue token, a Glyph token, and a Treasure token.
+{3}, {T}, Exile this artifact: Search your library for an artifact card not named Tinkerbox, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/173.png" num="215">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Secrets of the Rime</name>
+			<text>For each player, exile target card from that player&apos;s graveyard. You may play those cards for as long as they remain exiled, and mana of any type can be spent to cast those spells.
+Exile Secrets of the Rime.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/174.png" num="205">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sondaran Knell</name>
+			<text>Sondaran Knell can&apos;t be countered.
+Destroy target nonenchantment permanent.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/175.png" num="209">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Surmount</name>
+			<text>Put a +1/+1 counter on each creature you control. Creatures you don&apos;t control get -1/-1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/176.png" num="210">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Punish the Weak</name>
+			<text>Target creature gains first strike, lifelink, and deathtouch until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/177.png" num="194">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Primal Force</name>
+			<text>Choose one or more—
+• Primal Force deals X damage to target player.
+• Target creature gets +X/+0 and gains trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/178.png" num="192">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XRG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vedgard Gardens</name>
+			<text>Whenever a fortified land you control becomes tapped, you gain 1 life.
+Fortify {1}. Activate only once each turn. ({1}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/179.png" num="222">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Slag Reforger</name>
+			<text>Whenever this creature becomes tapped, create a Glyph token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Target creature gets +1/+0 until end of turn.&quot;)
+Sacrifice three artifacts: Return target artifact, instant, or sorcery card from your graveyard to your hand. Activate only once each turn and only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/180.png" num="207">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lightning Helix</name>
+			<text>Lightning Helix deals 3 damage to any target and you gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/181.png" num="182">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Forward Garrison</name>
+			<text>When this Fortification enters, create two 1/1 white Viking creature tokens.
+Vikings you control get +1/+1 for each fortified land you control.
+Fortify {1}{W} ({1}{W}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/182.png" num="13">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Astral Observatory</name>
+			<text>Fortified land has &quot;{T}: Scry 1.&quot;
+Fortify {1}. Activate only once each turn. ({1}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/183.png" num="32">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Protected Paradise</name>
+			<text>Whenever fortified land becomes tapped, add one mana of any color.
+Fortify {2}. Activate only once each turn. ({2}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/184.png" num="143">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mead Hall</name>
+			<text>Fortified land has &quot;{T}: Tap target creature.&quot;
+Fortify {2}. Activate only once each turn. ({2}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/185.png" num="17">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Seeker of Pasts</name>
+			<text>{T}: Target player mills two cards.
+At the beginning of your upkeep, if a library has nine or fewer cards in it, you may transform this creature.
+---
+(Back): Etli, God of Yesterdays</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/186_front.png" num="54a">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Etli, God of Yesterdays</related>
+		</card>
+		<card>
+			<name>Etli, God of Yesterdays</name>
+			<text>Ward—Mill nine cards. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player mills nine cards.)
+When this creature transforms into Etli, God of Yesterdays and at the beginning of your upkeep, exile target card from a graveyard. For as long as that card remains exiled, you may play it, and mana of any type can be spent to cast it.
+---
+(Front): Seeker of Pasts</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/186_back.png" num="54b">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Merfolk God</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Seeker of Pasts</related>
+		</card>
+		<card>
+			<name>Valkyr Finisher</name>
+			<text>Flying
+This creature enters with an additional +1/+1 counter on it if an opponent was dealt damage this turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/187.png" num="29">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pain for Power</name>
+			<text>You draw two cards, lose 2 life, and create a 1/1 white Viking creature token.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/188.png" num="83">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Village Stomper</name>
+			<text>Pillage (Whenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.)
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/189.png" num="119">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shipseeker Kraken</name>
+			<text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+{5}{U}: This creature can&apos;t be blocked this turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/190.png" num="115">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kraken</type>
+				<maintype>Creature</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sondar Fragment</name>
+			<text>({T}: Add {R}.)
+This land enters tapped unless you control a Swamp and a Forest.
+{2}{B}{R}{G}, {T}, Sacrifice this land: Destroy target permanent. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/191.png" num="252">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RBG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Tarhild Hall</name>
+			<text>({T}: Add {W}.)
+This land enters tapped unless you control a Mountain and a Swamp.
+{1}{R}{W}{B}, {T}, Sacrifice this land: Unearth target artifact or creature card. Activate only as a sorcery. (To unearth an artifact or creature card, return it from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/192.png" num="255">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Vedgard Stronghold</name>
+			<text>({T}: Add {W}.)
+This land enters tapped unless you control a Forest and an Island.
+{2}{G}{W}{U}, {T}, Sacrifice this land: Search your library for a Fortification card, put it onto the battlefield, attach it to a land you control, then shuffle. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/193.png" num="258">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sturmkeld Rookery</name>
+			<text>({T}: Add {U}.)
+This land enters tapped unless you control a Plains and a Swamp.
+{2}{W}{U}{B}, {T}, Sacrifice this land: Look at the top four cards of your library. You may cast a spell from among them without paying its mana cost. Put the rest on the bottom of your library in a random order. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/194.png" num="253">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UWB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Jotlund Gorge</name>
+			<text>({T}: Add {U}.)
+This land enters tapped unless you control a Forest and a Mountain.
+{3}{G}{U}{R}, {T}, Sacrifice this land: Draw three cards. You may put a land card from your hand onto the battlefield. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/195.png" num="244">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dokkar Battlements</name>
+			<text>({T}: Add {B}.)
+This land enters tapped unless you control a Plains and a Forest.
+{2}{W}{B}{G}, {T}, Sacrifice this land: Creatures you control get +2/+2 until end of turn. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/196.png" num="241">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BWG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fellwind Tomb</name>
+			<text>({T}: Add {B}.)
+This land enters tapped unless you control an Island and a Mountain.
+{U}{B}{R}, {T}, Sacrifice this land: Choose target nonland card in your graveyard. Until end of turn, you may cast that card. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/197.png" num="242">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BUR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Kilvik Ruins</name>
+			<text>({T}: Add {G}.)
+This land enters tapped unless you control a Mountain and a Plains.
+Voyage — {1}{R}{G}{W}, {T}, Sacrifice this land: Create a 1/1 white Viking creature token. Put X +1/+1 counters on it, where X is the number of differently named lands you control. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/198.png" num="246">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>GWR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Leira Outcrop</name>
+			<text>({T}: Add {G}.)
+This land enters tapped unless you control a Swamp and an Island.
+{1}{B}{G}{U}, {T}, Sacrifice this land: Each player mills three cards. For each creature card put into a graveyard this way, you create a 1/1 white Viking creature token. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/199.png" num="247">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>GUB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Frost Jotun</name>
+			<text>When this creature enters, tap up to one target creature or Vehicle and put two stun counters on it.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/200.png" num="41">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>6U</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Village Outcrops</name>
+			<text>When Village Outcrops enters, draw a card.
+Whenever fortified land becomes tapped, you gain 1 life.
+Fortify {1}. Activate only once each turn. ({1}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/201.png" num="30">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Captive Transport</name>
+			<text>When this Vehicle enters, exile target creature or planeswalker until this Vehicle leaves the battlefield.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/202.png" num="3">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Freezing Encampment</name>
+			<text>Whenever fortified land becomes tapped, target player mills two cards.
+Fortify {2}. Activate only once each turn. ({2}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/203.png" num="40">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ethereal Karve</name>
+			<text>When this Vehicle enters, return target creature or Vehicle you don&apos;t control to its owner&apos;s hand.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/204.png" num="37">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pungent Necropolis</name>
+			<text>Fortified land has &quot;{T}: Each opponent loses 1 life.&quot;
+Fortify {2}. Activate only once each turn. ({2}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/205.png" num="84">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Galdur&apos;s Scorn</name>
+			<text>This spell costs {2} less to cast if you control a God.
+Exile target creature, Vehicle, or planeswalker.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/206.png" num="76">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Raiders&apos; Warship</name>
+			<text>When this Vehicle enters, it deals 2 damage to target creature or planeswalker.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/207.png" num="110">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Memorial Pass</name>
+			<text>Fortified land has &quot;{T}, Discard a card: Draw a card.&quot;
+Fortify {1}. Activate only once each turn. ({1}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/208.png" num="106">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Venturing Busse</name>
+			<text>Voyage — This Vehicle enters with a number of +1/+1 counters on it equal to the number of differently named lands you control.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/209.png" num="148">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Armaments Outpost</name>
+			<text>Fortified land has &quot;{T}: Target creature gets +1/+1 until end of turn. Activate only as a sorcery.&quot;
+Fortify {2}. Activate only once each turn. ({2}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/210.png" num="124">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vedgard Animus</name>
+			<text>Affinity for fortified lands (This spell costs {1} less to cast for each fortified land you control.)
+Vigilance, trample, ward {2}</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/211.png" num="221">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>5GU</manacost>
+				<cmc>7</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ingenious Solidarity</name>
+			<text>As this enchantment enters, choose a creature type.
+Whenever you cast a spell of the chosen type, draw a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/212.png" num="43">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Raevir Saboteur</name>
+			<text>Flying
+Activated abilities of artifacts cost {1} more to activate. (Fortify, equip, and crew abilities are activated.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/213.png" num="19">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Rogue Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Silent Sloop</name>
+			<text>Creatures entering or leaving the battlefield don&apos;t cause abilities to trigger.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/214.png" num="24">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Oknir</name>
+			<text>The Oknir has all abilities of other Vehicles you control and Vehicle cards in your graveyard.
+Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/215.png" num="50">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Aurora Keep</name>
+			<text>Fortified lands you control have &quot;Instant and sorcery spells you cast cost {1} less to cast.&quot;
+Fortify {1}{U} ({1}{U}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/216.png" num="33">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blight of Sturmkeld</name>
+			<text>Flying
+At the beginning of your end step, sacrifice this creature unless a creature with flying entered under your control this turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/217.png" num="62">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Contempt for the Nine</name>
+			<text>This spell can&apos;t be countered.
+Choose one or more —
+• Destroy target creature, Vehicle, or planeswalker.
+• Return target creature or planeswalker card from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/218.png" num="65">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Barge of the Dead</name>
+			<text>Menace, haste
+Exile a creature card from your graveyard: This Vehicle becomes an artifact creature until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/219.png" num="94">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Outland Jarl</name>
+			<text>Vigilance, trample
+When this creature enters, create a 1/1 white Viking creature token, then distribute X +1/+1 counters among any number of creatures you control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/220.png" num="140">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>XGG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Impassable Fortress</name>
+			<text>Prevent the first X damage you would be dealt each turn, where X is the number of fortified lands you control.
+Fortify {1}{G} ({1}{G}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/221.png" num="132">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Raevir General</name>
+			<text>Flying, vigilance
+Whenever you cast a white spell, up to one target creature gains vigilance until end of turn.
+Whenever you cast a blue spell, up to one target creature gains flying until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/222.png" num="196">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>3WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Draugr General</name>
+			<text>Whenever you cast a blue spell, draw a card.
+Whenever you cast a black spell, each opponent discards a card.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/223.png" num="164">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>General Chaos</name>
+			<text>Whenever you cast a black spell, up to one target creature gets -2/-2 until end of turn.
+Whenever you cast a red spell, this enchantment deals 2 damage to each opponent.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/224.png" num="172">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Realm Rover</name>
+			<text>Flying; pillage (Whenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.)
+Whenever you discard a card for the first time each turn, destroy target artifact, creature, or land.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/225.png" num="201">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4BR</manacost>
+				<cmc>6</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Talar General</name>
+			<text>Whenever you cast a red spell, exile the top two cards of your library. You may play them until your next end step.
+Whenever you cast a green spell, you may play an additional land this turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/226.png" num="212">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Runestone Ritual</name>
+			<text>Creatures you control get +1/+1 and have &quot;{T}: Add one mana of any color.&quot;</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/227.png" num="203">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Alfir General</name>
+			<text>Whenever you cast a white spell, create a 1/1 white Viking creature token.
+Whenever you cast a black spell, you may sacrifice a permanent. If you do, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/228.png" num="153">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dvergr General</name>
+			<text>Whenever you cast a blue spell, creatures you control get +0/+1 until end of turn.
+Whenever you cast a red spell, creatures you control get +1/+0 until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/229.png" num="168">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Blood Tide</name>
+			<text>Haste
+When this Vehicle enters, if you cast it, create three tokens that are copies of it.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/230.png" num="157">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4UR</manacost>
+				<cmc>6</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Deepcaller&apos;s Horn</name>
+			<text>{T}, Exile a card from your graveyard: Create a 1/1 white Viking creature token.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/231.png" num="162">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Varaklysm</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Each opponent sacrifices a land.
+II — Each opponent discards a card.
+III — Choose a creature type. Destroy all creatures of the chosen type.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/232.png" num="220">NLD</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BRG</manacost>
+				<cmc>5</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Humble Seamstress</name>
+			<text>{T}, Discard a card: Draw a card.
+{T}: Reveal your hand. If the total mana value of cards revealed this way is exactly 9, transform this creature.
+---
+(Back): Seskrin, Lifeweaver</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/233_front.png" num="104a">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Seskrin, Lifeweaver</related>
+		</card>
+		<card>
+			<name>Seskrin, Lifeweaver</name>
+			<text>Ward—Pay X life. X is the number of cards in your your graveyard.
+{T}: You may cast a spell from your hand without paying its mana cost.
+---
+(Front): Humble Seamstress</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/233_back.png" num="104b">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Humble Seamstress</related>
+		</card>
+		<card>
+			<name>Altar Between Worlds</name>
+			<text>{6}{W}, {T}: Exile target creature.
+{6}{U}, {T}: Scry 3, then draw three cards.
+{6}{B}, {T}: Put target creature card from a graveyard onto the battlefield under your control.
+{6}{R}, {T}: Creatures you control get +3/+0 and gain trample until end of turn.
+{6}{G}, {T}: Distribute five +1/+1 counter among any number of target creatures.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/234.png" num="235">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Runspau, the Seer</name>
+			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Whenever Runspau or another Human enters under your control, look at the top three cards of your library, reveal a land card from among them, put it into your hand, then put the rest on the bottom of your library in any order.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/235.png" num="204">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1RGW</manacost>
+				<cmc>4</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vestri, Queen of Dokkar</name>
+			<text>Vestri, Queen of Dokkar&apos;s power and toughness are each equal to the number of creatures you control.
+Whenever Vestri attacks, another target Elf creature you control gets +X/+X until end of turn, where X is Vestri&apos;s power.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/236.png" num="224">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2WBG</manacost>
+				<cmc>5</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kurth, The Allseer</name>
+			<text>Whenever Kurth, The Allseer becomes the target of a spell or ability an opponent controls, that opponent loses the game at the beginning of the next end step.
+When Kurth enters the battlefield, if you didn&apos;t cast it from your hand, you lose the game.
+At the beginning of your end step, search your library for a permanent card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLD-files/img/237.png" num="181">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>4WUBRG</manacost>
+				<cmc>9</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dunvar, the Nurturer</name>
+			<text>Whenever Dunvar attacks, put a +1/+1 counter on it, then you may return a creature card with mana value less than or equal to Dunvar&apos;s power from a graveyard to the battlefield under your control. 
+{X}{UB}{UB}: Target player mills X cards.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLD-files/img/238.png" num="8">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Ox</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Askild, Ineffable Boar</name>
+			<text>Indestructible
+{2}{BG}{BG}, Exile a creature card from your graveyard: Put a number of +1/+1 counters on Askild equal to that card&apos;s power.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLD-files/img/239.png" num="1">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Boar</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>WBG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Varskur, Scourge of Sjofir</name>
+			<text>Other creatures you control have base power and toughness 9/9.
+Whenever Varskur attacks, you may pay {7}{BR}{BR}. If you do, return up to nine target creature cards with mana value 9 or less from your graveyard to the battlefield tapped and attacking.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLD-files/img/240.png" num="59">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>7UU</manacost>
+				<cmc>9</cmc>
+				<colors>U</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>9/9</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eilert, Sun Chaser</name>
+			<text>Menace
+Whenever this creature enters or transforms into Eilert, Sun Chaser, creatures you don&apos;t control get -1/-1 until end of turn.
+At the beginning of your end step, you may pay {RG}{RG}. If you do, transform Eilert.
+---
+(Back): Odine, Moon Chaser</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLD-files/img/241_front.png" num="71a">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Wolf Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Odine, Moon Chaser</related>
+		</card>
+		<card>
+			<name>Odine, Moon Chaser</name>
+			<text>Menace
+Whenever this creature transforms into Odine, Moon Chaser, it deals damage equal to its power to target creature or planeswalker you don&apos;t control.
+At the beginning of combat on your turn, you may pay {B}{B}. If you do, transform Odine.
+---
+(Front): Eilert, Sun Chaser</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLD-files/img/241_back.png" num="71b">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Wolf Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>RG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Eilert, Sun Chaser</related>
+		</card>
+		<card>
+			<name>Herida, the Temptress</name>
+			<text>At the beginning of your end step, you may pay X life. If you do, gain control of target nontoken creature with mana value X for as long as you control Herida.
+{GU}{GU}: Herida gains hexproof until end of turn.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLD-files/img/242.png" num="79">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Nymph</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Davriel, Interloper</name>
+			<text>When Davriel, Interloper has nine or more loyalty counters on him, transform him.
+[+3]: Look at the top card of each player&apos;s library, then target player mills three cards.
+[+1]: Target player discards a card.
+---
+(Back): Davriel, God of Thieves</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLD-files/img/243_front.png" num="67a">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Davriel</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Davriel, God of Thieves</related>
+		</card>
+		<card>
+			<name>Davriel, God of Thieves</name>
+			<text>Ward—Pay X life, where X is the number of loyalty counters on Davriel, God of Thieves.
+{T}, Remove X loyalty counters from Davriel: Put a creature card with mana value X from a graveyard onto the battlefield under your control.
+---
+(Front): Davriel, Interloper</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLD-files/img/243_back.png" num="67b">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Human God</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Davriel, Interloper</related>
+		</card>
+		<card>
+			<name>Thrya, Steed of the Gods</name>
+			<text>Reach, haste
+At the beginning of each combat, you may pay {GW}{GW}. If you do, creatures you control gain first strike until end of turn if a creature you control has first strike. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, pillage, trample, and vigilance.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLD-files/img/244.png" num="117">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spider Horse</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dagny, Sun&apos;s Chariot</name>
+			<text>Flying
+Whenever this creature enters or transforms into Dagny, Sun&apos;s Chariot, creatures you control get +1/+0 and gain trample and haste until end of turn.
+At the beginning of your end step, you may pay {WB}{WB}. If you do, transform Dagny.
+---
+(Back): Signa, Moon&apos;s Chariot</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLD-files/img/245_front.png" num="97a">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>WBR</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Signa, Moon&apos;s Chariot</related>
+		</card>
+		<card>
+			<name>Signa, Moon&apos;s Chariot</name>
+			<text>Flying
+Whenever this creature transforms into Signa, Moon&apos;s Chariot, create a 1/1 white and black Horse creature token with lifelink.
+At the beginning of your combat on your turn, you may pay {R}{R}. If you do, transform Signa.
+---
+(Front): Dagny, Sun&apos;s Chariot</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLD-files/img/245_back.png" num="97b">NLD</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WB</colors>
+				<coloridentity>WBR</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Dagny, Sun&apos;s Chariot</related>
+		</card>
+		<card>
+			<name>Aina, Svetnar Uniter</name>
+			<text>Kicker {WU}{WU} (You may pay an additional {WU}{WU} as you cast this spell.)
+When Aina enters, if she was kicked, put a kinship counter on her. She gains &quot;You may activate Aina&apos;s abilities twice each turn rather than only once.&quot;
+[+1]: Untap target land.
+[-2]: Until end of turn, target land you control gains &quot;{T}: Create a 3/2 green Spirit creature token.&quot;
+[-8]: You get an emblem with &quot;At the beginning of each combat, untap all lands you control.&quot;</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLD-files/img/246.png" num="122">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Aina</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>WUG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Siglar, Master Shipwright</name>
+			<text>When Siglar enters, you may create Kompmarr, a legendary 3/3 colorless Vehicle artifact token. It has crew 2 and &quot;Whenever you activate a loyalty ability of a Siglar planeswalker, this Vehicle becomes an artifact creature until end of turn.&quot;
+[+1]: Target artifact you control gains indestructible and haste until end of turn.
+[-2]: Put a +1/+1 counter on each creature and Vehicle you control.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLD-files/img/247.png" num="206">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Siglar</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bedral the Fractured</name>
+			<text>When Bedral the Fractured enters, exile all Gods.
+Permanents can&apos;t transform.
+When Bedral dies, you may exile it. If you do, exile target nonland permanent.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLD-files/img/248.png" num="155">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Orous Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3BG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sjofir, The World Sea</name>
+			<text>{T}: Add {C}.
+Voyage — {3}, {T}: Add X mana of any one color, where X is equal to the number of differently named lands you control.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLD-files/img/249.png" num="251">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Blind Shot</name>
+			<text>Target opponent discards two cards. 
+{1}{R}, Exile Blind Shot from your graveyard: It deals damage to target player equal to the number of cards that have been discarded by all players this turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/250.png" num="63">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ring of Infinity</name>
+			<text>{T}: Add one mana of any color.
+At the beginning of your upkeep, if Ring of Infinity isn&apos;t a token, create a token that&apos;s a copy of it.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/251.png" num="236">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Assault on Vedgard</name>
+			<text>Take an extra turn after this one. During that turn, whenever a creature you control attacks, it gains pillage until end of turn. (Whenever a creature with pillage deals combat damage to a player, you may draw a card. If you do, discard a card. Multiple instance of pillage stack.)
+Exile Assault on Vedgard.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/252.png" num="31">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tireless Draugr</name>
+			<text>Pillage (Whenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.)
+This creature enters tapped.
+{1}{B}: Return this creature from your graveyard to your hand. Activate only during your turn and only if you drew two or more cards this turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLD-files/img/253.png" num="90">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hulvara, Hearth of the Graveless</name>
+			<text>This land enters tapped.
+{T}: Add {C}.
+Whenever this or another land enters under your control, if you control seven or more lands with different names, create a 2/2 black Zombie creature token.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/254.png" num="243">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Jotun General</name>
+			<text>Whenever you cast a green spell, reveal the top card of your library. If it&apos;s a creature card, put it onto the battlefield.
+Whenever you cast a blue spell, reveal the top card of your library. If it&apos;s an artifact card, put it onto the battlefield.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/255.png" num="178">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>7GU</manacost>
+				<cmc>9</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>9/9</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Waddell, Realm Runner</name>
+			<text>Trample, haste
+Whenever Waddell deals combat damage to a player, search your library for a land card with a basic land type, put it onto the battlefield tapped, then shuffle.
+{8}{UR}{UR}: Until end of turn, you may cast spells from your hand without paying their mana costs.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLD-files/img/256.png" num="149">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Squirrel</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>URG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fade into Obscurity</name>
+			<text>Destroy target creature with power 3 or less. Target player mills three cards.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLD-files/img/257.png" num="73">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Secret Streams</name>
+			<text>When Secret Streams enters, each player mills two cards.
+You may play land cards from graveyards.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLD-files/img/258.png" num="146">NLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

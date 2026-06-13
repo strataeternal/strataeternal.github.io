@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "MYC",
+            "set_name": "Mystvale Commander",
+            "formats": "stratacommander"
+        },
+        {
             "set_code": "SDH",
             "set_name": "Strata Commander",
             "formats": "stratacommander"

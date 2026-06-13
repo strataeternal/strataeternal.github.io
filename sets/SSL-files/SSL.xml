@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>SSL</name>
+			<longname>Strata Signature Legends</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-06-13</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Andrew, Reality Editor</name>
+			<text>As you cast a spell, you may change the text of that spell by replacing any instances of a color word with another. You may do the same for basic land types, creature types, and artifact types. (Changes made to a spell that becomes a permanent last indefinitely.)</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SSL-files/img/0.png" num="4">SSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Feralitator, Abyss Shaper</name>
+			<text>Whenever another multicolored permanent enters the battlefield under your control, Feralitator deals damage to any target equal to the number of colors that permanent is.
+{3}, Sacrifice another multicolored permanent: Draw a card for each of that permanent&apos;s colors.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SSL-files/img/1.png" num="7">SSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Nightmare Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>UBRG</manacost>
+				<cmc>4</cmc>
+				<colors>UBRG</colors>
+				<coloridentity>UBRG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Victoria, Seasoned Inventor</name>
+			<text>[0]: Draw a card. Put a loyalty counter on Victoria, Seasoned Inventor for each opponent you have.
+[0]: Create a 1/1 colorless Construct artifact creature token for each opponent you have. This ability costs [-1] more to activate for each opponent you have beyond the first.
+[-X]: Search your library for a nonland card with mana value X or less, exile that card, then shuffle. You may cast that card. X can&apos;t be 0. (You still pay its costs.)
+Victoria, Seasoned Inventor can be your commander.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SSL-files/img/2.png" num="20">SSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Charlotte</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vatiroil, Dragon Generator</name>
+			<text>Improvise
+Flying
+Whenever Vatiroil attacks, you may tap any number of untapped artifacts you control. If you do, search your library for an artifact or Dragon card with mana value less than or equal to the number of artifacts tapped this way, and put that card onto the battlefield. Then shuffle.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SSL-files/img/3.png" num="23">SSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2/W2/U2/B2/R2/G</manacost>
+				<cmc>10</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nijugo Cinq, Bleeding Lotus</name>
+			<text>Whenever an opponent is dealt combat damage by one or more creatures, copy the next instant or sorcery spell you cast this turn. You may choose new targets for the copy.
+As long as you&apos;ve lost life this turn, Nijugo Cinq gets +1/+1 and can&apos;t be blocked.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SSL-files/img/4.png" num="13">SSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Mutant Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sharai, Crown Thief</name>
+			<text>You may have Sharai enters the battlefield as a copy of another commander on the battlefield or in the command zone, except it has Sharai&apos;s other abilities.
+{X}, Discard a card: Exile target nonland card from an opponent&apos;s graveyard with mana value X that shares a type with the discarded card. Copy the exiled card. You may cast the copy without paying its mana cost.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SSL-files/img/5.png" num="17">SSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Shapeshifter Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pan, the Fool</name>
+			<text>Double strike
+Whenever a permanent card would be returned to your hand from the battlefield, you may exile it instead. If you do, return it to the battlefield face down under your control. (It&apos;s a 2/2 creature.)
+Partner with Tone, the Caretaker</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SSL-files/img/6.png" num="14">SSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Rat Mouse</type>
+				<maintype>Creature</maintype>
+				<manacost>URW</manacost>
+				<cmc>3</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tone, the Caretaker</name>
+			<text>Defender
+Whenever another colorless creature or Mouse you control enters, you may put an amount of +1/+1 counters on it equal to Tone&apos;s power.
+Partner with Pan, the Fool</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SSL-files/img/7.png" num="24">SSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>1/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rodin, Master of Mirrors</name>
+			<text>When Rodin enters or attacks, put a mirror counter on target creature you control.
+Rodin has all abilities of other creatures you control with mirror counters on them.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SSL-files/img/8.png" num="16">SSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>GWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kalem, Arcane Architect</name>
+			<text>Whenever you copy a spell, create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on it, where X is the copied spell&apos;s mana value.
+{G}{U}{R}, {T}: Copy target spell you control. you may choose new targets for the copy. If the copied spell has mana value 5 or greater, untap Kalem. (A copy of a permanent spell becomes a token.)</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SSL-files/img/9.png" num="10">SSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>GUR</manacost>
+				<cmc>3</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tyum, Peddler of Wares</name>
+			<text>At the beginning of each opponent&apos;s upkeep, you and that player each choose one—
+• Relics — Create a Treasure token.
+• Rations — Create a Food token.
+• Records — Create a Clue token.
+Whenever a player sacrifices an artifact, scry 1, then create a 1/1 white and green Cat creature token.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SSL-files/img/10.png" num="19">SSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1GWU</manacost>
+				<cmc>4</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zid, Lootlord of Zahm</name>
+			<text>Flying
+Whenever a creature you control is returned to its owner&apos;s hand, you may discard a card. If you do, choose one. X is the discarded card&apos;s mana value.
+• Shuffle up to X cards from your graveyard into your library.
+• Create X Treasure tokens.
+• Zid, deals X damage to any target.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SSL-files/img/11.png" num="22">SSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>2UBR</manacost>
+				<cmc>5</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shimatsu, the Bloodsoaked</name>
+			<text>Devour permanent 1 (As this enters the battlefield, you may sacrifice any number of permanents. This creature enters the battlefield with that many +1/+1 counters on it.)
+When Shimatsu enters the battlefield, each opponent sacrifices a number of permanents equal to Shimatsu&apos;s power.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SSL-files/img/12.png" num="2">SSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>4RRR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Khronomikar</name>
+			<text>Flash
+Flying
+Feast — When Khronomikar enters, sacrifice any number of creatures.
+Famine — Whenever you sacrifice a creature, creatures you don&apos;t control -1/-1 until end of turn.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SSL-files/img/13.png" num="11">SSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4UBR</manacost>
+				<cmc>7</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aioron, Patron of Heroes</name>
+			<text>Flying
+Whenever you cast a planeswalker spell, copy that spell. The copy isn&apos;t legendary and has starting loyalty 1.
+{1}{GW}{GW}, {T}: Put two loyalty counters on each of up to two target permanents that have loyalty abilities.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SSL-files/img/14.png" num="3">SSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bird God</type>
+				<maintype>Creature</maintype>
+				<manacost>3UR</manacost>
+				<cmc>5</cmc>
+				<colors>UR</colors>
+				<coloridentity>WURG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gunnar, Knight of Hundred Blades</name>
+			<text>Flying, trample, ward {X}, where X is Gunnar&apos;s level.
+Level up {2} ({2}: Put a level counter on this. Level up only as a sorcery.) [5/4]
+[level 2-99] Whenever Gunnar attacks, create a 2/2 white Knight creature token with vigilance. [6/5]
+[level 100+] Whenever Gunnar attacks a player, that player loses the game. [20/20]</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SSL-files/img/15.png" num="8">SSL</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Legendary Creature — Angel Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2RGW</manacost>
+				<cmc>5</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Robyn, Heartwood Vanguard</name>
+			<text>First strike, trample
+Whenever Robyn deals combat damage to an opponent, you may sacrifice another creature. If you do, create X 2/2 green Wolf creature tokens, where X is the sacrificed creature&apos;s toughness.
+{1}{R}{G}: Each other creature you control that shares a creature type with Robyn gains menace until end of turn.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SSL-files/img/16.png" num="15">SSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Fox Wolf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elix, Dragonrider Ace</name>
+			<text>Flying, haste
+Whenever an Aura or Equipment you control enters, you may pay {3}. If you do, create a 4/4 red Dragon creature token with flying and attach that permanent to it.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SSL-files/img/17.png" num="5">SSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2RGW</manacost>
+				<cmc>5</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mesyll, the Moth Man</name>
+			<text>Flying
+Insects you control are cryptids.
+Whenever you cast a modal spell, choose up to X, where X is the number of times you chose a mode for that spell—
+• Draw a card, then discard a card.
+• Create a 1/1 black and green Insect creature token.
+• Put a flying counter or a +1/+1 counter on target cryptid. (Aliens, Eldrazi, Horrors, and Mutants are cryptids, as are Insects you control, now, too.)</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SSL-files/img/18.png" num="12">SSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1BGU</manacost>
+				<cmc>4</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Yellow, Kindest Friend</name>
+			<text>When Yellow enters or attacks, each player exiles the top card of their library. Put a fetch counter on each card exiled this way.
+Each player may play cards they own in exile with fetch counters on them. Whenever an opponent plays a card this way, if it&apos;s a land card, create a Treasure token. If it&apos;s a creature card, create a 1/1 green Squirrel creature token. If it&apos;s a noncreature, nonland card, you gain 3 life.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SSL-files/img/19.png" num="21">SSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>EtherShade, Shadow of Time</name>
+			<text>Flying, deathtouch
+You have no maximum hand size.
+As long as you have seven or more cards in hand, spells you cast cost {W}{U}{B} (or {3}) less to cast.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SSL-files/img/20.png" num="6">SSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Wraith Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>WUB</manacost>
+				<cmc>3</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Izirhia, Grieving Archlich</name>
+			<text>Flying
+Rather than choose the indicated number of modes for spells and abilities you control, you may choose one or more modes. You can&apos;t choose any mode more than once.
+Whenever you cast a modal spell, if you chose all modes for that spell, draw a card.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SSL-files/img/21.png" num="9">SSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2UBR</manacost>
+				<cmc>5</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deeko, the Scorgebringer</name>
+			<text>Trample, haste
+If a red source you control would deal damage to a single opponent, it deals that much damage plus 1 to each opponent instead.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SSL-files/img/22.png" num="1">SSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Orc Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2RRR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sustodia, Holy Guard</name>
+			<text>Flying, trample, lifelink
+Other Angels and Clerics you control have hexproof.
+Whenever an Angel or Cleric you control attacks or blocks, you gain 1 life.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SSL-files/img/23.png" num="18">SSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>1WBG</manacost>
+				<cmc>4</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

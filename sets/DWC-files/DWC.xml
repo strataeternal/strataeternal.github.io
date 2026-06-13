@@ -1,0 +1,1530 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>DWC</name>
+			<longname>Delmand Commander</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-06-13</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Marble Dryad</name>
+			<text>Rally — Whenever this creature or another Ally you control enters, choose up to one that hasn&apos;t been chosen —
+• Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+• Put a land card from your hand onto the battlefield tapped.
+• Sacrifice this creature, then draw a card.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/0.png" num="1">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Transmutation Charm</name>
+			<text>Spree (Choose one or more additional costs.)
++{W} — Target player gains 3 life.
++{U} — Target player draws a card.
++{B} — Target player loses 2 life.
++{R} — Destroy target artifact.
++{G} — Destroy target enchantment.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/1.png" num="2">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>And They Shall Know No Fear</name>
+			<text>Choose a creature type. Creatures of the chosen type get +1/+0 and gain indestructible until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWC-files/img/2.png" num="3">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Another Round</name>
+			<text>Exile any number of creatures you control, then return them to the battlefield under their owner&apos;s control. Then repeat this process X more times.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/3.png" num="4">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XX2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gideon, Ally of Zendikar</name>
+			<text>[+1]: Until end of turn, Gideon becomes a 5/5 Human Soldier Ally creature with indestructible that&apos;s still a planeswalker. Prevent all damage that would be dealt to him this turn.
+[0]: Put a 2/2 white Knight Ally creature token onto the battlefield.
+[-4]: You get an emblem with &quot;Creatures you control get +1/+1.&quot;</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DWC-files/img/4.png" num="5">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Gideon</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Guardian of the Skies</name>
+			<text>Flying
+When this creature enters, search your library for a basic land card, exile it, then shuffle. As long as an opponent controls more lands than you, you may play that card from exile.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/5.png" num="6">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hero of Goma Fada</name>
+			<text>Rally — Whenever this creature or another Ally you control enters, creatures you control gain indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/6.png" num="7">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Information Intercept</name>
+			<text>Kicker {1}{W} (You may pay an additional {1}{W} as you cast this spell.)
+If this spell was kicked, create two 1/1 white Rabbit Ally creature tokens.
+Counter target noncreature spell unless its controller pays {X}, where X is the number of Allies you control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/7.png" num="8">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lantern Scout</name>
+			<text>Rally — Whenever this creature or another Ally you control enters, creatures you control gain lifelink until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/8.png" num="9">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Munda&apos;s Vanguard</name>
+			<text>Cohort — {T}, Tap an untapped Ally you control: Put a +1/+1 counter on each creature you control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/9.png" num="10">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kor Knight Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Retreat to Emeria</name>
+			<text>Landfall — Whenever a land you control enters, choose one —
+• Create a 1/1 white Kor Ally creature token.
+• Creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWC-files/img/10.png" num="11">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Secret Rendezvous</name>
+			<text>You and target opponent each draw three cards.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWC-files/img/11.png" num="12">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tamer of the Tower</name>
+			<text>Rally — Whenever this creature or another Ally you control enters, put a +1/+1 counter on this creature.
+{T}, Remove five counters from this creature: Create a 5/5 white Dragon Spirit creature token with flying.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/12.png" num="13">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unified Front</name>
+			<text>Converge — Create a 1/1 white Kor Ally creature token for each color of mana spent to cast this spell.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWC-files/img/13.png" num="14">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vanquish the Horde</name>
+			<text>This spell costs {1} less to cast for each creature on the battlefield.
+Destroy all creatures.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/14.png" num="15">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>6WW</manacost>
+				<cmc>8</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Copica, the Mirror Blade</name>
+			<text>When Copica enters, create a 1/1 white Kor Ally creature token, then attach Copica to it.
+Whenever equipped creature deals combat damage to an opponent, you may create a token that&apos;s a copy of it.
+Equip {3}{U} ({3}{U}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/15.png" num="16">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Drake Rider</name>
+			<text>Flying
+Rally — Whenever this creature or another Ally you control enters, scry 1. If this is the second time this ability has resolved this turn, draw a card instead.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/16.png" num="17">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ranger Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elite Sky-Rider</name>
+			<text>Rally — Whenever this creature or another Ally you control enters, creatures you control gain flying until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWC-files/img/17.png" num="18">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Wizard Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Familiar&apos;s Ruse</name>
+			<text>As an additional cost to cast this spell, return a creature you control to its owner&apos;s hand.
+Counter target spell.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWC-files/img/18.png" num="19">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Halimar Excavator</name>
+			<text>Rally — Whenever this creature or another Ally you control enters, target player mills X cards, where X is the number of Allies you control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWC-files/img/19.png" num="20">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jwari Shapeshifter</name>
+			<text>You may have this creature enter as a copy of an Ally creature on the battlefield.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/20.png" num="21">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Of One Mind</name>
+			<text>This spell costs {2} less to cast if you control a Human and a non-Human creature.
+Draw two cards.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWC-files/img/21.png" num="22">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reflections of Littjara</name>
+			<text>As Reflections of Littjara enters, choose a creature type.
+Whenever you cast a spell of the chosen type, copy that spell. (A copy of a permanent spell becomes a token.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/22.png" num="23">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sea Gate Loremaster</name>
+			<text>{T}: Draw a card for each Ally you control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/23.png" num="24">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Wizard Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Black Market Dispatcher</name>
+			<text>Rally — Whenever this creature or another Ally you control enters, you draw a card and lose 1 life.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/24.png" num="25">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Rogue Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crippling Fear</name>
+			<text>Choose a creature type. Creatures that aren&apos;t of the chosen type get -3/-3 until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/25.png" num="26">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Deserter&apos;s Retribution</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+Choose one —
+• Ally creatures you control gain intimidate until end of turn. (A creature with intimidate can&apos;t be blocked except by artifact creatures and/or creatures that share a color with it.)
+• Draw two cards.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWC-files/img/26.png" num="27">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hagra Diabolist</name>
+			<text>Rally — Whenever this creature or another Ally you control enters, you may have target player lose life equal to the number of Allies you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWC-files/img/27.png" num="28">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ogre Shaman Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lethal Scheme</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Destroy target creature or planeswalker. Each creature that convoked this spell connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/28.png" num="29">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stronghold Arena</name>
+			<text>Kicker {G} and/or {W} (You may pay an additional {G} and/or {W} as you cast this spell.)
+When this enchantment enters, you gain 3 life for each time it was kicked.
+Whenever one or more creatures you control deal combat damage to a player, you may reveal the top card of your library and put it into your hand. If you do, you lose life equal to its mana value.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/29.png" num="30">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Toxinomancer</name>
+			<text>Rally — Whenever this creature or another Ally you control enters, exile the top card of target opponents library face down. For as long as that card remains exiled, you may look at it, you may cast it, and you may spend mana as though it were any type to cast it.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/30.png" num="31">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Warlock Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zulaport Cutthroat</name>
+			<text>Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWC-files/img/31.png" num="32">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alliance Pyromancer</name>
+			<text>Rally — Whenever this creature or another Ally you control enters, create a 1/1 red Elemental creature token.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/32.png" num="33">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancient Grudge</name>
+			<text>Destroy target artifact.
+Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWC-files/img/33.png" num="34">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Calamity of Cinders</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Calamity of Cinders deals 6 damage to each untapped creature.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/34.png" num="35">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Chasm Guide</name>
+			<text>Rally — Whenever this creature or another Ally you control enters, creatures you control gain haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWC-files/img/35.png" num="36">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Scout Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Firemantle Mage</name>
+			<text>Rally — Whenever this creature or another Ally you control enters, creatures you control gain menace until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWC-files/img/36.png" num="37">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Molten Echoes</name>
+			<text>As this enchantment enters, choose a creature type.
+Whenever a nontoken creature you control of the chosen type enters, create a token that&apos;s a copy of that creature. That token gains haste. Exile it at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/37.png" num="38">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Recruit for the Cause</name>
+			<text>Gain control of target creature until end of turn. Untap that creature. Until end of turn, it gains haste, has protection from its owner, and becomes an ally in addition to its other types. (It can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything its owner, and becomes an ally in addition to its other type.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/38.png" num="39">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tuktuk Scrapper</name>
+			<text>Rally — Whenever this creature or another Ally you control enters, you may destroy target artifact. If that artifact is put into a graveyard this way, this creature deals damage to that artifact&apos;s controller equal to the number of Allies you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWC-files/img/39.png" num="40">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Artificer Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grow from the Ashes</name>
+			<text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Search your library for a basic land card, put it onto the battlefield, then shuffle. If this spell was kicked, instead search your library for two basic land cards, put them onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWC-files/img/40.png" num="41">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Harabaz Druid</name>
+			<text>{T}: Add X mana of any one color, where X is the number of Allies you control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/41.png" num="42">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Open the Way</name>
+			<text>X can&apos;t be greater than the number of players in the game.
+Reveal cards from the top of your library until you reveal X land cards. Put those land cards onto the battlefield tapped and the rest on the bottom of your library in a random order.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/42.png" num="43">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XGG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Realmwalker</name>
+			<text>Changeling (This card is every creature type.)
+As this creature enters, choose a creature type.
+You may look at the top card of your library any time.
+You may cast creature spells of the chosen type from the top of your library.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/43.png" num="44">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tajuru Warcaller</name>
+			<text>Rally — Whenever this creature or another Ally you control enters, creatures you control get +2/+2 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWC-files/img/44.png" num="45">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warrior Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Turntimber Ranger</name>
+			<text>Rally — Whenever this creature or another Ally you control enters, you may create a 2/2 green Wolf creature token. If you do, put a +1/+1 counter on this creature.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/45.png" num="46">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Scout Ranger Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Woodland Guide</name>
+			<text>Reach
+Rally — Whenever this creature or another Ally you control enters, this creature explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/46.png" num="47">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Archer Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elmyr, Frontline Commander</name>
+			<text>Vigilance
+Other creatures you control have vigilance.
+When Elmyr attacks, you may tap X untapped attacking Allies you control. If you do, search your library for an Ally creature card with mana value X or less and put it onto the battlefield tapped and attacking, then shuffle.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/DWC-files/img/47.png" num="48">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Warrior Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>WUBRG</manacost>
+				<cmc>5</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inea, the Guiding Hand</name>
+			<text>As Inea enters, choose a creature type.
+If a triggered ability of another permanent you control of the chosen type triggers, that ability triggers an additional time.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/48.png" num="49">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Fox Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>WUBRG</manacost>
+				<cmc>5</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>March from the Tomb</name>
+			<text>Return any number of target Ally creature cards with total mana value 8 or less from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/49.png" num="50">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WB</manacost>
+				<cmc>5</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tanni, Sludge Pilferer</name>
+			<text>When Tanni enters, surveil X, where X is the number of permanents you control that share a creature type with Tanni.
+{2}, {T}: The next spell you cast this turn has delve. You may return Tanni to your hand. (Each card you exile from your graveyard while casting this spell pays for {1}.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/50.png" num="51">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Frog Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1BGU</manacost>
+				<cmc>4</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cantonment Settler</name>
+			<text>Kincraft — At the beginning of combat on your turn, if you control three or more creatures that share a creature type, each creature you control gets +1/+1 and gain vigilance until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/51.png" num="52">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1G/WG/W</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hektor, Heroic Warmonger</name>
+			<text>Attacking creatures you control have first strike and lifelink.
+Whenever Hektor attacks, create a 2/2 white Knight Ally creature token that&apos;s tapped and attacking.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/52.png" num="53">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Knight Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR/WW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Incandescent Rager</name>
+			<text>When this creature enters or attacks, you may pay {BR}{BR} or sacrifice a creature. If you do, rage. (Your rage ends at your upkeep if you didn&apos;t deal or receive damage since your last upkeep.)
+At the beginning of your end step, if you&apos;re raging, discard your hand. When you do, exile the top two cards of your library. Until the end of your next turn, you may play those cards.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/53.png" num="54">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Berserker Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2B/RB/R</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ivy Imitation</name>
+			<text>Mimic (As this creature enters, choose a creature type. It&apos;s the chosen type in addition to it other types.)
+Whenever one or more other creatures you control enter, if they share a creature type with this creature, add one mana of any color.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/54.png" num="55">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>R/GR/G</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Necrosis Sculptor</name>
+			<text>Skulk; mindstrike (Damage dealt by this creature to a player also causes that player to mill that many cards.)
+Whenever an opponent mills one or more creature cards, you may pay {1}{UB}{UB}. If you do, put up to one creature card milled this way onto the battlefield under your control, except its a 2/2 black Zombie Ally (instead of its other colors and types.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/55.png" num="56">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1U/BU/B</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sea Scrap Collector</name>
+			<text>When you cast this spell, create your choice of a Treasure token, a Clue token, a Map token or a Fuel token.
+Rally — Whenever this creature or another Ally you control enters, manufacture. (Create a token that&apos;s a copy of an artifact token you control.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/56.png" num="57">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Scout Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2W/UW/U</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alliance Standard</name>
+			<text>This artifact enters tapped unless you control a legendary Ally creature.
+{T}: Add {W}.
+Cohort — {T}, Tap an untapped Ally you control: Create a 1/1 white Kor Ally creature token.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/57.png" num="58">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Artifact — Ally</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Captain&apos;s Claws</name>
+			<text>Equipped creature gets +1/+0.
+Whenever equipped creature attacks, create a 1/1 white Kor Ally creature token that&apos;s tapped and attacking.
+Equip {1}</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/58.png" num="59">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gathering Stone</name>
+			<text>As this artifact enters, choose a creature type.
+Spells you cast of the chosen type cost {1} less to cast.
+When this artifact enters and at the beginning of your upkeep, look at the top card of your library. If it&apos;s a card of the chosen type, you may reveal it and put it into your hand. If you don&apos;t put the card into your hand, you may put it into your graveyard.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWC-files/img/59.png" num="60">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jar of Souls</name>
+			<text>As this artifact enters, choose a creature type.
+{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a spell of the chosen type, and that spell can&apos;t be countered.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/60.png" num="61">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Patchwork Banner</name>
+			<text>As this artifact enters, choose a creature type.
+Creatures you control of the chosen type get +1/+1.
+{T}: Add one mana of any color.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWC-files/img/61.png" num="62">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Prismatic Lens</name>
+			<text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWC-files/img/62.png" num="63">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Progenitor&apos;s Icon</name>
+			<text>As this artifact enters, choose a creature type.
+{T}: Add one mana of any color.
+{T}: The next spell of the chosen type you cast this turn can be cast as though it had flash.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/63.png" num="64">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Alliance Campsite</name>
+			<text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/64.png" num="65">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Land — Ally</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Ally Encampment</name>
+			<text>{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast an Ally spell.
+{1}, {T}, Sacrifice this land: Return target Ally you control to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWC-files/img/65.png" num="66">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Blighted Woodland</name>
+			<text>{T}: Add {C}.
+{3}, {G}, {T}, Sacrifice this land: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWC-files/img/66.png" num="67">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Calmwater Village</name>
+			<text>({T}: Add {U}.)
+This land enters tapped.
+{4}{U}, {T}: Draw a card. This ability costs {1} less to activate for each other Town you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWC-files/img/67.png" num="68">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Town</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Canopy Vista</name>
+			<text>({T}: Add {G} or {W}.)
+This land enters tapped unless you control two or more basic lands.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/68.png" num="69">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cascading Cataracts</name>
+			<text>Indestructible
+{T}: Add {C}.
+{5}, {T}: Add five mana in any combination of colors.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/69.png" num="70">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cinder Glade</name>
+			<text>({T}: Add {R} or {G}.)
+This land enters tapped unless you control two or more basic lands.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/70.png" num="71">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Clifftop Village</name>
+			<text>({T}: Add {R}.)
+This land enters tapped.
+{4}{R}, {T}: This land deals 2 damage to target player, planeswalker, or battle. This ability costs {1} less to activate for each other Town you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWC-files/img/71.png" num="72">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Town</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Crossroads Village</name>
+			<text>This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWC-files/img/72.png" num="73">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Town</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Deepwood Village</name>
+			<text>({T}: Add {G}.)
+This land enters tapped.
+{4}{G}, {T}: Put a +1/+1 counter on target creature. This ability costs {1} less to activate for each other Town you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWC-files/img/73.png" num="74">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Town</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Eclipsed Steppe</name>
+			<text>({T}: Add {W} or {B}.)
+This land enters tapped unless you control two or more basic lands.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/74.png" num="75">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Escape Tunnel</name>
+			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{T}, Sacrifice this land: Target creature with power 2 or less can&apos;t be blocked this turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWC-files/img/75.png" num="76">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Hillharvest Village</name>
+			<text>({T}: Add {W}.)
+This land enters tapped.
+{4}{W}, {T}: Create a 1/1 white Human Peasant token. This ability costs {1} less to activate for each other Town you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWC-files/img/76.png" num="77">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Town</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Krosan Verge</name>
+			<text>This land enters tapped.
+{T}: Add {C}.
+{2}, {T}, Sacrifice this land: Search your library for a Forest card and a Plains card, put them onto the battlefield tapped, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWC-files/img/77.png" num="78">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Makeshift Market</name>
+			<text>{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast an Ally spell or activate an ability of an Ally source.
+{5}, {T}: Create a 1/1 white Ally creature token.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/78.png" num="79">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Path of Ancestry</name>
+			<text>This land enters tapped.
+{T}: Add on mana of any color in your commander&apos;s color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/DWC-files/img/79.png" num="80">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Prairie Stream</name>
+			<text>({T}: Add {W} or {U}.)
+This land enters tapped unless you control two or more basic lands.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/80.png" num="81">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Radiant Summit</name>
+			<text>({T}: Add {R} or {W}.)
+This land enters tapped unless you control two or more basic lands.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/81.png" num="82">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Reflecting Pool</name>
+			<text>{T}: Add one mana of any type that a land you control could produce.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/82.png" num="83">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Scorched Geyser</name>
+			<text>({T}: Add {U} or {R}.)
+This land enters tapped unless you control two or more basic lands.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/83.png" num="84">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Smoldering Marsh</name>
+			<text>({T}: Add {B} or {R}.)
+This land enters tapped unless you control two or more basic lands.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/84.png" num="85">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sodden Verdure</name>
+			<text>({T}: Add {G} or {U}.)
+This land enters tapped unless you control two or more basic lands.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/85.png" num="86">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Starting Town</name>
+			<text>This land enters tapped unless it&apos;s your first, second, or third turn of the game.
+{T}: Add {C}.
+{T}, Pay 1 life: Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/86.png" num="87">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Town</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Stillmire Village</name>
+			<text>({T}: Add {B}.)
+This land enters tapped.
+{4}{B}, {T}: Put a -1/-1 counter on target creature. This ability costs {1} less to activate for each Town you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/DWC-files/img/87.png" num="88">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Town</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sunken Hollow</name>
+			<text>({T}: Add {U} or {B}.)
+This land enters tapped unless you control two or more basic lands.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/88.png" num="89">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Vernal Fen</name>
+			<text>({T}: Add {B} or {G}.)
+This land enters tapped unless you control two or more basic lands.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/DWC-files/img/89.png" num="90">DWC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

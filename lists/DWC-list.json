@@ -1,0 +1,956 @@
+﻿[
+    {
+        "card_name": "Gideon, Ally of Zendikar",
+        "number": 5,
+        "shape": "planeswalker",
+        "set": "DWC",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "Copica, the Mirror Blade",
+        "number": 16,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "Black Market Dispatcher",
+        "number": 25,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "Alliance Pyromancer",
+        "number": 33,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "Harabaz Druid",
+        "number": 42,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "Another Round",
+        "number": 4,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "Drake Rider",
+        "number": 17,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "Crippling Fear",
+        "number": 26,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "Calamity of Cinders",
+        "number": 35,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "Open the Way",
+        "number": 43,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "Guardian of the Skies",
+        "number": 6,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "Jwari Shapeshifter",
+        "number": 21,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "Lethal Scheme",
+        "number": 29,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "Molten Echoes",
+        "number": 38,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "Realmwalker",
+        "number": 44,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "Hero of Goma Fada",
+        "number": 7,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "Reflections of Littjara",
+        "number": 23,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "Stronghold Arena",
+        "number": 30,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "Recruit for the Cause",
+        "number": 39,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "Turntimber Ranger",
+        "number": 46,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "Information Intercept",
+        "number": 8,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "Sea Gate Loremaster",
+        "number": 24,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Toxinomancer",
+        "number": 31,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Chasm Guide",
+        "number": 36,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "Woodland Guide",
+        "number": 47,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "Lantern Scout",
+        "number": 9,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "Elite Sky-Rider",
+        "number": 18,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "Deserter's Retribution",
+        "number": 27,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Firemantle Mage",
+        "number": 37,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "Tajuru Warcaller",
+        "number": 45,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "Munda's Vanguard",
+        "number": 10,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "Familiar's Ruse",
+        "number": 19,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "Hagra Diabolist",
+        "number": 28,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "Tuktuk Scrapper",
+        "number": 40,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "Grow from the Ashes",
+        "number": 41,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "Tamer of the Tower",
+        "number": 13,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "Halimar Excavator",
+        "number": 20,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Zulaport Cutthroat",
+        "number": 32,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "Ancient Grudge",
+        "number": 34,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Vanquish the Horde",
+        "number": 15,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "Of One Mind",
+        "number": 22,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "And They Shall Know No Fear",
+        "number": 3,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Retreat to Emeria",
+        "number": 11,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Secret Rendezvous",
+        "number": 12,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Unified Front",
+        "number": 14,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Sea Scrap Collector",
+        "number": 57,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "Necrosis Sculptor",
+        "number": 56,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "Incandescent Rager",
+        "number": 54,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "Ivy Imitation",
+        "number": 55,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "Cantonment Settler",
+        "number": 52,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "March from the Tomb",
+        "number": 50,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Hektor, Heroic Warmonger",
+        "number": 53,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Tanni, Sludge Pilferer",
+        "number": 51,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "Elmyr, Frontline Commander",
+        "number": 48,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "Inea, the Guiding Hand",
+        "number": 49,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Marble Dryad",
+        "number": 1,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "Transmutation Charm",
+        "number": 2,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "Alliance Standard",
+        "number": 58,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "Captain's Claws",
+        "number": 59,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "Jar of Souls",
+        "number": 61,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "Progenitor's Icon",
+        "number": 64,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "Gathering Stone",
+        "number": 60,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "Patchwork Banner",
+        "number": 62,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "Prismatic Lens",
+        "number": 63,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "Hillharvest Village",
+        "number": 77,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "76"
+    },
+    {
+        "card_name": "Calmwater Village",
+        "number": 68,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "67"
+    },
+    {
+        "card_name": "Stillmire Village",
+        "number": 88,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "87"
+    },
+    {
+        "card_name": "Clifftop Village",
+        "number": 72,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "Blighted Woodland",
+        "number": 67,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "66"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Deepwood Village",
+        "number": 74,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "73"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Prairie Stream",
+        "number": 81,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "80"
+    },
+    {
+        "card_name": "Sunken Hollow",
+        "number": 89,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "88"
+    },
+    {
+        "card_name": "Smoldering Marsh",
+        "number": 85,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "84"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Canopy Vista",
+        "number": 69,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "68"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Eclipsed Steppe",
+        "number": 75,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "74"
+    },
+    {
+        "card_name": "Scorched Geyser",
+        "number": 84,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "83"
+    },
+    {
+        "card_name": "Vernal Fen",
+        "number": 90,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "89"
+    },
+    {
+        "card_name": "Radiant Summit",
+        "number": 82,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "81"
+    },
+    {
+        "card_name": "Sodden Verdure",
+        "number": 86,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "85"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Alliance Campsite",
+        "number": 65,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "Cascading Cataracts",
+        "number": 70,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "69"
+    },
+    {
+        "card_name": "Cinder Glade",
+        "number": 71,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "70"
+    },
+    {
+        "card_name": "Makeshift Market",
+        "number": 79,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "78"
+    },
+    {
+        "card_name": "Reflecting Pool",
+        "number": 83,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "82"
+    },
+    {
+        "card_name": "Starting Town",
+        "number": 87,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "86"
+    },
+    {
+        "card_name": "Krosan Verge",
+        "number": 78,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "77"
+    },
+    {
+        "card_name": "Ally Encampment",
+        "number": 66,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "65"
+    },
+    {
+        "card_name": "Crossroads Village",
+        "number": 73,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "72"
+    },
+    {
+        "card_name": "Escape Tunnel",
+        "number": 76,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "75"
+    },
+    {
+        "card_name": "Path of Ancestry",
+        "number": 80,
+        "shape": "normal",
+        "set": "DWC",
+        "rotated": false,
+        "position": "79"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

@@ -1,0 +1,1484 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>NLC</name>
+			<longname>Nieldavar Commander</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-06-13</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Dwarven Metalsong</name>
+			<text>Search your library for an Equipment, Fortification, or Vehicle card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLC-files/img/0.png" num="1">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Generous Gift</name>
+			<text>Destroy target permanent. Its controller creates a 3/3 green Elephant creature token.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLC-files/img/1.png" num="2">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Monument of Victory</name>
+			<text>For each other Fortification and Equipment you control, the first time you activate a fortify or equip ability of that permanent each turn that ability costs {1} less to activate.
+Fortified land has &quot;{T}: Target creature you control gets +X/+X until end of turn, where X is the number of Fortifications and/or Equipments you control. Activate only as a sorcery.&quot;
+Fortify {3}</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/2.png" num="3">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ondu Inversion</name>
+			<text>Destroy all nonland permanents.
+---
+(Back): Ondu Skyruins</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/3_front.png" num="4a">NLC</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>6WW</manacost>
+				<cmc>8</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">Ondu Skyruins</related>
+		</card>
+		<card>
+			<name>Ondu Skyruins</name>
+			<text>Ondu Skyruins enters tapped.
+{T}: Add {W}.
+---
+(Front): Ondu Inversion</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/3_back.png" num="4b">NLC</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Ondu Inversion</related>
+		</card>
+		<card>
+			<name>Requisition Raid</name>
+			<text>Spree (Choose one or more additional costs.) (Choose one or more additional costs.)
++ {1} — Destroy target artifact.
++ {1} — Destroy target enchantment.
++ {1} — Put a +1/+1 counter on each creature target player controls.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLC-files/img/4.png" num="5">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Retreat to Emeria</name>
+			<text>Landfall — Whenever a land you control enters, choose one —
+• Create a 1/1 white Kor Ally creature token.
+• Creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLC-files/img/5.png" num="6">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Timeless Dragon</name>
+			<text>Flying
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)
+Eternalize {2}{W}{W} ({2}{W}{W}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s a 4/4 black Zombie Dragon with no mana cost. Eternalize only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/6.png" num="7">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Village Outctops</name>
+			<text>When this Fortification enters, draw a card.
+Whenever fortified land becomes tapped, you gain 1 life.
+Fortify {1}. Activate only once each turn. ({1}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLC-files/img/7.png" num="8">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bastion of Knowledge</name>
+			<text>Fortified land has &quot;{T}: Draw a card.&quot;
+Fortify {2}{U}. Activate only once each turn. ({2}{U}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLC-files/img/8.png" num="9">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Coastal Breach</name>
+			<text>Undaunted (This spell costs {1} less to cast for each opponent.)
+Return all nonland permanents to their owners&apos; hands.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/9.png" num="10">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>6U</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Glacial Preserve</name>
+			<text>As this Fortification enters, choose a card name from among the card names of lands with a mana ability.
+Whenever this Fortification becomes attached to a land, for as long as this Fortification remains attached to it, you may have that land become a copy of the land with the chosen name.
+Fortify {4} ({4}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/10.png" num="11">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mystic Communion</name>
+			<text>Voyage — Scry X, where X is the number of differently named lands you control, then draw two cards.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLC-files/img/11.png" num="12">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Omensight</name>
+			<text>Voyage — Draw a card, then if you have fewer cards in hand than the number of differently named lands you control, repeat this process.
+You have no maximum hand size until your next turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/12.png" num="13">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rewind</name>
+			<text>Counter target spell. Untap up to four lands.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLC-files/img/13.png" num="14">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vedgard&apos;s Echos</name>
+			<text>Draw three cards.
+Islandcycling {1} ({1}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLC-files/img/14.png" num="15">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Avalanche Jotnar</name>
+			<text>Voyage — When this creature enters, it deals damage to target creature or planeswalker equal to the number of differently named lands you control.
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLC-files/img/15.png" num="16">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nesting Dragon</name>
+			<text>Flying
+Landfall — Whenever a land you control enters, create a 0/2 red Dragon Egg creature token with defender and &quot;When this creature dies, create a 2/2 red Dragon creature token with flying and ‘{R}: This creature gets +1/+0 until end of turn.&apos;&quot;</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/16.png" num="17">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Planar Sundering</name>
+			<text>Voyage — Planar Sundering deals X damage to each creature and each planeswalker, where X is the number of differently named lands you control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/17.png" num="18">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Raiders&apos; Encampment</name>
+			<text>Fortified land has &quot;{T}: Creatures you control gain haste until end of turn.&quot;
+Fortify {R} ({R}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLC-files/img/18.png" num="19">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Resonating Runestone</name>
+			<text>Whenever you activate an ability of fortified or equipped permanent, if that ability isn&apos;t a mana ability, copy it. You may choose new targets for the copy. This ability triggers only once each turn.
+Fortify {2} ({2}: Attach to target land you control. Fortify only as a sorcery.)
+Equip {2} (When you activate this, it will become unattached from anything it&apos;s attached to.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/19.png" num="20">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Valakut Exploration</name>
+			<text>Landfall — Whenever a land you control enters, exile the top card of your library. You may play that card for as long as it remains exiled.
+At the beginning of your end step, if there are cards exiled with this enchantment, put them into their owner&apos;s graveyard, then this enchantment deals that much damage to each opponent.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/20.png" num="21">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Avenger of Zendikar</name>
+			<text>When this creature enters, create a 0/1 green Plant creature token for each land you control.
+Landfall — Whenever a land you control enters, you may put a +1/+1 counter on each Plant creature you control.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLC-files/img/21.png" num="22">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crop Rotation</name>
+			<text>As an additional cost to cast this spell, sacrifice a land.
+Search your library for a land card, put that card onto the battlefield, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLC-files/img/22.png" num="23">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Druid Class</name>
+			<text>(Gain the next level as a sorcery to add its ability.)
+Landfall — Whenever a land you control enters, you gain 1 life.
+{2}{G}: Level 2
+You may play an additional land on each of your turns.
+{4}{G}: Level 3
+When this Class becomes level 3, target land you control becomes a creature with haste and &quot;This creature&apos;s power and toughness are each equal to the number of lands you control.&quot; It&apos;s still a land.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLC-files/img/23.png" num="24">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Class</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Elvish Aberration</name>
+			<text>{T}: Add {G}{G}{G}.
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLC-files/img/24.png" num="25">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Explore</name>
+			<text>You may play an additional land this turn.
+Draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLC-files/img/25.png" num="26">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Farmstead Settlement</name>
+			<text>Fortified lands you control have &quot;{T}: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;
+Fortify {2}{G}. Activate only once each turn. ({2}{G}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/26.png" num="27">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gifts of the Realms</name>
+			<text>Converge — Look at the top seven cards of your library. Choose up to X different permanent types, where X is the number of colors of mana spent to cast this spell. For each card type chosen this way, you may reveal a card of that type from among those cards and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/27.png" num="28">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lief, Vedgard Realmkeeper</name>
+			<text>When Lief enters, create two colorless Fortification artifact tokens named Vedgard Garrison with &quot;Fortified land is indestructible,&quot; &quot;Whenever fortified land becomes tapped, target creature gets +1/+1 until end of turn,&quot; and fortify {3}.
+{R}{G}{W}{U}, {T}: For each fortification and each equipment you control, you may attach that artifact to a permanent it could fortify or equip.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLC-files/img/28.png" num="29">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spirit Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>WURG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Long Way Home</name>
+			<text>Search your library for a land card, reveal it, put it into your hand, then shuffle.
+Flashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLC-files/img/29.png" num="30">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Omenpath Journey</name>
+			<text>When this enchantment enters, search your library for up to five land cards that have different names, exile them, then shuffle.
+At the beginning of your end step, choose a card at random exiled with this enchantment and put it onto the battlefield tapped.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLC-files/img/30.png" num="31">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Oracle of Mul Daya</name>
+			<text>You may play an additional land on each of your turns.
+Play with the top card of your library revealed.
+You may play lands from the top of your library.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/31.png" num="32">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Outland Settlements</name>
+			<text>Fortified land has &quot;{T}: Create a 1/1 white Viking creature token.&quot;
+Fortify {1}{G}. Activate only once each turn. ({1}{G}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLC-files/img/32.png" num="33">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pir&apos;s Whim</name>
+			<text>For each player, choose friend or foe. Each friend searches their library for a land card, puts it onto the battlefield tapped, then shuffles. Each foe sacrifices an artifact or enchantment they control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/33.png" num="34">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Protected Paradise</name>
+			<text>Whenever fortified land becomes tapped, add one mana of any color.
+Fortify {2}. Activate only once each turn. ({2}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLC-files/img/34.png" num="35">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rampaging Baloths</name>
+			<text>Trample
+Landfall — Whenever a land you control enters, you may create a 4/4 green Beast creature token.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/35.png" num="36">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Realms Uncharted</name>
+			<text>Search your library for up to four land cards with different names and reveal them. An opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/36.png" num="37">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ulvenwald Hydra</name>
+			<text>Reach
+This creature&apos;s power and toughness are each equal to the number of lands you control.
+When this creature enters, you may search your library for a land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLC-files/img/37.png" num="38">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hydra</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whisper in the Woods</name>
+			<text>{T}: Untap target land.
+{5}{G}, Sacrifice this creature: Put six +1/+1 counters on target land you control. It becomes a becomes a 0/0 Elemental creature with haste that&apos;s still a land.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLC-files/img/38.png" num="39">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wrenn and Seven</name>
+			<text>[+1]: Reveal the top four cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.
+[0]: Put any number of land cards from your hand onto the battlefield tapped.
+[-3]: Create a green Treefolk creature token with reach and &quot;This creature&apos;s power and toughness are each equal to the number of lands you control.&quot;
+[-8]: Return all permanent cards from your graveyard to your hand. You get an emblem with &quot;You have no maximum hand size.&quot;</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLC-files/img/39.png" num="40">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Wrenn</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Apex Worldpost</name>
+			<text>Untap all fortified lands you control during each player&apos;s untap step.
+Fortify {1} ({1}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLC-files/img/40.png" num="41">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>GWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bergen, Renowned Conqueror</name>
+			<text>Voyage — When Bergen enters, distribute X +1/+1 counters among any number of target creatures, where X is the number of differently named lands you control.
+If an ability of a permanent you control triggers while you control ten or more lands with different names, that ability triggers an additional time.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLC-files/img/41.png" num="42">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Viking</type>
+				<maintype>Creature</maintype>
+				<manacost>RGWU</manacost>
+				<cmc>4</cmc>
+				<colors>WURG</colors>
+				<coloridentity>WURG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Borborygmos and Fblthp</name>
+			<text>Whenever Borborygmos and Fblthp enters or attacks, draw a card, then you may discard any number of land cards. When you discard one or more cards this way, Borborygmos and Fblthp deals twice that much damage to target creature.
+{1}{U}: Put Borborygmos and Fblthp into its owner&apos;s library third from the top.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLC-files/img/42.png" num="43">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cyclops Homunculus</type>
+				<maintype>Creature</maintype>
+				<manacost>2GUR</manacost>
+				<cmc>5</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dynaheir, Invoker Adept</name>
+			<text>Haste
+You may activate abilities of other creatures you control as though those creatures had haste.
+{T}: When you next activate an ability that isn&apos;t a mana ability this turn by spending four or more mana to activate it, copy that ability. You may choose new targets for the copy.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/43.png" num="44">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1URW</manacost>
+				<cmc>4</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Escape to the Wilds</name>
+			<text>Exile the top five cards of your library. You may play cards exiled this way until the end of your next turn.
+You may play an additional land this turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/44.png" num="45">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fractured Identity</name>
+			<text>Exile target nonland permanent. Each player other than its controller creates a token that&apos;s a copy of it.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/45.png" num="46">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Horizon Treader</name>
+			<text>Haste
+This creature can&apos;t be blocked.
+This creature enters with X +1/+1 counters on it.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLC-files/img/46.png" num="47">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>XGUR</manacost>
+				<cmc>3</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kilvik Sage</name>
+			<text>Voyage — When this creature enters, scry X, where X is the number of differently named lands you control, then reveal the top card of your library. If it&apos;s a permanent card, draw a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLC-files/img/47.png" num="48">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kiora&apos;s Follower</name>
+			<text>{T}: Untap another target permanent.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLC-files/img/48.png" num="49">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Obuun, Mul Daya Ancestor</name>
+			<text>At the beginning of combat on your turn, up to one target land you control becomes an X/X Elemental creature with trample and haste until end of turn, where X is Obuun&apos;s power. It&apos;s still a land.
+Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/NLC-files/img/49.png" num="50">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1RGW</manacost>
+				<cmc>4</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Primal Monolith</name>
+			<text>Fortified land is a 6/6 Giant Spirit creature with vigilance and haste that&apos;s still a land.
+Fortify {5} ({5}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLC-files/img/50.png" num="51">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Radiant Skies</name>
+			<text>Search your library and/or graveyard for a Plains card, an Island card, a Swamp card, a Mountain card, and a Forest card, put them onto the battlefield tapped, then shuffle.
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLC-files/img/51.png" num="52">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5GU</manacost>
+				<cmc>7</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tatyova, Benthic Druid</name>
+			<text>Landfall — Whenever a land you control enters, you gain 1 life and draw a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLC-files/img/52.png" num="53">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Merfolk Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tocasia, Dig Site Mentor</name>
+			<text>Creatures you control have vigilance and &quot;{T}: Surveil 1.&quot; (To surveil 1, look at the top card of your library. You may put that card into your graveyard.)
+{2}{G}{G}{W}{W}{U}{U}, Exile Tocasia from your graveyard: Return any number of target artifact cards with total mana value 10 or less from your graveyard to the battlefield. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/53.png" num="54">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1GWU</manacost>
+				<cmc>4</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Urban Evolution</name>
+			<text>Draw three cards. You may play an additional land this turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLC-files/img/54.png" num="55">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vedgard Gardens</name>
+			<text>Whenever a fortified land you control becomes tapped, you gain 1 life.
+Fortify {1}. Activate only once each turn. ({1}: Attach to target land you control. Fortify only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLC-files/img/55.png" num="56">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Fortification</type>
+				<maintype>Artifact</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Venture the Realms</name>
+			<text>Voyage — Create a 1/1 white Viking creature token for each differently named land you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLC-files/img/56.png" num="57">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RGW</manacost>
+				<cmc>3</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Worldsoul&apos;s Rage</name>
+			<text>Worldsoul&apos;s Rage deals X damage to any target. Put up to X land cards from your hand and/or graveyard onto the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/57.png" num="58">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XRG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Awakened Amalgam</name>
+			<text>Voyage — Awakened Amalgam&apos;s power and toughness are each equal to the number of differently named lands you control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/58.png" num="59">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blackblade Reforged</name>
+			<text>Equipped creature gets +1/+1 for each land you control.
+Equip legendary creature {3}
+Equip {7}</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/59.png" num="61">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Commander&apos;s Sphere</name>
+			<text>{T}: Add one mana of any color in your commander&apos;s color identity.
+Sacrifice this artifact: Draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLC-files/img/60.png" num="62">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Explorer&apos;s Scope</name>
+			<text>Whenever equipped creature attacks, look at the top card of your library. If it&apos;s a land card, you may put it onto the battlefield tapped.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLC-files/img/61.png" num="63">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Heimr, the Great Gate</name>
+			<text>Heimr enters tapped.
+Heimr has all activated abilities of all lands on the battlefield.
+You may spend mana as though it were mana of any color to pay the activation costs of Heimr&apos;s abilities.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/62.png" num="69">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land — Gate</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Living Memorial</name>
+			<text>(Living Memorial isn&apos;t a spell. It&apos;s white, it&apos;s affected by summoning sickness, and it has &quot;{T}: Add {W}.&quot;)
+When Living Memorial enters, sacrifice it unless you pay {W}.
+Vigilance
+Living Memorial gets +1/+1 for each permanent attached to it that you control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/63.png" num="71">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land Creature — Plains Spirit Viking</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Opal Palace</name>
+			<text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color in your commander&apos;s color identity. If you spend this mana to cast your commander, it enters with a number of additional +1/+1 counters on it equal to the number of times it&apos;s been cast from the command zone this game.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLC-files/img/64.png" num="72">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Public Thoroughfare</name>
+			<text>This land enters tapped.
+When this land enters, sacrifice it unless you tap an untapped artifact or land you control.
+{T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLC-files/img/65.png" num="74">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Scattered Groves</name>
+			<text>({T}: Add {G} or {W}.)
+This land enters tapped.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/66.png" num="77">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sheltered Thicket</name>
+			<text>({T}: Add {R} or {G}.)
+This land enters tapped.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/67.png" num="79">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Vedgard Stronghold</name>
+			<text>({T}: Add {W}.)
+Vedgard Stronghold enters tapped unless you control a Forest and an Island.
+{2}{G}{W}{U}, {T}, Sacrifice Vedgard Stronghold: Search your library for a Fortification card, put it onto the battlefield, attach it to a land you control, then shuffle. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/NLC-files/img/68.png" num="85">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Bitterthorn, Nissa&apos;s Animus</name>
+			<text>Living weapon (When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
+Equipped creature gets +1/+1.
+Whenever equipped creature attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Equip {3}</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/69.png" num="60">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Radiant Summit</name>
+			<text>({T}: Add {R} or {W}.)
+This land enters tapped unless you control two or more basic lands.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/70.png" num="75">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Canopy Vista</name>
+			<text>({T}: Add {G} or {W}.)
+This land enters tapped unless you control two or more basic lands.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/71.png" num="64">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cinder Glade</name>
+			<text>({T}: Add {R} or {G}.)
+This land enters tapped unless you control two or more basic lands.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/72.png" num="65">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Scorched Geyser</name>
+			<text>({T}: Add {U} or {R}.)
+This land enters tapped unless you control two or more basic lands.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/73.png" num="78">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Exotic Orchard</name>
+			<text>{T}: Add one mana of any color that a land an opponent controls could produce.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/74.png" num="67">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Irrigated Farmland</name>
+			<text>({T}: Add {W} or {U}.)
+This land enters tapped.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/75.png" num="70">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Coastal Peak</name>
+			<text>({T}: Add {U} or {R}.)
+This land enters tapped.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/76.png" num="66">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Prairie Stream</name>
+			<text>({T}: Add {W} or {U}.)
+This land enters tapped unless you control two or more basic lands.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/77.png" num="73">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Rain-Slicked Copse</name>
+			<text>({T}: Add {G} or {U}.)
+This land enters tapped.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/78.png" num="76">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Glittering Massif</name>
+			<text>({T}: Add {R} or {W}.)
+This land enters tapped.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/79.png" num="68">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Thriving Bluff</name>
+			<text>This land enters tapped.
+As this land enters, choose a color other than red.
+{T}: Add {R} or one mana of the chosen color.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLC-files/img/80.png" num="81">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Thriving Grove</name>
+			<text>This land enters tapped.
+As this land enters, choose a color other than green.
+{T}: Add {G} or one mana of the chosen color.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLC-files/img/81.png" num="82">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Thriving Heath</name>
+			<text>This land enters tapped.
+As this land enters, choose a color other than white.
+{T}: Add {W} or one mana of the chosen color.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLC-files/img/82.png" num="83">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Thriving Isle</name>
+			<text>This land enters tapped.
+As this land enters, choose a color other than blue.
+{T}: Add {U} or one mana of the chosen color.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/NLC-files/img/83.png" num="84">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sodden Verdure</name>
+			<text>({T}: Add {G} or {U}.)
+This land enters tapped unless you control two or more basic lands.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/NLC-files/img/84.png" num="80">NLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

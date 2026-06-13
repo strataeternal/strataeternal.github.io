@@ -6,13 +6,28 @@
             "formats": "stratacommander"
         },
         {
+            "set_code": "DWC",
+            "set_name": "Delmand Commander",
+            "formats": "stratacommander"
+        },
+        {
             "set_code": "MYC",
             "set_name": "Mystvale Commander",
             "formats": "stratacommander"
         },
         {
+            "set_code": "NLC",
+            "set_name": "Nieldavar Commander",
+            "formats": "stratacommander"
+        },
+        {
             "set_code": "SDH",
             "set_name": "Strata Commander",
+            "formats": "stratacommander"
+        },
+        {
+            "set_code": "SSL",
+            "set_name": "Strata Signature Legends",
             "formats": "stratacommander"
         }
     ]

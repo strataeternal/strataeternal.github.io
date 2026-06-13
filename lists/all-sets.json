@@ -26,6 +26,11 @@
             "formats": "stratacommander"
         },
         {
+            "set_code": "S23",
+            "set_name": "Strata Core 23",
+            "formats": "stratacommander, stratastandard"
+        },
+        {
             "set_code": "SDH",
             "set_name": "Strata Commander",
             "formats": "stratacommander"

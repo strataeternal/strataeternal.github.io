@@ -1,0 +1,4372 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>S23</name>
+			<longname>Strata Core 23</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-06-13</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Aerial Combatant</name>
+			<text>Flying
+Whenever Aerial Combatant attacks, for each kind of counter on target permanent or player, give that permanent or player another counter of that kind.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/0.png" num="213">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Timberheart Guide</name>
+			<text>Vigilance
+{G}{W}, {T}, Put a stun counter on Timberheart Guide: Untap each other creature you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/1.png" num="224">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Depth Trawler</name>
+			<text>Menace
+Depth Trawler enters with a +1/+1 counter on it.
+Whenever one or more cards are put into a graveyard from a library, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/2.png" num="216">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rending Maw</name>
+			<text>First strike, menace, haste</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/3.png" num="220">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Hellion Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>5BR</manacost>
+				<cmc>7</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thornbloom Shaman</name>
+			<text>Vigilance
+When Thornbloom Shaman enters, surveil 1, then exile up to one target card from a graveyard. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
+Thornbloom Shaman gets +1/+1 for each card you own in exile.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/4.png" num="223">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reign&apos;s Follower</name>
+			<text>{T}: Tap another target nonland permanent.
+{T}: Untap another target permanent.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/5.png" num="219">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brekka Shieldmage</name>
+			<text>Whenever Brekka Shieldmage attacks, you may put a stun counter on it. If you do, target creature gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/6.png" num="9">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Backup Agent</name>
+			<text>When Backup Agent enters, put a +1/+1 counter on target creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/7.png" num="6">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Raise the Alarm</name>
+			<text>Create two 1/1 white Soldier creature tokens.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/8.png" num="38">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inspiring Captain</name>
+			<text>When Inspiring Captain enters, creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/9.png" num="27">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stormfront Pegasus</name>
+			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/10.png" num="42">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Pegasus</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Griffin Sentinel</name>
+			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
+Vigilance (Attacking doesn&apos;t cause this creature to tap.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/11.png" num="25">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Griffin</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Goldkeep Swordmaster</name>
+			<text>Whenever Goldkeep Swordmaster attacks, you may put a stun counter on it. If you do, it gets +3/+0 and gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/12.png" num="24">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Auramancer</name>
+			<text>When Auramancer enters, you may return target enchantment card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/13.png" num="5">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flitterguard</name>
+			<text>When Flitterguard enters, if it wasn&apos;t cast, put a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/14.png" num="19">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Workout Routine</name>
+			<text>Put a number of +1/+1 counters on target creature equal to one plus the number of cards named Workout Routine in your graveyard.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/15.png" num="44">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Jotlund Jotun</name>
+			<text>When Jotlund Jotun enters, distribute two +1/+1 counters among up two target creatures.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/16.png" num="29">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Expose to Daylight</name>
+			<text>Destroy target artifact or enchantment. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/17.png" num="18">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pacifism</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t attack or block.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/18.png" num="34">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Violent Retribution</name>
+			<text>Kicker {4} (You may pay an additional {4} as you cast this spell.)
+Destroy target creature if it&apos;s attacking or if this spell was kicked.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/19.png" num="43">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Kor Halberd</name>
+			<text>Equipped creature gets +1/+1 and has vigilance.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/20.png" num="31">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dauntless Unity</name>
+			<text>Kicker {1}{W} (You may pay an additional {1}{W} as you cast this spell.)
+Creatures you control get +1/+1 until end of turn. If this spell was kicked, those creatures get +2/+1 until end of turn instead.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/21.png" num="12">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Recommission</name>
+			<text>Return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield. If a creature enters this way, it enters with an additional +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/22.png" num="39">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Faerie Miscreant</name>
+			<text>Flying
+When Faerie Miscreant enters, if you control another creature named Faerie Miscreant, draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/23.png" num="56">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dockside Infiltrator</name>
+			<text>Dockside Infiltrator can&apos;t be blocked as long as you control an artifact.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/24.png" num="54">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tempest Owl</name>
+			<text>Kicker {4}{U} (You may pay an additional {4}{U} as you cast this spell.)
+Flying
+When Tempest Owl enters, if it was kicked, tap up to three target permanents.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/25.png" num="78">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rime Lynx</name>
+			<text>When Rime Lynx enters, tap target creature you don&apos;t control and put a stun counter on it.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/26.png" num="70">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thunder Drake</name>
+			<text>Flying
+Whenever you cast your second spell each turn, put a +1/+1 counter on Thunder Drake.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/27.png" num="79">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vedalken Entrancer</name>
+			<text>{U}, {T}: Target player mills two cards. (They put the top two cards of their library into their graveyard.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/28.png" num="84">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vedalken Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Salvager of Secrets</name>
+			<text>When Salvager of Secrets enters, return target instant or sorcery card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/29.png" num="71">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deep-Sea Terror</name>
+			<text>Deep-Sea Terror can&apos;t attack unless there are seven or more cards in your graveyard.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/30.png" num="51">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wall of Scrap</name>
+			<text>Defender (This creature can&apos;t attack.)
+Sacrifice another artifact: Put a +1/+1 counter on Wall of Scrap.
+Sacrifice another artifact: Wall of Scrap can attack this turn as though it didn&apos;t have defender.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/31.png" num="85">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Wall</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cancel</name>
+			<text>Counter target spell.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/32.png" num="49">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spurn</name>
+			<text>Counter target creature or planeswalker spell.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/33.png" num="76">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Out Cold</name>
+			<text>This spell can&apos;t be countered. (This includes by the ward ability.)
+Tap up to two target creatures and put a stun counter on each of them. Investigate. (If a permanent with a stun counter would become untapped, remove one from it instead. To investigate, create a colorless Clue artifact token with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/34.png" num="64">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Divination</name>
+			<text>Draw two cards.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/35.png" num="52">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Opt</name>
+			<text>Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/36.png" num="63">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tome Scour</name>
+			<text>Target player mills five cards. (They put the top five cards of their library into their graveyard.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/37.png" num="82">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stealth Mission</name>
+			<text>Put two +1/+1 counters on target creature. It can&apos;t be blocked this turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/38.png" num="77">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Viscera Seer</name>
+			<text>Sacrifice a creature: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/39.png" num="125">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rat Colony</name>
+			<text>Rat Colony gets +1/+0 for each other Rat you control.
+A deck can have any number of cards named Rat Colony.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/40.png" num="117">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rat</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ambush Thrull</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/41.png" num="89">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Thrull</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Howling Phantom</name>
+			<text>Kicker {4}{B} (You may pay an additional {4}{B} as you cast this spell.)
+When Howling Phantom enters if it was kicked, each opponent loses 5 life.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/42.png" num="109">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Absorbing Tar</name>
+			<text>When Absorbing Tar enters or leaves, you may exile target card from a graveyard.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/43.png" num="88">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gorging Vulture</name>
+			<text>Flying
+When Gorging Vulture enters, mill four cards. You gain 1 life for each creature card milled this way. (To mill four cards, put the top four cards of your library into your graveyard.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/44.png" num="105">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gnatfur Gangleader</name>
+			<text>Kicker {1}{B} (You may pay an additional {1}{B} as you cast this spell.)
+Deathtouch
+When Gnatfur Gangleader enters, if it was kicked, create two 1/1 black Rat creature tokens.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/45.png" num="103">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rat Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pitiless Plunderer</name>
+			<text>Whenever another creature you control dies, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/46.png" num="116">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Boneclad Necromancer</name>
+			<text>When Boneclad Necromancer enters, you may exile target creature card from a graveyard. If you do, create a 2/2 black Zombie creature token.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/47.png" num="92">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gloom Sower</name>
+			<text>Whenever Gloom Sower becomes blocked by a creature, that creature&apos;s controller loses 2 life and you gain 2 life.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/48.png" num="102">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>8/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Contract Killing</name>
+			<text>Destroy target creature. Create two Treasure tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/49.png" num="93">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Disfigure</name>
+			<text>Target creature gets -2/-2 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/50.png" num="98">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Diabolic Edict</name>
+			<text>Target player sacrifices a creature.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/51.png" num="97">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mind Drain</name>
+			<text>Target opponent discards two cards, mills a card, and loses 1 life. You gain 1 life. (To mill a cards, they put the top card of their library into their graveyard.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/52.png" num="111">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Atrocious Experiment</name>
+			<text>Target player mills two cards, draws two cards, and loses 2 life. (To mill two cards, they put the top two cards of their library into their graveyard.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/53.png" num="90">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Summon Undead</name>
+			<text>You may mill three cards. Then return a creature card from your graveyard to the battlefield. (To mill three cards, put the top three cards of your library into your graveyard.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/54.png" num="123">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Duress</name>
+			<text>Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/55.png" num="99">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Abnormal Endurance</name>
+			<text>Until end of turn, target creature gets +2/+0 and gains &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/56.png" num="87">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Goldhound</name>
+			<text>First strike (This creature deals combat damage before creatures without first strike.)
+Menace (This creature can&apos;t be blocked except by two or more creatures.)
+{T}, Sacrifice Goldhound: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/57.png" num="146">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Treasure Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hired Laborer</name>
+			<text>Whenever Hired Laborer attacks, you may put a stun counter on it. If you do, create a Treasure token. (If a permanent with a stun counter would become untapped, remove one from it instead. Treasure is an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/58.png" num="150">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodstone Goblin</name>
+			<text>Whenever you cast a spell, if that spell was kicked, Bloodstone Goblin gets +1/+1 and gains menace until end of turn. (It can&apos;t be blocked except by two or more creatures.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/59.png" num="133">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Goblin Bushwhacker</name>
+			<text>Kicker {R} (You may pay an additional {R} as you cast this spell.)
+When Goblin Bushwhacker enters, if it was kicked, creatures you control get +1/+0 and gain haste until end of turn. (They can attack and {T} as soon as they come under your control.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/60.png" num="142">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kavu Ingressor</name>
+			<text>Kicker {4} (You may pay an additional {4} as you cast this spell.)
+If Kavu Ingressor was kicked, it enters with three +1/+1 counters on it.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/61.png" num="152">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kavu</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plundering Barbarian</name>
+			<text>When Plundering Barbarian enters, choose one—
+• Destroy target artifact.
+• Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/62.png" num="154">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Barbarian</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reckless Charger</name>
+			<text>Trample
+When Reckless Charger enters, you may put a stun counter on it. If you do, it gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/63.png" num="159">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Viashino Seer</name>
+			<text>Whenever Viashino Seer enters or leaves the battlefield, exile the top card of your library. You may play that card until your next end step.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/64.png" num="168">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Viashino Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Goblin Curator</name>
+			<text>Reach (This creature can block creatures with flying.)
+{R}, Sacrifice an artifact: Goblin Curator gets +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/65.png" num="143">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tenement Crasher</name>
+			<text>Haste (This creature can attack and {T} as soon as it comes under your control.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/66.png" num="164">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Burst Lightning</name>
+			<text>Kicker {4} (You may pay an additional {4} as you cast this spell.)
+Burst Lightning deals 2 damage to any target. If this spell was kicked, it deals 4 damage instead.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/67.png" num="136">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rain Fire</name>
+			<text>Rain Fire deals 5 damage to target creature or planeswalker.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/68.png" num="157">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Act of Treason</name>
+			<text>Gain control of target creature until end of turn. Untap it. It gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/69.png" num="131">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Burn Bright</name>
+			<text>Creatures you control get +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/70.png" num="135">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Infectious Bloodlust</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+1, has haste, and attacks each turn if able.
+When enchanted creature dies, you may search your library for a card named Infectious Bloodlust, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/71.png" num="151">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Titan&apos;s Strength</name>
+			<text>Target creature gets +3/+1 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/72.png" num="166">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Violent Panic</name>
+			<text>Kicker {3} (You may pay an additional {3} as you cast this spell.)
+Target creature can&apos;t block this turn. If Violent Panic was kicked, that creature deals damage equal to its power to its controller.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/73.png" num="169">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Compost Pile</name>
+			<text>Defender (This creature can&apos;t attack.)
+{T}, Exile a card from your graveyard: Put a +1/+1 counter on Compost Pile.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/74.png" num="181">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wall</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Timberpack Wolf</name>
+			<text>Timberpack Wolf gets +1/+1 for each other creature you control named Timberpack Wolf.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/75.png" num="210">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Civic Gardener</name>
+			<text>Whenever Civic Gardener attacks, untap target creature or land.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/76.png" num="179">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Boding Bugs</name>
+			<text>When Boding Bugs leaves your graveyard, create a 1/1 green Insect creature token.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/77.png" num="176">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mossgarden Scout</name>
+			<text>Whenever Mossgarden Scout attacks, you may put a stun counter on it. If you do, it gets +1/+1 and gains trample until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/78.png" num="200">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gathering Pine</name>
+			<text>{2}{G}, {T}, Put a stun counter on Gathering Pine: Mill three cards, then you may return a creature card milled this way from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/79.png" num="191">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lonely Boar</name>
+			<text>As long as you control another Beast, Lonely Boar gets +0/+3.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/80.png" num="198">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Boar Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oakwood Sentinel</name>
+			<text>Reach (This creature can block creatures with flying.)
+When Oakwood Sentinel enters, search your library for a Forest card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/81.png" num="202">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloomstag</name>
+			<text>Kicker {G} (You may pay an additional {G} as you cast this spell.)
+When Bloomstag enters, if it was kicked, you gain 4 life.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/82.png" num="175">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Elk Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Colossal Dreadmaw</name>
+			<text>Trample (This creature can deal excess combat damage to the player or planeswalker it&apos;s attacking.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/83.png" num="180">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bite Down</name>
+			<text>Target creature you control deals damage equal to its power to target creature or planeswalker you don&apos;t control.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/84.png" num="174">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Giant Growth</name>
+			<text>Target creature gets +3/+3 until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/85.png" num="192">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Burst of Strength</name>
+			<text>Put a +1/+1 counter on target creature and untap it.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/86.png" num="178">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wild Gathering</name>
+			<text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Reveal the top three cards of your library. You may put a creature or land card from among them into your hand. If Wild Gathering was kicked, repeat this process.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/87.png" num="212">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Puregrove&apos;s Embrace</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+2.
+Exile three other cards from your graveyard: Return Puregrove&apos;s Embrace from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/88.png" num="204">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Grow from the Ashes</name>
+			<text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Search your library for a basic land card, put it onto the battlefield, then shuffle. If this spell was kicked, instead search your library for two basic land cards, put them onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/89.png" num="193">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spiteful Scarecrow</name>
+			<text>Kicker {5} (You may pay an additional {5} as you cast this spell.)
+When Spiteful Scarecrow enters, exile target creature if it&apos;s a Bird or if Spiteful Scarecrow was kicked.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/90.png" num="236">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skyscanner</name>
+			<text>Flying
+When Skyscanner enters, draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/91.png" num="234">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Thopter</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Steel Raptor</name>
+			<text>Flying
+Steel Raptor gets +2/-2 as long as it&apos;s tapped.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/92.png" num="237">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Letter of Acceptance</name>
+			<text>{T}: Add one mana of any color.
+{2}, {T}, Sacrifice Letter of Acceptance: Draw a card.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/93.png" num="230">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Glowstone</name>
+			<text>Whenever Glowstone is put into your graveyard from anywhere or leaves your graveyard, add one mana of any color.
+{1}, {T}: Sacrifice Glowstone.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/94.png" num="228">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Evolving Wilds</name>
+			<text>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/95.png" num="249">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Elite Vanguard</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/96.png" num="15">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hallowed Chosen</name>
+			<text>Whenever you gain life, put a +1/+1 counter on Hallowed Chosen.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/97.png" num="26">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gemma&apos;s Elite</name>
+			<text>Flying
+Whenever Gemma&apos;s Elite deals combat damage to a player, for each kind of counter on target permanent or player, give that permanent or player another counter of that kind.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/98.png" num="21">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eager Redeemer</name>
+			<text>Whenever Eager Redeemer attacks, you may put a stun counter on it. If you do, put a +1/+1 counter on it and it gains lifelink until end of turn.
+{1}{W}: Untap target creature you control. Activate only as a sorcery and only once each turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/99.png" num="14">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Commander-in-Chief</name>
+			<text>Kicker {2}{W} (You may pay an additional {2}{W} as you cast this spell.)
+When Commander-in-Chief enters, create a 1/1 white Soldier creature token. If it was kicked, create three of those tokens instead.
+Commander-in-Chief&apos;s power and toughness are each equal to the number of creatures you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/100.png" num="11">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Irrepressible Starblade</name>
+			<text>Put a stun counter on Irrepressible Starblade: Irrepressible Starblade gains indestructible until end of turn. Tap it. Activate only once per turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/101.png" num="28">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shutterstep</name>
+			<text>Kicker {2}{W} (You may pay an additional {2}{W} as you cast this spell.)
+Exile target creature, then return it to the battlefield under its owner&apos;s control unless this spell was kicked.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/102.png" num="40">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Borrowed Time</name>
+			<text>When Borrowed Time enters, exile target nonland permanent an opponent controls until Borrowed Time leaves the battlefield.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/103.png" num="8">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stand in Unity</name>
+			<text>Put a +1/+1 counter on each creature you control.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/104.png" num="41">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sigiled Starfish</name>
+			<text>{T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/105.png" num="72">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Starfish</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bubbling Brewgeist</name>
+			<text>Whenever Bubbling Brewgeist becomes untapped, put a +1/+1 counter on it.
+{1}, {T}: Each player mills a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/106.png" num="48">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Weird</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Treasure Diver</name>
+			<text>{T}, Put a stun counter on Treasure Diver: Draw a card. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/107.png" num="83">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Air Elemental</name>
+			<text>Flying</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/108.png" num="46">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slingwing Sailor</name>
+			<text>Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Flash
+Flying
+When Slingwing Sailor enters, if it was kicked, copy target instant or sorcery spell. You may choose new targets for the copy.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/109.png" num="74">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plumb the Pages</name>
+			<text>Kicker {X} (You may pay an additional {X} as you cast this spell.)
+Draw two cards. If this spell was kicked, draw X cards instead.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/110.png" num="65">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Filibuster</name>
+			<text>As an additional cost to cast this spell, tap an untapped creature you control and put a stun counter on it or pay {U}.
+Counter target spell.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/111.png" num="57">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lost in the Blizzard</name>
+			<text>Return target creature or planeswalker to its owner&apos;s hand. Until your next turn, each creature you don&apos;t control enters with an additional stun counter on it.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/112.png" num="61">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Arcane Thievery</name>
+			<text>Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+If this spell was kicked, each player mills three cards.
+You may cast an instant or sorcery card from a graveyard without paying its mana cost. If it would be put into a graveyard this turn, exile it.
+Exile Arcane Thievery.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/113.png" num="47">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gnawing Vermin</name>
+			<text>When Gnawing Vermin enters, target player mills two cards.
+When Gnawing Vermin dies, target creature you don&apos;t control gets -1/-1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/114.png" num="104">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rat</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vampire Hexmage</name>
+			<text>First strike (This creature deals combat damage before creatures without first strike.)
+Sacrifice Vampire Hexmage: Remove all counters from target permanent.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/115.png" num="124">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Waking Vampire</name>
+			<text>Kicker—Exile three other cards from your graveyard. (You may exile three other cards from your graveyard in addition to any other costs as you cast this spell.)
+You may cast Waking Vampire from your graveyard by paying its kicker cost in addition to its other costs.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/116.png" num="126">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gravedigger</name>
+			<text>When Gravedigger enters, you may return target creature card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/117.png" num="106">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Boding Vampire</name>
+			<text>When Boding Vampire leaves your graveyard, you draw a card and you lose 1 life.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/118.png" num="91">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ruthless Knave</name>
+			<text>{2}{B}, Sacrifice a creature: Create two Treasure tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
+Sacrifice three Treasures: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/119.png" num="119">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dusk Mangler</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature, discard a card, or pay 4 life.
+When Dusk Mangler enters, each opponent sacrifices a creature, discards a card, and loses 4 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/120.png" num="100">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hero&apos;s Downfall</name>
+			<text>Destroy target creature or planeswalker.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/121.png" num="108">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>No One Left Behind</name>
+			<text>This spell costs {3} less to cast if it targets a creature card with mana value 3 or less.
+Return target creature card from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/122.png" num="113">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Soul Enervation</name>
+			<text>Flash
+When Soul Enervation enters, target creature gets -4/-4 until end of turn.
+Whenever one or more creature cards leave your graveyard, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/123.png" num="121">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mind Carver</name>
+			<text>When Mind Carver enters, attach it to target creature you control.
+Equipped creature gets +1/+0. It gets +3/+1 instead as long as an opponent has eight or more cards in their graveyard.
+Equip {2}{B}</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/124.png" num="110">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Goblin Ruinblaster</name>
+			<text>Kicker {R} (You may pay an additional {R} as you cast this spell.)
+Haste
+When Goblin Ruinblaster enters, if it was kicked, destroy target nonbasic land.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/125.png" num="144">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pub Stomper</name>
+			<text>Pub Stomper enters tapped with two stun counters on it.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/126.png" num="156">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reckless Detective</name>
+			<text>Whenever Reckless Detective attacks, you may sacrifice an artifact or discard a card. If you do, draw a card and Reckless Detective gets +2/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/127.png" num="160">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Devil Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crag Monstrosity</name>
+			<text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
+If Crag Monstrosity was kicked, it enters with two +1/+1 counters on it
+When Crag Monstrosity enters, it deals damage equal to its power to another target creature or planeswalker.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/128.png" num="138">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kavu Hellion</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rapacious Dragon</name>
+			<text>Flying
+When Rapacious Dragon enters, create two Treasure tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/129.png" num="158">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Accomplished Pyromancy</name>
+			<text>Create a 1/1 red Elemental creature token for each noncreature card in your graveyard.
+{R}, Discard Accomplished Pyromancy: Create a 1/1 red Elemental creature token.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/130.png" num="130">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tarhild Elite</name>
+			<text>Whenever Tarhild Elite attacks, you may put up to three stun counters on it. For each stun counter put on it this way, choose one —
+• Tarhild Elite gets +2/+0 until end of turn.
+• Tarhild Elite gains double strike until end of turn.
+• Tarhild Elite gains trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/131.png" num="163">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Abrade</name>
+			<text>Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/132.png" num="129">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cinderclasm</name>
+			<text>Kicker {R} (You may pay an additional {R} as you cast this spell.)
+Cinderclasm deals 1 damage to each creature. If it was kicked, it deals 2 damage to each creature instead.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/133.png" num="137">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fight with Fire</name>
+			<text>Kicker {5}{R} (You may pay an additional {5}{R} as you cast this spell.)
+Fight with Fire deals 5 damage to target creature. If this spell was kicked, it deals 10 damage divided as you choose among any number of targets instead. (Those targets can include players, planeswalkers, and battles.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/134.png" num="141">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Harvest Witness</name>
+			<text>At the beginning of combat on your turn, you may untap another tapped creature you control. If you do, that creature gets +2/+0 and gains trample until end of turn.
+{1}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/135.png" num="194">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Untamed Kavu</name>
+			<text>Kicker {3} (You may pay an additional {3} as you cast this spell.)
+Vigilance, trample
+If Untamed Kavu was kicked, it enters with three +1/+1 counters on it.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/136.png" num="211">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kavu</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eternal Witness</name>
+			<text>When Eternal Witness enters, you may return target card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/137.png" num="187">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Harvested Treefolk</name>
+			<text>Harvested Treefolk enters with X +1/+1 counters on it.
+If damage would be dealt to Harvested Treefolk while it has a +1/+1 counter on it, prevent that damage, remove a +1/+1 counter from Harvested Treefolk, and create a 0/1 green Log creature token.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/138.png" num="195">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>XG</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rampaging Swallower</name>
+			<text>Whenever Rampaging Swallower attacks, exile up to one creature card from your graveyard. If you do, put a +1/+1 counter on Rampaging Swallower.
+Rampaging Swallower has flying as long as you own a face-up card in exile with flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/139.png" num="205">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Affectionate Indrik</name>
+			<text>When Affectionate Indrik enters, you may have it fight target creature you don&apos;t control. (Each deals damage equal to its power to the other.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/140.png" num="171">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stampede Frontrunner</name>
+			<text>Trample
+Combat damage that would be dealt by creatures you control can&apos;t be prevented.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/141.png" num="208">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elephant Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Head of the Herd</name>
+			<text>Head of the Herd enters with a +1/+1 counter on it if you control another Beast.
+Each other Beast creature you control enters with an additional +1/+1 counter on it.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/142.png" num="196">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fae&apos;s Blessing</name>
+			<text>Enchant land
+Enchanted land has &quot;{T}: Add three mana of any one color. Spend this mana only to cast kicked spells.&quot;</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/143.png" num="188">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fog</name>
+			<text>Prevent all combat damage that would be dealt this turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/144.png" num="189">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Act on Impulse</name>
+			<text>Exile the top three cards of your library. Until end of turn, you may play cards exiled this way. (If you cast a spell this way, you still pay its costs. You can play a land this way only if you have an available land play remaining.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/145.png" num="132">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rust Muncher</name>
+			<text>Haste
+{T}, Remove a counter from a creature you control: You gain 1 life.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/146.png" num="233">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Juggernaut</name>
+			<text>Juggernaut attacks each combat if able.
+Juggernaut can&apos;t be blocked by Walls.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/147.png" num="229">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Juggernaut</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brass Herald</name>
+			<text>As Brass Herald enters, choose a creature type.
+When Brass Herald enters, reveal the top four cards of your library. Put all creature cards of the chosen type revealed this way into your hand and the rest on the bottom of your library in any order.
+Creatures of the chosen type get +1/+1.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/148.png" num="227">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Power Conduit</name>
+			<text>{T}, Remove a counter from a permanent you control: Choose one —
+• Put a charge counter on target artifact.
+• Put a +1/+1 counter on target creature.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/149.png" num="232">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sorcerous Spyglass</name>
+			<text>As Sorcerous Spyglass enters, look at an opponent&apos;s hand, then choose any card name.
+Activated abilities of sources with the chosen name can&apos;t be activated unless they&apos;re mana abilities.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/150.png" num="235">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Emboldening Angel</name>
+			<text>Kicker {1}{W} (You may pay an additional {1}{W} as you cast this spell.)
+Flying, lifelink
+When Emboldening Angel enters, if it was kicked, put a +1/+1 counter on each creature you control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/151.png" num="16">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kuhiel the Benevolent</name>
+			<text>Vigilance, lifelink
+Whenever damage that would be dealt to you or a creature you control is prevented, put that many +1/+1 counters on Kuhiel the Benevolent.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/152.png" num="32">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Angel of Paradise</name>
+			<text>Flying, lifelink
+If you would gain an amount of life, you gain life equal to Angel of Paradise&apos;s power instead.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/153.png" num="3">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Promise of Protection</name>
+			<text>Counter up to one target spell that targets you or a creature you control.
+If you cast this spell during your main phase, creatures you control gain indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/154.png" num="37">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Glorious Anthem</name>
+			<text>Creatures you control get +1/+1.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/155.png" num="22">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blessed Bond</name>
+			<text>Enchant creature
+Enchanted creature gets +4/+4, has flying and vigilance, can&apos;t attack you or planeswalkers you control, and can&apos;t block creatures you control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/156.png" num="7">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Prison Seal</name>
+			<text>Whenever Prison Seal or another nonland, nontoken permanent enters under your control, you may exile target permanent that shares a card type with that permanent until Prison Seal leaves the battlefield.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/157.png" num="36">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Skyswimmer</name>
+			<text>Flash
+Flying
+Whenever Skyswimmer blocks a creature, put a stun counter on that creature.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/158.png" num="73">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Whale</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Djinn of Secrets</name>
+			<text>Kicker {4}{U} (You may pay an additional {4}{U} as you cast this spell.)
+Flying
+When Djinn of Secrets enters, if it was kicked, draw seven cards.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/159.png" num="53">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Djinn</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Snjar, Scion of Rime</name>
+			<text>Whenever you tap an untapped creature you control, if it isn&apos;t being declared as an attacker, put a +1/+1 counter on it.
+Whenever you tap an untapped creature an opponent controls, put a stun counter on it.
+{W}, {T}: Tap target creature.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/160.png" num="75">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Laboratory Maniac</name>
+			<text>If you would draw a card while your library has no cards in it, you win the game instead.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/161.png" num="60">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clone</name>
+			<text>You may have Clone enter the battlefield as a copy of any creature on the battlefield.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/162.png" num="50">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Accumulating Stormwing</name>
+			<text>Accumulating Stormwing costs {X} less to cast, where X is the number of noncreature spells you have cast this turn.
+Flying; prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When Accumulating Stormwing enters, draw a card.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/163.png" num="45">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Quicken</name>
+			<text>The next sorcery spell you cast this turn can be cast as though it had flash. (It can be cast any time you could cast an instant.)
+Draw a card.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/164.png" num="67">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Demon of Shared Sorrow</name>
+			<text>Kicker—Pay 5 life (You may pay 5 life in addition to any other costs as you cast this spell.)
+Flying
+When Demon of Shared Sorrow enters, you may have target player&apos;s life total become equal to your own.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/165.png" num="95">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ezikiel, the Dire Dream</name>
+			<text>Flying, menace, lifelink
+Ezikiel, the Dire Dream&apos;s power and toughness are each equal to the number of Swamps you control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/166.png" num="101">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Misfortune Teller</name>
+			<text>Deathtouch
+Whenever Misfortune Teller enters or deals combat damage to a player, exile target card from a graveyard. If it was a creature card, create a 2/2 black Rogue creature token. If it was a land card, create a Treasure token. Otherwise, you gain 3 life.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/167.png" num="112">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Royal Assassin</name>
+			<text>{T}: Destroy target tapped creature.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/168.png" num="118">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sanguine Alchemy</name>
+			<text>Whenever a spell or ability you control causes one or more opponents to lose 1 or more life, add {B}.
+Tap three Vampires you control: Each opponent loses 1 life.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/169.png" num="120">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Strike from Mythos</name>
+			<text>This spell costs {2} less to cast if it targets a token.
+Exile target creature or planeswalker and all other permanents with the same name as that permanent.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/170.png" num="122">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Heartfire Dragon</name>
+			<text>Kicker {X}{R} (You may pay an additional {X}{R} as you cast this spell.)
+Flying
+When Heartfire Dragon enters, if it was kicked, it deals twice X damage to any target.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/171.png" num="148">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Professional Face-Breaker</name>
+			<text>Menace
+Whenever one or more creatures you control deal combat damage to a player, create a Treasure token.
+Sacrifice a Treasure: Exile the top card of your library. You may play that card this turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/172.png" num="155">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dragonspeak Escort</name>
+			<text>First strike
+Whenever Dragonspeak Escort attacks, you may put a stun counter on it. If you do, it gets +1/+0 until end of turn and you create a Treasure token. (If a permanent with a stun counter would become untapped, remove one from it instead. Treasure is an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/173.png" num="140">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hellkite Mystic</name>
+			<text>Flying, trample; prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever Hellkite Mystic enters or attacks, exile the top four cards of your library. An opponent separates those cards into two piles, then exile the top card of your library and assign it to a random pile. Shuffle one of the piles into your library. You may play cards exiled this way on any turn you attacked with Hellkite Mystic.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/174.png" num="149">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Goblin Scapegoat</name>
+			<text>Whenever a creature you control becomes the target of a spell or ability with a single target, you may pay {1}. If you do, change the target of that spell or ability to a Goblin creature you control.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/175.png" num="145">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Southkeep Devil</name>
+			<text>At the beginning of each opponent&apos;s upkeep, that player chooses a creature they control. It fights Southkeep Devil. If Southkeep Devil dies this way, the chosen creature&apos;s controller creates a Treasure token.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/176.png" num="161">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Devil Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cragplate Baloth</name>
+			<text>Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)
+This spell can&apos;t be countered.
+Hexproof, haste
+If Cragplate Baloth was kicked, it enters with four +1/+1 counters on it.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/177.png" num="182">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Murroc, the Living Cycle</name>
+			<text>Murroc, the Living Cycle gets +1/+1 for each land you control.
+You may play land cards from your graveyard.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/178.png" num="201">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elemental Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deathgorge Scavenger</name>
+			<text>Whenever Deathgorge Scavenger enters or attacks, you may exile target card from a graveyard. If a creature card is exiled this way, you gain 2 life. If a noncreature card is exiled this way, Deathgorge Scavenger gets +1/+1 until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/179.png" num="184">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Primalgoyf</name>
+			<text>Primalgoyf&apos;s power and toughness are each equal to the number of card types among cards in all graveyards. (The card types are artifact, battle, creature, enchantment, instant, kindred, land, planeswalker, and sorcery.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/180.png" num="203">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lhurgoyf</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Territorial Nestmother</name>
+			<text>When Territorial Nestmother dies, reveal the top X cards of your library, where X is its power. You may put any number of creatures with total power X or less from among them into your hand and the rest on the bottom of your library in a random order.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/181.png" num="209">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien Dinosaur Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Durabeetle</name>
+			<text>You and other permanents you control have ward {X}, where X is the number of counters on you or that permanent.
+{T}: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/182.png" num="185">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Autumn&apos;s Blessing</name>
+			<text>For each card type, return up to one card of that type from your graveyard to your hand.
+Exile Autumn&apos;s Blessing.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/183.png" num="172">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Knowledge Wave</name>
+			<text>At the beginning of your upkeep, exile the top card of your library, then create a token that&apos;s a copy of Knowledge Wave.
+Whenever you cast a spell from your hand, exile it. If you do, you may cast another nonland card you own exiled by sources named Knowledge Wave without paying that card&apos;s mana cost.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/184.png" num="59">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Organization&apos;s Grasp</name>
+			<text>Search target opponent&apos;s library for a card and exile it face down. Then that player shuffles. You may look at and cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/185.png" num="115">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lightning Phoenix</name>
+			<text>Flying, haste
+Lightning Phoenix can&apos;t block.
+At the beginning of your end step, if an opponent was dealt 3 or more damage this turn, you may pay {R}. If you do, return Lightning Phoenix from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/186.png" num="153">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Creeping Corrosion</name>
+			<text>Destroy all artifacts.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/187.png" num="183">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Exhaustive Defense</name>
+			<text>If a permanent you control would be dealt damage or destroyed, you may remove a stun counter from it instead.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/188.png" num="17">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reign&apos;s Dismissal</name>
+			<text>Return all nonland permanents that entered the battlefield this turn to their owners&apos; hands.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/189.png" num="69">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Whipped Up</name>
+			<text>Return target creature card from your graveyard to the battlefield. It gains lifelink and haste. Exile it at end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/190.png" num="127">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Growing Hoard</name>
+			<text>At the beginning of your upkeep, put a gold counter on Growing Hoard. Then, each player creates a Treasure token for each gold counter on Growing Hoard. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
+Sacrifice six Treasures: Search your library for a Dragon card and put it onto the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/191.png" num="147">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Megantic Growth</name>
+			<text>Enchant creature
+When Megantic Growth enters and at the beginning of your upkeep, put six +1/+1 counters on enchanted creature.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/192.png" num="199">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3GGG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Null</name>
+			<text>Exile X target permanents.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/S23-files/img/193.png" num="1">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XXXXX</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Subject 01</name>
+			<text>Ward {2}
+Whenever a planeswalker enters under your control, you may choose one of its loyalty abilities. If you do, put a loyalty counter on Subject 01 and it gains that ability. (Until this creature leaves the battlefield. You may activate one of its loyalty abilities once during each of your turns as a sorcery.)</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/194.png" num="222">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kilvik Shieldmaiden</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+Tapped creatures you control can block as though they were untapped.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/195.png" num="30">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dreamweft</name>
+			<text>When Dreamweft enters, each opponent mills two cards.
+Whenever one or more cards are put into an opponent&apos;s graveyard from their library, you may exile up to one of those cards. For as long as that card remains exiled, you may play it.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/196.png" num="55">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Demonic Proviso</name>
+			<text>Search your library for a card that shares a name with a face-up card you own in exile, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/197.png" num="96">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Zenith Memorial</name>
+			<text>As an additional cost to cast Zenith Memorial, exile a creature card from your graveyard.
+At the beginning of your precombat main phase, add {R}.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/198.png" num="170">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Eldrazi Delimiter</name>
+			<text>(Devoid cards have no color.)
+Kicker {3}{G}{G} (You may pay an additional {3}{G}{G} as you cast this spell.)
+If Eldrazi Delimiter was kicked, it enters with fifteen +1/+1 counters on it.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/199.png" num="186">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Devoid Creature — Eldrazi</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gureza, Vitality Warden</name>
+			<text>Flying, vigilance, lifelink
+If a spell or ability would destroy or exile another non-Zombie creature you control, that creature becomes a 0/3 Zombie in addition to its other types instead.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/200.png" num="217">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>2GWW</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Patron of Battle</name>
+			<text>Flying, vigilance
+When Patron of Battle enters, if it&apos;s your main phase, there&apos;s an additional combat phase after this phase. At the beginning of that combat, remove all stun counters from each creature you control, then untap those creatures.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/S23-files/img/201.png" num="35">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Probe the Eons</name>
+			<text>Kicker {2}{U} (You may pay an additional {2}{U} as you cast this spell.)
+If this spell was kicked, create a 4/4 blue Sphinx creature token with flying.
+Take an extra turn after this one. Exile Probe the Eons.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/S23-files/img/202.png" num="66">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Worst Fears</name>
+			<text>You control target player during that player&apos;s next turn. Exile Worst Fears. (You see all cards that player could see and make all decisions for the player.)</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/S23-files/img/203.png" num="128">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>7B</manacost>
+				<cmc>8</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Descent of the Dragons</name>
+			<text>Destroy any number of target creatures. For each creature destroyed this way, its controller creates a 4/4 red Dragon creature token with flying.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/S23-files/img/204.png" num="139">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Jotun Leveler</name>
+			<text>Whenever Jotun Leveler attacks, put two stun counters on it.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/S23-files/img/205.png" num="197">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Void Winnower</name>
+			<text>Your opponents can&apos;t cast spells with even mana values. (Zero is even.)
+Your opponents can&apos;t block with creatures with even mana values.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/S23-files/img/206.png" num="2">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eldrazi</type>
+				<maintype>Creature</maintype>
+				<manacost>9</manacost>
+				<cmc>9</cmc>
+				<pt>11/9</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Platinum Angel</name>
+			<text>Flying
+You can&apos;t lose the game and your opponents can&apos;t win the game.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/S23-files/img/207.png" num="231">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prismatic Command</name>
+			<text>Choose two—
+• Target player gains 7 life.
+• Target player draws two cards.
+• Return target creature card from your graveyard to the battlefield.
+• Prismatic Command deals 5 damage to any target.
+• Put two +1/+1 counters on each creature target player controls.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/S23-files/img/208.png" num="218">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>WUBRG</manacost>
+				<cmc>5</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ascendancy Engine</name>
+			<text>If equipped creature would deal damage, it deals double that damage instead.
+Activated abilities of equipped creature cost {2} less to activate. This effect can&apos;t reduce the mana in that cost to less than one mana.
+{2}: Equipped creature gains your choice of flying, first strike, vigilance, trample, or haste until end of turn.
+Equip {4}</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/S23-files/img/209.png" num="226">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tireless Tender</name>
+			<text>As Tireless Tender enters, choose Clue, Food, or Treasure.
+If one or more tokens would be created under your control, those tokens plus an additional token of the chosen type are created instead.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/210.png" num="238">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hardworking Crab</name>
+			<text>{3}{U}, {T}: Target player mills five cards.
+{T}, Put a stun counter on Hardworking Crab: Target player mills five cards.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/211.png" num="58">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crab</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Battlefield Tactician</name>
+			<text>Whenever Battlefield Tactician attacks, you may put a stun counter on it. If you do, it gets +2/+0 until end of turn.
+At the beginning of combat on your turn, if Battlefield Tactician is tapped, target creature gains first strike until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/212.png" num="215">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Baloth Gorger</name>
+			<text>Kicker {4} (You may pay an additional {4} as you cast this spell.)
+If Baloth Gorger was kicked, it enters with three +1/+1 counters on it.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/213.png" num="173">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Timeshift</name>
+			<text>Kicker {2}{U} (You may pay an additional {2}{U} as you cast this spell.)
+Return target creature to its owner&apos;s hand. If this spell was kicked, that creature&apos;s owner puts it on top or bottom of their library instead.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/214.png" num="81">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Septim Druid</name>
+			<text>{T}: Add {R} or {G}.
+Whenever you cast a kicked spell, put two +1/+1 counters on Septim Druid. Untap it.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/215.png" num="221">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Warp Existence</name>
+			<text>Choose one or both—
+• Exile target creature or planeswalker you control, then return that card to the battlefield under your control.
+• Return target creature or planeswalker card from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/216.png" num="225">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3WB</manacost>
+				<cmc>5</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Amalgamate</name>
+			<text>Surveil 2, then create an X/X colorless Construct artifact creature token, where X is the number of noncreature cards in your graveyard. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/217.png" num="214">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tideshell Homarid</name>
+			<text>When Tideshell Homarid enters and at the beginning of your upkeep, put a +1/+1 counter on it.
+If a fourth +1/+1 counter would be put on Tideshell Homarid, remove all +1/+1 counters from it and put a stun counter on it instead.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/218.png" num="80">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Homarid</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cathedral of Stars</name>
+			<text>Cathedral of Stars enters with a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+{T}: Add {U} or {B}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/219.png" num="246">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cathedral of Dew</name>
+			<text>Cathedral of Dew enters with a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+{T}: Add {G} or {U}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/220.png" num="240">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cathedral of Clouds</name>
+			<text>Cathedral of Clouds enters with a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+{T}: Add {W} or {U}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/221.png" num="239">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cathedral of Shale</name>
+			<text>Cathedral of Shale enters with a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+{T}: Add {R} or {G}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/222.png" num="244">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cathedral of Slate</name>
+			<text>Cathedral of Slate enters with a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+{T}: Add {R} or {W}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/223.png" num="245">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cathedral of Dust</name>
+			<text>Cathedral of Dust enters with a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+{T}: Add {W} or {B}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/224.png" num="241">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cathedral of Storms</name>
+			<text>Cathedral of Storms enters with a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+{T}: Add {U} or {R}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/225.png" num="247">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cathedral of Moss</name>
+			<text>Cathedral of Moss enters with a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+{T}: Add {B} or {G}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/226.png" num="242">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cathedral of Pain</name>
+			<text>Cathedral of Pain enters with a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+{T}: Add {B} or {R}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/227.png" num="243">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cathedral of the Sun</name>
+			<text>Cathedral of the Sun enters with a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+{T}: Add {G} or {W}.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/228.png" num="248">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Brightmeadow Soother</name>
+			<text>{W}, {T}, Put a stun counter on Brightmeadow Soother: Tap target creature you don&apos;t control and put a stun counter on it.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/229.png" num="10">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mantle of Tides</name>
+			<text>Equipped creature gets +1/+2.
+Whenever you draw your second card each turn, attach Mantle of Tides to target creature you control.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/230.png" num="62">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Harvester&apos;s Scythe</name>
+			<text>Equipped creature gets +1/+1 and has deathtouch.
+Equip {2}</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/231.png" num="107">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Boots of Speed</name>
+			<text>Equipped creature gets +1/+0 and has haste.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/232.png" num="134">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rosethorn Halberd</name>
+			<text>When Rosethorn Halberd enters, attach it to target non-Human creature you control.
+Equipped creature gets +2/+1.
+Equip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/233.png" num="207">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Moment of Heroism</name>
+			<text>Target creature gets +2/+2 and gains lifelink until end of turn.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/234.png" num="33">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Day of Judgment</name>
+			<text>Destroy all creatures.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/235.png" num="13">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wind Drake</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/236.png" num="86">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/237.png" num="250">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/238.png" num="251">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/239.png" num="252">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/240.png" num="253">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/241.png" num="254">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Archangel</name>
+			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
+Vigilance (Attacking doesn&apos;t cause this creature to tap.)</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/242.png" num="4">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>5WW</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glorious Redemption</name>
+			<text>Target creature gets +1/+1 until end of turn. Untap it. If it&apos;s still tapped, repeat this process until the creature is untapped.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/243.png" num="23">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Numerophile</name>
+			<text>As Numerophile enters, secretly choose and note a number from 1 to 5.
+At the beginning of each opponent&apos;s upkeep, that player chooses a number from 1 to 5 which they haven&apos;t chosen this way. If the noted number is chosen, reveal that number, sacrifice Numerophile, you draw that many cards and you lose that much life. Otherwise, that player loses life equal to the chosen number.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/244.png" num="114">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thrill of Possibility</name>
+			<text>As an additional cost to cast this spell, discard a card.
+Draw two cards.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/245.png" num="165">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Force of Gravity</name>
+			<text>Choose one or both —
+• Target creature loses flying until end of turn.
+• Destroy target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/S23-files/img/246.png" num="190">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Realized Might</name>
+			<text>Target creature gets +X/+X until end of turn. If you cast this spell during your main phase, that creature also gains vigilance and trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/S23-files/img/247.png" num="206">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XG</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Static Breakdasher</name>
+			<text>Flash
+Whenever Static Breakdasher or another artifact or creature you control leaves the battlefield, Static Breakdasher deals 1 damage to each opponent.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/248.png" num="162">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gemma of the Ringed Court</name>
+			<text>[+2]: Put a loyalty counter on each other permanent you control with a loyalty ability.
+[+1]: Until end of turn, target creature gains vigilance and gets +1/+1 for each loyalty counter on Gemma of the Ringed Court.
+[-3]: Create a white enchantment token named Glittering Boon with &quot;Creatures you control get +1/+1.&quot;</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/S23-files/img/249.png" num="20">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Gemma</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<loyalty>1</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Davriel Cane</name>
+			<text>[+1]: Each player mills cards until they&apos;ve milled two nonland cards this way. You lose 2 life.
+[-2]: You may sacrifice a creature. If you do, destroy another target creature or planeswalker.
+[-3]: Exile target card from a graveyard. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/S23-files/img/250.png" num="94">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Davriel</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ugtug Bladeheart</name>
+			<text>[+1]: Up to one target creature gets +1/+1 and gains first strike until end of turn.
+[-2]: Until end of turn, whenever a creature you control attacks, it deals 1 damage to the player or planeswalker it&apos;s attacking.
+[-6]: You get an emblem with &quot;Whenever a creature enters under your control, it gets +3/+3 and gains haste until end of turn.&quot;</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/S23-files/img/251.png" num="167">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Bladeheart</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bramblebark of the Gyre</name>
+			<text>[+1]: You may have Bramblebark of the Gyre lose all types and become a 0/X Treefolk creature with hexproof and reach until your next turn, where X is its loyalty.
+[-2]: Create a 1/3 green Treefolk creature token.
+[-4]: You get an emblem with &quot;Creatures you control get +0/+1 and assign combat damage equal to their toughness rather than their power.&quot;</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/S23-files/img/252.png" num="177">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Bramblebark</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reign Shoretreader</name>
+			<text>[+1]: Tap up to one target permanent and put a stun counter on it.
+[-2]: Mill six cards, then exile up to one target instant or sorcery card with mana value 3 or less from your graveyard. You may cast that card without paying its mana cost.
+[-5]: Tap each creature your opponents control. Put two stun counters on each of them.</text>
+			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/S23-files/img/253.png" num="68">S23</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Reign</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

@@ -449,7 +449,7 @@
             "notes": "By Tuxxle"
         },
         {
-            "card_name": "Midnight Snack",
+            "card_name": "Evening Snack",
             "color": "B",
             "rarity": "rare",
             "type": "Artifact \u2014 Food",
@@ -946,7 +946,7 @@
             "shape": "normal",
             "set": "CHS",
             "loyalty": "",
-            "artist": "Illus. Beanables",
+            "artist": "Illus. Chezpizza",
             "alias": "",
             "position": "44",
             "rotated": false,
@@ -1170,7 +1170,7 @@
             "number": 16,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "{2}, {T}, Sacrifice this artifact: Each player may discard their hand. If they do, they draw seven cards. Activate only as a sorcery.",
+            "rules_text": "This artifact enters tapped.\n{2}, {T}, Sacrifice this artifact: Each player may discard their hand. If they do, they draw seven cards. Activate only as a sorcery.",
             "flavor_text": "[i]Sid and Josue had one thing in common.[/i]",
             "pt": "",
             "special_text": "",

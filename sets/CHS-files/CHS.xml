@@ -5,7 +5,7 @@
 			<name>CHS</name>
 			<longname>Culdona Signature Creations</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-13</releasedate>
+			<releasedate>2026-06-14</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -357,7 +357,7 @@ When this creature dies, it deals 3 damage to each player.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Midnight Snack</name>
+			<name>Evening Snack</name>
 			<text>Foods you control have &quot;{T}: You gain 1 life.&quot;
 At the beginning of your end step, sacrifice a Food.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHS-files/img/21.png" num="9">CHS</set>
@@ -943,7 +943,8 @@ When this creature enters, create a Food token. (It&apos;s an artifact with &quo
 		</card>
 		<card>
 			<name>Wheel of Cheddar</name>
-			<text>{2}, {T}, Sacrifice this artifact: Each player may discard their hand. If they do, they draw seven cards. Activate only as a sorcery.</text>
+			<text>This artifact enters tapped.
+{2}, {T}, Sacrifice this artifact: Each player may discard their hand. If they do, they draw seven cards. Activate only as a sorcery.</text>
 			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/CHS-files/img/55.png" num="16">CHS</set>
 			<prop>
 				<layout>normal</layout>

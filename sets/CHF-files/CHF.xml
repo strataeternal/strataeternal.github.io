@@ -5,7 +5,7 @@
 			<name>CHF</name>
 			<longname>Chefs of Culdona</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-13</releasedate>
+			<releasedate>2026-06-14</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1475,7 +1475,7 @@ Exile target nonland permanent.</text>
 		</card>
 		<card>
 			<name>Snipcaster Mage</name>
-			<text>Flash
+			<text>Flash (You may cast this spell any time you could cast an instant.)
 When this creature enters, you may exile an instant or sorcery card from your graveyard.
 {U}: Until end of turn, you may cast a card exiled with this creature. If that spell would be put into a graveyard, exile it instead. (You still pay its costs. Timing rules still apply.)</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CHF-files/img/84.png" num="84">CHF</set>

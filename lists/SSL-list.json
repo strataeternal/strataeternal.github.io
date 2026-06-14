@@ -56,12 +56,12 @@
         "card_name": "e"
     },
     {
-        "card_name": "Nijugo Cinq, Bleeding Lotus",
-        "number": 13,
+        "card_name": "EtherShade, Shadow of Time",
+        "number": 6,
         "shape": "normal",
         "set": "SSL",
         "rotated": false,
-        "position": "4"
+        "position": "20"
     },
     {
         "card_name": "e"
@@ -81,6 +81,26 @@
         "set": "SSL",
         "rotated": false,
         "position": "19"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Nijugo Cinq, Bleeding Lotus",
+        "number": 13,
+        "shape": "normal",
+        "set": "SSL",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -193,12 +213,7 @@
         "card_name": "er"
     },
     {
-        "card_name": "EtherShade, Shadow of Time",
-        "number": 6,
-        "shape": "normal",
-        "set": "SSL",
-        "rotated": false,
-        "position": "20"
+        "card_name": "e"
     },
     {
         "card_name": "Izirhia, Grieving Archlich",

@@ -1,4 +1,17 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Snipcaster Mage
+rules_text: Flash
+When this creature enters, you may exile an instant or sorcery card from your graveyard.
+{U}: Until end of turn, you may cast a card exiled with this creature. If that spell would be put into a graveyard, exile it instead. [i](You still pay its costs. Timing rules still apply.)[/i] => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+When this creature enters, you may exile an instant or sorcery card from your graveyard.
+{U}: Until end of turn, you may cast a card exiled with this creature. If that spell would be put into a graveyard, exile it instead. [i](You still pay its costs. Timing rules still apply.)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

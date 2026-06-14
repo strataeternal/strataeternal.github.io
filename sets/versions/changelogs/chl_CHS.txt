@@ -1,4 +1,18 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Evening Snack added.
+
+Midnight Snack removed.
+
+Cherry Bomb
+
+Wheel of Cheddar
+rules_text: {2}, {T}, Sacrifice this artifact: Each player may discard their hand. If they do, they draw seven cards. Activate only as a sorcery. => This artifact enters tapped.
+{2}, {T}, Sacrifice this artifact: Each player may discard their hand. If they do, they draw seven cards. Activate only as a sorcery.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

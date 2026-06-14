@@ -429,13 +429,13 @@
         },
         {
             "card_name": "EtherShade, Shadow of Time",
-            "color": "WUB",
+            "color": "UB",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Wraith Wizard",
             "number": 6,
-            "color_identity": "WUB",
-            "cost": "{W}{U}{B}",
-            "rules_text": "Flying, deathtouch\nYou have no maximum hand size.\nAs long as you have seven or more cards in hand, spells you cast cost {W}{U}{B} [i](or {3})[/i] less to cast.",
+            "color_identity": "UB",
+            "cost": "{1}{U}{B}",
+            "rules_text": "Flying, deathtouch\nYou have no maximum hand size.\nAs long as you have seven or more cards in hand, spells you cast cost {U}{B} [i](or {2})[/i] less to cast.\nEtherShade, Shadow of Time can't be your commander. [i](Such power refuses to be contained.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -512,5 +512,5 @@
             "notes": ""
         }
     ],
-    "version": 2
+    "version": 3
 }

@@ -5,7 +5,7 @@
 			<name>MYC</name>
 			<longname>Mystvale Commander</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-13</releasedate>
+			<releasedate>2026-06-14</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2637,8 +2637,8 @@ As this land enters, choose a color other than white.
 		</card>
 		<card>
 			<name>Disappearance Specialist</name>
-			<text>Ward {X}, where X is the number of {research.png} (research counters) you have.
-Whenever this creature enters or attacks, you get {research.png}, then you may exile target creature with mana value less than or equal to the amount of {research.png} you have until this creature leaves the battlefield.</text>
+			<text>Ward {X}, where X is the number of {V} (research counters) you have.
+Whenever this creature enters or attacks, you get {V}, then you may exile target creature with mana value less than or equal to the amount of {V} you have until this creature leaves the battlefield.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYC-files/img/150.png" num="13">MYC</set>
 			<prop>
 				<layout>normal</layout>
@@ -2655,8 +2655,8 @@ Whenever this creature enters or attacks, you get {research.png}, then you may e
 		</card>
 		<card>
 			<name>Metrics Tracker</name>
-			<text>When this Equipment enters, you get {research.png} (a research counter).
-Equipped creature gets +1/+1 for each {research.png} you have.
+			<text>When this Equipment enters, you get {V} (a research counter).
+Equipped creature gets +1/+1 for each {V} you have.
 Equip {2}{W}</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYC-files/img/151.png" num="22">MYC</set>
 			<prop>
@@ -2673,7 +2673,7 @@ Equip {2}{W}</text>
 		</card>
 		<card>
 			<name>Project Lightspeed</name>
-			<text>Whenever you attack, you get {research.png} (a research counter), then if you have ten or more {research.png}, untap each creature you control. Those creatures gain double strike and indestructible until end of turn. This ability triggers only once each turn.</text>
+			<text>Whenever you attack, you get {V} (a research counter), then if you have ten or more {V}, untap each creature you control. Those creatures gain double strike and indestructible until end of turn. This ability triggers only once each turn.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYC-files/img/152.png" num="25">MYC</set>
 			<prop>
 				<layout>normal</layout>
@@ -2689,8 +2689,8 @@ Equip {2}{W}</text>
 		</card>
 		<card>
 			<name>Rapid Developer</name>
-			<text>When this creature enters, you get {research.png} (a research counter).
-{T}: Create a 1/1 colorless Construct artifact creature token. Activate only if you have three or more {research.png}.</text>
+			<text>When this creature enters, you get {V} (a research counter).
+{T}: Create a 1/1 colorless Construct artifact creature token. Activate only if you have three or more {V}.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYC-files/img/153.png" num="26">MYC</set>
 			<prop>
 				<layout>normal</layout>
@@ -2707,9 +2707,9 @@ Equip {2}{W}</text>
 		</card>
 		<card>
 			<name>Recovery Agent</name>
-			<text>When this creature enters, you get {research.png} (a research counter).
+			<text>When this creature enters, you get {V} (a research counter).
 Lifelink
-At the beginning of your upkeep, if you have three or more {research.png}, put a +1/+1 counter on this creature.</text>
+At the beginning of your upkeep, if you have three or more {V}, put a +1/+1 counter on this creature.</text>
 			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYC-files/img/154.png" num="28">MYC</set>
 			<prop>
 				<layout>normal</layout>
@@ -2727,8 +2727,8 @@ At the beginning of your upkeep, if you have three or more {research.png}, put a
 		<card>
 			<name>Researcher&apos;s Assistant</name>
 			<text>Flying
-When this creature, you get {research.png} (a research counter).
-Whenever this creature attacks, if you have three or more {research.png}, target creature gains flying until end of turn.</text>
+When this creature, you get {V} (a research counter).
+Whenever this creature attacks, if you have three or more {V}, target creature gains flying until end of turn.</text>
 			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYC-files/img/155.png" num="29">MYC</set>
 			<prop>
 				<layout>normal</layout>
@@ -2813,8 +2813,8 @@ Pay {E}{E}{E}{E}{E}{E}: Return all other creatures to their owners&apos; hands. 
 		</card>
 		<card>
 			<name>Lurking Anomaly</name>
-			<text>{3}{U}: You get {research.png} (a research counter).
-This creature can&apos;t attack unless you have three or more {research.png}.</text>
+			<text>{3}{U}: You get {V} (a research counter).
+This creature can&apos;t attack unless you have three or more {V}.</text>
 			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYC-files/img/160.png" num="54">MYC</set>
 			<prop>
 				<layout>normal</layout>
@@ -2866,7 +2866,7 @@ This creature can&apos;t attack unless you have three or more {research.png}.</t
 		</card>
 		<card>
 			<name>Project Newsfeed</name>
-			<text>Whenever you draw a card during your turn except the first one you draw in each of your draw steps, you get {research.png} (a research counter), then if you have ten or more {research.png}, you may cast a nonland card from your hand without paying its mana cost. This ability triggers only once each turn.</text>
+			<text>Whenever you draw a card during your turn except the first one you draw in each of your draw steps, you get {V} (a research counter), then if you have ten or more {V}, you may cast a nonland card from your hand without paying its mana cost. This ability triggers only once each turn.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYC-files/img/163.png" num="60">MYC</set>
 			<prop>
 				<layout>normal</layout>
@@ -2882,7 +2882,7 @@ This creature can&apos;t attack unless you have three or more {research.png}.</t
 		</card>
 		<card>
 			<name>Propagating Contagion</name>
-			<text>When this creature enters, you get {research.png} (a research counter).
+			<text>When this creature enters, you get {V} (a research counter).
 Whenever this creature deals combat damage to a creature, exile that creature and its controller creates a token that&apos;s a copy of this creature.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYC-files/img/164.png" num="61">MYC</set>
 			<prop>
@@ -2917,7 +2917,7 @@ Whenever this creature deals combat damage to a creature, exile that creature an
 		</card>
 		<card>
 			<name>Take as Evidence</name>
-			<text>You get {research.png} (a research counter), then counter up to one target spell unless its controller pays {X}, where X is the number of {research.png} you have.</text>
+			<text>You get {V} (a research counter), then counter up to one target spell unless its controller pays {X}, where X is the number of {V} you have.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYC-files/img/166.png" num="64">MYC</set>
 			<prop>
 				<layout>normal</layout>
@@ -3024,7 +3024,7 @@ Whenever another creature dies, you get {E} (an energy counter).
 		</card>
 		<card>
 			<name>Dissect</name>
-			<text>Destroy target creature or planeswalker. You get {research.png} (a research counter).</text>
+			<text>Destroy target creature or planeswalker. You get {V} (a research counter).</text>
 			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYC-files/img/172.png" num="78">MYC</set>
 			<prop>
 				<layout>normal</layout>
@@ -3040,8 +3040,8 @@ Whenever another creature dies, you get {E} (an energy counter).
 		</card>
 		<card>
 			<name>Exploratory Biopsy</name>
-			<text>When this enchantment enters, you get {research.png} (a research counter).
-Whenever you get one or more {research.png}, each opponent loses 1 life and you gain 1 life.</text>
+			<text>When this enchantment enters, you get {V} (a research counter).
+Whenever you get one or more {V}, each opponent loses 1 life and you gain 1 life.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYC-files/img/173.png" num="81">MYC</set>
 			<prop>
 				<layout>normal</layout>
@@ -3226,7 +3226,7 @@ Rats you control have deathtouch.</text>
 		</card>
 		<card>
 			<name>Project Evermore</name>
-			<text>Whenever a creature you control dies during your turn, you get {research.png} (a research counter), then if you have ten or more {research.png}, return up to one target creature card from your graveyard to the battlefield. This ability triggers only once each turn.</text>
+			<text>Whenever a creature you control dies during your turn, you get {V} (a research counter), then if you have ten or more {V}, return up to one target creature card from your graveyard to the battlefield. This ability triggers only once each turn.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYC-files/img/182.png" num="99">MYC</set>
 			<prop>
 				<layout>normal</layout>
@@ -3242,10 +3242,10 @@ Rats you control have deathtouch.</text>
 		</card>
 		<card>
 			<name>Rastafel, Rodent Researcher</name>
-			<text>Whenever one or more Rats you control enter, you get {research.png} (a research counter).
-Rats you control get +1/+1 and have menace as long as you have three or more {research.png}.
-Rats you control also get +1/+1 and have lifelink as long as you have five or more {research.png}.
-Rats you control also get +1/+1 and have deathtouch as long as you have seven or more {research.png}.</text>
+			<text>Whenever one or more Rats you control enter, you get {V} (a research counter).
+Rats you control get +1/+1 and have menace as long as you have three or more {V}.
+Rats you control also get +1/+1 and have lifelink as long as you have five or more {V}.
+Rats you control also get +1/+1 and have deathtouch as long as you have seven or more {V}.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYC-files/img/183.png" num="100">MYC</set>
 			<prop>
 				<layout>normal</layout>
@@ -3263,7 +3263,7 @@ Rats you control also get +1/+1 and have deathtouch as long as you have seven or
 		<card>
 			<name>Standard Specimen</name>
 			<text>(Melds with Long-Tail Rat.)
-When this creature dies, you get {research.png} (a research counter).</text>
+When this creature dies, you get {V} (a research counter).</text>
 			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYC-files/img/184.png" num="104">MYC</set>
 			<prop>
 				<layout>normal</layout>
@@ -3280,7 +3280,7 @@ When this creature dies, you get {research.png} (a research counter).</text>
 		</card>
 		<card>
 			<name>Taboo Experimentation</name>
-			<text>You get {research.png} (a research counter), then search your library for a card with mana value less than or equal to the number of {research.png} you have, reveal it, put it into your hand, then shuffle.</text>
+			<text>You get {V} (a research counter), then search your library for a card with mana value less than or equal to the number of {V} you have, reveal it, put it into your hand, then shuffle.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYC-files/img/185.png" num="105">MYC</set>
 			<prop>
 				<layout>normal</layout>
@@ -3386,7 +3386,7 @@ Whenever this creature attacks, you may pay {E}{E}. If you do, put a +1/+1 count
 		</card>
 		<card>
 			<name>Exceptional Experiment</name>
-			<text>As long as you have three or more {research.png} (research counters), you may cast Exceptional Experiment from your graveyard.</text>
+			<text>As long as you have three or more {V} (research counters), you may cast Exceptional Experiment from your graveyard.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYC-files/img/191.png" num="216">MYC</set>
 			<prop>
 				<layout>normal</layout>
@@ -3403,8 +3403,8 @@ Whenever this creature attacks, you may pay {E}{E}. If you do, put a +1/+1 count
 		</card>
 		<card>
 			<name>Exron, Experiment Expert</name>
-			<text>When Exron enters, you get {research.png} (a research counter).
-Whenever you get {research.png} for the first time during each of your turns, surveil 1. Then if you have three or more {research.png}, create a 2/1 black Rat creature token. Then if you have five or more {research.png}, draw a card. Then if you have ten or more {research.png}, put a +1/+1 counter on each creature you control.</text>
+			<text>When Exron enters, you get {V} (a research counter).
+Whenever you get {V} for the first time during each of your turns, surveil 1. Then if you have three or more {V}, create a 2/1 black Rat creature token. Then if you have five or more {V}, draw a card. Then if you have ten or more {V}, put a +1/+1 counter on each creature you control.</text>
 			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MYC-files/img/192.png" num="217">MYC</set>
 			<prop>
 				<layout>normal</layout>
@@ -3512,8 +3512,8 @@ If an effect you control would cause a player to get one or more counters, that 
 		</card>
 		<card>
 			<name>Pitfall Engineer</name>
-			<text>When this creature enters, you get {research.png} (a research counter).
-Whenever you get one or more {research.png}, you may tap or untap target permanent.</text>
+			<text>When this creature enters, you get {V} (a research counter).
+Whenever you get one or more {V}, you may tap or untap target permanent.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYC-files/img/198.png" num="238">MYC</set>
 			<prop>
 				<layout>normal</layout>
@@ -3618,7 +3618,7 @@ Whenever an effect causes a player to look at one or more cards in a library, pu
 • You get {E} (an energy counter).
 • Each opponent gets a rad counter.
 {T}, Remove two charge counters from this artifact: Choose one—
-• You get {research.png} (a research counter).
+• You get {V} (a research counter).
 • You get an experience counter.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYC-files/img/204.png" num="274">MYC</set>
 			<prop>
@@ -3761,7 +3761,7 @@ Equip {2}</text>
 		<card>
 			<name>Strange Monolith</name>
 			<text>{T}: Add one mana of any type. (Mana of any color, or {C}.)
-{T}: Add three mana of any one type. Activate only if you have three or more {research.png} (research counters).</text>
+{T}: Add three mana of any one type. Activate only if you have three or more {V} (research counters).</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYC-files/img/213.png" num="317">MYC</set>
 			<prop>
 				<layout>normal</layout>
@@ -3889,9 +3889,9 @@ This land enters tapped unless you control two or more basic lands.</text>
 		</card>
 		<card>
 			<name>Testing Grounds</name>
-			<text>You may have this land enter. If you do, you get {research.png} (a research counter).
+			<text>You may have this land enter. If you do, you get {V} (a research counter).
 {T}: Add {C}.
-{T}: Add one mana of any color. Activate only if you have three or more {research.png}.</text>
+{T}: Add one mana of any color. Activate only if you have three or more {V}.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYC-files/img/221.png" num="363">MYC</set>
 			<prop>
 				<layout>normal</layout>
@@ -3922,7 +3922,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		</card>
 		<card>
 			<name>Auto-Accountant</name>
-			<text>Spark 2 (This creature enters the battlefield with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+			<text>Spark 2 (This creature enters with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
 [level -1] If an opponent has more life than you, you gain 2 life. If an opponent controls more creatures than you, create a 1/1 colorless Construct artifact creature token. If an opponent has more cards in hand than you, draw a card.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYC-files/img/223.png" num="7">MYC</set>
 			<prop>
@@ -3941,9 +3941,9 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Elspeth Conquers Death</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Exile target permanent an opponent controls with mana value 3 or greater
-II — Noncreature spells your opponents cast cost {2} more to cast until your next turn.
-III — Return target creature or planeswalker card from your graveyard to the battlefield. Put a +1/+1 counter or a loyalty counter on it.</text>
+Exile target permanent an opponent controls with mana value 3 or greater
+Noncreature spells your opponents cast cost {2} more to cast until your next turn.
+Return target creature or planeswalker card from your graveyard to the battlefield. Put a +1/+1 counter or a loyalty counter on it.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYC-files/img/224.png" num="15">MYC</set>
 			<prop>
 				<layout>saga</layout>
@@ -4084,7 +4084,7 @@ Whenever a commander you control enters or attacks, proliferate. (Choose any num
 		</card>
 		<card>
 			<name>Spark Studier</name>
-			<text>Spark 2 (This creature enters the battlefield with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+			<text>Spark 2 (This creature enters with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
 [level -1] For each kind of counter on another target permanent or player, give that permanent or player another counter of that kind.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYC-files/img/232.png" num="32">MYC</set>
 			<prop>
@@ -4119,7 +4119,7 @@ Proliferate. (Choose any number of permanents and/or players, then give each ano
 		</card>
 		<card>
 			<name>Taskbot Gatherer</name>
-			<text>Spark 2 (This creature enters the battlefield with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+			<text>Spark 2 (This creature enters with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
 [level -1] Create a 1/1 colorless Construct artifact creature token.</text>
 			<set rarity="common" picurl="https://strataeternal.github.io/sets/MYC-files/img/234.png" num="34">MYC</set>
 			<prop>
@@ -4137,7 +4137,7 @@ Proliferate. (Choose any number of permanents and/or players, then give each ano
 		</card>
 		<card>
 			<name>Threshold Warden</name>
-			<text>Spark 1 (This creature enters the battlefield with a loyalty counter on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+			<text>Spark 1 (This creature enters with a loyalty counter on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
 [level -1] Exile target creature or planeswalker an opponent controls until this creature leaves the battlefield.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYC-files/img/235.png" num="35">MYC</set>
 			<prop>
@@ -4155,7 +4155,7 @@ Proliferate. (Choose any number of permanents and/or players, then give each ano
 		</card>
 		<card>
 			<name>Transport Master</name>
-			<text>Spark 2 (This creature enters the battlefield with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+			<text>Spark 2 (This creature enters with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
 [level -1] You and target opponent each draw a card.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYC-files/img/236.png" num="36">MYC</set>
 			<prop>
@@ -4191,7 +4191,7 @@ Proliferate. (Choose any number of permanents and/or players, then give each ano
 		</card>
 		<card>
 			<name>Archive Delver</name>
-			<text>Spark 3 (This creature enters the battlefield with three loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+			<text>Spark 3 (This creature enters with three loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
 [level -3] Return target creature card from your graveyard to the battlefield. You lose life equal to that card&apos;s mana value.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYC-files/img/238.png" num="73">MYC</set>
 			<prop>
@@ -4344,7 +4344,7 @@ Choose one—
 		</card>
 		<card>
 			<name>Waste Analyst</name>
-			<text>Spark 2 (This creature enters the battlefield with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+			<text>Spark 2 (This creature enters with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
 [level -2] Each opponent discards a card.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYC-files/img/247.png" num="110">MYC</set>
 			<prop>
@@ -4362,7 +4362,7 @@ Choose one—
 		</card>
 		<card>
 			<name>Botanist Team</name>
-			<text>Spark 3 (This creature enters the battlefield with three loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+			<text>Spark 3 (This creature enters with three loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
 [level -1] Add {G}.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYC-files/img/248.png" num="146">MYC</set>
 			<prop>
@@ -4416,7 +4416,7 @@ Choose one—
 		</card>
 		<card>
 			<name>Evolution Driver</name>
-			<text>Spark 3 (This creature enters the battlefield with three loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+			<text>Spark 3 (This creature enters with three loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
 [level -1] Choose another target creature. If it has a loyalty ability, put a loyalty counter on it. Otherwise, put a +1/+1 counter on it.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYC-files/img/251.png" num="158">MYC</set>
 			<prop>
@@ -4469,7 +4469,7 @@ Choose one—
 		</card>
 		<card>
 			<name>Field Operator</name>
-			<text>Spark 1 (This creature enters the battlefield with a loyalty counter on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+			<text>Spark 1 (This creature enters with a loyalty counter on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
 [level -1] Until your next turn, you may cast creature spells as though they had flash.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYC-files/img/254.png" num="162">MYC</set>
 			<prop>
@@ -4487,7 +4487,7 @@ Choose one—
 		</card>
 		<card>
 			<name>Imbued Brawler</name>
-			<text>Spark 4 (This creature enters the battlefield with four loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+			<text>Spark 4 (This creature enters with four loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
 [level -2] Double target creature&apos;s power and toughness until end of turn.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYC-files/img/255.png" num="165">MYC</set>
 			<prop>
@@ -4670,7 +4670,7 @@ If you would proliferate one or more times, instead proliferate that many times 
 		</card>
 		<card>
 			<name>Dispassionate Experimentor</name>
-			<text>Spark 4 (This creature enters the battlefield with four loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+			<text>Spark 4 (This creature enters with four loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
 This creature has all loyalty abilities of all cards in your graveyard.
 [level -2] Sacrifice another creature. If you do, draw a card.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYC-files/img/265.png" num="206">MYC</set>
@@ -4740,7 +4740,7 @@ Whenever a nontoken creature you control dies, if it had counters on it, create 
 		</card>
 		<card>
 			<name>Harlwitz, Spark Forger</name>
-			<text>Spark 2 (This creature enters the battlefield with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+			<text>Spark 2 (This creature enters with two loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
 Harlwitz and other permanents you control with loyalty abilities have &quot;[+1]: If this permanent is a creature, it gets +1/+1 until end of turn. Otherwise, you gain 1 life.&quot;
 Harlwitz has all loyalty abilities of each other permanent you control.</text>
 			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/MYC-files/img/269.png" num="224">MYC</set>
@@ -4777,7 +4777,7 @@ At the beginning of combat on your turn, choose a permanent you control with cou
 		</card>
 		<card>
 			<name>Riftmender</name>
-			<text>Spark 3 (This creature enters the battlefield with three loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+			<text>Spark 3 (This creature enters with three loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
 [level 0] Put a loyalty counter on target permanent with a loyalty ability.
 [level -2] Target creature gets +1/+1 until end of turn for each counter on it.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYC-files/img/271.png" num="245">MYC</set>
@@ -4871,7 +4871,7 @@ If you would get one or more counters, you get that many plus one of each of tho
 		</card>
 		<card>
 			<name>Bottled Lightning</name>
-			<text>Spark 4 (This permanent enters the battlefield with four loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
+			<text>Spark 4 (This permanent enters with four loyalty counters on it. You may activate a loyalty ability of this permanent once during your turn as a sorcery.)
 [level 0] Move a loyalty counter from Bottled Lightning onto another permanent you control with a loyalty ability.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYC-files/img/276.png" num="273">MYC</set>
 			<prop>
@@ -6501,7 +6501,7 @@ This land enters tapped unless you control two or more basic lands.</text>
 		</card>
 		<card>
 			<name>Project Bleeding Edge</name>
-			<text>At the beginning of your end step, if your opponents lost 10 or more life total this turn, you get {research.png} (a research counter), then if you have ten or more {research.png}, Project Bleeding Edge deals damage to each opponent equal to the amount of life they lost this turn. This ability triggers only once each turn. (Damage causes loss of life.)</text>
+			<text>At the beginning of your end step, if your opponents lost 10 or more life total this turn, you get {V} (a research counter), then if you have ten or more {V}, Project Bleeding Edge deals damage to each opponent equal to the amount of life they lost this turn. This ability triggers only once each turn. (Damage causes loss of life.)</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYC-files/img/371.png" num="133">MYC</set>
 			<prop>
 				<layout>normal</layout>
@@ -6517,7 +6517,7 @@ This land enters tapped unless you control two or more basic lands.</text>
 		</card>
 		<card>
 			<name>Project Bestiary</name>
-			<text>At the beginning of combat on your turn, if you control a creature with power 4 or greater, you get {research.png} (a research counter), then if you have ten or more {research.png}, creatures you control get +X/+X until end of turn, where X is the greatest power among creatures you control. This ability triggers only once each turn.</text>
+			<text>At the beginning of combat on your turn, if you control a creature with power 4 or greater, you get {V} (a research counter), then if you have ten or more {V}, creatures you control get +X/+X until end of turn, where X is the greatest power among creatures you control. This ability triggers only once each turn.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYC-files/img/372.png" num="180">MYC</set>
 			<prop>
 				<layout>normal</layout>

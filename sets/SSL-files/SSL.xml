@@ -5,7 +5,7 @@
 			<name>SSL</name>
 			<longname>Strata Signature Legends</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-13</releasedate>
+			<releasedate>2026-06-14</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -391,17 +391,18 @@ Each player may play cards they own in exile with fetch counters on them. Whenev
 			<name>EtherShade, Shadow of Time</name>
 			<text>Flying, deathtouch
 You have no maximum hand size.
-As long as you have seven or more cards in hand, spells you cast cost {W}{U}{B} (or {3}) less to cast.</text>
+As long as you have seven or more cards in hand, spells you cast cost {U}{B} (or {2}) less to cast.
+EtherShade, Shadow of Time can&apos;t be your commander. (Such power refuses to be contained.)</text>
 			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SSL-files/img/20.png" num="6">SSL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Wraith Wizard</type>
 				<maintype>Creature</maintype>
-				<manacost>WUB</manacost>
+				<manacost>1UB</manacost>
 				<cmc>3</cmc>
-				<colors>WUB</colors>
-				<coloridentity>WUB</coloridentity>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>

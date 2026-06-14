@@ -1,4 +1,19 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+EtherShade, Shadow of Time
+cost: {W}{U}{B} => {1}{U}{B}
+rules_text: Flying, deathtouch
+You have no maximum hand size.
+As long as you have seven or more cards in hand, spells you cast cost {W}{U}{B} [i](or {3})[/i] less to cast. => Flying, deathtouch
+You have no maximum hand size.
+As long as you have seven or more cards in hand, spells you cast cost {U}{B} [i](or {2})[/i] less to cast.
+EtherShade, Shadow of Time can't be your commander. [i](Such power refuses to be contained.)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

@@ -3150,7 +3150,8 @@ You may play land cards from your graveyard.</text>
 		</card>
 		<card>
 			<name>Durabeetle</name>
-			<text>You and other permanents you control have ward {X}, where X is the number of counters on you or that permanent.
+			<text>You have ward {X}, where X is the number of counters you have.
+Each permanent you control has ward {X}, where X is the number of counters on that permanent.
 {T}: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/S23-files/img/182.png" num="185">S23</set>
 			<prop>

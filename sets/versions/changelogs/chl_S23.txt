@@ -1,4 +1,16 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Durabeetle
+rules_text: You and other permanents you control have ward {X}, where X is the number of counters on you or that permanent.
+{T}: Put a +1/+1 counter on target creature you control. Activate only as a sorcery. => You have ward {X}, where X is the number of counters you have.
+Each permanent you control has ward {X}, where X is the number of counters on that permanent.
+{T}: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 No changes.

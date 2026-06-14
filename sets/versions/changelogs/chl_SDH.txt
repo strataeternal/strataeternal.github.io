@@ -1,4 +1,46 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Dictate of Heliod added.
+Dictate of Karametra added.
+Dictate of Kruphix added.
+Dictate of the Twin Gods added.
+
+
+Call of the Warhorn
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+I, II, III, IV, V — Create a 1/1 white Viking creature token.
+Creatures you control get +1/+1 and gain vigilance until end of turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+I, II, III, IV — Create a 1/1 white Viking creature token.
+V — Creatures you control get +1/+1 and gain vigilance until end of turn.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+I, II, III, IV, V — Create a 1/1 white Viking creature token.
+Creatures you control get +1/+1 and gain vigilance until end of turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+I, II, III, IV — Create a 1/1 white Viking creature token.
+V — Creatures you control get +1/+1 and gain vigilance until end of turn.
+​
+
+Divine Aspirant
+rules_text: This Saga can't have lore counters put on it unless you control a commander creature.
+You gain life equal to the number of lore counters on this Saga. If you gained 3 or more life this way, also draw a card. If you gained 6 or more life this way, also put your choice of a flying, first strike, or lifelink counter on a commander creature you control.
+ Put nine +1/+1 counters and an indestructible counter on a commander creature you control. It becomes a God in addition to its other types.
+​ => This Saga can't have lore counters put on it unless you control a commander creature.
+I, II, III, IV, V, VI, VII, VIII — You gain life equal to the number of lore counters on this Saga. If you gained 3 or more life this way, also draw a card. If you gained 6 or more life this way, also put your choice of a flying, first strike, or lifelink counter on a commander creature you control.
+VIII — Put nine +1/+1 counters and an indestructible counter on a commander creature you control. It becomes a God in addition to its other types.
+​
+special_text: This Saga can't have lore counters put on it unless you control a commander creature.
+You gain life equal to the number of lore counters on this Saga. If you gained 3 or more life this way, also draw a card. If you gained 6 or more life this way, also put your choice of a flying, first strike, or lifelink counter on a commander creature you control.
+ Put nine +1/+1 counters and an indestructible counter on a commander creature you control. It becomes a God in addition to its other types.
+​ => This Saga can't have lore counters put on it unless you control a commander creature.
+I, II, III, IV, V, VI, VII, VIII — You gain life equal to the number of lore counters on this Saga. If you gained 3 or more life this way, also draw a card. If you gained 6 or more life this way, also put your choice of a flying, first strike, or lifelink counter on a commander creature you control.
+VIII — Put nine +1/+1 counters and an indestructible counter on a commander creature you control. It becomes a God in addition to its other types.
+​
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Castle Embereth added.

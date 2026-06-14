@@ -1,4 +1,125 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Castle Embereth added.
+Castle Garenbrig added.
+Castle Vantress added.
+Temple of Deceit added.
+Temple of Enlightenment added.
+Temple of Epiphany added.
+Temple of Malady added.
+Temple of Malice added.
+Temple of Mystery added.
+Temple of Silence added.
+Temple of Triumph added.
+
+
+Trial of Oko
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Exile target nontoken creature an opponent controls until this Saga leaves the battlefield.
+Starting with you, each player votes for innocent or guilty. If guilty gets more votes, the owner of each card exiled with this Saga puts that card on the bottom of their library.
+[i]Citizens came from all of Culdona to learn the fate of the traitor.[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II, III — Exile target nontoken creature an opponent controls until this Saga leaves the battlefield.
+IV — Starting with you, each player votes for innocent or guilty. If guilty gets more votes, the owner of each card exiled with this Saga puts that card on the bottom of their library.
+[i]Citizens came from all of Culdona to learn the fate of the traitor.[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Exile target nontoken creature an opponent controls until this Saga leaves the battlefield.
+Starting with you, each player votes for innocent or guilty. If guilty gets more votes, the owner of each card exiled with this Saga puts that card on the bottom of their library.
+[i]Citizens came from all of Culdona to learn the fate of the traitor.[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II, III — Exile target nontoken creature an opponent controls until this Saga leaves the battlefield.
+IV — Starting with you, each player votes for innocent or guilty. If guilty gets more votes, the owner of each card exiled with this Saga puts that card on the bottom of their library.
+[i]Citizens came from all of Culdona to learn the fate of the traitor.[/i]
+
+Call of the Warhorn
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+I, II, III, IV — Create a 1/1 white Viking creature token.
+V — Creatures you control get +1/+1 and gain vigilance until end of turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+I, II, III, IV, V — Create a 1/1 white Viking creature token.
+Creatures you control get +1/+1 and gain vigilance until end of turn.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+I, II, III, IV — Create a 1/1 white Viking creature token.
+V — Creatures you control get +1/+1 and gain vigilance until end of turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+I, II, III, IV, V — Create a 1/1 white Viking creature token.
+Creatures you control get +1/+1 and gain vigilance until end of turn.
+​
+
+Divine Aspirant
+rules_text: This Saga can't have lore counters put on it unless you control a commander creature.
+I, II, III, IV, V, VI, VII, VIII — You gain life equal to the number of lore counters on this Saga. If you gained 3 or more life this way, also draw a card. If you gained 6 or more life this way, also put your choice of a flying, first strike, or lifelink counter on a commander creature you control.
+VIII — Put nine +1/+1 counters and an indestructible counter on a commander creature you control. It becomes a God in addition to its other types.
+​ => This Saga can't have lore counters put on it unless you control a commander creature.
+You gain life equal to the number of lore counters on this Saga. If you gained 3 or more life this way, also draw a card. If you gained 6 or more life this way, also put your choice of a flying, first strike, or lifelink counter on a commander creature you control.
+ Put nine +1/+1 counters and an indestructible counter on a commander creature you control. It becomes a God in addition to its other types.
+​
+special_text: This Saga can't have lore counters put on it unless you control a commander creature.
+I, II, III, IV, V, VI, VII, VIII — You gain life equal to the number of lore counters on this Saga. If you gained 3 or more life this way, also draw a card. If you gained 6 or more life this way, also put your choice of a flying, first strike, or lifelink counter on a commander creature you control.
+VIII — Put nine +1/+1 counters and an indestructible counter on a commander creature you control. It becomes a God in addition to its other types.
+​ => This Saga can't have lore counters put on it unless you control a commander creature.
+You gain life equal to the number of lore counters on this Saga. If you gained 3 or more life this way, also draw a card. If you gained 6 or more life this way, also put your choice of a flying, first strike, or lifelink counter on a commander creature you control.
+ Put nine +1/+1 counters and an indestructible counter on a commander creature you control. It becomes a God in addition to its other types.
+​
+
+Spider Umbra
+rules_text: Enchant creature
+Enchanted creature has +1/+1 and has reach.
+Totem armor [i](If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)[/i] => Enchant creature
+Enchanted creature has +1/+1 and has reach.
+Totem armor [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)[/i]
+
+Season of Loss
+rules_text: Choose up to five {paw.png} worth of modes. You may choose the same mode more than once.
+{paw.png} — Each player sacrifices a creature of their choice.
+{paw.png}{paw.png} — Draw a card for each creature that died under your control this turn.
+{paw.png}{paw.png}{paw.png} — Each opponent loses X life, where X is the number of creature cards in your graveyard. => Choose up to five {V} worth of modes. You may choose the same mode more than once.
+{V} — Each player sacrifices a creature of their choice.
+{V}{V} — Draw a card for each creature that died under your control this turn.
+{V}{V}{V} — Each opponent loses X life, where X is the number of creature cards in your graveyard.
+
+Disciple of Freyalise
+
+Turntimber Symbiosis
+
+Season of Gathering
+rules_text: Choose up to five {paw.png} worth of modes. You may choose the same mode more than once.
+{paw.png} — Put a +1/+1 counter on a creature you control. It gains vigilance and trample until end of turn.
+{paw.png}{paw.png} — Choose artifact or enchantment. Destroy all permanents of the chosen type.
+{paw.png}{paw.png}{paw.png} — Draw cards equal to the greatest power among creatures you control. => Choose up to five {V} worth of modes. You may choose the same mode more than once.
+{V} — Put a +1/+1 counter on a creature you control. It gains vigilance and trample until end of turn.
+{V}{V} — Choose artifact or enchantment. Destroy all permanents of the chosen type.
+{V}{V}{V} — Draw cards equal to the greatest power among creatures you control.
+
+Season of Weaving
+rules_text: Choose up to five {paw.png} worth of modes. You may choose the same mode more than once.
+{paw.png} — Draw a card.
+{paw.png}{paw.png} — Choose an artifact or creature you control. Create a token that's a copy of it.
+{paw.png}{paw.png}{paw.png} — Return each nonland, nontoken permanent to its owner's hand. => Choose up to five {V} worth of modes. You may choose the same mode more than once.
+{V} — Draw a card.
+{V}{V} — Choose an artifact or creature you control. Create a token that's a copy of it.
+{V}{V}{V} — Return each nonland, nontoken permanent to its owner's hand.
+
+Season of the Bold
+rules_text: Choose up to five {paw.png} worth of modes. You may choose the same mode more than once.
+{paw.png} — Create a tapped Treasure token.
+{paw.png}{paw.png} — Exile the top two cards of your library. Until the end of your next turn, you may play them.
+{paw.png}{paw.png}{paw.png} — Until the end of your next turn, whenever you cast a spell, Season of the Bold deals 2 damage to up to one target creature. => Choose up to five {V} worth of modes. You may choose the same mode more than once.
+{V} — Create a tapped Treasure token.
+{V}{V} — Exile the top two cards of your library. Until the end of your next turn, you may play them.
+{V}{V}{V} — Until the end of your next turn, whenever you cast a spell, Season of the Bold deals 2 damage to up to one target creature.
+
+Season of the Burrow
+rules_text: Choose up to five {paw.png} worth of modes. You may choose the same mode more than once.
+{paw.png} — Create a 1/1 white Rabbit creature token.
+{paw.png}{paw.png} — Exile target nonland permanent. Its controller draws a card.
+{paw.png}{paw.png}{paw.png} — Return target permanent card with mana value 3 or less from your graveyard to the battlefield with an indestructible counter on it. => Choose up to five {V} worth of modes. You may choose the same mode more than once.
+{V} — Create a 1/1 white Rabbit creature token.
+{V}{V} — Exile target nonland permanent. Its controller draws a card.
+{V}{V}{V} — Return target permanent card with mana value 3 or less from your graveyard to the battlefield with an indestructible counter on it.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

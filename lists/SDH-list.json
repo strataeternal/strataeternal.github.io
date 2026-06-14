@@ -194,7 +194,7 @@
     {
         "card_name": "Turntimber Symbiosis",
         "number": 601,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "SDH",
         "rotated": false,
         "position": "859"
@@ -2834,7 +2834,7 @@
     {
         "card_name": "Disciple of Freyalise",
         "number": 544,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "SDH",
         "rotated": false,
         "position": "858"
@@ -8037,12 +8037,12 @@
         "position": "401"
     },
     {
-        "card_name": "Magosi, the Waterveil",
-        "number": 916,
+        "card_name": "Castle Vantress",
+        "number": 851,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
-        "position": "908"
+        "position": "1009"
     },
     {
         "card_name": "Cabal Stronghold",
@@ -8053,8 +8053,48 @@
         "position": "624"
     },
     {
+        "card_name": "Castle Embereth",
+        "number": 848,
+        "shape": "normal",
+        "set": "SDH",
+        "rotated": false,
+        "position": "1007"
+    },
+    {
+        "card_name": "Castle Garenbrig",
+        "number": 849,
+        "shape": "normal",
+        "set": "SDH",
+        "rotated": false,
+        "position": "1008"
+    },
+    {
+        "card_name": "Contested Highlands",
+        "number": 861,
+        "shape": "normal",
+        "set": "SDH",
+        "rotated": false,
+        "position": "68"
+    },
+    {
+        "card_name": "Magosi, the Waterveil",
+        "number": 919,
+        "shape": "normal",
+        "set": "SDH",
+        "rotated": false,
+        "position": "908"
+    },
+    {
+        "card_name": "Castle Locthwain",
+        "number": 850,
+        "shape": "normal",
+        "set": "SDH",
+        "rotated": false,
+        "position": "625"
+    },
+    {
         "card_name": "Colosseum of Glory",
-        "number": 853,
+        "number": 856,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8062,39 +8102,39 @@
     },
     {
         "card_name": "Mosswort Bridge",
-        "number": 926,
+        "number": 929,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
         "position": "944"
     },
     {
-        "card_name": "Contested Highlands",
-        "number": 858,
+        "card_name": "Emeria, the Sky Ruin",
+        "number": 884,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
-        "position": "68"
+        "position": "405"
     },
     {
         "card_name": "Riptide Laboratory",
-        "number": 956,
+        "number": 959,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
         "position": "147"
     },
     {
-        "card_name": "Castle Locthwain",
-        "number": 848,
+        "card_name": "Crypt of Agadeem",
+        "number": 866,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
-        "position": "625"
+        "position": "909"
     },
     {
         "card_name": "Echoing Cavity",
-        "number": 877,
+        "number": 880,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8102,39 +8142,39 @@
     },
     {
         "card_name": "Oran-Rief, the Vastwood",
-        "number": 933,
+        "number": 936,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
         "position": "911"
     },
     {
-        "card_name": "Emeria, the Sky Ruin",
-        "number": 881,
+        "card_name": "Plentiful Prairie",
+        "number": 940,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
-        "position": "405"
+        "position": "476"
     },
     {
         "card_name": "Shelldock Isle",
-        "number": 968,
+        "number": 971,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
         "position": "193"
     },
     {
-        "card_name": "Crypt of Agadeem",
-        "number": 863,
+        "card_name": "Howltooth Hollow",
+        "number": 910,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
-        "position": "909"
+        "position": "943"
     },
     {
         "card_name": "Spinerock Knoll",
-        "number": 977,
+        "number": 980,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8142,19 +8182,19 @@
     },
     {
         "card_name": "Tangled Bracken",
-        "number": 986,
+        "number": 989,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
         "position": "77"
     },
     {
-        "card_name": "Plentiful Prairie",
-        "number": 937,
+        "card_name": "Windbrisk Heights",
+        "number": 1017,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
-        "position": "476"
+        "position": "409"
     },
     {
         "card_name": "Blighted Cataract",
@@ -8165,16 +8205,16 @@
         "position": "1005"
     },
     {
-        "card_name": "Howltooth Hollow",
-        "number": 907,
+        "card_name": "Spymaster's Vault",
+        "number": 981,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
-        "position": "943"
+        "position": "632"
     },
     {
         "card_name": "Valakut, the Molten Pinnacle",
-        "number": 1000,
+        "number": 1011,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8182,35 +8222,35 @@
     },
     {
         "card_name": "Memorial to Unity",
-        "number": 921,
+        "number": 924,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
         "position": "916"
     },
     {
-        "card_name": "Windbrisk Heights",
-        "number": 1006,
+        "card_name": "Blighted Steppe",
+        "number": 836,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
-        "position": "409"
+        "position": "400"
     },
     {
         "card_name": "Frozen Peak",
-        "number": 893,
+        "number": 896,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
         "position": "329"
     },
     {
-        "card_name": "Spymaster's Vault",
-        "number": 978,
+        "card_name": "Tomb Fortress",
+        "number": 1007,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
-        "position": "632"
+        "position": "633"
     },
     {
         "card_name": "Blighted Gorge",
@@ -8222,67 +8262,27 @@
     },
     {
         "card_name": "Desert of the Indomitable",
-        "number": 870,
+        "number": 873,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
         "position": "906"
     },
     {
-        "card_name": "Blighted Steppe",
-        "number": 836,
-        "shape": "normal",
-        "set": "SDH",
-        "rotated": false,
-        "position": "400"
-    },
-    {
-        "card_name": "Memorial to Genius",
-        "number": 919,
-        "shape": "normal",
-        "set": "SDH",
-        "rotated": false,
-        "position": "915"
-    },
-    {
-        "card_name": "Tomb Fortress",
-        "number": 996,
-        "shape": "normal",
-        "set": "SDH",
-        "rotated": false,
-        "position": "633"
-    },
-    {
-        "card_name": "Memorial to War",
-        "number": 922,
-        "shape": "normal",
-        "set": "SDH",
-        "rotated": false,
-        "position": "917"
-    },
-    {
-        "card_name": "Hidden Nursery",
-        "number": 905,
-        "shape": "normal",
-        "set": "SDH",
-        "rotated": false,
-        "position": "913"
-    },
-    {
         "card_name": "Memorial to Glory",
-        "number": 920,
+        "number": 923,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
         "position": "408"
     },
     {
-        "card_name": "Desert of the Mindful",
-        "number": 871,
+        "card_name": "Memorial to Genius",
+        "number": 922,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
-        "position": "904"
+        "position": "915"
     },
     {
         "card_name": "Blighted Fen",
@@ -8293,8 +8293,48 @@
         "position": "622"
     },
     {
+        "card_name": "Memorial to War",
+        "number": 925,
+        "shape": "normal",
+        "set": "SDH",
+        "rotated": false,
+        "position": "917"
+    },
+    {
+        "card_name": "Hidden Nursery",
+        "number": 908,
+        "shape": "normal",
+        "set": "SDH",
+        "rotated": false,
+        "position": "913"
+    },
+    {
+        "card_name": "Desert of the True",
+        "number": 875,
+        "shape": "normal",
+        "set": "SDH",
+        "rotated": false,
+        "position": "403"
+    },
+    {
+        "card_name": "Desert of the Mindful",
+        "number": 874,
+        "shape": "normal",
+        "set": "SDH",
+        "rotated": false,
+        "position": "904"
+    },
+    {
+        "card_name": "Memorial to Folly",
+        "number": 921,
+        "shape": "normal",
+        "set": "SDH",
+        "rotated": false,
+        "position": "628"
+    },
+    {
         "card_name": "Molten Depths",
-        "number": 923,
+        "number": 926,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8302,67 +8342,27 @@
     },
     {
         "card_name": "Slippery Karst",
-        "number": 973,
+        "number": 976,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
         "position": "74"
     },
     {
-        "card_name": "Desert of the True",
-        "number": 872,
-        "shape": "normal",
-        "set": "SDH",
-        "rotated": false,
-        "position": "403"
-    },
-    {
-        "card_name": "Hidden Cataract",
-        "number": 902,
-        "shape": "normal",
-        "set": "SDH",
-        "rotated": false,
-        "position": "912"
-    },
-    {
-        "card_name": "Memorial to Folly",
-        "number": 918,
-        "shape": "normal",
-        "set": "SDH",
-        "rotated": false,
-        "position": "628"
-    },
-    {
-        "card_name": "Desert of the Fervent",
-        "number": 868,
-        "shape": "normal",
-        "set": "SDH",
-        "rotated": false,
-        "position": "905"
-    },
-    {
-        "card_name": "Thriving Grove",
-        "number": 990,
-        "shape": "normal",
-        "set": "SDH",
-        "rotated": false,
-        "position": "194"
-    },
-    {
         "card_name": "Drifting Meadow",
-        "number": 875,
+        "number": 878,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
         "position": "404"
     },
     {
-        "card_name": "Lonely Sandbar",
-        "number": 915,
+        "card_name": "Hidden Cataract",
+        "number": 905,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
-        "position": "330"
+        "position": "912"
     },
     {
         "card_name": "Barren Moor",
@@ -8373,36 +8373,36 @@
         "position": "621"
     },
     {
-        "card_name": "Dwarven Mine",
-        "number": 876,
+        "card_name": "Desert of the Fervent",
+        "number": 871,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
-        "position": "548"
+        "position": "905"
     },
     {
-        "card_name": "Tranquil Thicket",
-        "number": 997,
+        "card_name": "Thriving Grove",
+        "number": 1001,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
-        "position": "79"
+        "position": "194"
     },
     {
         "card_name": "Hidden Courtyard",
-        "number": 903,
+        "number": 906,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
         "position": "407"
     },
     {
-        "card_name": "Remote Isle",
-        "number": 945,
+        "card_name": "Lonely Sandbar",
+        "number": 918,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
-        "position": "907"
+        "position": "330"
     },
     {
         "card_name": "Bojuka Bog",
@@ -8413,8 +8413,48 @@
         "position": "623"
     },
     {
+        "card_name": "Dwarven Mine",
+        "number": 879,
+        "shape": "normal",
+        "set": "SDH",
+        "rotated": false,
+        "position": "548"
+    },
+    {
+        "card_name": "Tranquil Thicket",
+        "number": 1008,
+        "shape": "normal",
+        "set": "SDH",
+        "rotated": false,
+        "position": "79"
+    },
+    {
+        "card_name": "Idyllic Grange",
+        "number": 911,
+        "shape": "normal",
+        "set": "SDH",
+        "rotated": false,
+        "position": "70"
+    },
+    {
+        "card_name": "Remote Isle",
+        "number": 948,
+        "shape": "normal",
+        "set": "SDH",
+        "rotated": false,
+        "position": "907"
+    },
+    {
+        "card_name": "Desert of the Glorified",
+        "number": 872,
+        "shape": "normal",
+        "set": "SDH",
+        "rotated": false,
+        "position": "626"
+    },
+    {
         "card_name": "Forgotten Cave",
-        "number": 888,
+        "number": 891,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8424,32 +8464,32 @@
         "card_name": "e"
     },
     {
-        "card_name": "Idyllic Grange",
-        "number": 908,
+        "card_name": "Secluded Steppe",
+        "number": 967,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
-        "position": "70"
+        "position": "478"
     },
     {
         "card_name": "Thriving Isle",
-        "number": 992,
+        "number": 1003,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
         "position": "151"
     },
     {
-        "card_name": "Desert of the Glorified",
-        "number": 869,
+        "card_name": "Hidden Necropolis",
+        "number": 907,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
-        "position": "626"
+        "position": "627"
     },
     {
         "card_name": "Hidden Volcano",
-        "number": 906,
+        "number": 909,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8459,38 +8499,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Secluded Steppe",
-        "number": 964,
-        "shape": "normal",
-        "set": "SDH",
-        "rotated": false,
-        "position": "478"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Hidden Necropolis",
-        "number": 904,
-        "shape": "normal",
-        "set": "SDH",
-        "rotated": false,
-        "position": "627"
-    },
-    {
-        "card_name": "Smoldering Crater",
-        "number": 974,
-        "shape": "normal",
-        "set": "SDH",
-        "rotated": false,
-        "position": "555"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "Thriving Heath",
-        "number": 991,
+        "number": 1002,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8501,19 +8511,19 @@
     },
     {
         "card_name": "Polluted Mire",
-        "number": 938,
+        "number": 941,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
         "position": "631"
     },
     {
-        "card_name": "Thriving Bluff",
-        "number": 989,
+        "card_name": "Smoldering Crater",
+        "number": 977,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
-        "position": "150"
+        "position": "555"
     },
     {
         "card_name": "e"
@@ -8526,14 +8536,19 @@
     },
     {
         "card_name": "Thriving Moor",
-        "number": 993,
+        "number": 1004,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
         "position": "152"
     },
     {
-        "card_name": "e"
+        "card_name": "Thriving Bluff",
+        "number": 1000,
+        "shape": "normal",
+        "set": "SDH",
+        "rotated": false,
+        "position": "150"
     },
     {
         "card_name": "e"
@@ -8555,7 +8570,7 @@
     },
     {
         "card_name": "Irrigated Farmland",
-        "number": 910,
+        "number": 913,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8563,7 +8578,7 @@
     },
     {
         "card_name": "Choked Estuary",
-        "number": 849,
+        "number": 852,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8579,7 +8594,7 @@
     },
     {
         "card_name": "Cinder Glade",
-        "number": 851,
+        "number": 854,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8595,7 +8610,7 @@
     },
     {
         "card_name": "Port Town",
-        "number": 939,
+        "number": 942,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8603,7 +8618,7 @@
     },
     {
         "card_name": "Darkwater Catacombs",
-        "number": 865,
+        "number": 868,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8619,7 +8634,7 @@
     },
     {
         "card_name": "Game Trail",
-        "number": 895,
+        "number": 898,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8627,7 +8642,7 @@
     },
     {
         "card_name": "Fortified Village",
-        "number": 889,
+        "number": 892,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8635,7 +8650,7 @@
     },
     {
         "card_name": "Prairie Stream",
-        "number": 940,
+        "number": 943,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8643,7 +8658,7 @@
     },
     {
         "card_name": "Edge of Nothingness",
-        "number": 880,
+        "number": 883,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8651,7 +8666,7 @@
     },
     {
         "card_name": "Foreboding Ruins",
-        "number": 887,
+        "number": 890,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8659,7 +8674,7 @@
     },
     {
         "card_name": "Kessig Wolf Run",
-        "number": 913,
+        "number": 916,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8667,7 +8682,7 @@
     },
     {
         "card_name": "Ochre Vista",
-        "number": 931,
+        "number": 934,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8675,7 +8690,7 @@
     },
     {
         "card_name": "Remnant of Civility",
-        "number": 944,
+        "number": 947,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8683,7 +8698,7 @@
     },
     {
         "card_name": "Fetid Pools",
-        "number": 885,
+        "number": 888,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8691,7 +8706,7 @@
     },
     {
         "card_name": "Restless Vents",
-        "number": 954,
+        "number": 957,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8699,7 +8714,7 @@
     },
     {
         "card_name": "Mossfire Valley",
-        "number": 925,
+        "number": 928,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8707,7 +8722,7 @@
     },
     {
         "card_name": "Restless Prairie",
-        "number": 950,
+        "number": 953,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8715,7 +8730,7 @@
     },
     {
         "card_name": "Restless Anchorage",
-        "number": 946,
+        "number": 949,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8723,7 +8738,7 @@
     },
     {
         "card_name": "Restless Reef",
-        "number": 951,
+        "number": 954,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8731,7 +8746,7 @@
     },
     {
         "card_name": "Shadowblood Ridge",
-        "number": 966,
+        "number": 969,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8739,7 +8754,7 @@
     },
     {
         "card_name": "Restless Ridgeline",
-        "number": 952,
+        "number": 955,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8747,7 +8762,7 @@
     },
     {
         "card_name": "Scattered Groves",
-        "number": 961,
+        "number": 964,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8755,7 +8770,7 @@
     },
     {
         "card_name": "Skycloud Expanse",
-        "number": 972,
+        "number": 975,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8763,7 +8778,7 @@
     },
     {
         "card_name": "Sunken Hollow",
-        "number": 981,
+        "number": 984,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8771,7 +8786,7 @@
     },
     {
         "card_name": "Smoldering Marsh",
-        "number": 975,
+        "number": 978,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8779,7 +8794,7 @@
     },
     {
         "card_name": "Sheltered Thicket",
-        "number": 969,
+        "number": 972,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8787,39 +8802,39 @@
     },
     {
         "card_name": "Sungrass Prairie",
-        "number": 980,
+        "number": 983,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
         "position": "75"
     },
     {
-        "card_name": "Frozen Archway",
-        "number": 892,
+        "card_name": "Temple of Enlightenment",
+        "number": 992,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
-        "position": "885"
+        "position": "1011"
     },
     {
-        "card_name": "Starkissed Bay",
-        "number": 979,
+        "card_name": "Temple of Deceit",
+        "number": 991,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
-        "position": "886"
+        "position": "1010"
     },
     {
-        "card_name": "Contorted Valley",
-        "number": 859,
+        "card_name": "Temple of Malice",
+        "number": 995,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
-        "position": "887"
+        "position": "1014"
     },
     {
         "card_name": "Temple of Abandon",
-        "number": 987,
+        "number": 990,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8827,34 +8842,39 @@
     },
     {
         "card_name": "Temple of Plenty",
-        "number": 988,
+        "number": 997,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
         "position": "78"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Contaminated Aquifer",
-        "number": 856,
+        "card_name": "Frozen Archway",
+        "number": 895,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
-        "position": "970"
+        "position": "885"
     },
     {
-        "card_name": "Geothermal Bog",
-        "number": 897,
+        "card_name": "Starkissed Bay",
+        "number": 982,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
-        "position": "971"
+        "position": "886"
+    },
+    {
+        "card_name": "Contorted Valley",
+        "number": 862,
+        "shape": "normal",
+        "set": "SDH",
+        "rotated": false,
+        "position": "887"
     },
     {
         "card_name": "Vantage Refinery",
-        "number": 1001,
+        "number": 1012,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8862,7 +8882,7 @@
     },
     {
         "card_name": "Roosted Outlook",
-        "number": 957,
+        "number": 960,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8872,10 +8892,20 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Contaminated Aquifer",
+        "number": 859,
+        "shape": "normal",
+        "set": "SDH",
+        "rotated": false,
+        "position": "970"
     },
     {
-        "card_name": "e"
+        "card_name": "Geothermal Bog",
+        "number": 900,
+        "shape": "normal",
+        "set": "SDH",
+        "rotated": false,
+        "position": "971"
     },
     {
         "card_name": "Bustling Uplands",
@@ -8887,7 +8917,7 @@
     },
     {
         "card_name": "Sunpetal Grove",
-        "number": 983,
+        "number": 986,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8904,7 +8934,7 @@
     },
     {
         "card_name": "Rootbound Crag",
-        "number": 958,
+        "number": 961,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8929,7 +8959,7 @@
     },
     {
         "card_name": "Rugged Highlands",
-        "number": 959,
+        "number": 962,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8949,7 +8979,7 @@
     },
     {
         "card_name": "Wooded Ridgeline",
-        "number": 1007,
+        "number": 1018,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8975,7 +9005,7 @@
     },
     {
         "card_name": "Council's Courtroom",
-        "number": 860,
+        "number": 863,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8983,7 +9013,7 @@
     },
     {
         "card_name": "Coastal Peak",
-        "number": 852,
+        "number": 855,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8991,7 +9021,7 @@
     },
     {
         "card_name": "Pungent Meadow",
-        "number": 941,
+        "number": 944,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -8999,7 +9029,7 @@
     },
     {
         "card_name": "Furycalm Snarl",
-        "number": 894,
+        "number": 897,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9015,7 +9045,7 @@
     },
     {
         "card_name": "Crushing Emptiness",
-        "number": 862,
+        "number": 865,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9023,7 +9053,7 @@
     },
     {
         "card_name": "Ferrous Lake",
-        "number": 884,
+        "number": 887,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9031,7 +9061,7 @@
     },
     {
         "card_name": "Restless Cottage",
-        "number": 948,
+        "number": 951,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9039,7 +9069,7 @@
     },
     {
         "card_name": "Glittering Massif",
-        "number": 898,
+        "number": 901,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9047,7 +9077,7 @@
     },
     {
         "card_name": "Overflowing Basin",
-        "number": 934,
+        "number": 937,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9055,7 +9085,7 @@
     },
     {
         "card_name": "Desolate Mire",
-        "number": 873,
+        "number": 876,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9063,23 +9093,23 @@
     },
     {
         "card_name": "Frostboil Snarl",
-        "number": 891,
+        "number": 894,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
         "position": "829"
     },
     {
-        "card_name": "Viridescent Bog",
-        "number": 1003,
+        "card_name": "Temple of Malady",
+        "number": 994,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
-        "position": "924"
+        "position": "1013"
     },
     {
         "card_name": "Radiant Summit",
-        "number": 942,
+        "number": 945,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9087,7 +9117,7 @@
     },
     {
         "card_name": "Rain-Slicked Copse",
-        "number": 943,
+        "number": 946,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9095,7 +9125,7 @@
     },
     {
         "card_name": "Eclipsed Steppe",
-        "number": 879,
+        "number": 882,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9103,23 +9133,23 @@
     },
     {
         "card_name": "Restless Spire",
-        "number": 953,
+        "number": 956,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
         "position": "940"
     },
     {
-        "card_name": "Decaying Nest",
-        "number": 866,
+        "card_name": "Viridescent Bog",
+        "number": 1014,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
-        "position": "888"
+        "position": "924"
     },
     {
         "card_name": "Restless Bivouac",
-        "number": 947,
+        "number": 950,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9127,7 +9157,7 @@
     },
     {
         "card_name": "Restless Vinestalk",
-        "number": 955,
+        "number": 958,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9135,7 +9165,7 @@
     },
     {
         "card_name": "Restless Fortress",
-        "number": 949,
+        "number": 952,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9143,23 +9173,23 @@
     },
     {
         "card_name": "Scorched Geyser",
-        "number": 962,
+        "number": 965,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
         "position": "143"
     },
     {
-        "card_name": "Haunted Mire",
-        "number": 901,
+        "card_name": "Decaying Nest",
+        "number": 869,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
-        "position": "975"
+        "position": "888"
     },
     {
         "card_name": "Sunscorched Divide",
-        "number": 984,
+        "number": 987,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9167,7 +9197,7 @@
     },
     {
         "card_name": "Sodden Verdure",
-        "number": 976,
+        "number": 979,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9175,15 +9205,55 @@
     },
     {
         "card_name": "Shineshadow Snarl",
-        "number": 971,
+        "number": 974,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
         "position": "261"
     },
     {
+        "card_name": "Temple of Epiphany",
+        "number": 993,
+        "shape": "normal",
+        "set": "SDH",
+        "rotated": false,
+        "position": "1012"
+    },
+    {
+        "card_name": "Haunted Mire",
+        "number": 904,
+        "shape": "normal",
+        "set": "SDH",
+        "rotated": false,
+        "position": "975"
+    },
+    {
+        "card_name": "Temple of Triumph",
+        "number": 999,
+        "shape": "normal",
+        "set": "SDH",
+        "rotated": false,
+        "position": "1017"
+    },
+    {
+        "card_name": "Temple of Mystery",
+        "number": 996,
+        "shape": "normal",
+        "set": "SDH",
+        "rotated": false,
+        "position": "1015"
+    },
+    {
+        "card_name": "Temple of Silence",
+        "number": 998,
+        "shape": "normal",
+        "set": "SDH",
+        "rotated": false,
+        "position": "1016"
+    },
+    {
         "card_name": "Tidal Vertex",
-        "number": 995,
+        "number": 1006,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9194,7 +9264,7 @@
     },
     {
         "card_name": "Welcoming Kitchen",
-        "number": 1005,
+        "number": 1016,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9202,7 +9272,7 @@
     },
     {
         "card_name": "Vineglimmer Snarl",
-        "number": 1002,
+        "number": 1013,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9210,7 +9280,7 @@
     },
     {
         "card_name": "Umbral Expanse",
-        "number": 999,
+        "number": 1010,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9218,7 +9288,7 @@
     },
     {
         "card_name": "Pelton Underpass",
-        "number": 935,
+        "number": 938,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9229,7 +9299,7 @@
     },
     {
         "card_name": "Crystaline Attrium",
-        "number": 864,
+        "number": 867,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9237,7 +9307,7 @@
     },
     {
         "card_name": "Surreal Glade",
-        "number": 985,
+        "number": 988,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9245,7 +9315,7 @@
     },
     {
         "card_name": "Hallowed Hall",
-        "number": 900,
+        "number": 903,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9253,7 +9323,7 @@
     },
     {
         "card_name": "Molten Tributary",
-        "number": 924,
+        "number": 927,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9264,7 +9334,7 @@
     },
     {
         "card_name": "Sacred Peaks",
-        "number": 960,
+        "number": 963,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9275,7 +9345,7 @@
     },
     {
         "card_name": "Sunlit Marsh",
-        "number": 982,
+        "number": 985,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9342,7 +9412,7 @@
     },
     {
         "card_name": "Chromatic Expanse",
-        "number": 850,
+        "number": 853,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9350,7 +9420,7 @@
     },
     {
         "card_name": "Command Beacon",
-        "number": 854,
+        "number": 857,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9358,7 +9428,7 @@
     },
     {
         "card_name": "Communal Crossing",
-        "number": 855,
+        "number": 858,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9366,7 +9436,7 @@
     },
     {
         "card_name": "Drannith Ruins",
-        "number": 874,
+        "number": 877,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9374,7 +9444,7 @@
     },
     {
         "card_name": "Echoing Deeps",
-        "number": 878,
+        "number": 881,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9382,7 +9452,7 @@
     },
     {
         "card_name": "Exotic Orchard",
-        "number": 883,
+        "number": 886,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9390,7 +9460,7 @@
     },
     {
         "card_name": "Fountainport",
-        "number": 890,
+        "number": 893,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9398,7 +9468,7 @@
     },
     {
         "card_name": "Geier Reach Sanitarium",
-        "number": 896,
+        "number": 899,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9406,7 +9476,7 @@
     },
     {
         "card_name": "Inventor's Fair",
-        "number": 909,
+        "number": 912,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9414,7 +9484,7 @@
     },
     {
         "card_name": "Nesting Grounds",
-        "number": 929,
+        "number": 932,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9422,7 +9492,7 @@
     },
     {
         "card_name": "Throne of the High City",
-        "number": 994,
+        "number": 1005,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9430,7 +9500,7 @@
     },
     {
         "card_name": "Warhull Ridge",
-        "number": 1004,
+        "number": 1015,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9446,7 +9516,7 @@
     },
     {
         "card_name": "Crumbling Necropolis",
-        "number": 861,
+        "number": 864,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9454,7 +9524,7 @@
     },
     {
         "card_name": "Jungle Shrine",
-        "number": 912,
+        "number": 915,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9462,7 +9532,7 @@
     },
     {
         "card_name": "Krosan Verge",
-        "number": 914,
+        "number": 917,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9470,7 +9540,7 @@
     },
     {
         "card_name": "Mech Hangar",
-        "number": 917,
+        "number": 920,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9478,7 +9548,7 @@
     },
     {
         "card_name": "Myriad Landscape",
-        "number": 927,
+        "number": 930,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9486,7 +9556,7 @@
     },
     {
         "card_name": "Nomad Outpost",
-        "number": 930,
+        "number": 933,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9494,7 +9564,7 @@
     },
     {
         "card_name": "Seaside Citadel",
-        "number": 963,
+        "number": 966,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9510,7 +9580,7 @@
     },
     {
         "card_name": "Contaminated Landscape",
-        "number": 857,
+        "number": 860,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9518,7 +9588,7 @@
     },
     {
         "card_name": "Deceptive Landscape",
-        "number": 867,
+        "number": 870,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9526,7 +9596,7 @@
     },
     {
         "card_name": "Esper Panorama",
-        "number": 882,
+        "number": 885,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9534,7 +9604,7 @@
     },
     {
         "card_name": "Foreboding Landscape",
-        "number": 886,
+        "number": 889,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9542,7 +9612,7 @@
     },
     {
         "card_name": "Grixis Panorama",
-        "number": 899,
+        "number": 902,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9550,7 +9620,7 @@
     },
     {
         "card_name": "Jund Panorama",
-        "number": 911,
+        "number": 914,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9558,7 +9628,7 @@
     },
     {
         "card_name": "Naya Panorama",
-        "number": 928,
+        "number": 931,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9566,7 +9636,7 @@
     },
     {
         "card_name": "Opal Palace",
-        "number": 932,
+        "number": 935,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9574,7 +9644,7 @@
     },
     {
         "card_name": "Perilous Landscape",
-        "number": 936,
+        "number": 939,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9582,7 +9652,7 @@
     },
     {
         "card_name": "Seething Landscape",
-        "number": 965,
+        "number": 968,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9590,7 +9660,7 @@
     },
     {
         "card_name": "Shattered Landscape",
-        "number": 967,
+        "number": 970,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9598,7 +9668,7 @@
     },
     {
         "card_name": "Sheltering Landscape",
-        "number": 970,
+        "number": 973,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,
@@ -9606,7 +9676,7 @@
     },
     {
         "card_name": "Twisted Landscape",
-        "number": 998,
+        "number": 1009,
         "shape": "normal",
         "set": "SDH",
         "rotated": false,

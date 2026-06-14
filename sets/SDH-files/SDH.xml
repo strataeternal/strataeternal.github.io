@@ -5,7 +5,7 @@
 			<name>SDH</name>
 			<longname>Strata Commander</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-13</releasedate>
+			<releasedate>2026-06-14</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -533,8 +533,8 @@ Council&apos;s dilemma — Whenever this creature attacks, starting with you, ea
 		<card>
 			<name>Trial of Oko</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
-Exile target nontoken creature an opponent controls until this Saga leaves the battlefield.
-Starting with you, each player votes for innocent or guilty. If guilty gets more votes, the owner of each card exiled with this Saga puts that card on the bottom of their library.
+I, II, III — Exile target nontoken creature an opponent controls until this Saga leaves the battlefield.
+IV — Starting with you, each player votes for innocent or guilty. If guilty gets more votes, the owner of each card exiled with this Saga puts that card on the bottom of their library.
 Citizens came from all of Culdona to learn the fate of the traitor.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/30.png" num="177">SDH</set>
 			<prop>
@@ -1133,7 +1133,7 @@ When This land enters, you gain 1 life.
 		<card>
 			<name>Chromatic Expanse</name>
 			<text>{T}: Add one mana of any type a land you control could produce. Target opponent gains control of this land, and you gain control of target a land they control for as long as you don&apos;t control a card named Chromatic Expanse.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/66.png" num="850">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/66.png" num="853">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1149,7 +1149,7 @@ When This land enters, you gain 1 life.
 			<text>Untap this land during each other player&apos;s untap step.
 {T}: The player whose turn it is adds {C}.
 {1}, {T}: The player whose turn it is creates a Treasure token. Each other player creates a tapped Treasure token. This land doesn&apos;t untap until your next untap step.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/67.png" num="855">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/67.png" num="858">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1165,7 +1165,7 @@ When This land enters, you gain 1 life.
 			<text>Whenever a creature deals combat damage to you, that creature&apos;s controller gains control of this land.
 {T}: Add {W}.
 {1}, {T}: Attacking creatures you control get +1/+0 until end of turn.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/68.png" num="858">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/68.png" num="861">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1181,7 +1181,7 @@ When This land enters, you gain 1 life.
 			<name>Fortified Village</name>
 			<text>As this land enters, you may reveal a Forest or Plains card from your hand. If you don&apos;t, this land enters tapped.
 {T}: Add {G} or {W}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/69.png" num="889">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/69.png" num="892">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1198,7 +1198,7 @@ When This land enters, you gain 1 life.
 			<text>({T}: Add {W}.)
 This land enters tapped unless you control three or more other Plains.
 When this land enters untapped, put a +1/+1 counter on target creature you control.</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/70.png" num="908">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/70.png" num="911">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1214,7 +1214,7 @@ When this land enters untapped, put a +1/+1 counter on target creature you contr
 			<name>Ochre Vista</name>
 			<text>This land enters tapped unless an opponent controls a commander.
 {T}: Add {G} or {W}</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/71.png" num="931">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/71.png" num="934">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1230,7 +1230,7 @@ When this land enters untapped, put a +1/+1 counter on target creature you contr
 			<name>Roosted Outlook</name>
 			<text>{T}: Add {C}. 
 Lieutenant — {T}: Add {G} or {W}. Activate only if you control your commander.</text>
-			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/72.png" num="957">SDH</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/72.png" num="960">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1247,7 +1247,7 @@ Lieutenant — {T}: Add {G} or {W}. Activate only if you control your commander.
 			<text>({T}: Add {G} or {W}.)
 This land enters tapped.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/73.png" num="961">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/73.png" num="964">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1264,7 +1264,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 {T}: Add {G}.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/74.png" num="973">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/74.png" num="976">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1279,7 +1279,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Sungrass Prairie</name>
 			<text>{1}, {T}: Add {G}{W}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/75.png" num="980">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/75.png" num="983">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1295,7 +1295,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<name>Sunpetal Grove</name>
 			<text>This land enters tapped unless you control a Forest or a Plains.
 {T}: Add {G} or {W} to your mana pool.</text>
-			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/76.png" num="983">SDH</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/76.png" num="986">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1312,7 +1312,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 {T}: Add {G}.
 {2}, {T}, Put a stun counter on this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Target opponent gains control of this land. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/77.png" num="986">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/77.png" num="989">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1329,7 +1329,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 {T}: Add {G} or {W}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/78.png" num="988">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/78.png" num="997">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1346,7 +1346,7 @@ When this land enters, scry 1. (Look at the top card of your library. You may pu
 			<text>This land enters tapped.
 {T}: Add {G}.
 Cycling {G} ({G}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/79.png" num="997">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/79.png" num="1008">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2453,7 +2453,7 @@ This creature&apos;s power is equal to the number of instant and sorcery cards i
 			<name>Scorched Geyser</name>
 			<text>({T}: Add {U} or {R}.)
 This land enters tapped unless you control two or more basic lands.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/143.png" num="962">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/143.png" num="965">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2469,7 +2469,7 @@ This land enters tapped unless you control two or more basic lands.</text>
 			<name>Crumbling Necropolis</name>
 			<text>This land enters tapped.
 {T}: Add {U}, {B}, or {R}.</text>
-			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/144.png" num="861">SDH</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/144.png" num="864">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2485,7 +2485,7 @@ This land enters tapped unless you control two or more basic lands.</text>
 			<name>Geier Reach Sanitarium</name>
 			<text>{T}: Add {C}.
 {2}, {T}: Each player draws a card, then discards a card.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/145.png" num="896">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/145.png" num="899">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2501,7 +2501,7 @@ This land enters tapped unless you control two or more basic lands.</text>
 			<text>({T}: Add {U} or {R}.)
 This land enters tapped.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/146.png" num="852">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/146.png" num="855">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2517,7 +2517,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<name>Riptide Laboratory</name>
 			<text>{T}: Add {C}.
 {1}{U}, {T}: Return target Wizard you control to its owner&apos;s hand.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/147.png" num="956">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/147.png" num="959">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2533,7 +2533,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<name>Smoldering Marsh</name>
 			<text>({T}: Add {B} or {R}.)
 This land enters tapped unless you control two or more basic lands.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/148.png" num="975">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/148.png" num="978">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2549,7 +2549,7 @@ This land enters tapped unless you control two or more basic lands.</text>
 			<name>Sunken Hollow</name>
 			<text>({T}: Add {U} or {B}.)
 This land enters tapped unless you control two or more basic lands.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/149.png" num="981">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/149.png" num="984">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2566,7 +2566,7 @@ This land enters tapped unless you control two or more basic lands.</text>
 			<text>This land enters tapped.
 As this land enters, choose a color other than red.
 {T}: Add {R} or one mana of the chosen color.</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/150.png" num="989">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/150.png" num="1000">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2583,7 +2583,7 @@ As this land enters, choose a color other than red.
 			<text>This land enters tapped.
 As this land enters, choose a color other than blue.
 {T}: Add {U} or one mana of the chosen color.</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/151.png" num="992">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/151.png" num="1003">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2600,7 +2600,7 @@ As this land enters, choose a color other than blue.
 			<text>This land enters tapped.
 As this land enters, choose a color other than black.
 {T}: Add {B} or one mana of the chosen color.</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/152.png" num="993">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/152.png" num="1004">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3203,7 +3203,7 @@ This land enters tapped unless you control two or more basic lands.</text>
 			<name>Echoing Deeps</name>
 			<text>You may have this land enter the battlefield tapped as a copy of any land card in a graveyard, except it&apos;s a Cave in addition to its other types.
 {T}: Add {C}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/187.png" num="878">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/187.png" num="881">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3219,7 +3219,7 @@ This land enters tapped unless you control two or more basic lands.</text>
 			<text>({T}: Add {W} or {U}.)
 This land enters tapped.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/188.png" num="910">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/188.png" num="913">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3235,7 +3235,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<name>Port Town</name>
 			<text>As this land enters, you may reveal a Plains or Island card from your hand. If you don&apos;t, this land enters tapped.
 {T}: Add {W} or {U}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/189.png" num="939">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/189.png" num="942">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3251,7 +3251,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<name>Prairie Stream</name>
 			<text>({T}: Add {W} or {U}.)
 This land enters tapped unless you control two or more basic lands.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/190.png" num="940">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/190.png" num="943">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3268,7 +3268,7 @@ This land enters tapped unless you control two or more basic lands.</text>
 			<text>({T}: Add {G} or {U}.)
 This land enters tapped.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/191.png" num="943">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/191.png" num="946">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3284,7 +3284,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<name>Seaside Citadel</name>
 			<text>This land enters tapped.
 {T}: Add {W}, {G}, or {U}.</text>
-			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/192.png" num="963">SDH</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/192.png" num="966">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3302,7 +3302,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 This land enters tapped.
 {T}: Add {U}.
 {U}, {T}: You may play the exiled card without paying its mana cost if a library has twenty or fewer cards in it.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/193.png" num="968">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/193.png" num="971">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3319,7 +3319,7 @@ This land enters tapped.
 			<text>This land enters tapped.
 As this land enters, choose a color other than green.
 {T}: Add {G} or one mana of the chosen color.</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/194.png" num="990">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/194.png" num="1001">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3336,7 +3336,7 @@ As this land enters, choose a color other than green.
 			<text>This land enters tapped.
 As this land enters, choose a color other than white.
 {T}: Add {W} or one mana of the chosen color.</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/195.png" num="991">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/195.png" num="1002">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3352,7 +3352,7 @@ As this land enters, choose a color other than white.
 			<name>Sodden Verdure</name>
 			<text>({T}: Add {G} or {U}.)
 This land enters tapped unless you control two or more basic lands.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/196.png" num="976">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/196.png" num="979">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3368,7 +3368,7 @@ This land enters tapped unless you control two or more basic lands.</text>
 			<name>Vineglimmer Snarl</name>
 			<text>As this land enters, you may reveal a Forest or Island card from your hand. If you don&apos;t, this land enters tapped.
 {T}: Add {G} or {U}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/197.png" num="1002">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/197.png" num="1013">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4433,7 +4433,7 @@ Whenever a creature with a bounty counter on it dies, each of its controller&apo
 			<name>Eclipsed Steppe</name>
 			<text>({T}: Add {W} or {B}.)
 This land enters tapped unless you control two or more basic lands.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/258.png" num="879">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/258.png" num="882">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4449,7 +4449,7 @@ This land enters tapped unless you control two or more basic lands.</text>
 			<name>Council&apos;s Courtroom</name>
 			<text>{T}: Add {C}.
 Will of the Council — {T}: Each player votes for purity or corruption. If purity gets the most votes, each player adds {W}. If corruption gets more votes or the vote is tied, each player adds {B}. Each opponent who adds mana this way doesn&apos;t lose that mana as steps and phases end until the end of their next turn.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/259.png" num="860">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/259.png" num="863">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4465,7 +4465,7 @@ Will of the Council — {T}: Each player votes for purity or corruption. If puri
 			<name>Hallowed Hall</name>
 			<text>{T}: Add {C}. 
 Lieutenant — {T}: Add {W} or {B}. Activate only if you control your commander.</text>
-			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/260.png" num="900">SDH</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/260.png" num="903">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4481,7 +4481,7 @@ Lieutenant — {T}: Add {W} or {B}. Activate only if you control your commander.
 			<name>Shineshadow Snarl</name>
 			<text>As this land enters, you may reveal a Plains or Swamp card from your hand. If you don&apos;t, this land enters tapped.
 {T}: Add {W} or {B}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/261.png" num="971">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/261.png" num="974">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4497,7 +4497,7 @@ Lieutenant — {T}: Add {W} or {B}. Activate only if you control your commander.
 			<name>Throne of the High City</name>
 			<text>{T}: Add {C}.
 {4}, {T}, Sacrifice this land: You become the monarch.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/262.png" num="994">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/262.png" num="1005">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5738,7 +5738,7 @@ Whenever there are five or more counters on this artifact, sacrifice it, then ea
 			<text>This land enters tapped.
 {T}: Add {U}. 
 {3}{U}, {T}, Sacrifice this land: Tap target creature and put two stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
-			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/329.png" num="893">SDH</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/329.png" num="896">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5755,7 +5755,7 @@ Whenever there are five or more counters on this artifact, sacrifice it, then ea
 			<text>This land enters tapped.
 {T}: Add {U}.
 Cycling {U} ({U}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/330.png" num="915">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/330.png" num="918">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5772,7 +5772,7 @@ Cycling {U} ({U}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 {T}: Add {R}.
 {3}{R}, {T}, Discard a card, Sacrifice this land: Draw two cards.</text>
-			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/331.png" num="923">SDH</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/331.png" num="926">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5788,7 +5788,7 @@ Cycling {U} ({U}, Discard this card: Draw a card.)</text>
 			<name>Pelton Underpass</name>
 			<text>{T}: Add {C}. 
 Lieutenant — {T}: Add {U} or {R}. Activate only if you control your commander.</text>
-			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/332.png" num="935">SDH</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/332.png" num="938">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5931,8 +5931,8 @@ Sacrifice three creatures: This enchantment gains indestructible until end of tu
 		<card>
 			<name>Call of the Warhorn</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)
-I, II, III, IV — Create a 1/1 white Viking creature token.
-V — Creatures you control get +1/+1 and gain vigilance until end of turn.
+I, II, III, IV, V — Create a 1/1 white Viking creature token.
+Creatures you control get +1/+1 and gain vigilance until end of turn.
 ​</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/340.png" num="30">SDH</set>
 			<prop>
@@ -6079,8 +6079,8 @@ If an ability of a creature you control with power 2 or less triggers, that abil
 		<card>
 			<name>Divine Aspirant</name>
 			<text>This Saga can&apos;t have lore counters put on it unless you control a commander creature.
-I, II, III, IV, V, VI, VII, VIII — You gain life equal to the number of lore counters on this Saga. If you gained 3 or more life this way, also draw a card. If you gained 6 or more life this way, also put your choice of a flying, first strike, or lifelink counter on a commander creature you control.
-VIII — Put nine +1/+1 counters and an indestructible counter on a commander creature you control. It becomes a God in addition to its other types.
+You gain life equal to the number of lore counters on this Saga. If you gained 3 or more life this way, also draw a card. If you gained 6 or more life this way, also put your choice of a flying, first strike, or lifelink counter on a commander creature you control.
+ Put nine +1/+1 counters and an indestructible counter on a commander creature you control. It becomes a God in addition to its other types.
 ​</text>
 			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SDH-files/img/348.png" num="57">SDH</set>
 			<prop>
@@ -7037,7 +7037,7 @@ Equip {2}</text>
 			<name>Command Beacon</name>
 			<text>{T}: Add {C}.
 {T}, Sacrifice this land: Put your commander into your hand from the command zone.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/402.png" num="854">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/402.png" num="857">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7053,7 +7053,7 @@ Equip {2}</text>
 			<text>This land enters tapped.
 {T}: Add {W}.
 Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/403.png" num="872">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/403.png" num="875">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7070,7 +7070,7 @@ Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 {T}: Add {W}.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/404.png" num="875">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/404.png" num="878">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7087,7 +7087,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 At the beginning of your upkeep, if you control seven or more Plains, you may return target creature card from your graveyard to the battlefield.
 {T}: Add {W}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/405.png" num="881">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/405.png" num="884">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7105,7 +7105,7 @@ At the beginning of your upkeep, if you control seven or more Plains, you may re
 {2}, {T}, Sacrifice a token: Draw a card.
 {3}, {T}, Pay 1 life: Create a 1/1 blue Fish creature token.
 {4}, {T}: Create a Treasure token.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/406.png" num="890">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/406.png" num="893">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7121,7 +7121,7 @@ At the beginning of your upkeep, if you control seven or more Plains, you may re
 			<text>This land enters tapped.
 {T}: Add {W}.
 {4}{W}, {T}, Sacrifice this land: Discover 4. Activate only as a sorcery. (To discover 4, exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/407.png" num="903">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/407.png" num="906">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7138,7 +7138,7 @@ At the beginning of your upkeep, if you control seven or more Plains, you may re
 			<text>This land enters tapped.
 {T}: Add {W}.
 {3}{W}, {T}, Sacrifice this land: Create two 1/1 white Soldier creature tokens.</text>
-			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/408.png" num="920">SDH</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/408.png" num="923">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7156,7 +7156,7 @@ At the beginning of your upkeep, if you control seven or more Plains, you may re
 This land enters tapped.
 {T}: Add {W}.
 {W}, {T}: You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/409.png" num="1006">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/409.png" num="1017">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8223,7 +8223,7 @@ Equip {4}</text>
 			<name>Radiant Summit</name>
 			<text>({T}: Add {R} or {W}.)
 This land enters tapped unless you control two or more basic lands.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/471.png" num="942">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/471.png" num="945">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8239,7 +8239,7 @@ This land enters tapped unless you control two or more basic lands.</text>
 			<name>Crystaline Attrium</name>
 			<text>{T}: Add {C}. 
 Lieutenant — {T}: Add {R} or {W}. Activate only if you control your commander.</text>
-			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/472.png" num="864">SDH</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/472.png" num="867">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8255,7 +8255,7 @@ Lieutenant — {T}: Add {R} or {W}. Activate only if you control your commander.
 			<name>Echoing Cavity</name>
 			<text>{T}: Add {C}.
 {5}{R}, {T}: Target creature you control gains myriad until end of turn. (Whenever that creature attacks, for each opponent other than defending player, you may create a token that&apos;s a copy of that creature that&apos;s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/473.png" num="877">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/473.png" num="880">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8270,7 +8270,7 @@ Lieutenant — {T}: Add {R} or {W}. Activate only if you control your commander.
 		<card>
 			<name>Exotic Orchard</name>
 			<text>{T}: Add one mana of any color that a land an opponent controls could produce.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/474.png" num="883">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/474.png" num="886">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8286,7 +8286,7 @@ Lieutenant — {T}: Add {R} or {W}. Activate only if you control your commander.
 			<text>This land enters tapped.
 {T}: Add {R}.
 Cycling {R} ({R}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/475.png" num="888">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/475.png" num="891">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8302,7 +8302,7 @@ Cycling {R} ({R}, Discard this card: Draw a card.)</text>
 			<name>Plentiful Prairie</name>
 			<text>{T}: Add {C}.
 {3}{W}, {T}: Populate. (Create a token that&apos;s a copy of a creature token you control.)</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/476.png" num="937">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/476.png" num="940">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8319,7 +8319,7 @@ Cycling {R} ({R}, Discard this card: Draw a card.)</text>
 			<text>({T}: Add {R} or {W}.)
 This land enters tapped.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/477.png" num="898">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/477.png" num="901">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8336,7 +8336,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 {T}: Add {W}.
 Cycling {W} ({W}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/478.png" num="964">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/478.png" num="967">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9195,7 +9195,7 @@ Auras, Equipment, and modified creatures you control gain hexproof until end of 
 			<name>Spider Umbra</name>
 			<text>Enchant creature
 Enchanted creature has +1/+1 and has reach.
-Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)</text>
+Totem armor (If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)</text>
 			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/527.png" num="595">SDH</set>
 			<prop>
 				<layout>normal</layout>
@@ -9547,7 +9547,7 @@ Lieutenant — {T}: Add {R} or {G}. Activate only if you control your commander.
 			<name>Drannith Ruins</name>
 			<text>{T}: Add {C}.
 {2}, {T}: Put two +1/+1 counters on target non-Human creature that entered this turn.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/547.png" num="874">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/547.png" num="877">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9563,7 +9563,7 @@ Lieutenant — {T}: Add {R} or {G}. Activate only if you control your commander.
 			<text>({T}: Add {R})
 This land enters tapped unless you control three or more other Mountains.
 When this land enters untapped, create a 1/1 red Dwarf creature token.</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/548.png" num="876">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/548.png" num="879">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9579,7 +9579,7 @@ When this land enters untapped, create a 1/1 red Dwarf creature token.</text>
 			<name>Game Trail</name>
 			<text>As this land enters, you may reveal a Mountain or Forest card from your hand. If you don&apos;t, this land enters tapped.
 {T}: Add {R} or {G}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/549.png" num="895">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/549.png" num="898">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9594,7 +9594,7 @@ When this land enters untapped, create a 1/1 red Dwarf creature token.</text>
 		<card>
 			<name>Mossfire Valley</name>
 			<text>{1}, {T}: Add {R}{G}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/550.png" num="925">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/550.png" num="928">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9610,7 +9610,7 @@ When this land enters untapped, create a 1/1 red Dwarf creature token.</text>
 			<name>Nesting Grounds</name>
 			<text>{T}: Add {C}.
 {1}, {T}: Move a counter from target permanent you control onto another target permanent. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/551.png" num="929">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/551.png" num="932">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9625,7 +9625,7 @@ When this land enters untapped, create a 1/1 red Dwarf creature token.</text>
 			<name>Rootbound Crag</name>
 			<text>This land enters tapped unless you control a Mountain or a Forest.
 {T}: Add {R} or {G}.</text>
-			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/552.png" num="958">SDH</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/552.png" num="961">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9642,7 +9642,7 @@ When this land enters untapped, create a 1/1 red Dwarf creature token.</text>
 			<text>This land enters tapped.
 When this land enters, you gain 1 life.
 {T}: Add {R} or {G}.</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/553.png" num="959">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/553.png" num="962">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9659,7 +9659,7 @@ When this land enters, you gain 1 life.
 			<text>({T}: Add {R} or {G}.)
 This land enters tapped.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/554.png" num="969">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/554.png" num="972">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9676,7 +9676,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 {T}: Add {R}.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/555.png" num="974">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/555.png" num="977">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9693,7 +9693,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 {T}: Add {R} or {G}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/556.png" num="987">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/556.png" num="990">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9709,7 +9709,7 @@ When this land enters, scry 1. (Look at the top card of your library. You may pu
 			<name>Vantage Refinery</name>
 			<text>This land enters tapped unless an opponent controls a commander.
 {T}: Add {R} or {G}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/557.png" num="1001">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/557.png" num="1012">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -9727,7 +9727,7 @@ When this land enters, scry 1. (Look at the top card of your library. You may pu
 {1}, {T}: Put a +1/+1 counter on this land.
 {1}: This land becomes a 0/0 Elemental Soldier creature in addition to its other types until end of turn.
 {2}, Remove X +1/+1 counters from this land: Add X mana of any one color.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/558.png" num="1004">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/558.png" num="1015">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10529,10 +10529,10 @@ You may cast this card from your graveyard by sacrificing a creature in addition
 		</card>
 		<card>
 			<name>Season of Loss</name>
-			<text>Choose up to five {paw.png} worth of modes. You may choose the same mode more than once.
-{paw.png} — Each player sacrifices a creature of their choice.
-{paw.png}{paw.png} — Draw a card for each creature that died under your control this turn.
-{paw.png}{paw.png}{paw.png} — Each opponent loses X life, where X is the number of creature cards in your graveyard.</text>
+			<text>Choose up to five {V} worth of modes. You may choose the same mode more than once.
+{V} — Each player sacrifices a creature of their choice.
+{V}{V} — Draw a card for each creature that died under your control this turn.
+{V}{V}{V} — Each opponent loses X life, where X is the number of creature cards in your graveyard.</text>
 			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SDH-files/img/601.png" num="363">SDH</set>
 			<prop>
 				<layout>normal</layout>
@@ -10942,7 +10942,7 @@ When this land enters, exile target player&apos;s graveyard.
 			<text>This land enters tapped unless you control a Swamp.
 {T}: Add {B}.
 {1}{B}{B}, {T}: Draw a card, then you lose life equal to the number of cards in your hand.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/625.png" num="848">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/625.png" num="850">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10959,7 +10959,7 @@ When this land enters, exile target player&apos;s graveyard.
 			<text>This land enters tapped.
 {T}: Add {B}.
 Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/626.png" num="869">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/626.png" num="872">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10976,7 +10976,7 @@ Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 {T}: Add {B}.
 {4}{B}, {T}, Sacrifice this land: Discover 4. Activate only as a sorcery. (To discover 4, exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/627.png" num="904">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/627.png" num="907">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10993,7 +10993,7 @@ Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 {T}: Add {B}.
 {2}{B}, {T}, Sacrifice this land: Return target creature card from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/628.png" num="918">SDH</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/628.png" num="921">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -11010,7 +11010,7 @@ Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 {T}: Add {C}.
 {2}, {T}, Sacrifice this land: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/629.png" num="927">SDH</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/629.png" num="930">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -11025,7 +11025,7 @@ Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)</text>
 			<name>Opal Palace</name>
 			<text>{T}: Add {C}.
 {1}, {T}: Add one mana of any color in your commander&apos;s color identity. If you spend this mana to cast your commander, it enters with a number of additional +1/+1 counters on it equal to the number of times it&apos;s been cast from the command zone this game.</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/630.png" num="932">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/630.png" num="935">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -11041,7 +11041,7 @@ Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 {T}: Add {B}.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/631.png" num="938">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/631.png" num="941">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -11058,7 +11058,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped unless you control a Swamp.
 {T}: Add {B}.
 {B}, {T}: Target creature you control connives X, where X is the number of creatures that died this turn. (Draw X cards, then discard X cards. Put a +1/+1 counter on that creature for each nonland card discarded this way.)</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/632.png" num="978">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/632.png" num="981">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -11075,7 +11075,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 {T}: Add {B}.
 {2}{B}{B}{B}, {T}, Exile this land: Mill four cards, then return a creature card from your graveyard to the battlefield. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/633.png" num="996">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/633.png" num="1007">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -12146,7 +12146,7 @@ Creatures enter tapped.
 			<name>Cinder Glade</name>
 			<text>({T}: Add {R} or {G}.)
 This land enters tapped unless you control two or more basic lands.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/694.png" num="851">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/694.png" num="854">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -12162,7 +12162,7 @@ This land enters tapped unless you control two or more basic lands.</text>
 			<name>Jungle Shrine</name>
 			<text>This land enters tapped.
 {T}: Add {R}, {G}, or {W}.</text>
-			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/695.png" num="912">SDH</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/695.png" num="915">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -12178,7 +12178,7 @@ This land enters tapped unless you control two or more basic lands.</text>
 			<name>Kessig Wolf Run</name>
 			<text>{T}: Add {C}.
 {X}{R}{G}, {T}: Target creature gets +X/+0 and gains trample until end of turn.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/696.png" num="913">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/696.png" num="916">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -12195,7 +12195,7 @@ This land enters tapped unless you control two or more basic lands.</text>
 			<text>This land enters tapped.
 {T}: Add {C}.
 {2}, {T}, Sacrifice this land: Search your library for a Forest card and a Plains card, put them onto the battlefield tapped, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/697.png" num="914">SDH</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/697.png" num="917">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -13323,7 +13323,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<text>At the beginning of your upkeep, if you control three or more artifacts, you gain 1 life.
 {T}: Add {C}.
 {4}, {T}, Sacrifice Inventors&apos; Fair: Search your library for an artifact card, reveal it, put it into your hand, then shuffle. Activate only if you control three or more artifacts.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/761.png" num="909">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/761.png" num="912">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -13339,7 +13339,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<text>{T}: Add {C}.
 {T}: Add one mana of any color. Spend this mana only to cast a Pilot or Vehicle spell.
 {3}, {T}: Target Vehicle becomes an artifact creature until end of turn.</text>
-			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/762.png" num="917">SDH</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/762.png" num="920">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -13354,7 +13354,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<name>Nomad Outpost</name>
 			<text>This land enters tapped.
 {T}: Add {R}, {W}, or {B}.</text>
-			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/763.png" num="930">SDH</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/763.png" num="933">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -14486,7 +14486,7 @@ Spirit of Innovation gets +1/+1 for each experience counter you have.
 			<name>Choked Estuary</name>
 			<text>As this land enters, you may reveal an Island or Swamp card from your hand. If you don&apos;t, this land enters tapped.
 {T}: Add {U} or {B}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/826.png" num="849">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/826.png" num="852">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -14503,7 +14503,7 @@ Spirit of Innovation gets +1/+1 for each experience counter you have.
 			<text>({T}: Add {U} or {B}.)
 This land enters tapped.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/827.png" num="885">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/827.png" num="888">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -14519,7 +14519,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<name>Foreboding Ruins</name>
 			<text>As this land enters, you may reveal a Swamp or Mountain card from your hand. If you don&apos;t, this land enters tapped.
 {T}: Add {B} or {R}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/828.png" num="887">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/828.png" num="890">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -14535,7 +14535,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<name>Frostboil Snarl</name>
 			<text>As this land enters, you may reveal an Island or Mountain card from your hand. If you don&apos;t, this land enters tapped.
 {T}: Add {U} or {R}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/829.png" num="891">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/829.png" num="894">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -14551,7 +14551,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<name>Furycalm Snarl</name>
 			<text>As this land enters, you may reveal a Mountain or Plains card from your hand. If you don&apos;t, this land enters tapped.
 {T}: Add {R} or {W}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/830.png" num="894">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/830.png" num="897">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -14568,7 +14568,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<text>({T}: Add {W} or {B}.)
 This land enters tapped.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/831.png" num="999">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/831.png" num="1010">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -14586,7 +14586,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 {T}: Add {W} or {U}.
 {1}{W}{U}: Until end of turn, this land becomes a 2/3 white and blue Bird creature with flying. It&apos;s still a land.
 Whenever this land attacks, create a Map token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.&quot;)</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/832.png" num="946">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/832.png" num="949">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -15463,10 +15463,10 @@ Creature spells you cast cost {1} less to cast.
 		</card>
 		<card>
 			<name>Season of Gathering</name>
-			<text>Choose up to five {paw.png} worth of modes. You may choose the same mode more than once.
-{paw.png} — Put a +1/+1 counter on a creature you control. It gains vigilance and trample until end of turn.
-{paw.png}{paw.png} — Choose artifact or enchantment. Destroy all permanents of the chosen type.
-{paw.png}{paw.png}{paw.png} — Draw cards equal to the greatest power among creatures you control.</text>
+			<text>Choose up to five {V} worth of modes. You may choose the same mode more than once.
+{V} — Put a +1/+1 counter on a creature you control. It gains vigilance and trample until end of turn.
+{V}{V} — Choose artifact or enchantment. Destroy all permanents of the chosen type.
+{V}{V}{V} — Draw cards equal to the greatest power among creatures you control.</text>
 			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SDH-files/img/871.png" num="589">SDH</set>
 			<prop>
 				<layout>normal</layout>
@@ -15482,10 +15482,10 @@ Creature spells you cast cost {1} less to cast.
 		</card>
 		<card>
 			<name>Season of Weaving</name>
-			<text>Choose up to five {paw.png} worth of modes. You may choose the same mode more than once.
-{paw.png} — Draw a card.
-{paw.png}{paw.png} — Choose an artifact or creature you control. Create a token that&apos;s a copy of it.
-{paw.png}{paw.png}{paw.png} — Return each nonland, nontoken permanent to its owner&apos;s hand.</text>
+			<text>Choose up to five {V} worth of modes. You may choose the same mode more than once.
+{V} — Draw a card.
+{V}{V} — Choose an artifact or creature you control. Create a token that&apos;s a copy of it.
+{V}{V}{V} — Return each nonland, nontoken permanent to its owner&apos;s hand.</text>
 			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SDH-files/img/872.png" num="250">SDH</set>
 			<prop>
 				<layout>normal</layout>
@@ -15501,10 +15501,10 @@ Creature spells you cast cost {1} less to cast.
 		</card>
 		<card>
 			<name>Season of the Bold</name>
-			<text>Choose up to five {paw.png} worth of modes. You may choose the same mode more than once.
-{paw.png} — Create a tapped Treasure token.
-{paw.png}{paw.png} — Exile the top two cards of your library. Until the end of your next turn, you may play them.
-{paw.png}{paw.png}{paw.png} — Until the end of your next turn, whenever you cast a spell, Season of the Bold deals 2 damage to up to one target creature.</text>
+			<text>Choose up to five {V} worth of modes. You may choose the same mode more than once.
+{V} — Create a tapped Treasure token.
+{V}{V} — Exile the top two cards of your library. Until the end of your next turn, you may play them.
+{V}{V}{V} — Until the end of your next turn, whenever you cast a spell, Season of the Bold deals 2 damage to up to one target creature.</text>
 			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SDH-files/img/873.png" num="488">SDH</set>
 			<prop>
 				<layout>normal</layout>
@@ -15520,10 +15520,10 @@ Creature spells you cast cost {1} less to cast.
 		</card>
 		<card>
 			<name>Season of the Burrow</name>
-			<text>Choose up to five {paw.png} worth of modes. You may choose the same mode more than once.
-{paw.png} — Create a 1/1 white Rabbit creature token.
-{paw.png}{paw.png} — Exile target nonland permanent. Its controller draws a card.
-{paw.png}{paw.png}{paw.png} — Return target permanent card with mana value 3 or less from your graveyard to the battlefield with an indestructible counter on it.</text>
+			<text>Choose up to five {V} worth of modes. You may choose the same mode more than once.
+{V} — Create a 1/1 white Rabbit creature token.
+{V}{V} — Exile target nonland permanent. Its controller draws a card.
+{V}{V}{V} — Return target permanent card with mana value 3 or less from your graveyard to the battlefield with an indestructible counter on it.</text>
 			<set rarity="mythic" picurl="https://strataeternal.github.io/sets/SDH-files/img/874.png" num="149">SDH</set>
 			<prop>
 				<layout>normal</layout>
@@ -15715,7 +15715,7 @@ Lieutenant — At the beginning of combat on your turn, if you control your comm
 			<name>Frozen Archway</name>
 			<text>{T}: Add {C}. 
 Lieutenant — {T}: Add {W} or {U}. Activate only if you control your commander.</text>
-			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/885.png" num="892">SDH</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/885.png" num="895">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -15731,7 +15731,7 @@ Lieutenant — {T}: Add {W} or {U}. Activate only if you control your commander.
 			<name>Starkissed Bay</name>
 			<text>{T}: Add {C}. 
 Lieutenant — {T}: Add {U} or {B}. Activate only if you control your commander.</text>
-			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/886.png" num="979">SDH</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/886.png" num="982">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -15747,7 +15747,7 @@ Lieutenant — {T}: Add {U} or {B}. Activate only if you control your commander.
 			<name>Contorted Valley</name>
 			<text>{T}: Add {C}. 
 Lieutenant — {T}: Add {B} or {R}. Activate only if you control your commander.</text>
-			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/887.png" num="859">SDH</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/887.png" num="862">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -15763,7 +15763,7 @@ Lieutenant — {T}: Add {B} or {R}. Activate only if you control your commander.
 			<name>Decaying Nest</name>
 			<text>{T}: Add {C}. 
 Lieutenant — {T}: Add {B} or {G}. Activate only if you control your commander.</text>
-			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/888.png" num="866">SDH</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/888.png" num="869">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -15779,7 +15779,7 @@ Lieutenant — {T}: Add {B} or {G}. Activate only if you control your commander.
 			<name>Surreal Glade</name>
 			<text>{T}: Add {C}. 
 Lieutenant — {T}: Add {G} or {U}. Activate only if you control your commander.</text>
-			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/889.png" num="985">SDH</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/889.png" num="988">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16044,7 +16044,7 @@ Lieutenant — {T}: Add {G} or {U}. Activate only if you control your commander.
 			<text>This land enters tapped.
 {T}: Add {U}.
 Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/904.png" num="871">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/904.png" num="874">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16061,7 +16061,7 @@ Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 {T}: Add {R}.
 Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/905.png" num="868">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/905.png" num="871">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16078,7 +16078,7 @@ Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 {T}: Add {G}.
 Cycling {1}{G} ({1}{G}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/906.png" num="870">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/906.png" num="873">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16095,7 +16095,7 @@ Cycling {1}{G} ({1}{G}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 {T}: Add {U}.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/907.png" num="945">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/907.png" num="948">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16113,7 +16113,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 {T}: Add {U}.
 {U}, {T}: Put an eon counter on this land. Skip your next turn.
 {T}, Remove an eon counter from this land and return it to its owner&apos;s hand: Take an extra turn after this one.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/908.png" num="916">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/908.png" num="919">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16130,7 +16130,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 {T}: Add {B}.
 {2}, {T}: Add {B} for each black creature card in your graveyard.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/909.png" num="863">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/909.png" num="866">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16147,7 +16147,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 Whenever a Mountain you control enters, if you control at least five other Mountains, you may have this land deal 3 damage to any target.
 {T}: Add {R}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/910.png" num="1000">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/910.png" num="1011">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16164,7 +16164,7 @@ Whenever a Mountain you control enters, if you control at least five other Mount
 			<text>This land enters tapped.
 {T}: Add {G}.
 {T}: Put a +1/+1 counter on each green creature that entered this turn.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/911.png" num="933">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/911.png" num="936">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16181,7 +16181,7 @@ Whenever a Mountain you control enters, if you control at least five other Mount
 			<text>This land enters tapped.
 {T}: Add {U}.
 {4}{U}, {T}, Sacrifice this land: Discover 4. Activate only as a sorcery. (To discover 4, exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/912.png" num="902">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/912.png" num="905">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16198,7 +16198,7 @@ Whenever a Mountain you control enters, if you control at least five other Mount
 			<text>This land enters tapped.
 {T}: Add {G}.
 {4}{G}, {T}, Sacrifice this land: Discover 4. Activate only as a sorcery. (To discover 4, exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/913.png" num="905">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/913.png" num="908">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16215,7 +16215,7 @@ Whenever a Mountain you control enters, if you control at least five other Mount
 			<text>This land enters tapped.
 {T}: Add {R}.
 {4}{R}, {T}, Sacrifice this land: Discover 4. Activate only as a sorcery. (To discover 4, exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/914.png" num="906">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/914.png" num="909">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16232,7 +16232,7 @@ Whenever a Mountain you control enters, if you control at least five other Mount
 			<text>This land enters tapped.
 {T}: Add {U}.
 {4}{U}, {T}, Sacrifice this land: Draw two cards.</text>
-			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/915.png" num="919">SDH</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/915.png" num="922">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16249,7 +16249,7 @@ Whenever a Mountain you control enters, if you control at least five other Mount
 			<text>This land enters tapped.
 {T}: Add {G}.
 {2}{G}, {T}, Sacrifice this land: Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Then put the rest on the bottom of your library in a random order.</text>
-			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/916.png" num="921">SDH</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/916.png" num="924">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16266,7 +16266,7 @@ Whenever a Mountain you control enters, if you control at least five other Mount
 			<text>This land enters tapped.
 {T}: Add {R}.
 {4}{R}, {T}, Sacrifice this land: Destroy target land.</text>
-			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/917.png" num="922">SDH</set>
+			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/SDH-files/img/917.png" num="925">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16281,7 +16281,7 @@ Whenever a Mountain you control enters, if you control at least five other Mount
 		<card>
 			<name>Darkwater Catacombs</name>
 			<text>{1}, {T}: Add {U}{B}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/918.png" num="865">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/918.png" num="868">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16296,7 +16296,7 @@ Whenever a Mountain you control enters, if you control at least five other Mount
 		<card>
 			<name>Shadowblood Ridge</name>
 			<text>{1}, {T}: Add {B}{R}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/919.png" num="966">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/919.png" num="969">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16311,7 +16311,7 @@ Whenever a Mountain you control enters, if you control at least five other Mount
 		<card>
 			<name>Skycloud Expanse</name>
 			<text>{1}, {T}: Add {W}{U}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/920.png" num="972">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/920.png" num="975">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16326,7 +16326,7 @@ Whenever a Mountain you control enters, if you control at least five other Mount
 		<card>
 			<name>Desolate Mire</name>
 			<text>{1}, {T}: Add {W}{B}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/921.png" num="873">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/921.png" num="876">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16341,7 +16341,7 @@ Whenever a Mountain you control enters, if you control at least five other Mount
 		<card>
 			<name>Ferrous Lake</name>
 			<text>{1}, {T}: Add {U}{R}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/922.png" num="884">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/922.png" num="887">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16356,7 +16356,7 @@ Whenever a Mountain you control enters, if you control at least five other Mount
 		<card>
 			<name>Overflowing Basin</name>
 			<text>{1}, {T}: Add {G}{U}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/923.png" num="934">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/923.png" num="937">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16371,7 +16371,7 @@ Whenever a Mountain you control enters, if you control at least five other Mount
 		<card>
 			<name>Viridescent Bog</name>
 			<text>{1}, {T}: Add {B}{G}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/924.png" num="1003">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/924.png" num="1014">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16386,7 +16386,7 @@ Whenever a Mountain you control enters, if you control at least five other Mount
 		<card>
 			<name>Sunscorched Divide</name>
 			<text>{1}, {T}: Add {R}{W}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/925.png" num="984">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/925.png" num="987">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16402,7 +16402,7 @@ Whenever a Mountain you control enters, if you control at least five other Mount
 			<name>Remnant of Civility</name>
 			<text>This land enters tapped unless an opponent controls a commander.
 {T}: Add {W} or {U}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/926.png" num="944">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/926.png" num="947">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16418,7 +16418,7 @@ Whenever a Mountain you control enters, if you control at least five other Mount
 			<name>Edge of Nothingness</name>
 			<text>This land enters tapped unless an opponent controls a commander.
 {T}: Add {U} or {B}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/927.png" num="880">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/927.png" num="883">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16450,7 +16450,7 @@ Whenever a Mountain you control enters, if you control at least five other Mount
 			<name>Crushing Emptiness</name>
 			<text>This land enters tapped unless an opponent controls a commander.
 {T}: Add {W} or {B}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/929.png" num="862">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/929.png" num="865">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16466,7 +16466,7 @@ Whenever a Mountain you control enters, if you control at least five other Mount
 			<name>Pungent Meadow</name>
 			<text>This land enters tapped unless an opponent controls a commander.
 {T}: Add {B} or {G}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/930.png" num="941">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/930.png" num="944">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16498,7 +16498,7 @@ Whenever a Mountain you control enters, if you control at least five other Mount
 			<name>Tidal Vertex</name>
 			<text>This land enters tapped unless an opponent controls a commander.
 {T}: Add {U} or {R}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/932.png" num="995">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/932.png" num="1006">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16514,7 +16514,7 @@ Whenever a Mountain you control enters, if you control at least five other Mount
 			<name>Welcoming Kitchen</name>
 			<text>This land enters tapped unless an opponent controls a commander.
 {T}: Add {R} or {W}.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/933.png" num="1005">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/933.png" num="1016">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16532,7 +16532,7 @@ Whenever a Mountain you control enters, if you control at least five other Mount
 {T}: Add {R} or {W}.
 {1}{R}{W}: This land becomes a 2/2 red and white Ox creature until end of turn. It&apos;s still a land.
 Whenever this land attacks, put a +1/+1 counter on target creature you control.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/934.png" num="947">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/934.png" num="950">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16550,7 +16550,7 @@ Whenever this land attacks, put a +1/+1 counter on target creature you control.<
 {T}: Add {B} or {G}.
 {2}{B}{G}: This land becomes a 4/4 black and green Horror creature until end of turn. It&apos;s still a land.
 Whenever this land attacks, create a Food token and exile up to one target card from a graveyard.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/935.png" num="948">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/935.png" num="951">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16568,7 +16568,7 @@ Whenever this land attacks, create a Food token and exile up to one target card 
 {T}: Add {W} or {B}.
 {2}{W}{B}: This land becomes a 1/4 white and black Nightmare creature until end of turn. It&apos;s still a land.
 Whenever this land attacks, defending player loses 2 life and you gain 2 life.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/936.png" num="949">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/936.png" num="952">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16586,7 +16586,7 @@ Whenever this land attacks, defending player loses 2 life and you gain 2 life.</
 {T}: Add {G} or {W}.
 {2}{G}{W}: This land becomes a 3/3 green and white Llama creature until end of turn. It&apos;s still a land.
 Whenever this land attacks, other creatures you control get +1/+1 until end of turn.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/937.png" num="950">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/937.png" num="953">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16604,7 +16604,7 @@ Whenever this land attacks, other creatures you control get +1/+1 until end of t
 {T}: Add {U} or {B}.
 {2}{U}{B}: Until end of turn, this land becomes a 4/4 blue and black Shark creature with deathtouch. It&apos;s still a land.
 Whenever this land attacks, target player mills four cards.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/938.png" num="951">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/938.png" num="954">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16622,7 +16622,7 @@ Whenever this land attacks, target player mills four cards.</text>
 {T}: Add {R} or {G}.
 {2}{R}{G}: This land becomes a 3/4 red and green Dinosaur creature until end of turn. It&apos;s still a land.
 Whenever this land attacks, another target attacking creature gets +2/+0 until end of turn. Untap that creature.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/939.png" num="952">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/939.png" num="955">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16640,7 +16640,7 @@ Whenever this land attacks, another target attacking creature gets +2/+0 until e
 {T}: Add {U} or {R}.
 {U}{R}: Until end of turn, this land becomes a 2/1 blue and red Elemental creature with &quot;During your turn, this creature has first strike.&quot; It&apos;s still a land.
 Whenever this land attacks, scry 1.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/940.png" num="953">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/940.png" num="956">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16658,7 +16658,7 @@ Whenever this land attacks, scry 1.</text>
 {T}: Add {B} or {R}.
 {1}{B}{R}: Until end of turn, this land becomes a 2/3 black and red Insect creature with menace. It&apos;s still a land.
 Whenever this land attacks, you may discard a card. If you do, draw a card.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/941.png" num="954">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/941.png" num="957">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16676,7 +16676,7 @@ Whenever this land attacks, you may discard a card. If you do, draw a card.</tex
 {T}: Add {G} or {U}.
 {3}{G}{U}: Until end of turn, this land becomes a 5/5 green and blue Plant creature with trample. It&apos;s still a land.
 Whenever this land attacks, up to one other target creature has base power and toughness 3/3 until end of turn.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/942.png" num="955">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/942.png" num="958">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16693,7 +16693,7 @@ Whenever this land attacks, up to one other target creature has base power and t
 			<text>Hideaway 4 (When this land enters, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)
 {T}: Add {B}.
 {B}, {T}: You may play the exiled card without paying its mana cost if each player has no cards in hand.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/943.png" num="907">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/943.png" num="910">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16711,7 +16711,7 @@ Whenever this land attacks, up to one other target creature has base power and t
 This land enters tapped.
 {T}: Add {G}.
 {G}, {T}: You may play the exiled card without paying its mana cost if creatures you control have total power 10 or greater.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/944.png" num="926">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/944.png" num="929">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16729,7 +16729,7 @@ This land enters tapped.
 This land enters tapped.
 {T}: Add {R}.
 {R}, {T}: You may play the exiled card without paying its mana cost if an opponent was dealt 7 or more damage this turn.</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/945.png" num="977">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/945.png" num="980">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -16746,7 +16746,7 @@ This land enters tapped.
 			<text>This land enters tapped unless you control a Mountain.
 {T}: Add {R}.
 {R}, {T}, Put a stun counter on this land: Add {R}{R}. If that mana is spent on a creature spell, it gains haste until end of turn. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
-			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/946.png" num="853">SDH</set>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/946.png" num="856">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -17082,7 +17082,7 @@ As long as there are five or more soul counters on this enchantment, Spirits you
 			<name>Esper Panorama</name>
 			<text>{T}: Add {C}.
 {1}, {T}, Sacrifice this land: Search your library for a basic Plains, Island, or Swamp card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/966.png" num="882">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/966.png" num="885">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -17097,7 +17097,7 @@ As long as there are five or more soul counters on this enchantment, Spirits you
 			<name>Grixis Panorama</name>
 			<text>{T}: Add {C}.
 {1}, {T}, Sacrifice this land: Search your library for a basic Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/967.png" num="899">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/967.png" num="902">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -17112,7 +17112,7 @@ As long as there are five or more soul counters on this enchantment, Spirits you
 			<name>Jund Panorama</name>
 			<text>{T}: Add {C}.
 {1}, {T}, Sacrifice this land: Search your library for a basic Swamp, Mountain, or Forest card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/968.png" num="911">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/968.png" num="914">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -17127,7 +17127,7 @@ As long as there are five or more soul counters on this enchantment, Spirits you
 			<name>Naya Panorama</name>
 			<text>{T}: Add {C}.
 {1}, {T}, Sacrifice this land: Search your library for a basic Mountain, Forest, or Plains card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/969.png" num="928">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/969.png" num="931">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -17142,7 +17142,7 @@ As long as there are five or more soul counters on this enchantment, Spirits you
 			<name>Contaminated Aquifer</name>
 			<text>({T}: Add {U} or {B}.)
 This land enters tapped.</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/970.png" num="856">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/970.png" num="859">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -17158,7 +17158,7 @@ This land enters tapped.</text>
 			<name>Geothermal Bog</name>
 			<text>({T}: Add {B} or {R}.)
 This land enters tapped.</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/971.png" num="897">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/971.png" num="900">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -17174,7 +17174,7 @@ This land enters tapped.</text>
 			<name>Wooded Ridgeline</name>
 			<text>({T}: Add {R} or {G}.)
 This land enters tapped.</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/972.png" num="1007">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/972.png" num="1018">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -17190,7 +17190,7 @@ This land enters tapped.</text>
 			<name>Sunlit Marsh</name>
 			<text>({T}: Add {W} or {B}.)
 This land enters tapped.</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/973.png" num="982">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/973.png" num="985">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -17206,7 +17206,7 @@ This land enters tapped.</text>
 			<name>Molten Tributary</name>
 			<text>({T}: Add {U} or {R}.)
 This land enters tapped.</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/974.png" num="924">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/974.png" num="927">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -17222,7 +17222,7 @@ This land enters tapped.</text>
 			<name>Haunted Mire</name>
 			<text>({T}: Add {B} or {G}.)
 This land enters tapped.</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/975.png" num="901">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/975.png" num="904">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -17238,7 +17238,7 @@ This land enters tapped.</text>
 			<name>Sacred Peaks</name>
 			<text>({T}: Add {R} or {W}.)
 This land enters tapped.</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/976.png" num="960">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/976.png" num="963">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -17255,7 +17255,7 @@ This land enters tapped.</text>
 			<text>{T}: Add {C}.
 {T}, Sacrifice this land: Search your library for a basic Plains, Island, or Swamp card, put it onto the battlefield tapped, then shuffle.
 Cycling {W}{U}{B} ({W}{U}{B}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/977.png" num="857">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/977.png" num="860">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -17272,7 +17272,7 @@ Cycling {W}{U}{B} ({W}{U}{B}, Discard this card: Draw a card.)</text>
 			<text>{T}: Add {C}.
 {T}, Sacrifice this land: Search your library for a basic Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle.
 Cycling {U}{B}{R} ({U}{B}{R}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/978.png" num="965">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/978.png" num="968">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -17289,7 +17289,7 @@ Cycling {U}{B}{R} ({U}{B}{R}, Discard this card: Draw a card.)</text>
 			<text>{T}: Add {C}.
 {T}, Sacrifice this land: Search your library for a basic Swamp, Mountain, or Forest card, put it onto the battlefield tapped, then shuffle.
 Cycling {B}{R}{G} ({B}{R}{G}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/979.png" num="998">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/979.png" num="1009">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -17306,7 +17306,7 @@ Cycling {B}{R}{G} ({B}{R}{G}, Discard this card: Draw a card.)</text>
 			<text>{T}: Add {C}.
 {T}, Sacrifice this land: Search your library for a basic Mountain, Forest, or Plains card, put it onto the battlefield tapped, then shuffle.
 Cycling {R}{G}{W} ({R}{G}{W}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/980.png" num="970">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/980.png" num="973">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -17323,7 +17323,7 @@ Cycling {R}{G}{W} ({R}{G}{W}, Discard this card: Draw a card.)</text>
 			<text>{T}: Add {C}.
 {T}, Sacrifice this land: Search your library for a basic Plains, Swamp, or Forest card, put it onto the battlefield tapped, then shuffle.
 Cycling {W}{B}{G} ({W}{B}{G}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/981.png" num="867">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/981.png" num="870">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -17340,7 +17340,7 @@ Cycling {W}{B}{G} ({W}{B}{G}, Discard this card: Draw a card.)</text>
 			<text>{T}: Add {C}.
 {T}, Sacrifice this land: Search your library for a basic Island, Mountain, or Plains card, put it onto the battlefield tapped, then shuffle.
 Cycling {U}{R}{W} ({U}{R}{W}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/982.png" num="936">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/982.png" num="939">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -17357,7 +17357,7 @@ Cycling {U}{R}{W} ({U}{R}{W}, Discard this card: Draw a card.)</text>
 			<text>{T}: Add {C}.
 {T}, Sacrifice this land: Search your library for a basic Swamp, Forest, or Island card, put it onto the battlefield tapped, then shuffle.
 Cycling {B}{G}{U} ({B}{G}{U}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/983.png" num="886">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/983.png" num="889">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -17374,7 +17374,7 @@ Cycling {B}{G}{U} ({B}{G}{U}, Discard this card: Draw a card.)</text>
 			<text>{T}: Add {C}.
 {T}, Sacrifice this land: Search your library for a basic Mountain, Plains, or Swamp card, put it onto the battlefield tapped, then shuffle.
 Cycling {R}{W}{B} ({R}{W}{B}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/984.png" num="967">SDH</set>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/SDH-files/img/984.png" num="970">SDH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -17773,6 +17773,193 @@ When this creature enters, if it was kicked with its {G} kicker, destroy target 
 				<manacost></manacost>
 				<cmc>0</cmc>
 				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Castle Embereth</name>
+			<text>This land enters tapped unless you control a Mountain.
+{T}: Add {R}.
+{1}{R}{R}, {T}: Creatures you control get +1/+0 until end of turn.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/1007.png" num="848">SDH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Castle Garenbrig</name>
+			<text>This land enters tapped unless you control a Forest.
+{T}: Add {G}.
+{2}{G}{G}, {T}: Add six {G}. Spend this mana only to cast creature spells or activate abilities of creatures.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/1008.png" num="849">SDH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Castle Vantress</name>
+			<text>This land enters tapped unless you control an Island.
+{T}: Add {U}.
+{2}{U}{U}, {T}: Scry 2.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/1009.png" num="851">SDH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Temple of Deceit</name>
+			<text>This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{T}: Add {U} or {B}.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/1010.png" num="991">SDH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Temple of Enlightenment</name>
+			<text>This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{T}: Add {W} or {U}.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/1011.png" num="992">SDH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Temple of Epiphany</name>
+			<text>This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{T}: Add {U} or {R}.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/1012.png" num="993">SDH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Temple of Malady</name>
+			<text>This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{T}: Add {B} or {G}.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/1013.png" num="994">SDH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Temple of Malice</name>
+			<text>This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{T}: Add {B} or {R}.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/1014.png" num="995">SDH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Temple of Mystery</name>
+			<text>This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{T}: Add {G} or {U}.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/1015.png" num="996">SDH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Temple of Silence</name>
+			<text>This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{T}: Add {W} or {B}.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/1016.png" num="998">SDH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Temple of Triumph</name>
+			<text>This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{T}: Add {R} or {W}.</text>
+			<set rarity="rare" picurl="https://strataeternal.github.io/sets/SDH-files/img/1017.png" num="999">SDH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
 		</card>

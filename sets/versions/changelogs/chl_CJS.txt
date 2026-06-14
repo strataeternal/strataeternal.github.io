@@ -1,4 +1,182 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Brushwagg Day
+rules_text: Brushwagg Day has all chapter abilities of other Sagas you control.
+When Brushwagg Day enters, if it wasn't cast, lore counters can't be put on it until end of turn.
+Create a 1/1 legendary white Brushwagg token creature named Bill.
+Target Brushwagg can't be blocked this turn.
+Exile Brushwagg Day, then return it to the battlefield under your control. => Brushwagg Day has all chapter abilities of other Sagas you control.
+When Brushwagg Day enters, if it wasn't cast, lore counters can't be put on it until end of turn.
+I — Create a 1/1 legendary white Brushwagg token creature named Bill.
+II — Target Brushwagg can't be blocked this turn.
+III — Exile Brushwagg Day, then return it to the battlefield under your control.
+special_text: Brushwagg Day has all chapter abilities of other Sagas you control.
+When Brushwagg Day enters, if it wasn't cast, lore counters can't be put on it until end of turn.
+Create a 1/1 legendary white Brushwagg token creature named Bill.
+Target Brushwagg can't be blocked this turn.
+Exile Brushwagg Day, then return it to the battlefield under your control. => Brushwagg Day has all chapter abilities of other Sagas you control.
+When Brushwagg Day enters, if it wasn't cast, lore counters can't be put on it until end of turn.
+I — Create a 1/1 legendary white Brushwagg token creature named Bill.
+II — Target Brushwagg can't be blocked this turn.
+III — Exile Brushwagg Day, then return it to the battlefield under your control.
+
+Fable of the Forevergreen
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i] 
+Up to one target creature explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Up to one target creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+Destroy target tapped creature or nonbasic land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i] 
+I — Up to one target creature explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+II — Up to one target creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+III — Destroy target tapped creature or nonbasic land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i] 
+Up to one target creature explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Up to one target creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+Destroy target tapped creature or nonbasic land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i] 
+I — Up to one target creature explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+II — Up to one target creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+III — Destroy target tapped creature or nonbasic land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.
+
+Hallowed Bark
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i] 
+Create a 1/1 green Saproling creature token.
+Put your choice of a +1/+1 counter or a lifelink counter on a creature you control. If that creature is a Saproling, it becomes a Treefolk in addition to its other types.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i] 
+I — Create a 1/1 green Saproling creature token.
+II — Put your choice of a +1/+1 counter or a lifelink counter on a creature you control. If that creature is a Saproling, it becomes a Treefolk in addition to its other types.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i] 
+Create a 1/1 green Saproling creature token.
+Put your choice of a +1/+1 counter or a lifelink counter on a creature you control. If that creature is a Saproling, it becomes a Treefolk in addition to its other types.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i] 
+I — Create a 1/1 green Saproling creature token.
+II — Put your choice of a +1/+1 counter or a lifelink counter on a creature you control. If that creature is a Saproling, it becomes a Treefolk in addition to its other types.
+​
+
+Unlooper's Hearing
+rules_text: Assist [i](Another player can pay up to {5} of this spell's cost.)[/i]
+When you cast this spell, note each other player that spent mana to cast it.
+Whenever a chapter ability of this Saga resolves, each noted player draws a card.
+Scry 3. Draw a card.
+For each opponent, goad up to one target creature they control. Those creatures gain indestructible until the beginning of your next upkeep.
+Target creature gains hexproof and can't be blocked until end of turn. => Assist [i](Another player can pay up to {5} of this spell's cost.)[/i]
+When you cast this spell, note each other player that spent mana to cast it.
+Whenever a chapter ability of this Saga resolves, each noted player draws a card.
+I — Scry 3. Draw a card.
+II — For each opponent, goad up to one target creature they control. Those creatures gain indestructible until the beginning of your next upkeep.
+III — Target creature gains hexproof and can't be blocked until end of turn.
+special_text: Assist [i](Another player can pay up to {5} of this spell's cost.)[/i]
+When you cast this spell, note each other player that spent mana to cast it.
+Whenever a chapter ability of this Saga resolves, each noted player draws a card.
+Scry 3. Draw a card.
+For each opponent, goad up to one target creature they control. Those creatures gain indestructible until the beginning of your next upkeep.
+Target creature gains hexproof and can't be blocked until end of turn. => Assist [i](Another player can pay up to {5} of this spell's cost.)[/i]
+When you cast this spell, note each other player that spent mana to cast it.
+Whenever a chapter ability of this Saga resolves, each noted player draws a card.
+I — Scry 3. Draw a card.
+II — For each opponent, goad up to one target creature they control. Those creatures gain indestructible until the beginning of your next upkeep.
+III — Target creature gains hexproof and can't be blocked until end of turn.
+
+Memorium Pendant
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Memorium Pendant gains “{T}: Add one mana of any color.”
+You may remove a lore counter from this Saga. If you don't, draw a card. [i](If you do remove a lore counter, this isn't sacrificed.)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Memorium Pendant gains “{T}: Add one mana of any color.”
+II — You may remove a lore counter from this Saga. If you don't, draw a card. [i](If you do remove a lore counter, this isn't sacrificed.)[/i]
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Memorium Pendant gains “{T}: Add one mana of any color.”
+You may remove a lore counter from this Saga. If you don't, draw a card. [i](If you do remove a lore counter, this isn't sacrificed.)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Memorium Pendant gains “{T}: Add one mana of any color.”
+II — You may remove a lore counter from this Saga. If you don't, draw a card. [i](If you do remove a lore counter, this isn't sacrificed.)[/i]
+​
+
+Ballad of the Before
+rules_text: [i][i]Landfall[/i] — [/i]Whenever a land you control enters, put a lore counter on this Saga.
+Target creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Return any number of lands you control to their owner's hands. Add two mana of any one color for each land returned this way. Until end of turn, you don't lose this mana as steps and phases end.
+You may pay {X}{X}. If you do, create X 2/2 green Pirate creature tokens. => [i][i]Landfall[/i] — [/i]Whenever a land you control enters, put a lore counter on this Saga.
+I, II, III, IV — Target creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+V — Return any number of lands you control to their owner's hands. Add two mana of any one color for each land returned this way. Until end of turn, you don't lose this mana as steps and phases end.
+VI — You may pay {X}{X}. If you do, create X 2/2 green Pirate creature tokens.
+special_text: [i][i]Landfall[/i] — [/i]Whenever a land you control enters, put a lore counter on this Saga.
+Target creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Return any number of lands you control to their owner's hands. Add two mana of any one color for each land returned this way. Until end of turn, you don't lose this mana as steps and phases end.
+You may pay {X}{X}. If you do, create X 2/2 green Pirate creature tokens. => [i][i]Landfall[/i] — [/i]Whenever a land you control enters, put a lore counter on this Saga.
+I, II, III, IV — Target creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+V — Return any number of lands you control to their owner's hands. Add two mana of any one color for each land returned this way. Until end of turn, you don't lose this mana as steps and phases end.
+VI — You may pay {X}{X}. If you do, create X 2/2 green Pirate creature tokens.
+
+The Tidal Flows
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Put a +1/+1 counter and flying counter on target creature you control.
+Put a +1/+1 counter and a hexproof counter on target creature you control.
+Remove two counters from among creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a +1/+1 counter and flying counter on target creature you control.
+II — Put a +1/+1 counter and a hexproof counter on target creature you control.
+III — Remove two counters from among creatures you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Put a +1/+1 counter and flying counter on target creature you control.
+Put a +1/+1 counter and a hexproof counter on target creature you control.
+Remove two counters from among creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a +1/+1 counter and flying counter on target creature you control.
+II — Put a +1/+1 counter and a hexproof counter on target creature you control.
+III — Remove two counters from among creatures you control.
+
+Ezoo Finds a Form
+rules_text: Read ahead [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]
+Target creature you control gains hexproof for as long as you control this Saga.
+Create an green Ooze creature token with reach and “This creature's power and toughness are each equal to the number of lands you control.”
+Creatures you control get +2/+2 and gain trample until end of turn. => Read ahead [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]
+I — Target creature you control gains hexproof for as long as you control this Saga.
+II — Create an green Ooze creature token with reach and “This creature's power and toughness are each equal to the number of lands you control.”
+III — Creatures you control get +2/+2 and gain trample until end of turn.
+special_text: Read ahead [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]
+Target creature you control gains hexproof for as long as you control this Saga.
+Create an green Ooze creature token with reach and “This creature's power and toughness are each equal to the number of lands you control.”
+Creatures you control get +2/+2 and gain trample until end of turn. => Read ahead [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]
+I — Target creature you control gains hexproof for as long as you control this Saga.
+II — Create an green Ooze creature token with reach and “This creature's power and toughness are each equal to the number of lands you control.”
+III — Creatures you control get +2/+2 and gain trample until end of turn.
+
+Furnace Rescue
+rules_text: [i](As this Sage enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy up to one target artifact.
+Up to two target creatures each get +2/+1 and gain first strike until end of turn.
+Return up to one target creature card from you graveyard to the battlefield. => [i](As this Sage enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy up to one target artifact.
+II — Up to two target creatures each get +2/+1 and gain first strike until end of turn.
+III — Return up to one target creature card from you graveyard to the battlefield.
+special_text: [i](As this Sage enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy up to one target artifact.
+Up to two target creatures each get +2/+1 and gain first strike until end of turn.
+Return up to one target creature card from you graveyard to the battlefield. => [i](As this Sage enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy up to one target artifact.
+II — Up to two target creatures each get +2/+1 and gain first strike until end of turn.
+III — Return up to one target creature card from you graveyard to the battlefield.
+
+The Eldest Reborn
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Each opponent sacrifices a creature or planeswalker.
+Each opponent discards a card.
+Put target creature or planeswalker card from a graveyard onto the battlefield under your control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each opponent sacrifices a creature or planeswalker.
+II — Each opponent discards a card.
+III — Put target creature or planeswalker card from a graveyard onto the battlefield under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Each opponent sacrifices a creature or planeswalker.
+Each opponent discards a card.
+Put target creature or planeswalker card from a graveyard onto the battlefield under your control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each opponent sacrifices a creature or planeswalker.
+II — Each opponent discards a card.
+III — Put target creature or planeswalker card from a graveyard onto the battlefield under your control.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

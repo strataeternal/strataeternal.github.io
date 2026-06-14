@@ -5,7 +5,7 @@
 			<name>CJS</name>
 			<longname>Commander Jumpstrat</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-13</releasedate>
+			<releasedate>2026-06-14</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -3106,9 +3106,9 @@ Saga cards in your graveyard have unearth. The unearth cost is equal to its mana
 			<name>Brushwagg Day</name>
 			<text>Brushwagg Day has all chapter abilities of other Sagas you control.
 When Brushwagg Day enters, if it wasn&apos;t cast, lore counters can&apos;t be put on it until end of turn.
-Create a 1/1 legendary white Brushwagg token creature named Bill.
-Target Brushwagg can&apos;t be blocked this turn.
-Exile Brushwagg Day, then return it to the battlefield under your control.</text>
+I — Create a 1/1 legendary white Brushwagg token creature named Bill.
+II — Target Brushwagg can&apos;t be blocked this turn.
+III — Exile Brushwagg Day, then return it to the battlefield under your control.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CJS-files/img/178.png" num="55">CJS</set>
 			<prop>
 				<layout>saga</layout>
@@ -3144,9 +3144,9 @@ Whenever Bygg attacks, copy each Saga card exiled with it. You may cast any numb
 		<card>
 			<name>Fable of the Forevergreen</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) 
-Up to one target creature explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
-Up to one target creature connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)
-Destroy target tapped creature or nonbasic land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.</text>
+I — Up to one target creature explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
+II — Up to one target creature connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)
+III — Destroy target tapped creature or nonbasic land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.</text>
 			<set rarity="common" picurl="https://strataeternal.github.io/sets/CJS-files/img/180.png" num="75">CJS</set>
 			<prop>
 				<layout>saga</layout>
@@ -3181,8 +3181,8 @@ Destroy target tapped creature or nonbasic land. Its controller may search their
 		<card>
 			<name>Hallowed Bark</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.) 
-Create a 1/1 green Saproling creature token.
-Put your choice of a +1/+1 counter or a lifelink counter on a creature you control. If that creature is a Saproling, it becomes a Treefolk in addition to its other types.
+I — Create a 1/1 green Saproling creature token.
+II — Put your choice of a +1/+1 counter or a lifelink counter on a creature you control. If that creature is a Saproling, it becomes a Treefolk in addition to its other types.
 ​</text>
 			<set rarity="common" picurl="https://strataeternal.github.io/sets/CJS-files/img/182.png" num="96">CJS</set>
 			<prop>
@@ -3331,9 +3331,9 @@ Historic spells you cast cost {1} less to cast. (Artifacts, legendaries, and Sag
 			<text>Assist (Another player can pay up to {5} of this spell&apos;s cost.)
 When you cast this spell, note each other player that spent mana to cast it.
 Whenever a chapter ability of this Saga resolves, each noted player draws a card.
-Scry 3. Draw a card.
-For each opponent, goad up to one target creature they control. Those creatures gain indestructible until the beginning of your next upkeep.
-Target creature gains hexproof and can&apos;t be blocked until end of turn.</text>
+I — Scry 3. Draw a card.
+II — For each opponent, goad up to one target creature they control. Those creatures gain indestructible until the beginning of your next upkeep.
+III — Target creature gains hexproof and can&apos;t be blocked until end of turn.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CJS-files/img/190.png" num="166">CJS</set>
 			<prop>
 				<layout>saga</layout>
@@ -3365,8 +3365,8 @@ Target creature gains hexproof and can&apos;t be blocked until end of turn.</tex
 		<card>
 			<name>Memorium Pendant</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)
-Memorium Pendant gains &quot;{T}: Add one mana of any color.&quot;
-You may remove a lore counter from this Saga. If you don&apos;t, draw a card. (If you do remove a lore counter, this isn&apos;t sacrificed.)
+I — Memorium Pendant gains &quot;{T}: Add one mana of any color.&quot;
+II — You may remove a lore counter from this Saga. If you don&apos;t, draw a card. (If you do remove a lore counter, this isn&apos;t sacrificed.)
 ​</text>
 			<set rarity="common" picurl="https://strataeternal.github.io/sets/CJS-files/img/192.png" num="847">CJS</set>
 			<prop>
@@ -10664,9 +10664,9 @@ This artifact enters tapped.
 		<card>
 			<name>Ballad of the Before</name>
 			<text>Landfall — Whenever a land you control enters, put a lore counter on this Saga.
-Target creature you control explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
-Return any number of lands you control to their owner&apos;s hands. Add two mana of any one color for each land returned this way. Until end of turn, you don&apos;t lose this mana as steps and phases end.
-You may pay {X}{X}. If you do, create X 2/2 green Pirate creature tokens.</text>
+I, II, III, IV — Target creature you control explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
+V — Return any number of lands you control to their owner&apos;s hands. Add two mana of any one color for each land returned this way. Until end of turn, you don&apos;t lose this mana as steps and phases end.
+VI — You may pay {X}{X}. If you do, create X 2/2 green Pirate creature tokens.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CJS-files/img/607.png" num="610">CJS</set>
 			<prop>
 				<layout>saga</layout>
@@ -13901,9 +13901,9 @@ Partner (You can have two commanders if both have partner.)</text>
 		<card>
 			<name>The Tidal Flows</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Put a +1/+1 counter and flying counter on target creature you control.
-Put a +1/+1 counter and a hexproof counter on target creature you control.
-Remove two counters from among creatures you control.</text>
+I — Put a +1/+1 counter and flying counter on target creature you control.
+II — Put a +1/+1 counter and a hexproof counter on target creature you control.
+III — Remove two counters from among creatures you control.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CJS-files/img/792.png" num="298">CJS</set>
 			<prop>
 				<layout>saga</layout>
@@ -15239,9 +15239,9 @@ Partner (You can have two commanders if both have partner.)</text>
 		<card>
 			<name>Ezoo Finds a Form</name>
 			<text>Read ahead (Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don&apos;t trigger. Sacrifice after III.)
-Target creature you control gains hexproof for as long as you control this Saga.
-Create an green Ooze creature token with reach and &quot;This creature&apos;s power and toughness are each equal to the number of lands you control.&quot;
-Creatures you control get +2/+2 and gain trample until end of turn.</text>
+I — Target creature you control gains hexproof for as long as you control this Saga.
+II — Create an green Ooze creature token with reach and &quot;This creature&apos;s power and toughness are each equal to the number of lands you control.&quot;
+III — Creatures you control get +2/+2 and gain trample until end of turn.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/CJS-files/img/869.png" num="637">CJS</set>
 			<prop>
 				<layout>saga</layout>
@@ -15931,9 +15931,9 @@ As long as enchanted player is the monarch, creatures they control enter tapped.
 		<card>
 			<name>Furnace Rescue</name>
 			<text>(As this Sage enters and after your draw step, add a lore counter. Sacrifice after III.)
-Destroy up to one target artifact.
-Up to two target creatures each get +2/+1 and gain first strike until end of turn.
-Return up to one target creature card from you graveyard to the battlefield.</text>
+I — Destroy up to one target artifact.
+II — Up to two target creatures each get +2/+1 and gain first strike until end of turn.
+III — Return up to one target creature card from you graveyard to the battlefield.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CJS-files/img/909.png" num="88">CJS</set>
 			<prop>
 				<layout>saga</layout>
@@ -16676,9 +16676,9 @@ Partner (You can have two commanders if both have partner.)</text>
 		<card>
 			<name>The Eldest Reborn</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Each opponent sacrifices a creature or planeswalker.
-Each opponent discards a card.
-Put target creature or planeswalker card from a graveyard onto the battlefield under your control.</text>
+I — Each opponent sacrifices a creature or planeswalker.
+II — Each opponent discards a card.
+III — Put target creature or planeswalker card from a graveyard onto the battlefield under your control.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/CJS-files/img/951.png" num="353">CJS</set>
 			<prop>
 				<layout>saga</layout>
@@ -18972,6 +18972,34 @@ Exile Dogfather&apos;s Bidding.</text>
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wastes</name>
+			<text></text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CJS-files/img/1081.png" num="1032">CJS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Snow-Covered Wastes</name>
+			<text>({T}: Add {C}.)</text>
+			<set rarity="common" picurl="https://strataeternal.github.io/sets/CJS-files/img/1082.png" num="1031">CJS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

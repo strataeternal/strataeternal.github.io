@@ -4680,7 +4680,7 @@
             "number": 363,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "You may have this land enter. If you do, you get {V} [i](a research counter)[/i].\n{T}: Add {C}.\n{T}: Add one mana of any color. Activate only if you have three or more {V}.",
+            "rules_text": "You may have this land enter tapped. If you do, you get {V} [i](a research counter)[/i].\n{T}: Add {C}.\n{T}: Add one mana of any color. Activate only if you have three or more {V}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4743,10 +4743,10 @@
             "number": 15,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nExile target permanent an opponent controls with mana value 3 or greater\nNoncreature spells your opponents cast cost {2} more to cast until your next turn.\nReturn target creature or planeswalker card from your graveyard to the battlefield. Put a +1/+1 counter or a loyalty counter on it.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Exile target permanent an opponent controls with mana value 3 or greater\nII \u2014 Noncreature spells your opponents cast cost {2} more to cast until your next turn.\nIII \u2014 Return target creature or planeswalker card from your graveyard to the battlefield. Put a +1/+1 counter or a loyalty counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nExile target permanent an opponent controls with mana value 3 or greater\nNoncreature spells your opponents cast cost {2} more to cast until your next turn.\nReturn target creature or planeswalker card from your graveyard to the battlefield. Put a +1/+1 counter or a loyalty counter on it.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Exile target permanent an opponent controls with mana value 3 or greater\nII \u2014 Noncreature spells your opponents cast cost {2} more to cast until your next turn.\nIII \u2014 Return target creature or planeswalker card from your graveyard to the battlefield. Put a +1/+1 counter or a loyalty counter on it.",
             "shape": "saga",
             "set": "MYC",
             "loyalty": "",
@@ -7901,5 +7901,5 @@
             "notes": ""
         }
     ],
-    "version": 2
+    "version": 3
 }

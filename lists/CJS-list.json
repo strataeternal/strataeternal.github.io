@@ -8587,10 +8587,20 @@
         "position": "1075"
     },
     {
-        "card_name": "e"
+        "card_name": "Wastes",
+        "number": 1032,
+        "shape": "normal",
+        "set": "CJS",
+        "rotated": false,
+        "position": "1081"
     },
     {
-        "card_name": "e"
+        "card_name": "Snow-Covered Wastes",
+        "number": 1031,
+        "shape": "normal",
+        "set": "CJS",
+        "rotated": false,
+        "position": "1082"
     },
     {
         "card_name": "e"

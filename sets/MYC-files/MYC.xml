@@ -3889,7 +3889,7 @@ This land enters tapped unless you control two or more basic lands.</text>
 		</card>
 		<card>
 			<name>Testing Grounds</name>
-			<text>You may have this land enter. If you do, you get {V} (a research counter).
+			<text>You may have this land enter tapped. If you do, you get {V} (a research counter).
 {T}: Add {C}.
 {T}: Add one mana of any color. Activate only if you have three or more {V}.</text>
 			<set rarity="uncommon" picurl="https://strataeternal.github.io/sets/MYC-files/img/221.png" num="363">MYC</set>
@@ -3941,9 +3941,9 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Elspeth Conquers Death</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Exile target permanent an opponent controls with mana value 3 or greater
-Noncreature spells your opponents cast cost {2} more to cast until your next turn.
-Return target creature or planeswalker card from your graveyard to the battlefield. Put a +1/+1 counter or a loyalty counter on it.</text>
+I — Exile target permanent an opponent controls with mana value 3 or greater
+II — Noncreature spells your opponents cast cost {2} more to cast until your next turn.
+III — Return target creature or planeswalker card from your graveyard to the battlefield. Put a +1/+1 counter or a loyalty counter on it.</text>
 			<set rarity="rare" picurl="https://strataeternal.github.io/sets/MYC-files/img/224.png" num="15">MYC</set>
 			<prop>
 				<layout>saga</layout>
